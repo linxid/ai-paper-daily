@@ -228,8 +228,8 @@ def update_json_file(filename,data_dict):
     json_data = m.copy() 
     
     # update papers in each keywords         
-    for data in data_dict:
-        for keyword in data.keys():
+    for data in data_dict: # 遍历所有的topic
+        for keyword in data.keys(): # 遍历所有的keys
             papers = data[keyword]
 
             if keyword in json_data.keys():
@@ -371,14 +371,14 @@ def demo(**config):
     # TODO: use config
     data_collector = []
     data_collector_web= []
-    
+    pdb.set_trace()
     keywords = config['kv']
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
-
+    pdb.set_trace()
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
@@ -430,6 +430,7 @@ def demo(**config):
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
+import pdb
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -438,6 +439,8 @@ if __name__ == "__main__":
     parser.add_argument('--update_paper_links', default=False,
                         action="store_true",help='whether to update paper links etc.')                        
     args = parser.parse_args()
+    
     config = load_config(args.config_path)
+    pdb.set_trace()
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
