@@ -10,6 +10,7 @@ max_results: 10
 publish_readme: True
 publish_gitpage: True
 publish_wechat: False
+publish_supabase: True # supabase
 
 # file paths
 json_readme_path: './docs/cv-arxiv-daily.json'

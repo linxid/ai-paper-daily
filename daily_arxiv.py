@@ -7,7 +7,7 @@ import logging
 import argparse
 import datetime
 import requests
-
+import uuid
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
@@ -93,6 +93,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output 
     content = dict() 
     content_to_web = dict()
+    content_supabase = dict()
+
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
@@ -100,16 +102,17 @@ def get_daily_papers(topic,query="slam", max_results=2):
     )
 
     for result in search_engine.results():
+        paper_id            = result.get_short_id() # 论文的id
+        paper_title         = result.title # 论文标题
+        paper_url           = result.entry_id # 论文的网址
+        pdf_url = result.pdf_url # 论文的pdf网址--new--
 
-        paper_id            = result.get_short_id()
-        paper_title         = result.title
-        paper_url           = result.entry_id
         code_url            = base_url + paper_id #TODO
-        paper_abstract      = result.summary.replace("\n"," ")
-        paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
-        primary_category    = result.primary_category
-        publish_time        = result.published.date()
+        paper_abstract      = result.summary.replace("\n"," ") # 论文的摘要
+        paper_authors       = get_authors(result.authors) # 论文的作者
+        paper_first_author  = str(get_authors(result.authors,first_author = True)) # 论文的第一作者
+        primary_category    = result.primary_category # 所属大类
+        publish_time        = result.published.date() # 发布的时间
         update_time         = result.updated.date()
         comments            = result.comment
 
@@ -122,7 +125,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         else:
             paper_key = paper_id[0:ver_pos]    
         paper_url = arxiv_url + 'abs/' + paper_key
-        
+        # pdb.set_trace()
         try:
             # source code link    
             r = requests.get(code_url).json()
@@ -139,7 +142,6 @@ def get_daily_papers(topic,query="slam", max_results=2):
                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
             else:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url)
@@ -152,13 +154,32 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 content_to_web[paper_key] += f", {comments}\n"
             else:
                 content_to_web[paper_key] += f"\n"
-
+            # return dict data to write supabase
+                
+            content_supabase[paper_key] = {
+                #  # 生成唯一的paper_key,
+                "paper_uid": uuid.uuid5(uuid.NAMESPACE_URL, paper_key).hex,
+                "title": paper_title,
+                "authors": paper_authors,
+                "first_author": paper_first_author,
+                "paper_url": paper_url, # 论文的网址，arxiv网址
+                "pdf_url": pdf_url, # 论文的pdf网址
+                "abstract": paper_abstract, # 论文的摘要
+                "publish_time": publish_time.strftime("%Y-%m-%d"), # 发布的时间
+                "primary_category": primary_category, # 所属的大类
+                # "update_time": update_time,
+                "code_url": repo_url, # 代码的网址
+            }
+            
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
 
     data = {topic:content}
     data_web = {topic:content_to_web}
-    return data,data_web 
+    data_supabse = {
+        topic:content_supabase
+    }
+    return data,data_web,data_supabse
 
 def update_paper_links(filename):
     '''
@@ -213,6 +234,25 @@ def update_paper_links(filename):
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
+
+def write_to_supabase(data_dict):
+    from supabase import create_client, Client
+    url: str = "https://jhhdelbjsxbjqldlrhre.supabase.co"
+    key: str = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpoaGRlbGJqc3hianFsZGxyaHJlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTAyNTMzNDksImV4cCI6MjAyNTgyOTM0OX0.ebfBDMdEltHR3EGMTN8dq8Wiselx5Ng0wzTuGPuBR8w"
+    supabase: Client = create_client(url, key)
+    # pdb.set_trace()
+    # update papers in each keywords         
+    for data in data_dict: # 遍历所有的topic
+        for keyword in data.keys(): # 遍历所有的keys
+            papers = data[keyword]
+            # pdb.set_trace()
+            for key, value in papers.items():
+                try:
+                    data, count = supabase.table('paper_daily2').insert(value).execute()
+                    logging.info(f"inserted {count} papers into supabase")
+                # data, count = supabase.table('paper_daily2').insert(value).execute()
+                except Exception as e:
+                    logging.error(f"exception: {e} with id: {key}, have existed in supabase")
 
 def update_json_file(filename,data_dict):
     '''
@@ -371,24 +411,30 @@ def demo(**config):
     # TODO: use config
     data_collector = []
     data_collector_web= []
-    pdb.set_trace()
+    data_collector_supabase = []
+
+    # pdb.set_trace()
     keywords = config['kv']
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
+    publish_supabase = config['publish_supabase']
+
     show_badge = config['show_badge']
-    pdb.set_trace()
+    # pdb.set_trace()
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
+            # output supabase data
+            data, data_web, data_supabase = get_daily_papers(topic, query = keyword,
                                             max_results = max_results)
             data_collector.append(data)
             data_collector_web.append(data_web)
+            data_collector_supabase.append(data_supabase)
             print("\n")
         logging.info(f"GET daily papers end")
 
@@ -430,6 +476,13 @@ def demo(**config):
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
+    
+    # 4. write data to supabase
+    if publish_supabase:
+        write_to_supabase(data_collector_supabase)  
+
+
+
 import pdb
 
 if __name__ == "__main__":
@@ -441,6 +494,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     config = load_config(args.config_path)
-    pdb.set_trace()
+    # pdb.set_trace()
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
