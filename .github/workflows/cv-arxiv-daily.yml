@@ -43,6 +43,7 @@ jobs:
           pip install arxiv
           pip install requests
           pip install pyyaml
+          pip install supabase
           
       - name: Run daily arxiv 
         run: |
