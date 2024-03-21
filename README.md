@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805](http://arxiv.org/abs/2403.13805)|null|
+|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804](http://arxiv.org/abs/2403.13804)|null|
+|**2024-03-20**|**Reverse Training to Nurse the Reversal Curse**|Olga Golovneva et.al.|[2403.13799](http://arxiv.org/abs/2403.13799)|null|
+|**2024-03-20**|**Chain-of-Interaction: Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts**|Guangzeng Han et.al.|[2403.13786](http://arxiv.org/abs/2403.13786)|null|
+|**2024-03-20**|**EthioLLM: Multilingual Large Language Models for Ethiopian Languages with Task Evaluation**|Atnafu Lambebo Tonja et.al.|[2403.13737](http://arxiv.org/abs/2403.13737)|null|
+|**2024-03-20**|**Large Language Models meet Network Slicing Management and Orchestration**|Abdulhalim Dandoush et.al.|[2403.13721](http://arxiv.org/abs/2403.13721)|null|
+|**2024-03-20**|**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**|Hongzhan Chen et.al.|[2403.13679](http://arxiv.org/abs/2403.13679)|null|
+|**2024-03-20**|**Do Not Worry if You Do Not Have Data: Building Pretrained Language Models Using Translationese**|Meet Doshi et.al.|[2403.13638](http://arxiv.org/abs/2403.13638)|null|
+|**2024-03-20**|**VL-Mamba: Exploring State Space Models for Multimodal Learning**|Yanyuan Qiao et.al.|[2403.13600](http://arxiv.org/abs/2403.13600)|null|
+|**2024-03-20**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer (version 1)**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
 |**2024-03-19**|**Dated Data: Tracing Knowledge Cutoffs in Large Language Models**|Jeffrey Cheng et.al.|[2403.12958](http://arxiv.org/abs/2403.12958)|null|
 |**2024-03-19**|**Automatic Information Extraction From Employment Tribunal Judgements Using Large Language Models**|Joana Ribeiro de Faria et.al.|[2403.12936](http://arxiv.org/abs/2403.12936)|null|
 |**2024-03-19**|**Rapid AIdeation: Generating Ideas With the Self and in Collaboration With Large Language Models**|Gionnieve Lim et.al.|[2403.12928](http://arxiv.org/abs/2403.12928)|null|
@@ -68,6 +78,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797](http://arxiv.org/abs/2403.13797)|null|
+|**2024-03-20**|**Enhancing Gait Video Analysis in Neurodegenerative Diseases by Knowledge Augmentation in Vision Language Model**|Diwei Wang et.al.|[2403.13756](http://arxiv.org/abs/2403.13756)|null|
+|**2024-03-20**|**Find n' Propagate: Open-Vocabulary 3D Object Detection in Urban Environments**|Djamahl Etchegaray et.al.|[2403.13556](http://arxiv.org/abs/2403.13556)|null|
+|**2024-03-20**|**CLIPSwarm: Generating Drone Shows from Text Prompts with Vision-Language Models**|Pablo Pueyo et.al.|[2403.13467](http://arxiv.org/abs/2403.13467)|null|
+|**2024-03-20**|**AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation**|Jingkun An et.al.|[2403.13352](http://arxiv.org/abs/2403.13352)|null|
+|**2024-03-20**|**TiBiX: Leveraging Temporal Information for Bidirectional X-ray and Report Generation**|Santosh Sanjeev et.al.|[2403.13343](http://arxiv.org/abs/2403.13343)|null|
+|**2024-03-20**|**SC-Tune: Unleashing Self-Consistent Referential Comprehension in Large Vision Language Models**|Tongtian Yue et.al.|[2403.13263](http://arxiv.org/abs/2403.13263)|null|
+|**2024-03-19**|**When Do We Not Need Larger Vision Models?**|Baifeng Shi et.al.|[2403.13043](http://arxiv.org/abs/2403.13043)|null|
 |**2024-03-19**|**Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**|Zuyan Liu et.al.|[2403.12966](http://arxiv.org/abs/2403.12966)|**[link](https://github.com/dongyh20/chain-of-spot)**|
 |**2024-03-19**|**Negative Yields Positive: Unified Dual-Path Adapter for Vision-Language Models**|Ce Zhang et.al.|[2403.12964](http://arxiv.org/abs/2403.12964)|**[link](https://github.com/zhangce01/dualadapter)**|
 |**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952](http://arxiv.org/abs/2403.12952)|**[link](https://github.com/elaine-sui/tps)**|
@@ -112,6 +130,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808](http://arxiv.org/abs/2403.13808)|null|
+|**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807](http://arxiv.org/abs/2403.13807)|null|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802](http://arxiv.org/abs/2403.13802)|null|
+|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800](http://arxiv.org/abs/2403.13800)|null|
+|**2024-03-20**|**DepthFM: Fast Monocular Depth Estimation with Flow Matching**|Ming Gui et.al.|[2403.13788](http://arxiv.org/abs/2403.13788)|null|
+|**2024-03-20**|**Anomalous diffusion in polydisperse granular gases: Monte Carlo simulations**|Anna S. Bodrova et.al.|[2403.13772](http://arxiv.org/abs/2403.13772)|null|
+|**2024-03-20**|**Disentangling the anisotropic radio sky: Fisher forecasts for 21cm arrays**|Zheng Zhang et.al.|[2403.13768](http://arxiv.org/abs/2403.13768)|null|
+|**2024-03-20**|**Statistical estimation of full-sky radio maps from 21cm array visibility data using Gaussian Constrained Realisations**|Katrine A. Glasscock et.al.|[2403.13766](http://arxiv.org/abs/2403.13766)|null|
+|**2024-03-20**|**Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation**|Fu-Yun Wang et.al.|[2403.13745](http://arxiv.org/abs/2403.13745)|null|
+|**2024-03-20**|**Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes**|Yifan Chen et.al.|[2403.13724](http://arxiv.org/abs/2403.13724)|null|
 |**2024-03-19**|**FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis**|Linjiang Huang et.al.|[2403.12963](http://arxiv.org/abs/2403.12963)|**[link](https://github.com/leonhlj/fouriscale)**|
 |**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962](http://arxiv.org/abs/2403.12962)|**[link](https://github.com/williamyang1991/fresco)**|
 |**2024-03-19**|**TexTile: A Differentiable Metric for Texture Tileability**|Carlos Rodriguez-Pardo et.al.|[2403.12961](http://arxiv.org/abs/2403.12961)|null|
