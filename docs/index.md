@@ -138,13 +138,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-21**|**Simplified Diffusion Schrödinger Bridge**|Zhicong Tang et.al.|[2403.14623](http://arxiv.org/abs/2403.14623)|null|
+|**2024-03-21**|**Simplified Diffusion Schrödinger Bridge**|Zhicong Tang et.al.|[2403.14623](http://arxiv.org/abs/2403.14623)|**[link](https://github.com/tzco/simplified-diffusion-schrodinger-bridge)**|
 |**2024-03-21**|**GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation**|Yinghao Xu et.al.|[2403.14621](http://arxiv.org/abs/2403.14621)|**[link](https://github.com/justimyhxu/grm)**|
 |**2024-03-21**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
 |**2024-03-21**|**DreamReward: Text-to-3D Generation with Human Preference**|Junliang Ye et.al.|[2403.14613](http://arxiv.org/abs/2403.14613)|null|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
 |**2024-03-21**|**Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors**|Nikolaos Tsagkas et.al.|[2403.14526](http://arxiv.org/abs/2403.14526)|null|
-|**2024-03-21**|**Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting**|Alicia Durrer et.al.|[2403.14499](http://arxiv.org/abs/2403.14499)|null|
+|**2024-03-21**|**Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting**|Alicia Durrer et.al.|[2403.14499](http://arxiv.org/abs/2403.14499)|**[link](https://github.com/aliciadurrer/dm_inpainting)**|
 |**2024-03-21**|**Periodicity from X-ray sources within the inner Galactic disk**|Samaresh Mondal et.al.|[2403.14480](http://arxiv.org/abs/2403.14480)|null|
 |**2024-03-21**|**Analysing Diffusion Segmentation for Medical Images**|Mathias Öttl et.al.|[2403.14440](http://arxiv.org/abs/2403.14440)|null|
 |**2024-03-21**|**Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation**|Mathias Öttl et.al.|[2403.14429](http://arxiv.org/abs/2403.14429)|null|
