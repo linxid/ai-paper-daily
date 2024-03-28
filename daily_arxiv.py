@@ -8,6 +8,8 @@ import argparse
 import datetime
 import requests
 import uuid
+from zhipuai import ZhipuAI
+
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
@@ -54,6 +56,7 @@ def get_authors(authors, first_author = False):
     else:
         output = authors[0]
     return output
+
 def sort_papers(papers):
     output = dict()
     keys = list(papers.keys())
@@ -83,7 +86,45 @@ def get_code_link(qword:str) -> str:
     if results["total_count"] > 0:
         code_link = results["items"][0]["html_url"]
     return code_link
-  
+
+def summary_abstract_with_gpt(abstract, model="gpt-3"):
+    # prompt = f"""
+    # I have an abstract from a research paper that I need summarized to grasp the main findings and contributions more efficiently. Could you provide a concise summary highlighting the key points, findings, and implications? Here's the abstract:
+    # {abstract}
+    # Please summarize the essential aspects of this abstract in a more accessible and condensed form.
+    # """
+
+    prompt = f"""
+    用一句话来总结下面的摘要，用英语来输出，要保证句子通顺，语法正确，表达清晰，不要出现歧义。并且根据摘要内容，给出这篇论文的类别标签。摘要如下：
+    ""{abstract}""
+    输出格式如下所示："Summary:XXX;Category Label:XXX"
+    """
+    # pdb.set_trace()
+    client = ZhipuAI(api_key="c9ce61c6e40ea05351e2365cee3698ec.7s8VTjRYVzO8dReS") # 填写您自己的APIKey
+    if model == "ZHIPU":
+        response = client.chat.completions.create(
+            model="glm-4",  # 填写需要调用的模型名称
+            messages=[
+                {"role": "user", "content": prompt},
+            ],
+        )
+        # Splitting the text into summary and category label parts
+        summary_part, category_label_part = response.choices[0].message.content.split('Category Label:')
+        
+        # Extracting summary content
+        summary_content = summary_part.split('Summary: ')[1].strip()
+        # pdb.set_trace()
+        # Extracting category label content
+        category_label_content = ",".join([label.strip() for label in category_label_part.split(',')])
+
+        # Forming the JSON structure
+        json_result = {
+            "Summary": summary_content,
+            "Category Label": category_label_content[:-1]
+        }
+        return json_result['Summary'], json_result['Category Label']
+    
+    
 def get_daily_papers(topic,query="slam", max_results=2):
     """
     @param topic: str
@@ -116,7 +157,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         update_time         = result.updated.date()
         comments            = result.comment
 
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+        # logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
         # eg: 2108.09112v1 -> 2108.09112
         ver_pos = paper_id.find('v')
@@ -155,7 +196,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
             else:
                 content_to_web[paper_key] += f"\n"
             # return dict data to write supabase
-                
+            summary, category_label = summary_abstract_with_gpt(paper_abstract, model="ZHIPU")
             content_supabase[paper_key] = {
                 #  # 生成唯一的paper_key,
                 "paper_uid": uuid.uuid5(uuid.NAMESPACE_URL, paper_key).hex,
@@ -169,6 +210,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 "primary_category": primary_category, # 所属的大类
                 # "update_time": update_time,
                 "code_url": repo_url, # 代码的网址
+                "TLDR": summary, # 摘要的总结,TLDR
+                "paper_tags": category_label, # 论文的类别标签
             }
             
         except Exception as e:
@@ -180,6 +223,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         topic:content_supabase
     }
     return data,data_web,data_supabse
+
 
 def update_paper_links(filename):
     '''
@@ -426,7 +470,7 @@ def demo(**config):
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
-        logging.info(f"GET daily papers begin")
+        # logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
             # output supabase data
@@ -435,8 +479,8 @@ def demo(**config):
             data_collector.append(data)
             data_collector_web.append(data_web)
             data_collector_supabase.append(data_supabase)
-            print("\n")
-        logging.info(f"GET daily papers end")
+            # print("\n")
+        # logging.info(f"GET daily papers end")
 
     # 1. update README.md file
     if publish_readme:
@@ -482,10 +526,10 @@ def demo(**config):
         write_to_supabase(data_collector_supabase)  
 
 
-
 import pdb
 
 if __name__ == "__main__":
+    
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path',type=str, default='config.yaml',
                             help='configuration file path')

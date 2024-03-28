@@ -44,6 +44,7 @@ jobs:
           pip install requests
           pip install pyyaml
           pip install supabase
+          pip install PyPDF2
           
       - name: Run daily arxiv 
         run: |
