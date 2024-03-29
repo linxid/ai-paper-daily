@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
+|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
+|**2024-03-28**|**Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning**|Chenyang Liu et.al.|[2403.19646](http://arxiv.org/abs/2403.19646)|null|
+|**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631](http://arxiv.org/abs/2403.19631)|null|
+|**2024-03-28**|**WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models**|Piotr Molenda et.al.|[2403.19548](http://arxiv.org/abs/2403.19548)|null|
+|**2024-03-28**|**LLMs as Academic Reading Companions: Extending HCI Through Synthetic Personae**|Celia Chen et.al.|[2403.19506](http://arxiv.org/abs/2403.19506)|null|
+|**2024-03-28**|**Evolving Assembly Code in an Adversarial Environment**|Irina Maliukov et.al.|[2403.19489](http://arxiv.org/abs/2403.19489)|null|
+|**2024-03-28**|**JDocQA: Japanese Document Question Answering Dataset for Generative Language Models**|Eri Onami et.al.|[2403.19454](http://arxiv.org/abs/2403.19454)|null|
+|**2024-03-28**|**Mixed Preference Optimization: Reinforcement Learning with Data Selection and Better Reference Model**|Qi Gou et.al.|[2403.19443](http://arxiv.org/abs/2403.19443)|null|
+|**2024-03-28**|**OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion**|Xinyu Zhan et.al.|[2403.19417](http://arxiv.org/abs/2403.19417)|null|
 |**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814](http://arxiv.org/abs/2403.18814)|**[link](https://github.com/dvlab-research/minigemini)**|
 |**2024-03-27**|**Long-form factuality in large language models**|Jerry Wei et.al.|[2403.18802](http://arxiv.org/abs/2403.18802)|**[link](https://github.com/google-deepmind/long-form-factuality)**|
 |**2024-03-27**|**3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation**|Ehsan Latif et.al.|[2403.18778](http://arxiv.org/abs/2403.18778)|null|
@@ -132,6 +142,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models**|Saurav Jha et.al.|[2403.19137](http://arxiv.org/abs/2403.19137)|**[link](https://github.com/srvcodes/clap4clip)**|
+|**2024-03-27**|**Envisioning MedCLIP: A Deep Dive into Explainability for Medical Vision-Language Models**|Anees Ur Rehman Hashmi et.al.|[2403.18996](http://arxiv.org/abs/2403.18996)|null|
+|**2024-03-27**|**Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models**|Keyan Guo et.al.|[2403.18957](http://arxiv.org/abs/2403.18957)|**[link](https://github.com/cactilab/ugcg-guard)**|
 |**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814](http://arxiv.org/abs/2403.18814)|**[link](https://github.com/dvlab-research/minigemini)**|
 |**2024-03-27**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al.|[2403.18715](http://arxiv.org/abs/2403.18715)|null|
 |**2024-03-27**|**Language Plays a Pivotal Role in the Object-Attribute Compositional Generalization of CLIP**|Reza Abbasi et.al.|[2403.18525](http://arxiv.org/abs/2403.18525)|null|
@@ -213,6 +226,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655](http://arxiv.org/abs/2403.19655)|null|
+|**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653](http://arxiv.org/abs/2403.19653)|**[link](https://github.com/k8xu/imageattribution)**|
+|**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
+|**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645](http://arxiv.org/abs/2403.19645)|null|
+|**2024-03-28**|**In the driver's mind: modeling the dynamics of human overtaking decisions in interactions with oncoming automated vehicles**|Samir H. A. Mohammad et.al.|[2403.19637](http://arxiv.org/abs/2403.19637)|null|
+|**2024-03-28**|**Generalisation of the Spectral Difference scheme for the diffused-interface five equation model**|Niccolò Tonicello et.al.|[2403.19623](http://arxiv.org/abs/2403.19623)|null|
+|**2024-03-28**|**More on Black Holes Perceiving the Dark Dimension**|Luis A. Anchordoqui et.al.|[2403.19604](http://arxiv.org/abs/2403.19604)|null|
+|**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600](http://arxiv.org/abs/2403.19600)|null|
+|**2024-03-28**|**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**|Aimon Rahman et.al.|[2403.19593](http://arxiv.org/abs/2403.19593)|null|
+|**2024-03-28**|**Keypoint Action Tokens Enable In-Context Imitation Learning in Robotics**|Norman Di Palo et.al.|[2403.19578](http://arxiv.org/abs/2403.19578)|null|
 |**2024-03-27**|**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion**|Daniel Winter et.al.|[2403.18818](http://arxiv.org/abs/2403.18818)|null|
 |**2024-03-27**|**Garment3DGen: 3D Garment Stylization and Texture Generation**|Nikolaos Sarafianos et.al.|[2403.18816](http://arxiv.org/abs/2403.18816)|null|
 |**2024-03-28**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807](http://arxiv.org/abs/2403.18807)|**[link](https://github.com/aradhye2002/ecodepth)**|
