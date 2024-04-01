@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Gecko: Versatile Text Embeddings Distilled from Large Language Models**|Jinhyuk Lee et.al.|[2403.20327](http://arxiv.org/abs/2403.20327)|null|
+|**2024-03-29**|**Convolutional Prompting meets Language Models for Continual Learning**|Anurag Roy et.al.|[2403.20317](http://arxiv.org/abs/2403.20317)|null|
+|**2024-03-29**|**Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference**|Jovan Stojkovic et.al.|[2403.20306](http://arxiv.org/abs/2403.20306)|null|
+|**2024-03-29**|**Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain**|Burcu Sayin et.al.|[2403.20288](http://arxiv.org/abs/2403.20288)|null|
+|**2024-03-29**|**LUQ: Long-text Uncertainty Quantification for LLMs**|Caiqi Zhang et.al.|[2403.20279](http://arxiv.org/abs/2403.20279)|null|
+|**2024-03-29**|**Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want**|Weifeng Lin et.al.|[2403.20271](http://arxiv.org/abs/2403.20271)|null|
+|**2024-03-29**|**Latxa: An Open Language Model and Evaluation Suite for Basque**|Julen Etxaniz et.al.|[2403.20266](http://arxiv.org/abs/2403.20266)|null|
+|**2024-03-29**|**ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models**|Thibaut Thonet et.al.|[2403.20262](http://arxiv.org/abs/2403.20262)|null|
+|**2024-03-29**|**Using LLMs to Model the Beliefs and Preferences of Targeted Populations**|Keiichi Namikoshi et.al.|[2403.20252](http://arxiv.org/abs/2403.20252)|null|
+|**2024-03-29**|**Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science**|Yazheng Yang et.al.|[2403.20208](http://arxiv.org/abs/2403.20208)|null|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
 |**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
 |**2024-03-28**|**Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning**|Chenyang Liu et.al.|[2403.19646](http://arxiv.org/abs/2403.19646)|**[link](https://github.com/chen-yang-liu/change-agent)**|
@@ -135,6 +145,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**|Atsuyuki Miyai et.al.|[2403.20331](http://arxiv.org/abs/2403.20331)|**[link](https://github.com/atsumiyai/upd)**|
+|**2024-03-29**|**Are We on the Right Way for Evaluating Large Vision-Language Models?**|Lin Chen et.al.|[2403.20330](http://arxiv.org/abs/2403.20330)|null|
+|**2024-03-29**|**Learn "No" to Say "Yes" Better: Improving Vision-Language Models via Negations**|Jaisidh Singh et.al.|[2403.20312](http://arxiv.org/abs/2403.20312)|**[link](https://github.com/jaisidhsingh/con-clip)**|
+|**2024-03-29**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Chao Pang et.al.|[2403.20213](http://arxiv.org/abs/2403.20213)|null|
+|**2024-03-29**|**ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models**|Shuo Liu et.al.|[2403.20194](http://arxiv.org/abs/2403.20194)|null|
+|**2024-03-29**|**LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving**|Pranjal Paul et.al.|[2403.20116](http://arxiv.org/abs/2403.20116)|null|
+|**2024-03-29**|**Negative Label Guided OOD Detection with Pretrained Vision-Language Models**|Xue Jiang et.al.|[2403.20078](http://arxiv.org/abs/2403.20078)|**[link](https://github.com/tmlr-group/neglabel)**|
+|**2024-03-28**|**Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks**|Pooria Ashrafian et.al.|[2403.19880](http://arxiv.org/abs/2403.19880)|**[link](https://github.com/pooria90/diffecho)**|
+|**2024-03-28**|**Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving**|Akshay Gopalkrishnan et.al.|[2403.19838](http://arxiv.org/abs/2403.19838)|**[link](https://github.com/akshaygopalkr/em-vlm4ad)**|
+|**2024-03-28**|**Concept-based Analysis of Neural Networks via Vision-Language Models**|Ravi Mangal et.al.|[2403.19837](http://arxiv.org/abs/2403.19837)|null|
 |**2024-03-28**|**CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models**|Saurav Jha et.al.|[2403.19137](http://arxiv.org/abs/2403.19137)|**[link](https://github.com/srvcodes/clap4clip)**|
 |**2024-03-27**|**Envisioning MedCLIP: A Deep Dive into Explainability for Medical Vision-Language Models**|Anees Ur Rehman Hashmi et.al.|[2403.18996](http://arxiv.org/abs/2403.18996)|null|
 |**2024-03-27**|**Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models**|Keyan Guo et.al.|[2403.18957](http://arxiv.org/abs/2403.18957)|**[link](https://github.com/cactilab/ugcg-guard)**|
@@ -217,6 +237,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Relation Rectification in Diffusion Model**|Yinwei Wu et.al.|[2403.20249](http://arxiv.org/abs/2403.20249)|null|
+|**2024-03-29**|**Graph Neural Aggregation-diffusion with Metastability**|Kaiyuan Cui et.al.|[2403.20221](http://arxiv.org/abs/2403.20221)|null|
+|**2024-03-29**|**Scaled Brownian motion with random anomalous diffusion exponent**|Hubert Woszczek et.al.|[2403.20206](http://arxiv.org/abs/2403.20206)|null|
+|**2024-03-29**|**Motion Inversion for Video Customization**|Luozhou Wang et.al.|[2403.20193](http://arxiv.org/abs/2403.20193)|null|
+|**2024-03-29**|**Energy solutions of the Cauchy-Dirichlet problem for fractional nonlinear diffusion equations**|Goro Akagi et.al.|[2403.20176](http://arxiv.org/abs/2403.20176)|null|
+|**2024-03-29**|**Na Vacancy Driven Phase Transformation and Fast Ion Conduction in W-doped Na $_3$SbS$_4$ from Machine Learning Force Fields**|Johan Klarbring et.al.|[2403.20138](http://arxiv.org/abs/2403.20138)|null|
+|**2024-03-29**|**FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models**|Barbara Toniella Corradini et.al.|[2403.20105](http://arxiv.org/abs/2403.20105)|null|
+|**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079](http://arxiv.org/abs/2403.20079)|null|
+|**2024-03-29**|**Efficacy of the Sterile Insect Technique in the presence of inaccessible areas: A study using two-patch models**|Pierre-Alexandre Bliman et.al.|[2403.20069](http://arxiv.org/abs/2403.20069)|null|
+|**2024-03-29**|**Optimal s-boxes against alternative operations**|Marco Calderini et.al.|[2403.20059](http://arxiv.org/abs/2403.20059)|null|
 |**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655](http://arxiv.org/abs/2403.19655)|null|
 |**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653](http://arxiv.org/abs/2403.19653)|**[link](https://github.com/k8xu/imageattribution)**|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
