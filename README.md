@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -156,7 +156,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -260,7 +260,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
 
 ## Diffusion
 
@@ -271,7 +271,7 @@
 |**2024-04-02**|**WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**|Chen Yang et.al.|[2404.02082](http://arxiv.org/abs/2404.02082)|**[link](https://github.com/yangchen1997/wcdt)**|
 |**2024-04-02**|**Brownian Particles and Matter Waves**|Nicos Makris et.al.|[2404.02016](http://arxiv.org/abs/2404.02016)|null|
 |**2024-04-02**|**Superionic Fluoride Gate Dielectrics with Low Diffusion Barrier for Advanced Electronics**|Kui Meng et.al.|[2404.02011](http://arxiv.org/abs/2404.02011)|null|
-|**2024-04-02**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
+|**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
 |**2024-04-02**|**Rigorous derivation of an effective model for coupled Stokes advection, reaction and diffusion with freely evolving microstructure**|Markus Gahn et.al.|[2404.01983](http://arxiv.org/abs/2404.01983)|null|
 |**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
 |**2024-04-02**|**Nonlinear stability for active suspensions**|Helge Dietert et.al.|[2404.01906](http://arxiv.org/abs/2404.01906)|null|
@@ -406,7 +406,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -262,7 +262,7 @@ layout: default
 |**2024-04-02**|**WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**|Chen Yang et.al.|[2404.02082](http://arxiv.org/abs/2404.02082)|**[link](https://github.com/yangchen1997/wcdt)**|
 |**2024-04-02**|**Brownian Particles and Matter Waves**|Nicos Makris et.al.|[2404.02016](http://arxiv.org/abs/2404.02016)|null|
 |**2024-04-02**|**Superionic Fluoride Gate Dielectrics with Low Diffusion Barrier for Advanced Electronics**|Kui Meng et.al.|[2404.02011](http://arxiv.org/abs/2404.02011)|null|
-|**2024-04-02**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
+|**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
 |**2024-04-02**|**Rigorous derivation of an effective model for coupled Stokes advection, reaction and diffusion with freely evolving microstructure**|Markus Gahn et.al.|[2404.01983](http://arxiv.org/abs/2404.01983)|null|
 |**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
 |**2024-04-02**|**Nonlinear stability for active suspensions**|Helge Dietert et.al.|[2404.01906](http://arxiv.org/abs/2404.01906)|null|
