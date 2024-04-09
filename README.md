@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.08
+## Updated on 2024.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -58,7 +58,7 @@
 |**2024-04-04**|**Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity**|Jake Varley et.al.|[2404.03570](http://arxiv.org/abs/2404.03570)|null|
 |**2024-04-04**|**Personalized LLM Response Generation with Parameterized Memory Injection**|Kai Zhang et.al.|[2404.03565](http://arxiv.org/abs/2404.03565)|null|
 |**2024-04-04**|**How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes**|Harmon Bhasin et.al.|[2404.03558](http://arxiv.org/abs/2404.03558)|**[link](https://github.com/harmonbhasin/curriculum_learning_icl)**|
-|**2024-04-04**|**CodeEditorBench: Evaluating Code Editing Capability of Large Language Models**|Jiawei Guo et.al.|[2404.03543](http://arxiv.org/abs/2404.03543)|null|
+|**2024-04-06**|**CodeEditorBench: Evaluating Code Editing Capability of Large Language Models**|Jiawei Guo et.al.|[2404.03543](http://arxiv.org/abs/2404.03543)|null|
 |**2024-04-04**|**Evaluating Generative Language Models in Information Extraction as Subjective Question Correction**|Yuchen Fan et.al.|[2404.03532](http://arxiv.org/abs/2404.03532)|**[link](https://github.com/thu-keg/sqc-score)**|
 |**2024-04-04**|**Learn When (not) to Trust Language Models: A Privacy-Centric Adaptive Model-Aware Approach**|Chengkai Huang et.al.|[2404.03514](http://arxiv.org/abs/2404.03514)|null|
 |**2024-04-04**|**AI and the Problem of Knowledge Collapse**|Andrew J. Peterson et.al.|[2404.03502](http://arxiv.org/abs/2404.03502)|**[link](https://github.com/aristotle-tek/knowledge-collapse)**|
@@ -77,7 +77,7 @@
 |**2024-04-04**|**How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?**|Siye Wu et.al.|[2404.03302](http://arxiv.org/abs/2404.03302)|**[link](https://github.com/di-viner/llm-robustness-to-irrelevant-information)**|
 |**2024-04-04**|**Probing Large Language Models for Scalar Adjective Lexical Semantics and Scalar Diversity Pragmatics**|Fangru Lin et.al.|[2404.03301](http://arxiv.org/abs/2404.03301)|**[link](https://github.com/fangru-lin/llm_scalar_adj)**|
 |**2024-04-04**|**DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models**|Yuchen Liu et.al.|[2404.03275](http://arxiv.org/abs/2404.03275)|null|
-|**2024-04-04**|**RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis**|Detai Xin et.al.|[2404.03204](http://arxiv.org/abs/2404.03204)|null|
+|**2024-04-06**|**RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis**|Detai Xin et.al.|[2404.03204](http://arxiv.org/abs/2404.03204)|null|
 |**2024-04-04**|**Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers**|Yuan Wang et.al.|[2404.03192](http://arxiv.org/abs/2404.03192)|null|
 |**2024-04-04**|**The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models**|Noah Y. Siegel et.al.|[2404.03189](http://arxiv.org/abs/2404.03189)|null|
 |**2024-04-04**|**Diverse and Tailored Image Generation for Zero-shot Multi-label Classification**|Kaixin Zhang et.al.|[2404.03144](http://arxiv.org/abs/2404.03144)|null|
@@ -281,7 +281,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240409>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -302,7 +302,7 @@
 |**2024-04-02**|**ZeroCAP: Zero-Shot Multi-Robot Context Aware Pattern Formation via Large Language Models**|Vishnunandan L. N. Venkatesh et.al.|[2404.02318](http://arxiv.org/abs/2404.02318)|null|
 |**2024-04-02**|**Iterated Learning Improves Compositionality in Large Vision-Language Models**|Chenhao Zheng et.al.|[2404.02145](http://arxiv.org/abs/2404.02145)|null|
 |**2024-04-03**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jieneng Chen et.al.|[2404.02132](http://arxiv.org/abs/2404.02132)|**[link](https://github.com/beckschen/vitamin)**|
-|**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
+|**2024-04-07**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
 |**2024-04-02**|**VLRM: Vision-Language Models act as Reward Models for Image Captioning**|Maksim Dzabraev et.al.|[2404.01911](http://arxiv.org/abs/2404.01911)|null|
 |**2024-04-01**|**OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation**|Xiongwei Wu et.al.|[2404.01409](http://arxiv.org/abs/2404.01409)|null|
 |**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232](http://arxiv.org/abs/2404.01232)|null|
@@ -311,7 +311,7 @@
 |**2024-04-01**|**SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining**|Chull Hwan Song et.al.|[2404.01156](http://arxiv.org/abs/2404.01156)|null|
 |**2024-04-01**|**Harnessing Large Language Models for Training-free Video Anomaly Detection**|Luca Zanella et.al.|[2404.01014](http://arxiv.org/abs/2404.01014)|null|
 |**2024-04-01**|**Learning by Correction: Efficient Tuning Task for Zero-Shot Generative Vision-Language Reasoning**|Rongjie Li et.al.|[2404.00909](http://arxiv.org/abs/2404.00909)|null|
-|**2024-04-01**|**From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models**|Rongjie Li et.al.|[2404.00906](http://arxiv.org/abs/2404.00906)|null|
+|**2024-04-06**|**From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models**|Rongjie Li et.al.|[2404.00906](http://arxiv.org/abs/2404.00906)|null|
 |**2024-04-01**|**Prompt Learning via Meta-Regularization**|Jinyoung Park et.al.|[2404.00851](http://arxiv.org/abs/2404.00851)|**[link](https://github.com/mlvlab/prometar)**|
 |**2024-03-31**|**Unknown Prompt, the only Lacuna: Unveiling CLIP's Potential for Open Domain Generalization**|Mainak Singha et.al.|[2404.00710](http://arxiv.org/abs/2404.00710)|null|
 |**2024-04-02**|**LLM meets Vision-Language Models for Zero-Shot One-Class Classification**|Yassir Bendou et.al.|[2404.00675](http://arxiv.org/abs/2404.00675)|null|
@@ -413,7 +413,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240409>back to top</a>)</p>
 
 ## Diffusion
 
@@ -495,7 +495,7 @@
 |**2024-04-02**|**Heat Death of Generative Models in Closed-Loop Learning**|Matteo Marchi et.al.|[2404.02325](http://arxiv.org/abs/2404.02325)|null|
 |**2024-04-02**|**APEX: Ambidextrous Dual-Arm Robotic Manipulation Using Collision-Free Generative Diffusion Models**|Apan Dastider et.al.|[2404.02284](http://arxiv.org/abs/2404.02284)|null|
 |**2024-04-02**|**On diffusion and transport acting on parameterized moving closed curves in space**|Michal Benes et.al.|[2404.02260](http://arxiv.org/abs/2404.02260)|null|
-|**2024-04-02**|**Linear Combination of Saved Checkpoints Makes Consistency and Diffusion Models Better**|Enshu Liu et.al.|[2404.02241](http://arxiv.org/abs/2404.02241)|**[link](https://github.com/imagination-research/lcsc)**|
+|**2024-04-08**|**Linear Combination of Saved Checkpoints Makes Consistency and Diffusion Models Better**|Enshu Liu et.al.|[2404.02241](http://arxiv.org/abs/2404.02241)|**[link](https://github.com/imagination-research/lcsc)**|
 |**2024-04-01**|**Versatile Navigation under Partial Observability via Value-guided Diffusion Policy**|Gengyu Zhang et.al.|[2404.02176](http://arxiv.org/abs/2404.02176)|null|
 |**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148](http://arxiv.org/abs/2404.02148)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-02**|**A Stabilized Parametric Finite Element Method for Surface Diffusion with an Arbitrary Surface Energy**|Yulin Zhang et.al.|[2404.02083](http://arxiv.org/abs/2404.02083)|null|
@@ -504,7 +504,7 @@
 |**2024-04-02**|**Superionic Fluoride Gate Dielectrics with Low Diffusion Barrier for Advanced Electronics**|Kui Meng et.al.|[2404.02011](http://arxiv.org/abs/2404.02011)|null|
 |**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003](http://arxiv.org/abs/2404.02003)|null|
 |**2024-04-03**|**Rigorous derivation of an effective model for coupled Stokes advection, reaction and diffusion with freely evolving microstructure**|Markus Gahn et.al.|[2404.01983](http://arxiv.org/abs/2404.01983)|null|
-|**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
+|**2024-04-07**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
 |**2024-04-02**|**Nonlinear stability for active suspensions**|Helge Dietert et.al.|[2404.01906](http://arxiv.org/abs/2404.01906)|null|
 |**2024-04-02**|**On the surface helium abundance of B-type hot subdwarf stars from the WD+MS channel of Type Ia supernovae**|Rui-Jie Ji et.al.|[2404.01905](http://arxiv.org/abs/2404.01905)|null|
 |**2024-04-02**|**The glassy structure of reactive supplementary cementitious materials (SCMs) and recycled glass: Contribution of XRD and Raman spectroscopy to their characterization**|Théodore Serbource et.al.|[2404.01899](http://arxiv.org/abs/2404.01899)|null|
@@ -668,7 +668,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
