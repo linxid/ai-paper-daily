@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2024-04-11**|**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2404.07990](http://arxiv.org/abs/2404.07990)|null|
 |**2024-04-11**|**Manipulating Large Language Models to Increase Product Visibility**|Aounon Kumar et.al.|[2404.07981](http://arxiv.org/abs/2404.07981)|**[link](https://github.com/aounon/llm-rank-optimizer)**|
-|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|null|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|**[link](https://github.com/jeffreysijuntan/lloco)**|
 |**2024-04-11**|**Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models**|Haotian Zhang et.al.|[2404.07973](http://arxiv.org/abs/2404.07973)|null|
 |**2024-04-11**|**Leveraging Large Language Models (LLMs) to Support Collaborative Human-AI Online Risk Data Annotation**|Jinkyung Park et.al.|[2404.07926](http://arxiv.org/abs/2404.07926)|null|
 |**2024-04-11**|**LaVy: Vietnamese Multimodal Large Language Model**|Chi Tran et.al.|[2404.07922](http://arxiv.org/abs/2404.07922)|null|
@@ -43,10 +43,10 @@
 |**2024-04-11**|**Measuring Geographic Diversity of Foundation Models with a Natural Language--based Geo-guessing Experiment on GPT-4**|Zilong Liu et.al.|[2404.07612](http://arxiv.org/abs/2404.07612)|null|
 |**2024-04-11**|**NoticIA: A Clickbait Article Summarization Dataset in Spanish**|Iker García-Ferrero et.al.|[2404.07611](http://arxiv.org/abs/2404.07611)|**[link](https://github.com/ikergarcia1996/noticia)**|
 |**2024-04-11**|**UltraEval: A Lightweight Platform for Flexible and Comprehensive Evaluation for LLMs**|Chaoqun He et.al.|[2404.07584](http://arxiv.org/abs/2404.07584)|**[link](https://github.com/openbmb/ultraeval)**|
-|**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/abs/2404.07569)|null|
+|**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/abs/2404.07569)|**[link](https://github.com/mh0797/interplan)**|
 |**2024-04-11**|**Comments as Natural Logic Pivots: Improve Code Generation via Comment Perspective**|Yijie Chen et.al.|[2404.07549](http://arxiv.org/abs/2404.07549)|**[link](https://github.com/pppa2019/mango)**|
 |**2024-04-11**|**Decomposing Label Space, Format and Discrimination: Rethinking How LLMs Respond and Solve Tasks via In-Context Learning**|Quanyu Long et.al.|[2404.07546](http://arxiv.org/abs/2404.07546)|null|
-|**2024-04-11**|**From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples**|Robert Vacareanu et.al.|[2404.07544](http://arxiv.org/abs/2404.07544)|null|
+|**2024-04-11**|**From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples**|Robert Vacareanu et.al.|[2404.07544](http://arxiv.org/abs/2404.07544)|**[link](https://github.com/robertvacareanu/llm4regression)**|
 |**2024-04-11**|**Can Large Language Models Assess Serendipity in Recommender Systems?**|Yu Tokutake et.al.|[2404.07499](http://arxiv.org/abs/2404.07499)|null|
 |**2024-04-11**|**Neural Fault Injection: Generating Software Faults from Natural Language**|Domenico Cotroneo et.al.|[2404.07491](http://arxiv.org/abs/2404.07491)|null|
 |**2024-04-11**|**Multimodal Emotion Recognition by Fusing Video Semantic in MOOC Learning Scenarios**|Yuan Zhang et.al.|[2404.07484](http://arxiv.org/abs/2404.07484)|null|
@@ -67,7 +67,7 @@
 |**2024-04-10**|**Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention**|Tsendsuren Munkhdalai et.al.|[2404.07143](http://arxiv.org/abs/2404.07143)|null|
 |**2024-04-10**|**Continuous Language Model Interpolation for Dynamic and Controllable Text Generation**|Sara Kangaslahti et.al.|[2404.07117](http://arxiv.org/abs/2404.07117)|**[link](https://github.com/skangasl/continuous-lm-interpolation)**|
 |**2024-04-11**|**From Model-centered to Human-Centered: Revision Distance as a Metric for Text Evaluation in LLMs-based Applications**|Yongqiang Ma et.al.|[2404.07108](http://arxiv.org/abs/2404.07108)|null|
-|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103](http://arxiv.org/abs/2404.07103)|null|
+|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103](http://arxiv.org/abs/2404.07103)|**[link](https://github.com/petergriffinjin/graph-cot)**|
 |**2024-04-10**|**Dynamic Generation of Personalities with Large Language Models**|Jianzhi Liu et.al.|[2404.07084](http://arxiv.org/abs/2404.07084)|null|
 |**2024-04-10**|**VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning**|Alexandros Xenos et.al.|[2404.07078](http://arxiv.org/abs/2404.07078)|**[link](https://github.com/nickyfot/emocommonsense)**|
 |**2024-04-10**|**Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?**|Mingyu Jin et.al.|[2404.07066](http://arxiv.org/abs/2404.07066)|**[link](https://github.com/luckfort/cd)**|
