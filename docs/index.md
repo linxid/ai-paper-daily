@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.13
+## Updated on 2024.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -108,7 +108,7 @@ layout: default
 |**2024-04-10**|**MuPT: A Generative Symbolic Music Pretrained Transformer**|Xingwei Qu et.al.|[2404.06393](http://arxiv.org/abs/2404.06393)|null|
 |**2024-04-09**|**Latent Distance Guided Alignment Training for Large Language Models**|Haotian Luo et.al.|[2404.06390](http://arxiv.org/abs/2404.06390)|null|
 |**2024-04-09**|**Model Generation from Requirements with LLMs: an Exploratory Study**|Alessio Ferrari et.al.|[2404.06371](http://arxiv.org/abs/2404.06371)|null|
-|**2024-04-09**|**Enhancing Decision Analysis with a Large Language Model: pyDecision a Comprehensive Library of MCDA Methods in Python**|Valdecy Pereira et.al.|[2404.06370](http://arxiv.org/abs/2404.06370)|null|
+|**2024-04-09**|**Enhancing Decision Analysis with a Large Language Model: pyDecision a Comprehensive Library of MCDA Methods in Python**|Valdecy Pereira et.al.|[2404.06370](http://arxiv.org/abs/2404.06370)|**[link](https://github.com/Valdecy/pyDecision)**|
 |**2024-04-09**|**VISION2UI: A Real-World Dataset with Layout for Code Generation from UI Designs**|Yi Gui et.al.|[2404.06369](http://arxiv.org/abs/2404.06369)|null|
 |**2024-04-09**|**CausalBench: A Comprehensive Benchmark for Causal Learning Capability of Large Language Models**|Yu Zhou et.al.|[2404.06349](http://arxiv.org/abs/2404.06349)|null|
 |**2024-04-09**|**AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning**|Senkang Hu et.al.|[2404.06345](http://arxiv.org/abs/2404.06345)|null|
