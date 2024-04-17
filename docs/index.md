@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -56,13 +56,13 @@ layout: default
 |**2024-04-14**|**DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection**|Lewei Yao et.al.|[2404.09216](http://arxiv.org/abs/2404.09216)|null|
 |**2024-04-14**|**TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models**|Ya-Qi Yu et.al.|[2404.09204](http://arxiv.org/abs/2404.09204)|**[link](https://github.com/yuyq96/texthawk)**|
 |**2024-04-14**|**TransformerFAM: Feedback attention is working memory**|Dongseong Hwang et.al.|[2404.09173](http://arxiv.org/abs/2404.09173)|null|
-|**2024-04-14**|**Post-Semantic-Thinking: A Robust Strategy to Distill Reasoning Capacity from Large Language Models**|Xiao Chen et.al.|[2404.09170](http://arxiv.org/abs/2404.09170)|null|
+|**2024-04-16**|**Post-Semantic-Thinking: A Robust Strategy to Distill Reasoning Capacity from Large Language Models**|Xiaoshu Chen et.al.|[2404.09170](http://arxiv.org/abs/2404.09170)|null|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 |**2024-04-14**|**From Bytes to Borsch: Fine-Tuning Gemma and Mistral for the Ukrainian Language Representation**|Artur Kiulian et.al.|[2404.09138](http://arxiv.org/abs/2404.09138)|**[link](https://github.com/polyagent/from-bytes-to-borsch)**|
 |**2024-04-14**|**Unveiling LLM Evaluation Focused on Metrics: Challenges and Solutions**|Taojun Hu et.al.|[2404.09135](http://arxiv.org/abs/2404.09135)|null|
 |**2024-04-14**|**Interactive Generative AI Agents for Satellite Networks through a Mixture of Experts Transmission**|Ruichen Zhang et.al.|[2404.09134](http://arxiv.org/abs/2404.09134)|**[link](https://github.com/rickyzang/gai-agent-satellite)**|
 |**2024-04-14**|**When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models**|Yanhong Li et.al.|[2404.09129](http://arxiv.org/abs/2404.09129)|null|
-|**2024-04-14**|**Confidence Calibration and Rationalization for LLMs via Multi-Agent Deliberation**|Ruixin Yang et.al.|[2404.09127](http://arxiv.org/abs/2404.09127)|null|
+|**2024-04-16**|**Confidence Calibration and Rationalization for LLMs via Multi-Agent Deliberation**|Ruixin Yang et.al.|[2404.09127](http://arxiv.org/abs/2404.09127)|null|
 |**2024-04-13**|**CuriousLLM: Elevating Multi-Document QA with Reasoning-Infused Knowledge Graph Prompting**|Zukang Yang et.al.|[2404.09077](http://arxiv.org/abs/2404.09077)|null|
 |**2024-04-13**|**Adapting Mental Health Prediction Tasks for Cross-lingual Learning via Meta-Training and In-context Learning with Large Language Model**|Zita Lifelo et.al.|[2404.09045](http://arxiv.org/abs/2404.09045)|null|
 |**2024-04-13**|**Do LLMs Play Dice? Exploring Probability Distribution Sampling in Large Language Models for Behavioral Simulation**|Jia Gu et.al.|[2404.09043](http://arxiv.org/abs/2404.09043)|null|
@@ -96,7 +96,7 @@ layout: default
 |**2024-04-11**|**Do Large Language Models Learn Human-Like Strategic Preferences?**|Jesse Roberts et.al.|[2404.08710](http://arxiv.org/abs/2404.08710)|null|
 |**2024-04-12**|**Enhancing Visual Question Answering through Question-Driven Image Captions as Prompts**|Övgü Özdemir et.al.|[2404.08589](http://arxiv.org/abs/2404.08589)|**[link](https://github.com/ovguyo/captions-in-vqa)**|
 |**2024-04-12**|**Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation**|Hanlin Tian et.al.|[2404.08570](http://arxiv.org/abs/2404.08570)|null|
-|**2024-04-12**|**RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs**|Shreyas Chaudhari et.al.|[2404.08555](http://arxiv.org/abs/2404.08555)|null|
+|**2024-04-16**|**RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs**|Shreyas Chaudhari et.al.|[2404.08555](http://arxiv.org/abs/2404.08555)|null|
 |**2024-04-12**|**Online Safety Analysis for LLMs: a Benchmark, an Assessment, and a Path Forward**|Xuan Xie et.al.|[2404.08517](http://arxiv.org/abs/2404.08517)|null|
 |**2024-04-12**|**Efficient Interactive LLM Serving with Proxy Model-based Sequence Length Prediction**|Haoran Qiu et.al.|[2404.08509](http://arxiv.org/abs/2404.08509)|**[link](https://github.com/james-qiuhaoran/llm-serving-with-proxy-models)**|
 |**2024-04-12**|**LaSagnA: Language-based Segmentation Assistant for Complex Queries**|Cong Wei et.al.|[2404.08506](http://arxiv.org/abs/2404.08506)|**[link](https://github.com/congvvc/lasagna)**|
@@ -106,7 +106,7 @@ layout: default
 |**2024-04-12**|**AdapterSwap: Continuous Training of LLMs with Data Removal and Access-Control Guarantees**|William Fleshman et.al.|[2404.08417](http://arxiv.org/abs/2404.08417)|null|
 |**2024-04-12**|**Look at the Text: Instruction-Tuned Language Models are More Robust Multiple Choice Selectors than You Think**|Xinpeng Wang et.al.|[2404.08382](http://arxiv.org/abs/2404.08382)|null|
 |**2024-04-12**|**Subtoxic Questions: Dive Into Attitude Change of LLM's Response in Jailbreak Attempts**|Tianyu Zhang et.al.|[2404.08309](http://arxiv.org/abs/2404.08309)|null|
-|**2024-04-12**|**Pretraining and Updating Language- and Domain-specific Large Language Model: A Case Study in Japanese Business Domain**|Kosuke Takahashi et.al.|[2404.08262](http://arxiv.org/abs/2404.08262)|null|
+|**2024-04-16**|**Pretraining and Updating Language- and Domain-specific Large Language Model: A Case Study in Japanese Business Domain**|Kosuke Takahashi et.al.|[2404.08262](http://arxiv.org/abs/2404.08262)|null|
 |**2024-04-12**|**Investigating Neural Machine Translation for Low-Resource Languages: Using Bavarian as a Case Study**|Wan-Hua Her et.al.|[2404.08259](http://arxiv.org/abs/2404.08259)|**[link](https://github.com/whher/nmt-de-bar)**|
 |**2024-04-12**|**Reducing hallucination in structured outputs via Retrieval-Augmented Generation**|Patrice Béchard et.al.|[2404.08189](http://arxiv.org/abs/2404.08189)|null|
 |**2024-04-11**|**Distilling Algorithmic Reasoning from LLMs via Explaining Solution Programs**|Jierui Li et.al.|[2404.08148](http://arxiv.org/abs/2404.08148)|null|
@@ -803,7 +803,7 @@ layout: default
 |**2024-04-14**|**Numerical Methods for Optimal Boundary Control of Advection-Diffusion-Reaction Systems**|Marcus Johan Schytt et.al.|[2404.09209](http://arxiv.org/abs/2404.09209)|null|
 |**2024-04-14**|**Stable Acceleration of a LHe-Free Nb3Sn demo SRF e-linac Based on Conduction Cooling**|Ziqin Yang et.al.|[2404.09187](http://arxiv.org/abs/2404.09187)|null|
 |**2024-04-14**|**LoopAnimate: Loopable Salient Object Animation**|Fanyi Wang et.al.|[2404.09172](http://arxiv.org/abs/2404.09172)|null|
-|**2024-04-14**|**Asymptotic-preserving approximations for stochastic incompressible viscous fluids and SPDEs on group**|Jianbo Cui et.al.|[2404.09168](http://arxiv.org/abs/2404.09168)|null|
+|**2024-04-16**|**Asymptotic-preserving approximations for stochastic incompressible viscous fluids and SPDEs on graph**|Jianbo Cui et.al.|[2404.09168](http://arxiv.org/abs/2404.09168)|null|
 |**2024-04-14**|**RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion**|Guoxuan Chi et.al.|[2404.09140](http://arxiv.org/abs/2404.09140)|**[link](https://github.com/mobicom24/rf-diffusion)**|
 |**2024-04-14**|**Thermodynamics of chaotic relaxation processes**|Domenico Lippolis et.al.|[2404.09130](http://arxiv.org/abs/2404.09130)|null|
 |**2024-04-14**|**Identifying Causal Effects under Kink Setting: Theory and Evidence**|Yi Lu et.al.|[2404.09117](http://arxiv.org/abs/2404.09117)|null|
@@ -857,7 +857,7 @@ layout: default
 |**2024-04-11**|**$(\log t)^\frac{2}{3}$ -superdiffusivity for the 2d stochastic Burgers equation**|Damiano De Gaspari et.al.|[2404.07728](http://arxiv.org/abs/2404.07728)|null|
 |**2024-04-11**|**Applying Guidance in a Limited Interval Improves Sample and Distribution Quality in Diffusion Models**|Tuomas Kynkäänniemi et.al.|[2404.07724](http://arxiv.org/abs/2404.07724)|null|
 |**2024-04-11**|**The classical-quantum hybrid canonical dynamics and its difficulties with special and general relativity**|Lajos Diósi et.al.|[2404.07723](http://arxiv.org/abs/2404.07723)|null|
-|**2024-04-11**|**Two liquid states of distinguishable helium-4: the existence of another non-superfluid frozen by heating**|Momoko Tsujimoto et.al.|[2404.07716](http://arxiv.org/abs/2404.07716)|null|
+|**2024-04-16**|**Two liquid states of distinguishable helium-4: the existence of another non-superfluid frozen by heating**|Momoko Tsujimoto et.al.|[2404.07716](http://arxiv.org/abs/2404.07716)|null|
 |**2024-04-11**|**Optimal run-and-tumble in slit-like confinement**|T. Pietrangeli et.al.|[2404.07680](http://arxiv.org/abs/2404.07680)|null|
 |**2024-04-11**|**Diffusion Probabilistic Multi-cue Level Set for Reducing Edge Uncertainty in Pancreas Segmentation**|Yue Gou et.al.|[2404.07620](http://arxiv.org/abs/2404.07620)|null|
 |**2024-04-11**|**Optimal State Equation for the Control of a Diffusion with Two Distinct Dynamics**|Zengjing Chen et.al.|[2404.07618](http://arxiv.org/abs/2404.07618)|null|
