@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.19
+## Updated on 2024.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -1053,7 +1053,7 @@ layout: default
 |**2024-04-16**|**Diffusion assisted image reconstruction in optoacoustic tomography**|M. G. González et.al.|[2404.10239](http://arxiv.org/abs/2404.10239)|null|
 |**2024-04-16**|**On $τ$ -preconditioners for a quasi-compact difference scheme to Riesz fractional diffusion equations with variable coefficients**|Zi-Hang She et.al.|[2404.10221](http://arxiv.org/abs/2404.10221)|null|
 |**2024-04-15**|**New Asymptotic Preserving, Hybrid Discontinuous Galerkin Methods the Radiation Transport Equation with Isotropic Scattering and Diffusive Scaling**|Cory D. Hauck et.al.|[2404.10159](http://arxiv.org/abs/2404.10159)|null|
-|**2024-04-15**|**Salient Object-Aware Background Generation using Text-Guided Diffusion Models**|Amir Erfan Eshratifar et.al.|[2404.10157](http://arxiv.org/abs/2404.10157)|null|
+|**2024-04-15**|**Salient Object-Aware Background Generation using Text-Guided Diffusion Models**|Amir Erfan Eshratifar et.al.|[2404.10157](http://arxiv.org/abs/2404.10157)|**[link](https://github.com/yahoo/photo-background-generation)**|
 |**2024-04-15**|**A general thermodynamical model for finitely-strained continuum with inelasticity and diffusion, its GENERIC derivation in Eulerian formulation, and some application**|Alexander Mielke et.al.|[2404.10126](http://arxiv.org/abs/2404.10126)|null|
 |**2024-04-15**|**Modeling scattering matrix containing evanescent modes for wavefront shaping applications in disordered media**|Michael Raju et.al.|[2404.10119](http://arxiv.org/abs/2404.10119)|**[link](https://github.com/michaelraju/generalized-s-matrix)**|
 |**2024-04-15**|**Deep JWST/NIRCam imaging of Supernova 1987A**|Mikako Matsuura et.al.|[2404.10042](http://arxiv.org/abs/2404.10042)|null|
