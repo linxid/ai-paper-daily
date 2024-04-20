@@ -22,7 +22,7 @@
 |**2024-04-18**|**BLINK: Multimodal Large Language Models Can See but Not Perceive**|Xingyu Fu et.al.|[2404.12390](http://arxiv.org/abs/2404.12390)|null|
 |**2024-04-18**|**MedThink: Explaining Medical Visual Question Answering via Multimodal Decision-Making Rationale**|Xiaotang Gai et.al.|[2404.12372](http://arxiv.org/abs/2404.12372)|null|
 |**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
-|**2024-04-18**|**Towards a Foundation Model for Partial Differential Equation: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355](http://arxiv.org/abs/2404.12355)|null|
+|**2024-04-18**|**Towards a Foundation Model for Partial Differential Equation: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355](http://arxiv.org/abs/2404.12355)|**[link](https://github.com/felix-lyx/prose)**|
 |**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353](http://arxiv.org/abs/2404.12353)|null|
 |**2024-04-18**|**Large Language Models in Targeted Sentiment Analysis**|Nicolay Rusnachenko et.al.|[2404.12342](http://arxiv.org/abs/2404.12342)|**[link](https://github.com/nicolay-r/reasoning-for-sentiment-analysis-framework)**|
 |**2024-04-18**|**Normative Requirements Operationalization with Large Language Models**|Nick Feng et.al.|[2404.12335](http://arxiv.org/abs/2404.12335)|null|
@@ -42,7 +42,7 @@
 |**2024-04-18**|**AccidentBlip2: Accident Detection With Multi-View MotionBlip2**|Yihua Shao et.al.|[2404.12149](http://arxiv.org/abs/2404.12149)|**[link](https://github.com/yihuajerry/accidentblip2)**|
 |**2024-04-18**|**From Form(s) to Meaning: Probing the Semantic Depths of Language Models Using Multisense Consistency**|Xenia Ohmer et.al.|[2404.12145](http://arxiv.org/abs/2404.12145)|**[link](https://github.com/facebookresearch/multisense_consistency)**|
 |**2024-04-18**|**Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?**|Rui Xu et.al.|[2404.12138](http://arxiv.org/abs/2404.12138)|null|
-|**2024-04-18**|**mABC: multi-Agent Blockchain-Inspired Collaboration for root cause analysis in micro-services architecture**|Wei Zhang et.al.|[2404.12135](http://arxiv.org/abs/2404.12135)|**[link](https://github.com/knediny/mABC)**|
+|**2024-04-18**|**mABC: multi-Agent Blockchain-Inspired Collaboration for root cause analysis in micro-services architecture**|Wei Zhang et.al.|[2404.12135](http://arxiv.org/abs/2404.12135)|null|
 |**2024-04-18**|**RAGAR, Your Falsehood RADAR: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models**|M. Abdul Khaliq et.al.|[2404.12065](http://arxiv.org/abs/2404.12065)|null|
 |**2024-04-18**|**Can We Catch the Elephant? The Evolvement of Hallucination Evaluation on Natural Language Generation: A Survey**|Siya Qi et.al.|[2404.12041](http://arxiv.org/abs/2404.12041)|null|
 |**2024-04-18**|**Uncovering Safety Risks in Open-source LLMs through Concept Activation Vector**|Zhihao Xu et.al.|[2404.12038](http://arxiv.org/abs/2404.12038)|null|
@@ -54,8 +54,8 @@
 |**2024-04-18**|**Exploring the landscape of large language models: Foundations, techniques, and challenges**|Milad Moradi et.al.|[2404.11973](http://arxiv.org/abs/2404.11973)|null|
 |**2024-04-18**|**Aligning Language Models to Explicitly Handle Ambiguity**|Hyuhng Joon Kim et.al.|[2404.11972](http://arxiv.org/abs/2404.11972)|null|
 |**2024-04-18**|**From Language Models to Practical Self-Improving Computer Agents**|Alex Sheng et.al.|[2404.11964](http://arxiv.org/abs/2404.11964)|null|
-|**2024-04-18**|**Generating Diverse Criteria On-the-Fly to Improve Point-wise LLM Rankers**|Fang Guo et.al.|[2404.11960](http://arxiv.org/abs/2404.11960)|null|
-|**2024-04-18**|**AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration**|Bo Pan et.al.|[2404.11943](http://arxiv.org/abs/2404.11943)|null|
+|**2024-04-18**|**Generating Diverse Criteria On-the-Fly to Improve Point-wise LLM Rankers**|Fang Guo et.al.|[2404.11960](http://arxiv.org/abs/2404.11960)|**[link](https://github.com/fangguo1/mcranker)**|
+|**2024-04-18**|**AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration**|Bo Pan et.al.|[2404.11943](http://arxiv.org/abs/2404.11943)|**[link](https://github.com/agentcoord/agentcoord)**|
 |**2024-04-18**|**CrossIn: An Efficient Instruction Tuning Approach for Cross-Lingual Knowledge Alignment**|Geyu Lin et.al.|[2404.11932](http://arxiv.org/abs/2404.11932)|null|
 |**2024-04-18**|**TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding**|Hanshi Sun et.al.|[2404.11912](http://arxiv.org/abs/2404.11912)|**[link](https://github.com/Infini-AI-Lab/TriForce)**|
 |**2024-04-18**|**Enhancing Financial Inclusion and Regulatory Challenges: A Critical Analysis of Digital Banks and Alternative Lenders Through Digital Platforms, Machine Learning, and Large Language Models Integration**|Luke Lee et.al.|[2404.11898](http://arxiv.org/abs/2404.11898)|null|
@@ -787,7 +787,7 @@
 |**2024-04-16**|**Private Attribute Inference from Images with Vision-Language Models**|Batuhan Tömekçe et.al.|[2404.10618](http://arxiv.org/abs/2404.10618)|null|
 |**2024-04-16**|**Automated Evaluation of Large Vision-Language Models on Self-driving Corner Cases**|Yanze Li et.al.|[2404.10595](http://arxiv.org/abs/2404.10595)|null|
 |**2024-04-16**|**Self-Supervised Visual Preference Alignment**|Ke Zhu et.al.|[2404.10501](http://arxiv.org/abs/2404.10501)|null|
-|**2024-04-17**|**Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models**|Enming Zhang et.al.|[2404.10357](http://arxiv.org/abs/2404.10357)|null|
+|**2024-04-17**|**Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models**|Enming Zhang et.al.|[2404.10357](http://arxiv.org/abs/2404.10357)|**[link](https://github.com/emzucas/coknow)**|
 |**2024-04-16**|**Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning**|Rui Hu et.al.|[2404.10332](http://arxiv.org/abs/2404.10332)|null|
 |**2024-04-16**|**MoE-TinyMed: Mixture of Experts for Tiny Medical Large Vision-Language Models**|Songtao Jiang et.al.|[2404.10237](http://arxiv.org/abs/2404.10237)|**[link](https://github.com/jiangsongtao/tinymed)**|
 |**2024-04-16**|**Consistency and Uncertainty: Identifying Unreliable Responses From Black-Box Vision-Language Models for Selective Visual Question Answering**|Zaid Khan et.al.|[2404.10193](http://arxiv.org/abs/2404.10193)|null|
@@ -983,9 +983,9 @@
 |**2024-04-18**|**Mathematical analysis of a model-constrained inverse problem for the reconstruction of early states of prostate cancer growth**|Elena Beretta et.al.|[2404.12198](http://arxiv.org/abs/2404.12198)|null|
 |**2024-04-18**|**Estimation of the invariant measure of a multidimensional diffusion from noisy observations**|Raphaël Maillet et.al.|[2404.12181](http://arxiv.org/abs/2404.12181)|null|
 |**2024-04-18**|**No pattern formation in a quasilinear chemotaxis model with local sensing**|Philippe Laurençot et.al.|[2404.12166](http://arxiv.org/abs/2404.12166)|null|
-|**2024-04-18**|**StyleBooth: Image Style Editing with Multimodal Instruction**|Zhen Han et.al.|[2404.12154](http://arxiv.org/abs/2404.12154)|null|
+|**2024-04-18**|**StyleBooth: Image Style Editing with Multimodal Instruction**|Zhen Han et.al.|[2404.12154](http://arxiv.org/abs/2404.12154)|**[link](https://github.com/modelscope/scepter)**|
 |**2024-04-18**|**MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space**|Yanru Qu et.al.|[2404.12141](http://arxiv.org/abs/2404.12141)|**[link](https://github.com/algomole/molcraft)**|
-|**2024-04-18**|**Optimizing the diffusion of overdamped Langevin dynamics**|Tony Lelièvre et.al.|[2404.12087](http://arxiv.org/abs/2404.12087)|null|
+|**2024-04-18**|**Optimizing the diffusion of overdamped Langevin dynamics**|Tony Lelièvre et.al.|[2404.12087](http://arxiv.org/abs/2404.12087)|**[link](https://github.com/rsantet/optimal_overdamped_langevin_diffusion_julia)**|
 |**2024-04-18**|**Transport scaling in porous media convection**|Xiaojue Zhu et.al.|[2404.12026](http://arxiv.org/abs/2404.12026)|null|
 |**2024-04-18**|**Multi-Agent Relative Investment Games in a Jump Diffusion Market with Deep Reinforcement Learning Algorithm**|Liwei Lu et.al.|[2404.11967](http://arxiv.org/abs/2404.11967)|null|
 |**2024-04-18**|**Sketch-guided Image Inpainting with Partial Discrete Diffusion Process**|Nakul Sharma et.al.|[2404.11949](http://arxiv.org/abs/2404.11949)|**[link](https://github.com/vl2g/sketch-inpainting)**|
@@ -1027,7 +1027,7 @@
 |**2024-04-16**|**Viscous shock waves of Burgers equation with fast diffusion and singularity**|Shufang Xu et.al.|[2404.10941](http://arxiv.org/abs/2404.10941)|null|
 |**2024-04-16**|**Molecular relaxation by reverse diffusion with time step prediction**|Khaled Kahouli et.al.|[2404.10935](http://arxiv.org/abs/2404.10935)|**[link](https://github.com/khaledkah/morered)**|
 |**2024-04-16**|**Self-trapping of active particles induced by non-reciprocal interactions in disordered media**|Rodrigo Saavedra et.al.|[2404.10932](http://arxiv.org/abs/2404.10932)|null|
-|**2024-04-16**|**Forcing Diffuse Distributions out of Language Models**|Yiming Zhang et.al.|[2404.10859](http://arxiv.org/abs/2404.10859)|null|
+|**2024-04-16**|**Forcing Diffuse Distributions out of Language Models**|Yiming Zhang et.al.|[2404.10859](http://arxiv.org/abs/2404.10859)|**[link](https://github.com/y0mingzhang/diffuse-probabilities)**|
 |**2024-04-16**|**The first degree-scale starlight-polarization-based tomography map of the magnetized interstellar medium**|V. Pelgrims et.al.|[2404.10821](http://arxiv.org/abs/2404.10821)|null|
 |**2024-04-17**|**Searching for cold gas traced by MgII quasar absorbers in massive X-ray-selected galaxy clusters**|A. Y. Fresco et.al.|[2404.10773](http://arxiv.org/abs/2404.10773)|null|
 |**2024-04-16**|**RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting**|Ashkan Mirzaei et.al.|[2404.10765](http://arxiv.org/abs/2404.10765)|null|
