@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -62,9 +62,9 @@ layout: default
 |**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353](http://arxiv.org/abs/2404.12353)|null|
 |**2024-04-18**|**Large Language Models in Targeted Sentiment Analysis**|Nicolay Rusnachenko et.al.|[2404.12342](http://arxiv.org/abs/2404.12342)|**[link](https://github.com/nicolay-r/reasoning-for-sentiment-analysis-framework)**|
 |**2024-04-18**|**Normative Requirements Operationalization with Large Language Models**|Nick Feng et.al.|[2404.12335](http://arxiv.org/abs/2404.12335)|null|
-|**2024-04-18**|**Large Language Models for Synthetic Participatory Planning of Shared Automated Electric Mobility Systems**|Jiangbo Yu et.al.|[2404.12317](http://arxiv.org/abs/2404.12317)|null|
+|**2024-04-21**|**Large Language Models for Synthetic Participatory Planning of Shared Automated Electric Mobility Systems**|Jiangbo Yu et.al.|[2404.12317](http://arxiv.org/abs/2404.12317)|null|
 |**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
-|**2024-04-18**|**Augmenting emotion features in irony detection with Large language modeling**|Yucheng Lin et.al.|[2404.12291](http://arxiv.org/abs/2404.12291)|null|
+|**2024-04-20**|**Augmenting emotion features in irony detection with Large language modeling**|Yucheng Lin et.al.|[2404.12291](http://arxiv.org/abs/2404.12291)|null|
 |**2024-04-18**|**Enhancing Embedding Performance through Large Language Model-based Text Enrichment and Rewriting**|Nicholas Harris et.al.|[2404.12283](http://arxiv.org/abs/2404.12283)|null|
 |**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2024-04-18**|**FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom**|Yuanqin He et.al.|[2404.12273](http://arxiv.org/abs/2404.12273)|null|
@@ -101,18 +101,18 @@ layout: default
 |**2024-04-18**|**CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models**|Minjung Shin et.al.|[2404.11835](http://arxiv.org/abs/2404.11835)|null|
 |**2024-04-18**|**AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence**|Minbeom Kim et.al.|[2404.11826](http://arxiv.org/abs/2404.11826)|null|
 |**2024-04-17**|**Automated Social Science: Language Models as Scientist and Subjects**|Benjamin S. Manning et.al.|[2404.11794](http://arxiv.org/abs/2404.11794)|null|
-|**2024-04-17**|**Enhancing Q&A with Domain-Specific Fine-Tuning and Iterative Reasoning: A Comparative Study**|Zooey Nguyen et.al.|[2404.11792](http://arxiv.org/abs/2404.11792)|null|
+|**2024-04-19**|**Enhancing Q&A with Domain-Specific Fine-Tuning and Iterative Reasoning: A Comparative Study**|Zooey Nguyen et.al.|[2404.11792](http://arxiv.org/abs/2404.11792)|null|
 |**2024-04-17**|**Consolidating Ranking and Relevance Predictions of Large Language Models through Post-Processing**|Le Yan et.al.|[2404.11791](http://arxiv.org/abs/2404.11791)|null|
 |**2024-04-17**|**REQUAL-LM: Reliability and Equity through Aggregation in Large Language Models**|Sana Ebrahimi et.al.|[2404.11782](http://arxiv.org/abs/2404.11782)|null|
 |**2024-04-17**|**Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems**|Dayu Yang et.al.|[2404.11773](http://arxiv.org/abs/2404.11773)|null|
 |**2024-04-17**|**Let's Ask AI About Their Programs: Exploring ChatGPT's Answers To Program Comprehension Questions**|Teemu Lehtinen et.al.|[2404.11734](http://arxiv.org/abs/2404.11734)|null|
-|**2024-04-17**|**Missed Connections: Lateral Thinking Puzzles for Large Language Models**|Graham Todd et.al.|[2404.11730](http://arxiv.org/abs/2404.11730)|null|
+|**2024-04-21**|**Missed Connections: Lateral Thinking Puzzles for Large Language Models**|Graham Todd et.al.|[2404.11730](http://arxiv.org/abs/2404.11730)|null|
 |**2024-04-17**|**How often are errors in natural language reasoning due to paraphrastic variability?**|Neha Srikanth et.al.|[2404.11717](http://arxiv.org/abs/2404.11717)|null|
 |**2024-04-17**|**Evaluating Tenant-Landlord Tensions Using Generative AI on Online Tenant Forums**|Xin Chen et.al.|[2404.11681](http://arxiv.org/abs/2404.11681)|null|
 |**2024-04-17**|**MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory**|Ali Modarressi et.al.|[2404.11672](http://arxiv.org/abs/2404.11672)|null|
-|**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
+|**2024-04-20**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
 |**2024-04-17**|**LLMTune: Accelerate Database Knob Tuning with Large Language Models**|Xinmei Huang et.al.|[2404.11581](http://arxiv.org/abs/2404.11581)|null|
-|**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh et.al.|[2404.11565](http://arxiv.org/abs/2404.11565)|null|
+|**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh Wang et.al.|[2404.11565](http://arxiv.org/abs/2404.11565)|null|
 |**2024-04-17**|**Quantifying Multilingual Performance of Large Language Models Across Languages**|Zihao Li et.al.|[2404.11553](http://arxiv.org/abs/2404.11553)|null|
 |**2024-04-17**|**Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization**|Costas Mavromatis et.al.|[2404.11531](http://arxiv.org/abs/2404.11531)|null|
 |**2024-04-17**|**Embedding Privacy in Computational Social Science and Artificial Intelligence Research**|Keenan Jones et.al.|[2404.11515](http://arxiv.org/abs/2404.11515)|null|
@@ -1018,7 +1018,7 @@ layout: default
 |**2024-04-19**|**Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing**|Teng-Fang Hsiao et.al.|[2404.12900](http://arxiv.org/abs/2404.12900)|**[link](https://github.com/bluedyee/tf-gph)**|
 |**2024-04-19**|**MCM: Multi-condition Motion Synthesis Framework**|Zeyu Ling et.al.|[2404.12886](http://arxiv.org/abs/2404.12886)|null|
 |**2024-04-19**|**Mixed Polyanionic NaFe $_{1.6}$V$_{0.4}$(PO$_{4}$)(SO$_{4}$)$_{2}$ @CNT Cathode for Sodium-ion Batteries: Electrochemical Diffusion Kinetics and Distribution of Relaxation Time Analysis at Different Temperatures**|Jayashree Pati et.al.|[2404.12822](http://arxiv.org/abs/2404.12822)|null|
-|**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814](http://arxiv.org/abs/2404.12814)|null|
+|**2024-04-22**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814](http://arxiv.org/abs/2404.12814)|null|
 |**2024-04-19**|**Enhancing Counterfactual Explanation Search with Diffusion Distance and Directional Coherence**|Marharyta Domnich et.al.|[2404.12810](http://arxiv.org/abs/2404.12810)|null|
 |**2024-04-19**|**Universality of giant diffusion in tilted periodic potentials**|Kento Iida et.al.|[2404.12761](http://arxiv.org/abs/2404.12761)|null|
 |**2024-04-19**|**Change of Measure for Bayesian Field Inversion with Hierarchical Hyperparameters Sampling**|Nadège Polette et.al.|[2404.12688](http://arxiv.org/abs/2404.12688)|null|
@@ -1039,7 +1039,7 @@ layout: default
 |**2024-04-18**|**Customizing Text-to-Image Diffusion with Camera Viewpoint Control**|Nupur Kumari et.al.|[2404.12333](http://arxiv.org/abs/2404.12333)|null|
 |**2024-04-18**|**Guided Discrete Diffusion for Electronic Health Record Generation**|Zixiang Chen et.al.|[2404.12314](http://arxiv.org/abs/2404.12314)|null|
 |**2024-04-18**|**Investigation of Spin-Pumping and -Transport in the Ni80Fe20/Pt/Co Asymmetric Trilayer**|Shilpa Samdani et.al.|[2404.12307](http://arxiv.org/abs/2404.12307)|null|
-|**2024-04-18**|**RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective**|Chenxi Wang et.al.|[2404.12281](http://arxiv.org/abs/2404.12281)|null|
+|**2024-04-21**|**RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective**|Chenxi Wang et.al.|[2404.12281](http://arxiv.org/abs/2404.12281)|null|
 |**2024-04-18**|**A New Computational Method for Energetic Particle Acceleration and Transport with its Feedback**|Jeongbhin Seo et.al.|[2404.12276](http://arxiv.org/abs/2404.12276)|null|
 |**2024-04-18**|**Tree-Based Nonlinear Reduced Modeling**|Diane Guignard et.al.|[2404.12262](http://arxiv.org/abs/2404.12262)|null|
 |**2024-04-18**|**Quantitative homogenization and hydrodynamic limit of non-gradient exclusion process**|Tadahisa Funaki et.al.|[2404.12234](http://arxiv.org/abs/2404.12234)|null|
@@ -1070,7 +1070,7 @@ layout: default
 |**2024-04-17**|**IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination**|Xi Chen et.al.|[2404.11593](http://arxiv.org/abs/2404.11593)|null|
 |**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
 |**2024-04-17**|**Emulators for scarce and noisy data: application to auxiliary field diffusion Monte Carlo for the deuteron**|Rahul Somasundaram et.al.|[2404.11566](http://arxiv.org/abs/2404.11566)|null|
-|**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh et.al.|[2404.11565](http://arxiv.org/abs/2404.11565)|null|
+|**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh Wang et.al.|[2404.11565](http://arxiv.org/abs/2404.11565)|null|
 |**2024-04-17**|**Predicting Long-horizon Futures by Conditioning on Geometry and Time**|Tarasha Khurana et.al.|[2404.11554](http://arxiv.org/abs/2404.11554)|null|
 |**2024-04-17**|**A Bayesian level-set inversion method for simultaneous reconstruction of absorption and diffusion coefficients in diffuse optical tomography**|Anuj Abhishek et.al.|[2404.11552](http://arxiv.org/abs/2404.11552)|null|
 |**2024-04-17**|**SSDiff: Spatial-spectral Integrated Diffusion Model for Remote Sensing Pansharpening**|Yu Zhong et.al.|[2404.11537](http://arxiv.org/abs/2404.11537)|null|
