@@ -19,7 +19,7 @@ layout: default
 |**2024-04-25**|**IndicGenBench: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages**|Harman Singh et.al.|[2404.16816](http://arxiv.org/abs/2404.16816)|null|
 |**2024-04-25**|**Make Your LLM Fully Utilize the Context**|Shengnan An et.al.|[2404.16811](http://arxiv.org/abs/2404.16811)|**[link](https://github.com/microsoft/FILM)**|
 |**2024-04-25**|**Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning**|Tianhui Zhang et.al.|[2404.16807](http://arxiv.org/abs/2404.16807)|null|
-|**2024-04-25**|**Weak-to-Strong Extrapolation Expedites Alignment**|Chujie Zheng et.al.|[2404.16792](http://arxiv.org/abs/2404.16792)|null|
+|**2024-04-25**|**Weak-to-Strong Extrapolation Expedites Alignment**|Chujie Zheng et.al.|[2404.16792](http://arxiv.org/abs/2404.16792)|**[link](https://github.com/chujiezheng/llm-extrapolation)**|
 |**2024-04-25**|**SEED-Bench-2-Plus: Benchmarking Multimodal Large Language Models with Text-Rich Visual Comprehension**|Bohao Li et.al.|[2404.16790](http://arxiv.org/abs/2404.16790)|**[link](https://github.com/ailab-cvc/seed-bench)**|
 |**2024-04-25**|**Continual Learning of Large Language Models: A Comprehensive Survey**|Haizhou Shi et.al.|[2404.16789](http://arxiv.org/abs/2404.16789)|**[link](https://github.com/wang-ml-lab/llm-continual-learning-survey)**|
 |**2024-04-25**|**Prefix Text as a Yarn: Eliciting Non-English Alignment in Foundation Language Model**|Runzhe Zhan et.al.|[2404.16766](http://arxiv.org/abs/2404.16766)|null|
@@ -52,11 +52,11 @@ layout: default
 |**2024-04-24**|**Towards a Holistic Evaluation of LLMs on Factual Knowledge Recall**|Jiaqing Yuan et.al.|[2404.16164](http://arxiv.org/abs/2404.16164)|null|
 |**2024-04-24**|**Domain-Specific Improvement on Psychotherapy Chatbot Using Assistant**|Cheng Kang et.al.|[2404.16160](http://arxiv.org/abs/2404.16160)|null|
 |**2024-04-24**|**The Feasibility of Implementing Large-Scale Transformers on Multi-FPGA Platforms**|Yu Gao et.al.|[2404.16158](http://arxiv.org/abs/2404.16158)|null|
-|**2024-04-24**|**Chat2Scenario: Scenario Extraction From Dataset Through Utilization of Large Language Model**|Yongqi Zhao et.al.|[2404.16147](http://arxiv.org/abs/2404.16147)|null|
+|**2024-04-24**|**Chat2Scenario: Scenario Extraction From Dataset Through Utilization of Large Language Model**|Yongqi Zhao et.al.|[2404.16147](http://arxiv.org/abs/2404.16147)|**[link](https://github.com/ftgtugraz/chat2scenario)**|
 |**2024-04-24**|**From Local to Global: A Graph RAG Approach to Query-Focused Summarization**|Darren Edge et.al.|[2404.16130](http://arxiv.org/abs/2404.16130)|null|
 |**2024-04-24**|**Act as a Honeytoken Generator! An Investigation into Honeytoken Generation with Large Language Models**|Daniel Reti et.al.|[2404.16118](http://arxiv.org/abs/2404.16118)|null|
 |**2024-04-24**|**Classifying Human-Generated and AI-Generated Election Claims in Social Media**|Alphaeus Dmonte et.al.|[2404.16116](http://arxiv.org/abs/2404.16116)|null|
-|**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109](http://arxiv.org/abs/2404.16109)|null|
+|**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109](http://arxiv.org/abs/2404.16109)|**[link](https://github.com/jvhs0706/zkllm-ccs2024)**|
 |**2024-04-24**|**Cantor: Inspiring Multimodal Chain-of-Thought of MLLM**|Timin Gao et.al.|[2404.16033](http://arxiv.org/abs/2404.16033)|null|
 |**2024-04-24**|**Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts**|Evgenii Kortukov et.al.|[2404.16032](http://arxiv.org/abs/2404.16032)|**[link](https://github.com/kortukov/realistic_knowledge_conflicts)**|
 |**2024-04-24**|**The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models**|Hannah Rose Kirk et.al.|[2404.16019](http://arxiv.org/abs/2404.16019)|**[link](https://github.com/hannahkirk/prism-alignment)**|
@@ -80,13 +80,13 @@ layout: default
 |**2024-04-24**|**A Comprehensive Survey on Evaluating Large Language Model Applications in the Medical Industry**|Yining Huang et.al.|[2404.15777](http://arxiv.org/abs/2404.15777)|null|
 |**2024-04-24**|**Let's Think Dot by Dot: Hidden Computation in Transformer Language Models**|Jacob Pfau et.al.|[2404.15758](http://arxiv.org/abs/2404.15758)|**[link](https://github.com/jacobpfau/fillertokens)**|
 |**2024-04-25**|**What Makes Multimodal In-Context Learning Work?**|Folco Bertini Baldassini et.al.|[2404.15736](http://arxiv.org/abs/2404.15736)|**[link](https://gitlab.com/folbaeni/multimodal-icl)**|
-|**2024-04-24**|**Nyonic Technical Report**|Junfeng Tian et.al.|[2404.15702](http://arxiv.org/abs/2404.15702)|null|
+|**2024-04-24**|**Nyonic Technical Report**|Junfeng Tian et.al.|[2404.15702](http://arxiv.org/abs/2404.15702)|**[link](https://github.com/nyonicai/nyonic-public)**|
 |**2024-04-24**|**Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs**|Yu Xia et.al.|[2404.15676](http://arxiv.org/abs/2404.15676)|null|
 |**2024-04-25**|**The Promise and Challenges of Using LLMs to Accelerate the Screening Process of Systematic Reviews**|Aleksi Huotala et.al.|[2404.15667](http://arxiv.org/abs/2404.15667)|null|
 |**2024-04-24**|**KS-LLM: Knowledge Selection of Large Language Models with Evidence Document for Question Answering**|Xinxin Zheng et.al.|[2404.15660](http://arxiv.org/abs/2404.15660)|null|
 |**2024-04-24**|**Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering**|Jiawei Yao et.al.|[2404.15655](http://arxiv.org/abs/2404.15655)|null|
 |**2024-04-24**|**Return of EM: Entity-driven Answer Set Expansion for QA Evaluation**|Dongryeol Lee et.al.|[2404.15650](http://arxiv.org/abs/2404.15650)|null|
-|**2024-04-24**|**CodeIP: A Grammar-Guided Multi-Bit Watermark for Large Language Models of Code**|Batu Guan et.al.|[2404.15639](http://arxiv.org/abs/2404.15639)|null|
+|**2024-04-24**|**CodeIP: A Grammar-Guided Multi-Bit Watermark for Large Language Models of Code**|Batu Guan et.al.|[2404.15639](http://arxiv.org/abs/2404.15639)|**[link](https://github.com/CGCL-codes/naturalcc)**|
 |**2024-04-24**|**Hybrid LLM/Rule-based Approaches to Business Insights Generation from Structured Data**|Aliaksei Vertsel et.al.|[2404.15604](http://arxiv.org/abs/2404.15604)|null|
 |**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592](http://arxiv.org/abs/2404.15592)|**[link](https://github.com/HenryPengZou/ImplicitAVE)**|
 |**2024-04-24**|**Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?**|Hossein Salami et.al.|[2404.15578](http://arxiv.org/abs/2404.15578)|null|
@@ -97,7 +97,7 @@ layout: default
 |**2024-04-23**|**IryoNLP at MEDIQA-CORR 2024: Tackling the Medical Error Detection & Correction Task On the Shoulders of Medical Agents**|Jean-Philippe Corbeil et.al.|[2404.15488](http://arxiv.org/abs/2404.15488)|**[link](https://github.com/microsoft/iryonlp-mediqa-corr-2024)**|
 |**2024-04-23**|**Large Language Models Spot Phishing Emails with Surprising Accuracy: A Comparative Analysis of Performance**|Het Patel et.al.|[2404.15485](http://arxiv.org/abs/2404.15485)|null|
 |**2024-04-23**|**Can Large Language Models Learn the Physics of Metamaterials? An Empirical Study with ChatGPT**|Darui Lu et.al.|[2404.15458](http://arxiv.org/abs/2404.15458)|null|
-|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|null|
+|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|**[link](https://github.com/gao-g/prelude)**|
 |**2024-04-23**|**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**|Yifeng Ding et.al.|[2404.15247](http://arxiv.org/abs/2404.15247)|**[link](https://github.com/ise-uiuc/xft)**|
 |**2024-04-23**|**Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models**|Aidan Z. H. Yang et.al.|[2404.15236](http://arxiv.org/abs/2404.15236)|null|
 |**2024-04-23**|**Re-Thinking Inverse Graphics With Large Language Models**|Peter Kulits et.al.|[2404.15228](http://arxiv.org/abs/2404.15228)|null|
@@ -1027,7 +1027,7 @@ layout: default
 |**2024-04-24**|**Mammo-CLIP: Leveraging Contrastive Language-Image Pre-training (CLIP) for Enhanced Breast Cancer Diagnosis with Multi-view Mammography**|Xuxin Chen et.al.|[2404.15946](http://arxiv.org/abs/2404.15946)|null|
 |**2024-04-24**|**Seeing Beyond Classes: Zero-Shot Grounded Situation Recognition via Language Explainer**|Jiaming Lei et.al.|[2404.15785](http://arxiv.org/abs/2404.15785)|null|
 |**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592](http://arxiv.org/abs/2404.15592)|**[link](https://github.com/HenryPengZou/ImplicitAVE)**|
-|**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532](http://arxiv.org/abs/2404.15532)|null|
+|**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532](http://arxiv.org/abs/2404.15532)|**[link](https://github.com/agiresearch/battleagent)**|
 |**2024-04-23**|**Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs**|Davide Caffagni et.al.|[2404.15406](http://arxiv.org/abs/2404.15406)|null|
 |**2024-04-12**|**FLoRA: Enhancing Vision-Language Models with Parameter-Efficient Federated Learning**|Duy Phuong Nguyen et.al.|[2404.15182](http://arxiv.org/abs/2404.15182)|null|
 |**2024-04-23**|**MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning**|Sunan He et.al.|[2404.15127](http://arxiv.org/abs/2404.15127)|null|
@@ -1247,7 +1247,7 @@ layout: default
 |**2024-04-25**|**Multimodal Semantic-Aware Automatic Colorization with Diffusion Prior**|Han Wang et.al.|[2404.16678](http://arxiv.org/abs/2404.16678)|null|
 |**2024-04-25**|**The First Estimation of the Ambipolar Diffusivity Coefficient from Multi-Scale Observations of the Class 0/I Protostar, HOPS-370**|Travis J. Thieme et.al.|[2404.16668](http://arxiv.org/abs/2404.16668)|null|
 |**2024-04-25**|**Inferring solid-state diffusivity in lithium-ion battery active materials: improving upon the classical GITT method**|A. Emir Gumrukcuoglu et.al.|[2404.16658](http://arxiv.org/abs/2404.16658)|null|
-|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617](http://arxiv.org/abs/2404.16617)|null|
+|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617](http://arxiv.org/abs/2404.16617)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
 |**2024-04-25**|**Stochastic Dissipative Euler's equations for a free body**|J. A. de la Torre et.al.|[2404.16613](http://arxiv.org/abs/2404.16613)|null|
 |**2024-04-25**|**MuseumMaker: Continual Style Customization without Catastrophic Forgetting**|Chenxi Liu et.al.|[2404.16612](http://arxiv.org/abs/2404.16612)|null|
 |**2024-04-25**|**Markov generators as non-hermitian supersymmetric quantum Hamiltonians: spectral properties via bi-orthogonal basis and Singular Value Decompositions**|Cecile Monthus et.al.|[2404.16605](http://arxiv.org/abs/2404.16605)|null|
@@ -1258,7 +1258,7 @@ layout: default
 |**2024-04-25**|**A quantitative theory for heterogeneous combustion of nonvolatile metal particles in the diffusion-limited regime**|Daoguan Ning et.al.|[2404.16415](http://arxiv.org/abs/2404.16415)|null|
 |**2024-04-25**|**Rigorous derivation of a Hele-Shaw type model and its non-symmetric traveling wave solution**|Yu Feng et.al.|[2404.16353](http://arxiv.org/abs/2404.16353)|null|
 |**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/abs/2404.16306)|null|
-|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|null|
+|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302](http://arxiv.org/abs/2404.16302)|**[link](https://github.com/lhy-zjut/cfmw)**|
 |**2024-04-25**|**One Noise to Rule Them All: Learning a Unified Model of Spatially-Varying Noise Patterns**|Arman Maesumi et.al.|[2404.16292](http://arxiv.org/abs/2404.16292)|null|
 |**2024-04-25**|**Velocity-Based Monte Carlo Fluids**|Ryusuke Sugimoto et.al.|[2404.16274](http://arxiv.org/abs/2404.16274)|null|
 |**2024-04-24**|**Stabilization of hyperbolic reaction-diffusion systems on directed networks through the generalized Routh-Hurwitz criterion for complex polynomials**|Riccardo Muolo et.al.|[2404.16252](http://arxiv.org/abs/2404.16252)|null|
@@ -1318,9 +1318,9 @@ layout: default
 |**2024-04-23**|**Gradient Guidance for Diffusion Models: An Optimization Perspective**|Yingqing Guo et.al.|[2404.14743](http://arxiv.org/abs/2404.14743)|null|
 |**2024-04-25**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700](http://arxiv.org/abs/2404.14700)|null|
 |**2024-04-23**|**DreamPBR: Text-driven Generation of High-resolution SVBRDF with Multi-modal Guidance**|Linxuan Xin et.al.|[2404.14676](http://arxiv.org/abs/2404.14676)|null|
-|**2024-04-23**|**Source Localization for Cross Network Information Diffusion**|Chen Ling et.al.|[2404.14668](http://arxiv.org/abs/2404.14668)|null|
+|**2024-04-23**|**Source Localization for Cross Network Information Diffusion**|Chen Ling et.al.|[2404.14668](http://arxiv.org/abs/2404.14668)|**[link](https://github.com/tanmoysr/cnsl)**|
 |**2024-04-22**|**Dynamic Nanodomains Dictate Macroscopic Properties in Lead Halide Perovskites**|Milos Dubajic et.al.|[2404.14598](http://arxiv.org/abs/2404.14598)|null|
-|**2024-04-22**|**UVMap-ID: A Controllable and Personalized UV Map Generative Model**|Weijie Wang et.al.|[2404.14568](http://arxiv.org/abs/2404.14568)|null|
+|**2024-04-22**|**UVMap-ID: A Controllable and Personalized UV Map Generative Model**|Weijie Wang et.al.|[2404.14568](http://arxiv.org/abs/2404.14568)|**[link](https://github.com/twowwj/uvmap-id)**|
 |**2024-04-22**|**Align Your Steps: Optimizing Sampling Schedules in Diffusion Models**|Amirmojtaba Sabour et.al.|[2404.14507](http://arxiv.org/abs/2404.14507)|null|
 |**2024-04-22**|**Enhanced Muonization by Active-Sterile Neutrino Mixing in Protoneutron Stars**|Anupam Ray et.al.|[2404.14485](http://arxiv.org/abs/2404.14485)|null|
 |**2024-04-21**|**Graph Coloring Using Heat Diffusion**|Vivek Chaudhary et.al.|[2404.14457](http://arxiv.org/abs/2404.14457)|**[link](https://github.com/chaudhary-vivek/heo_gcp)**|
