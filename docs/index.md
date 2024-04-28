@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.27
+## Updated on 2024.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -1286,7 +1286,7 @@ layout: default
 |**2024-04-24**|**Generative Diffusion Model (GDM) for Optimization of Wi-Fi Networks**|Tie Liu et.al.|[2404.15684](http://arxiv.org/abs/2404.15684)|null|
 |**2024-04-24**|**AnoFPDM: Anomaly Segmentation with Forward Process of Diffusion Models for Brain MRI**|Yiming Che et.al.|[2404.15683](http://arxiv.org/abs/2404.15683)|null|
 |**2024-04-24**|**Homogeneous turbophoresis of heavy inertial particles in turbulent flow**|Jérémie Bec et.al.|[2404.15679](http://arxiv.org/abs/2404.15679)|null|
-|**2024-04-24**|**CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models**|Qinghe Wang et.al.|[2404.15677](http://arxiv.org/abs/2404.15677)|null|
+|**2024-04-24**|**CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models**|Qinghe Wang et.al.|[2404.15677](http://arxiv.org/abs/2404.15677)|**[link](https://github.com/qinghew/CharacterFactory)**|
 |**2024-04-24**|**Enhanced dissipation and blow-up suppression for an aggregation equation with fractional diffusion and shear flow**|Niu Binqian et.al.|[2404.15674](http://arxiv.org/abs/2404.15674)|null|
 |**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625](http://arxiv.org/abs/2404.15625)|null|
 |**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.27
+## Updated on 2024.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1017,7 +1017,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240428>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -1243,7 +1243,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240428>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1295,7 +1295,7 @@
 |**2024-04-24**|**Generative Diffusion Model (GDM) for Optimization of Wi-Fi Networks**|Tie Liu et.al.|[2404.15684](http://arxiv.org/abs/2404.15684)|null|
 |**2024-04-24**|**AnoFPDM: Anomaly Segmentation with Forward Process of Diffusion Models for Brain MRI**|Yiming Che et.al.|[2404.15683](http://arxiv.org/abs/2404.15683)|null|
 |**2024-04-24**|**Homogeneous turbophoresis of heavy inertial particles in turbulent flow**|Jérémie Bec et.al.|[2404.15679](http://arxiv.org/abs/2404.15679)|null|
-|**2024-04-24**|**CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models**|Qinghe Wang et.al.|[2404.15677](http://arxiv.org/abs/2404.15677)|null|
+|**2024-04-24**|**CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models**|Qinghe Wang et.al.|[2404.15677](http://arxiv.org/abs/2404.15677)|**[link](https://github.com/qinghew/CharacterFactory)**|
 |**2024-04-24**|**Enhanced dissipation and blow-up suppression for an aggregation equation with fractional diffusion and shear flow**|Niu Binqian et.al.|[2404.15674](http://arxiv.org/abs/2404.15674)|null|
 |**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625](http://arxiv.org/abs/2404.15625)|null|
 |**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
@@ -2010,7 +2010,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
