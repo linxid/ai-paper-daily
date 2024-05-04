@@ -28,13 +28,13 @@ layout: default
 |**2024-05-02**|**Verification and Refinement of Natural Language Explanations through LLM-Symbolic Theorem Proving**|Xin Quan et.al.|[2405.01379](http://arxiv.org/abs/2405.01379)|null|
 |**2024-05-02**|**GAIA: A General AI Assistant for Intelligent Accelerator Operations**|Frank Mayet et.al.|[2405.01359](http://arxiv.org/abs/2405.01359)|null|
 |**2024-05-02**|**Human-Robot Interaction Conversational User Enjoyment Scale (HRI CUES)**|Bahar Irfan et.al.|[2405.01354](http://arxiv.org/abs/2405.01354)|null|
-|**2024-05-02**|**The Power of Question Translation Training in Multilingual Reasoning: Broadened Scope and Deepened Insights**|Wenhao Zhu et.al.|[2405.01345](http://arxiv.org/abs/2405.01345)|null|
+|**2024-05-02**|**The Power of Question Translation Training in Multilingual Reasoning: Broadened Scope and Deepened Insights**|Wenhao Zhu et.al.|[2405.01345](http://arxiv.org/abs/2405.01345)|**[link](https://github.com/njunlp/qalign)**|
 |**2024-05-02**|**Overcoming LLM Challenges using RAG-Driven Precision in Coffee Leaf Disease Remediation**|Dr. Selva Kumar S et.al.|[2405.01310](http://arxiv.org/abs/2405.01310)|null|
 |**2024-05-02**|**The Effectiveness of LLMs as Annotators: A Comparative Overview and Empirical Analysis of Direct Representation**|Maja Pavlovic et.al.|[2405.01299](http://arxiv.org/abs/2405.01299)|null|
 |**2024-05-02**|**Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices**|Jamil Zaghir et.al.|[2405.01249](http://arxiv.org/abs/2405.01249)|null|
 |**2024-05-02**|**Boosting Jailbreak Attack with Momentum**|Yihao Zhang et.al.|[2405.01229](http://arxiv.org/abs/2405.01229)|**[link](https://github.com/weizeming/momentum-attack-llm)**|
 |**2024-05-02**|**DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection**|Yanjing Yang et.al.|[2405.01202](http://arxiv.org/abs/2405.01202)|null|
-|**2024-05-02**|**Generative Relevance Feedback and Convergence of Adaptive Re-Ranking: University of Glasgow Terrier Team at TREC DL 2023**|Andrew Parry et.al.|[2405.01122](http://arxiv.org/abs/2405.01122)|null|
+|**2024-05-02**|**Generative Relevance Feedback and Convergence of Adaptive Re-Ranking: University of Glasgow Terrier Team at TREC DL 2023**|Andrew Parry et.al.|[2405.01122](http://arxiv.org/abs/2405.01122)|**[link](https://github.com/Parry-Parry/terrier_trec_2023)**|
 |**2024-05-02**|**Efficient Data Generation for Source-grounded Information-seeking Dialogs: A Use Case for Meeting Transcripts**|Lotem Golany et.al.|[2405.01121](http://arxiv.org/abs/2405.01121)|null|
 |**2024-05-02**|**"In-Context Learning" or: How I learned to stop worrying and love "Applied Information Retrieval"**|Andrew Parry et.al.|[2405.01116](http://arxiv.org/abs/2405.01116)|null|
 |**2024-05-02**|**LLM Security Guard for Code**|Arya Kavian et.al.|[2405.01103](http://arxiv.org/abs/2405.01103)|null|
@@ -58,9 +58,9 @@ layout: default
 |**2024-05-01**|**From Keyboard to Chatbot: An AI-powered Integration Platform with Large-Language Models for Teaching Computational Thinking for Young Children**|Changjae Lee et.al.|[2405.00750](http://arxiv.org/abs/2405.00750)|null|
 |**2024-05-01**|**ChatGPT in Data Visualization Education: A Student Perspective**|Nam Wook Kim et.al.|[2405.00748](http://arxiv.org/abs/2405.00748)|null|
 |**2024-04-30**|**Soft Preference Optimization: Aligning Language Models to Expert Distributions**|Arsalan Sharifnassab et.al.|[2405.00747](http://arxiv.org/abs/2405.00747)|null|
-|**2024-05-01**|**Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3**|Junsang Yoon et.al.|[2405.00664](http://arxiv.org/abs/2405.00664)|null|
+|**2024-05-01**|**Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model Editing with Llama-3**|Junsang Yoon et.al.|[2405.00664](http://arxiv.org/abs/2405.00664)|**[link](https://github.com/scalable-model-editing/unified-model-editing)**|
 |**2024-05-01**|**HalluVault: A Novel Logic Programming-aided Metamorphic Testing Framework for Detecting Fact-Conflicting Hallucinations in Large Language Models**|Ningke Li et.al.|[2405.00648](http://arxiv.org/abs/2405.00648)|null|
-|**2024-05-01**|**When Quantization Affects Confidence of Large Language Models?**|Irina Proskurina et.al.|[2405.00632](http://arxiv.org/abs/2405.00632)|null|
+|**2024-05-01**|**When Quantization Affects Confidence of Large Language Models?**|Irina Proskurina et.al.|[2405.00632](http://arxiv.org/abs/2405.00632)|**[link](https://github.com/upunaprosk/quantized-lm-confidence)**|
 |**2024-05-01**|**"I'm Not Sure, But...": Examining the Impact of Large Language Models' Uncertainty Expression on User Reliance and Trust**|Sunnie S. Y. Kim et.al.|[2405.00623](http://arxiv.org/abs/2405.00623)|null|
 |**2024-05-01**|**Addressing Topic Granularity and Hallucination in Large Language Models for Topic Modelling**|Yida Mu et.al.|[2405.00611](http://arxiv.org/abs/2405.00611)|null|
 |**2024-05-01**|**Investigating Automatic Scoring and Feedback using Large Language Models**|Gloria Ashiya Katuka et.al.|[2405.00602](http://arxiv.org/abs/2405.00602)|null|
@@ -72,7 +72,7 @@ layout: default
 |**2024-05-01**|**Long-Term Human Trajectory Prediction using 3D Dynamic Scene Graphs**|Nicolas Gorlo et.al.|[2405.00552](http://arxiv.org/abs/2405.00552)|null|
 |**2024-05-01**|**ChatBI: Towards Natural Language to Complex Business Intelligence SQL**|Jinqing Lian et.al.|[2405.00527](http://arxiv.org/abs/2405.00527)|null|
 |**2024-05-01**|**Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning**|Lucas-Andreï Thil et.al.|[2405.00516](http://arxiv.org/abs/2405.00516)|null|
-|**2024-05-01**|**GOLD: Geometry Problem Solver with Natural Language Description**|Jiaxin Zhang et.al.|[2405.00494](http://arxiv.org/abs/2405.00494)|null|
+|**2024-05-01**|**GOLD: Geometry Problem Solver with Natural Language Description**|Jiaxin Zhang et.al.|[2405.00494](http://arxiv.org/abs/2405.00494)|**[link](https://github.com/neurasearch/geometry-diagram-description)**|
 |**2024-05-01**|**Is Temperature the Creativity Parameter of Large Language Models?**|Max Peeperkorn et.al.|[2405.00492](http://arxiv.org/abs/2405.00492)|null|
 |**2024-05-01**|**The Pyramid of Captions**|Delong Chen et.al.|[2405.00485](http://arxiv.org/abs/2405.00485)|null|
 |**2024-05-02**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465](http://arxiv.org/abs/2405.00465)|null|
@@ -1582,7 +1582,7 @@ layout: default
 |**2024-04-30**|**Well-posedness of McKean-Vlasov SDEs with density-dependent drift**|Anh-Dung Le et.al.|[2404.19499](http://arxiv.org/abs/2404.19499)|null|
 |**2024-04-30**|**TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**|Teng Zhou et.al.|[2404.19475](http://arxiv.org/abs/2404.19475)|null|
 |**2024-05-02**|**AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion**|Jie Hu et.al.|[2404.19444](http://arxiv.org/abs/2404.19444)|**[link](https://github.com/hujiecpp/mvtec-caption)**|
-|**2024-04-30**|**Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**|Xiaoxuan Han et.al.|[2404.19382](http://arxiv.org/abs/2404.19382)|null|
+|**2024-04-30**|**Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**|Xiaoxuan Han et.al.|[2404.19382](http://arxiv.org/abs/2404.19382)|**[link](https://github.com/hxxdtd/pund)**|
 |**2024-04-30**|**Perspectives of a single-anode cylindrical chamber operating in ionization mode and high gas pressure**|R. Bouet et.al.|[2404.19374](http://arxiv.org/abs/2404.19374)|null|
 |**2024-04-30**|**Bridge to Non-Barrier Communication: Gloss-Prompted Fine-grained Cued Speech Gesture Generation with Diffusion Model**|Wentao Lei et.al.|[2404.19277](http://arxiv.org/abs/2404.19277)|null|
 |**2024-04-30**|**Regularity and long-time behavior of global weak solutions to a coupled Cahn-Hilliard system: the off-critical case**|Bohan Ouyang et.al.|[2404.19271](http://arxiv.org/abs/2404.19271)|null|
@@ -1599,7 +1599,7 @@ layout: default
 |**2024-04-29**|**Gamma-ray Emission from a Young Star Cluster in the Star-Forming Region RCW 38**|Paarmita Pandey et.al.|[2404.19001](http://arxiv.org/abs/2404.19001)|null|
 |**2024-04-29**|**"I'm in the Bluesky Tonight": Insights from a Year Worth of Social Data**|Andrea Failla et.al.|[2404.18984](http://arxiv.org/abs/2404.18984)|null|
 |**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928](http://arxiv.org/abs/2404.18928)|null|
-|**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919](http://arxiv.org/abs/2404.18919)|null|
+|**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919](http://arxiv.org/abs/2404.18919)|**[link](https://github.com/donahowe/theatergen)**|
 |**2024-04-29**|**Learning general Gaussian mixtures with efficient score matching**|Sitan Chen et.al.|[2404.18893](http://arxiv.org/abs/2404.18893)|null|
 |**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886](http://arxiv.org/abs/2404.18886)|**[link](https://github.com/yyysjz1997/awesome-timeseries-spatiotemporal-diffusion-model)**|
 |**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869](http://arxiv.org/abs/2404.18869)|null|
@@ -1610,7 +1610,7 @@ layout: default
 |**2024-04-29**|**Diffusion coefficient matrix for multiple conserved charges: a Kubo approach**|Sourav Dey et.al.|[2404.18718](http://arxiv.org/abs/2404.18718)|null|
 |**2024-04-29**|**Real-fluid Transport Property Computations Based on the Boltzmann-weighted Full-dimensional Potential Model**|Xin Zhang et.al.|[2404.18700](http://arxiv.org/abs/2404.18700)|null|
 |**2024-04-29**|**Bootstrap 3D Reconstructed Scenes from 3D Gaussian Splatting**|Yifei Gao et.al.|[2404.18669](http://arxiv.org/abs/2404.18669)|null|
-|**2024-04-29**|**Analysis for Implicit and Implicit-Explicit ADER and DeC Methods for Ordinary Differential Equations, Advection-Diffusion and Advection-Dispersion Equations**|Philipp Öffner et.al.|[2404.18626](http://arxiv.org/abs/2404.18626)|null|
+|**2024-04-29**|**Analysis for Implicit and Implicit-Explicit ADER and DeC Methods for Ordinary Differential Equations, Advection-Diffusion and Advection-Dispersion Equations**|Philipp Öffner et.al.|[2404.18626](http://arxiv.org/abs/2404.18626)|**[link](https://github.com/accdavlo/imex_dec_ader)**|
 |**2024-04-29**|**FlexiFilm: Long Video Generation with Flexible Conditions**|Yichen Ouyang et.al.|[2404.18620](http://arxiv.org/abs/2404.18620)|**[link](https://github.com/Y-ichen/FlexiFilm)**|
 |**2024-04-29**|**Statistical formulation of Onsager-Machlup variational principle**|Kento Yasuda et.al.|[2404.18611](http://arxiv.org/abs/2404.18611)|null|
 |**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598](http://arxiv.org/abs/2404.18598)|null|
