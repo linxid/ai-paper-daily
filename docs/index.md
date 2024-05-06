@@ -14,6 +14,47 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Leveraging Large Language Models to Enhance Domain Expert Inclusion in Data Science Workflows**|Jasmine Y. Shih et.al.|[2405.02260](http://arxiv.org/abs/2405.02260)|null|
+|**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246](http://arxiv.org/abs/2405.02246)|null|
+|**2024-05-03**|**REASONS: A benchmark for REtrieval and Automated citationS Of scieNtific Sentences using Public and Proprietary LLMs**|Deepa Tilwani et.al.|[2405.02228](http://arxiv.org/abs/2405.02228)|null|
+|**2024-05-03**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219](http://arxiv.org/abs/2405.02219)|null|
+|**2024-05-03**|**Automatic Programming: Large Language Models and Beyond**|Michael R. Lyu et.al.|[2405.02213](http://arxiv.org/abs/2405.02213)|null|
+|**2024-05-03**|**Assessing and Verifying Task Utility in LLM-Powered Applications**|Negar Arabzadeh et.al.|[2405.02178](http://arxiv.org/abs/2405.02178)|null|
+|**2024-05-03**|**The AI Review Lottery: Widespread AI-Assisted Peer Reviews Boost Paper Scores and Acceptance Rates**|Giuseppe Russo Latona et.al.|[2405.02150](http://arxiv.org/abs/2405.02150)|null|
+|**2024-05-03**|**MedReadMe: A Systematic Study for Fine-grained Sentence Readability in Medical Domain**|Chao Jiang et.al.|[2405.02144](http://arxiv.org/abs/2405.02144)|null|
+|**2024-05-03**|**Optimising Calls to Large Language Models with Uncertainty-Based Two-Tier Selection**|Guillem Ramírez et.al.|[2405.02134](http://arxiv.org/abs/2405.02134)|null|
+|**2024-05-03**|**Unveiling the Potential of LLM-Based ASR on Chinese Open-Source Datasets**|Xuelong Geng et.al.|[2405.02132](http://arxiv.org/abs/2405.02132)|null|
+|**2024-05-03**|**Evaluating Large Language Models for Structured Science Summarization in the Open Research Knowledge Graph**|Vladyslav Nechakhin et.al.|[2405.02105](http://arxiv.org/abs/2405.02105)|null|
+|**2024-05-03**|**Argumentative Large Language Models for Explainable and Contestable Decision-Making**|Gabriel Freedman et.al.|[2405.02079](http://arxiv.org/abs/2405.02079)|null|
+|**2024-05-03**|**Analyzing Narrative Processing in Large Language Models (LLMs): Using GPT4 to test BERT**|Patrick Krauss et.al.|[2405.02024](http://arxiv.org/abs/2405.02024)|null|
+|**2024-05-03**|**Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo**|Mahmoud Masoud et.al.|[2405.01997](http://arxiv.org/abs/2405.01997)|null|
+|**2024-05-03**|**Conformal Prediction for Natural Language Processing: A Survey**|Margarida M. Campos et.al.|[2405.01976](http://arxiv.org/abs/2405.01976)|null|
+|**2024-05-03**|**Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models**|Zhiyu Guo et.al.|[2405.01943](http://arxiv.org/abs/2405.01943)|null|
+|**2024-05-03**|**Which Identities Are Mobilized: Towards an automated detection of social group appeals in political texts**|Felicia Riethmüller et.al.|[2405.01904](http://arxiv.org/abs/2405.01904)|null|
+|**2024-05-03**|**Aloe: A Family of Fine-tuned Open Healthcare LLMs**|Ashwin Kumar Gururajan et.al.|[2405.01886](http://arxiv.org/abs/2405.01886)|null|
+|**2024-05-03**|**DALLMi: Domain Adaption for LLM-based Multi-label Classifier**|Miruna Beţianu et.al.|[2405.01883](http://arxiv.org/abs/2405.01883)|null|
+|**2024-05-03**|**Automated Control Logic Test Case Generation using Large Language Models**|Heiko Koziolek et.al.|[2405.01874](http://arxiv.org/abs/2405.01874)|null|
+|**2024-05-03**|**Incorporating External Knowledge and Goal Guidance for LLM-based Conversational Recommender Systems**|Chuang Li et.al.|[2405.01868](http://arxiv.org/abs/2405.01868)|null|
+|**2024-05-03**|**SUKHSANDESH: An Avatar Therapeutic Question Answering Platform for Sexual Education in Rural India**|Salam Michael Singh et.al.|[2405.01858](http://arxiv.org/abs/2405.01858)|null|
+|**2024-05-03**|**SGHateCheck: Functional Tests for Detecting Hate Speech in Low-Resource Languages of Singapore**|Ri Chi Ng et.al.|[2405.01842](http://arxiv.org/abs/2405.01842)|null|
+|**2024-05-03**|**Improving Concept Alignment in Vision-Language Concept Bottleneck Models**|Nithish Muthuchamy Selvaraj et.al.|[2405.01825](http://arxiv.org/abs/2405.01825)|**[link](https://github.com/nms05/improving-concept-alignment-in-vision-language-concept-bottleneck-models)**|
+|**2024-05-03**|**Efficient and Economic Large Language Model Inference with Attention Offloading**|Shaoyuan Chen et.al.|[2405.01814](http://arxiv.org/abs/2405.01814)|null|
+|**2024-05-03**|**Exploiting ChatGPT for Diagnosing Autism-Associated Language Disorders and Identifying Distinct Features**|Chuanbo Hu et.al.|[2405.01799](http://arxiv.org/abs/2405.01799)|null|
+|**2024-05-03**|**Towards Neural Synthesis for SMT-Assisted Proof-Oriented Programming**|Saikat Chakraborty et.al.|[2405.01787](http://arxiv.org/abs/2405.01787)|null|
+|**2024-05-02**|**A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law**|Zhiyu Zoey Chen et.al.|[2405.01769](http://arxiv.org/abs/2405.01769)|null|
+|**2024-05-02**|**CoS: Enhancing Personalization and Mitigating Bias with Context Steering**|Jerry Zhi-Yang He et.al.|[2405.01768](http://arxiv.org/abs/2405.01768)|null|
+|**2024-05-02**|**Large Language Models for UAVs: Current State and Pathways to the Future**|Shumaila Javaid et.al.|[2405.01745](http://arxiv.org/abs/2405.01745)|null|
+|**2024-05-02**|**ALCM: Autonomous LLM-Augmented Causal Discovery Framework**|Elahe Khatibi et.al.|[2405.01744](http://arxiv.org/abs/2405.01744)|null|
+|**2024-05-02**|**Question Suggestion for Conversational Shopping Assistants Using Product Metadata**|Nikhita Vedula et.al.|[2405.01738](http://arxiv.org/abs/2405.01738)|null|
+|**2024-05-02**|**Large Language Models are Inconsistent and Biased Evaluators**|Rickard Stureborg et.al.|[2405.01724](http://arxiv.org/abs/2405.01724)|null|
+|**2024-05-02**|**Requirements-driven Slicing of Simulink Models Using LLMs**|Dipeeka Luitel et.al.|[2405.01695](http://arxiv.org/abs/2405.01695)|null|
+|**2024-05-02**|**Automatically Extracting Numerical Results from Randomized Controlled Trials with Large Language Models**|Hye Sun Yun et.al.|[2405.01686](http://arxiv.org/abs/2405.01686)|null|
+|**2024-05-02**|**Leveraging Prompt-Learning for Structured Information Extraction from Crohn's Disease Radiology Reports in a Low-Resource Language**|Liam Hazan et.al.|[2405.01682](http://arxiv.org/abs/2405.01682)|null|
+|**2024-05-02**|**Generative AI in Cybersecurity**|Shivani Metta et.al.|[2405.01674](http://arxiv.org/abs/2405.01674)|null|
+|**2024-05-02**|**WitheredLeaf: Finding Entity-Inconsistency Bugs with LLMs**|Hongbo Chen et.al.|[2405.01668](http://arxiv.org/abs/2405.01668)|null|
+|**2024-05-02**|**Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit's Showerthoughts**|Tolga Buz et.al.|[2405.01660](http://arxiv.org/abs/2405.01660)|null|
+|**2024-05-02**|**Improving Complex Reasoning over Knowledge Graph with Logic-Aware Curriculum Tuning**|Tianle Xia et.al.|[2405.01649](http://arxiv.org/abs/2405.01649)|null|
+|**2024-05-02**|**Automating the Analysis of Public Saliency and Attitudes towards Biodiversity from Digital Media**|Noah Giebink et.al.|[2405.01610](http://arxiv.org/abs/2405.01610)|null|
 |**2024-05-02**|**Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks**|Murtaza Dalal et.al.|[2405.01534](http://arxiv.org/abs/2405.01534)|null|
 |**2024-05-02**|**OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning**|Shihao Wang et.al.|[2405.01533](http://arxiv.org/abs/2405.01533)|null|
 |**2024-05-02**|**FLAME: Factuality-Aware Alignment for Large Language Models**|Sheng-Chieh Lin et.al.|[2405.01525](http://arxiv.org/abs/2405.01525)|null|
@@ -1263,6 +1304,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?**|Maxime Zanella et.al.|[2405.02266](http://arxiv.org/abs/2405.02266)|**[link](https://github.com/maxzanella/mta)**|
+|**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246](http://arxiv.org/abs/2405.02246)|null|
+|**2024-05-03**|**Auto-Encoding Morph-Tokens for Multimodal LLM**|Kaihang Pan et.al.|[2405.01926](http://arxiv.org/abs/2405.01926)|**[link](https://github.com/dcdmllm/morphtokens)**|
+|**2024-05-03**|**Improving Concept Alignment in Vision-Language Concept Bottleneck Models**|Nithish Muthuchamy Selvaraj et.al.|[2405.01825](http://arxiv.org/abs/2405.01825)|**[link](https://github.com/nms05/improving-concept-alignment-in-vision-language-concept-bottleneck-models)**|
 |**2024-05-02**|**V-FLUTE: Visual Figurative Language Understanding with Textual Explanations**|Arkadiy Saakyan et.al.|[2405.01474](http://arxiv.org/abs/2405.01474)|null|
 |**2024-05-02**|**Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models**|Yifei Ming et.al.|[2405.01468](http://arxiv.org/abs/2405.01468)|null|
 |**2024-05-02**|**MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors**|Yuan Tang et.al.|[2405.01413](http://arxiv.org/abs/2405.01413)|null|
@@ -1510,6 +1555,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280](http://arxiv.org/abs/2405.02280)|null|
+|**2024-05-03**|**Relic gravitons and non-stationary processes**|Massimo Giovannini et.al.|[2405.02193](http://arxiv.org/abs/2405.02193)|null|
+|**2024-05-03**|**Tangentially Active Polymers in Cylindrical Channels**|José Martín-Roca et.al.|[2405.02192](http://arxiv.org/abs/2405.02192)|null|
+|**2024-05-03**|**Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving**|Haicheng Liao et.al.|[2405.02145](http://arxiv.org/abs/2405.02145)|null|
+|**2024-05-03**|**Global regularity and infinite Prandtl number limit of temperature patches for the 2D Boussinesq system**|Omar Lazar et.al.|[2405.02137](http://arxiv.org/abs/2405.02137)|null|
+|**2024-05-03**|**Multi-grid reaction-diffusion master equation: applications to morphogen gradient modelling**|Radek Erban et.al.|[2405.02117](http://arxiv.org/abs/2405.02117)|null|
+|**2024-05-03**|**On variable annuities with surrender charges**|Tiziano De Angelis et.al.|[2405.02115](http://arxiv.org/abs/2405.02115)|null|
+|**2024-05-03**|**Anomalous transport in the quantum East-West kinetically constrained model**|Pietro Brighi et.al.|[2405.02102](http://arxiv.org/abs/2405.02102)|null|
+|**2024-05-03**|**Radiative and mechanical energies in galaxies I. Contributions of molecular shocks and PDRs in 3C 326 N**|J. A. Villa-Vélez et.al.|[2405.02058](http://arxiv.org/abs/2405.02058)|null|
+|**2024-05-03**|**The CO-dark molecular gas in the cold HI arc**|Gan Luo et.al.|[2405.02055](http://arxiv.org/abs/2405.02055)|null|
+|**2024-05-03**|**Digital Dark Field -- Higher Signal to Noise and Greater Specificity Dark Field Imaging using a 4DSTEM Approach**|Ian MacLaren et.al.|[2405.02037](http://arxiv.org/abs/2405.02037)|null|
+|**2024-05-03**|**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**|Peijin Jia et.al.|[2405.02008](http://arxiv.org/abs/2405.02008)|null|
+|**2024-05-03**|**Real-time multichannel deep speech enhancement in hearing aids: Comparing monaural and binaural processing in complex acoustic scenarios**|Nils L. Westhausen et.al.|[2405.01967](http://arxiv.org/abs/2405.01967)|null|
+|**2024-05-03**|**Enhancement of swimmer diffusion through regular kicks: analytic mapping of a scale independent parameter space**|Arnau Jurado Romero et.al.|[2405.01954](http://arxiv.org/abs/2405.01954)|null|
+|**2024-05-03**|**Schwarz Methods for Nonlocal Problems**|Matthias Schuster et.al.|[2405.01905](http://arxiv.org/abs/2405.01905)|null|
+|**2024-05-03**|**Long time behavior of a degenerate stochastic system modeling the response of a population face to environmental impacts**|Pierre Collet et.al.|[2405.01898](http://arxiv.org/abs/2405.01898)|null|
+|**2024-05-03**|**Characterization of the attractor for nonautonomous reaction-diffusion equations with discontinuous nonlinearity**|José Valero et.al.|[2405.01894](http://arxiv.org/abs/2405.01894)|null|
+|**2024-05-03**|**Defect Image Sample Generation With Diffusion Prior for Steel Surface Defect Recognition**|Yichun Tai et.al.|[2405.01872](http://arxiv.org/abs/2405.01872)|null|
+|**2024-05-03**|**A Novel Approach to Guard from Adversarial Attacks using Stable Diffusion**|Trinath Sai Subhash Reddy Pittala et.al.|[2405.01838](http://arxiv.org/abs/2405.01838)|null|
+|**2024-05-03**|**Creation of Novel Soft Robot Designs using Generative AI**|Wee Kiat Chan et.al.|[2405.01824](http://arxiv.org/abs/2405.01824)|null|
+|**2024-05-03**|**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics**|Rucha Deshpande et.al.|[2405.01822](http://arxiv.org/abs/2405.01822)|null|
+|**2024-05-02**|**CGD: Constraint-Guided Diffusion Policies for UAV Trajectory Planning**|Kota Kondo et.al.|[2405.01758](http://arxiv.org/abs/2405.01758)|null|
+|**2024-05-02**|**Converting Anyone's Voice: End-to-End Expressive Voice Conversion with a Conditional Diffusion Model**|Zongyang Du et.al.|[2405.01730](http://arxiv.org/abs/2405.01730)|null|
+|**2024-05-02**|**Long Tail Image Generation Through Feature Space Augmentation and Iterated Learning**|Rafael Elberg et.al.|[2405.01705](http://arxiv.org/abs/2405.01705)|**[link](https://github.com/sugarfreemanatee/feature-space-augmentation-and-iterated-learning)**|
+|**2024-05-02**|**The Gapeev-Shiryaev Conjecture**|Philip A. Ernst et.al.|[2405.01685](http://arxiv.org/abs/2405.01685)|null|
+|**2024-05-02**|**SAUNAS I: Searching for Low Surface Brightness X-ray Emission with Chandra/ACIS**|Alejandro S. Borlaff et.al.|[2405.01625](http://arxiv.org/abs/2405.01625)|null|
+|**2024-05-02**|**Improving Trainability of Variational Quantum Circuits via Regularization Strategies**|Jun Zhuang et.al.|[2405.01606](http://arxiv.org/abs/2405.01606)|null|
 |**2024-05-02**|**Customizing Text-to-Image Models with a Single Image Pair**|Maxwell Jones et.al.|[2405.01536](http://arxiv.org/abs/2405.01536)|null|
 |**2024-05-02**|**The heat equation with time-correlated random potential in d=2: Edwards-Wilkinson fluctuations**|Sotirios Kotitsas et.al.|[2405.01519](http://arxiv.org/abs/2405.01519)|null|
 |**2024-05-02**|**Effective Lifshitz black holes, hydrodynamics, and transport coefficients in fluid/gravity correspondence**|D. C. Moreira et.al.|[2405.01505](http://arxiv.org/abs/2405.01505)|null|
