@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.07
+## Updated on 2024.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -27,7 +27,7 @@ layout: default
 |**2024-05-06**|**Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-Context Learning**|Yubo Mai et.al.|[2405.03509](http://arxiv.org/abs/2405.03509)|null|
 |**2024-05-06**|**LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model**|Haowen Sun et.al.|[2405.03485](http://arxiv.org/abs/2405.03485)|**[link](https://github.com/l-sun/lgtm)**|
 |**2024-05-06**|**Doing Personal LAPS: LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search**|Hideaki Joko et.al.|[2405.03480](http://arxiv.org/abs/2405.03480)|null|
-|**2024-05-06**|**Large Language Models (LLMs) as Agents for Augmented Democracy**|Jairo Gudiño-Rosero et.al.|[2405.03452](http://arxiv.org/abs/2405.03452)|null|
+|**2024-05-07**|**Large Language Models (LLMs) as Agents for Augmented Democracy**|Jairo Gudiño-Rosero et.al.|[2405.03452](http://arxiv.org/abs/2405.03452)|null|
 |**2024-05-06**|**SEvenLLM: Benchmarking, Eliciting, and Enhancing Abilities of Large Language Models in Cyber Threat Intelligence**|Hangyuan Ji et.al.|[2405.03446](http://arxiv.org/abs/2405.03446)|null|
 |**2024-05-06**|**Gaussian Stochastic Weight Averaging for Bayesian Low-Rank Adaptation of Large Language Models**|Emre Onal et.al.|[2405.03425](http://arxiv.org/abs/2405.03425)|null|
 |**2024-05-06**|**Snake Learning: A Communication- and Computation-Efficient Distributed Learning Framework for 6G**|Xiaoxue Yu et.al.|[2405.03372](http://arxiv.org/abs/2405.03372)|null|
@@ -69,7 +69,7 @@ layout: default
 |**2024-05-05**|**Trojans in Large Language Models of Code: A Critical Review through a Trigger-Based Taxonomy**|Aftab Hussain et.al.|[2405.02828](http://arxiv.org/abs/2405.02828)|null|
 |**2024-05-05**|**HuixiangDou-CR: Coreference Resolution in Group Chats**|Huanjun Kong et.al.|[2405.02817](http://arxiv.org/abs/2405.02817)|**[link](https://github.com/internlm/huixiangdou)**|
 |**2024-05-05**|**NegativePrompt: Leveraging Psychology for Large Language Models Enhancement via Negative Emotional Stimuli**|Xu Wang et.al.|[2405.02814](http://arxiv.org/abs/2405.02814)|**[link](https://github.com/wangxu0820/negativeprompt)**|
-|**2024-05-05**|**Mozart's Touch: A Lightweight Multi-modal Music Generation Framework Based on Pre-Trained Large Models**|Tianze Xu et.al.|[2405.02801](http://arxiv.org/abs/2405.02801)|**[link](https://github.com/wangtoonaive/mozartstouch)**|
+|**2024-05-07**|**Mozart's Touch: A Lightweight Multi-modal Music Generation Framework Based on Pre-Trained Large Models**|Tianze Xu et.al.|[2405.02801](http://arxiv.org/abs/2405.02801)|**[link](https://github.com/wangtoonaive/mozartstouch)**|
 |**2024-05-05**|**Confidential and Protected Disease Classifier using Fully Homomorphic Encryption**|Aditya Malik et.al.|[2405.02790](http://arxiv.org/abs/2405.02790)|null|
 |**2024-05-05**|**Improve Temporal Awareness of LLMs for Sequential Recommendation**|Zhendong Chu et.al.|[2405.02778](http://arxiv.org/abs/2405.02778)|null|
 |**2024-05-04**|**Assessing Adversarial Robustness of Large Language Models: An Empirical Study**|Zeyu Yang et.al.|[2405.02764](http://arxiv.org/abs/2405.02764)|null|
@@ -1706,7 +1706,7 @@ layout: default
 |**2024-05-03**|**Anomalous transport in the quantum East-West kinetically constrained model**|Pietro Brighi et.al.|[2405.02102](http://arxiv.org/abs/2405.02102)|null|
 |**2024-05-03**|**Radiative and mechanical energies in galaxies I. Contributions of molecular shocks and PDRs in 3C 326 N**|J. A. Villa-Vélez et.al.|[2405.02058](http://arxiv.org/abs/2405.02058)|null|
 |**2024-05-03**|**The CO-dark molecular gas in the cold HI arc**|Gan Luo et.al.|[2405.02055](http://arxiv.org/abs/2405.02055)|null|
-|**2024-05-03**|**Digital Dark Field -- Higher Signal to Noise and Greater Specificity Dark Field Imaging using a 4DSTEM Approach**|Ian MacLaren et.al.|[2405.02037](http://arxiv.org/abs/2405.02037)|null|
+|**2024-05-07**|**Digital Dark Field -- Higher Signal to Noise and Greater Specificity Dark Field Imaging using a 4DSTEM Approach**|Ian MacLaren et.al.|[2405.02037](http://arxiv.org/abs/2405.02037)|null|
 |**2024-05-03**|**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**|Peijin Jia et.al.|[2405.02008](http://arxiv.org/abs/2405.02008)|null|
 |**2024-05-03**|**Real-time multichannel deep speech enhancement in hearing aids: Comparing monaural and binaural processing in complex acoustic scenarios**|Nils L. Westhausen et.al.|[2405.01967](http://arxiv.org/abs/2405.01967)|null|
 |**2024-05-03**|**Enhancement of swimmer diffusion through regular kicks: analytic mapping of a scale independent parameter space**|Arnau Jurado Romero et.al.|[2405.01954](http://arxiv.org/abs/2405.01954)|null|
