@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
-|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|**[link](https://github.com/idanshen/Value-Augmented-Sampling)**|
 |**2024-05-10**|**Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models**|Chakshu Moar et.al.|[2405.06626](http://arxiv.org/abs/2405.06626)|null|
 |**2024-05-10**|**What Can Natural Language Processing Do for Peer Review?**|Ilia Kuznetsov et.al.|[2405.06563](http://arxiv.org/abs/2405.06563)|null|
 |**2024-05-10**|**Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval**|Mengjia Niu et.al.|[2405.06545](http://arxiv.org/abs/2405.06545)|null|
@@ -56,7 +56,7 @@
 |**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955](http://arxiv.org/abs/2405.05955)|null|
 |**2024-05-09**|**CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**|Jiachen Li et.al.|[2405.05949](http://arxiv.org/abs/2405.05949)|**[link](https://github.com/shi-labs/cumo)**|
 |**2024-05-09**|**Trustworthy AI-Generative Content in Intelligent 6G Network: Adversarial, Privacy, and Fairness**|Siyuan Li et.al.|[2405.05930](http://arxiv.org/abs/2405.05930)|null|
-|**2024-05-09**|**Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?**|Zorik Gekhman et.al.|[2405.05904](http://arxiv.org/abs/2405.05904)|null|
+|**2024-05-13**|**Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?**|Zorik Gekhman et.al.|[2405.05904](http://arxiv.org/abs/2405.05904)|null|
 |**2024-05-09**|**Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes**|Ziang Guo et.al.|[2405.05885](http://arxiv.org/abs/2405.05885)|null|
 |**2024-05-09**|**FlockGPT: Guiding UAV Flocking with Linguistic Orchestration**|Artem Lykov et.al.|[2405.05872](http://arxiv.org/abs/2405.05872)|null|
 |**2024-05-09**|**Robots Can Feel: LLM-based Framework for Robot Ethical Reasoning**|Artem Lykov et.al.|[2405.05824](http://arxiv.org/abs/2405.05824)|**[link](https://github.com/temalykov/robots_can_feel)**|
@@ -79,7 +79,7 @@
 |**2024-05-09**|**Cross-Care: Assessing the Healthcare Implications of Pre-training Data on Language Model Bias**|Shan Chen et.al.|[2405.05506](http://arxiv.org/abs/2405.05506)|**[link](https://github.com/shan23chen/cross-care)**|
 |**2024-05-09**|**Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis**|Xuanwen Ding et.al.|[2405.05496](http://arxiv.org/abs/2405.05496)|null|
 |**2024-05-09**|**PLLM-CS: Pre-trained Large Language Model (LLM) for Cyber Threat Detection in Satellite Networks**|Mohammed Hassanin et.al.|[2405.05469](http://arxiv.org/abs/2405.05469)|null|
-|**2024-05-08**|**Poser: Unmasking Alignment Faking LLMs by Manipulating Their Internals**|Joshua Clymer et.al.|[2405.05466](http://arxiv.org/abs/2405.05466)|null|
+|**2024-05-11**|**Poser: Unmasking Alignment Faking LLMs by Manipulating Their Internals**|Joshua Clymer et.al.|[2405.05466](http://arxiv.org/abs/2405.05466)|null|
 |**2024-05-08**|**Vidur: A Large-Scale Simulation Framework For LLM Inference**|Amey Agrawal et.al.|[2405.05465](http://arxiv.org/abs/2405.05465)|**[link](https://github.com/microsoft/vidur)**|
 |**2024-05-08**|**Automated Program Repair: Emerging trends pose and expose problems for benchmarks**|Joseph Renzullo et.al.|[2405.05455](http://arxiv.org/abs/2405.05455)|null|
 |**2024-05-08**|**Large Language Model Enhanced Machine Learning Estimators for Classification**|Yuhang Wu et.al.|[2405.05445](http://arxiv.org/abs/2405.05445)|**[link](https://github.com/wyharturia/llm_enhanced_ml)**|
@@ -114,7 +114,7 @@
 |**2024-05-08**|**Critical Infrastructure Protection: Generative AI, Challenges, and Opportunities**|Yagmur Yigit et.al.|[2405.04874](http://arxiv.org/abs/2405.04874)|null|
 |**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840](http://arxiv.org/abs/2405.04840)|**[link](https://github.com/Zhangcx19/IJCAI-24-FedPA)**|
 |**2024-05-08**|**APrompt4EM: Augmented Prompt Tuning for Generalized Entity Matching**|Yikuan Xia et.al.|[2405.04820](http://arxiv.org/abs/2405.04820)|null|
-|**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819](http://arxiv.org/abs/2405.04819)|**[link](https://github.com/david-li0406/dalk)**|
+|**2024-05-12**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819](http://arxiv.org/abs/2405.04819)|**[link](https://github.com/david-li0406/dalk)**|
 |**2024-05-08**|**ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation**|Ana Brassard et.al.|[2405.04818](http://arxiv.org/abs/2405.04818)|**[link](https://github.com/a-brassard/acorn)**|
 |**2024-05-08**|**Zero-shot LLM-guided Counterfactual Generation for Text**|Amrita Bhattacharjee et.al.|[2405.04793](http://arxiv.org/abs/2405.04793)|null|
 |**2024-05-08**|**CourseGPT-zh: an Educational Large Language Model Based on Knowledge Distillation Incorporating Prompt Optimization**|Zheyan Qu et.al.|[2405.04781](http://arxiv.org/abs/2405.04781)|null|
@@ -1551,7 +1551,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -1823,7 +1823,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1844,7 +1844,7 @@
 |**2024-05-09**|**On the higher-order smallest ring star network of Chialvo neurons under diffusive couplings**|Anjana S. Nair et.al.|[2405.06000](http://arxiv.org/abs/2405.06000)|null|
 |**2024-05-07**|**Overcoming challenges of translating deep-learning models for glioblastoma: the ZGBM consortium**|Haris Shuaib et.al.|[2405.05980](http://arxiv.org/abs/2405.05980)|null|
 |**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967](http://arxiv.org/abs/2405.05967)|null|
-|**2024-05-09**|**Towards comprehensive coverage of chemical space: Quantum mechanical properties of 836k constitutional and conformational closed shell neutral isomers consisting of HCNOFSiPSClBr**|Danish Khan et.al.|[2405.05961](http://arxiv.org/abs/2405.05961)|null|
+|**2024-05-13**|**Towards comprehensive coverage of chemical space: Quantum mechanical properties of 836k constitutional and conformational closed shell neutral isomers consisting of HCNOFSiPSClBr**|Danish Khan et.al.|[2405.05961](http://arxiv.org/abs/2405.05961)|null|
 |**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959](http://arxiv.org/abs/2405.05959)|**[link](https://github.com/eqtpartners/tsde)**|
 |**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953](http://arxiv.org/abs/2405.05953)|null|
 |**2024-05-09**|**Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**|Peng Gao et.al.|[2405.05945](http://arxiv.org/abs/2405.05945)|**[link](https://github.com/alpha-vllm/lumina-t2x)**|
@@ -1872,7 +1872,7 @@
 |**2024-05-09**|**Composition Rules for Strong Structural Controllability and Minimum Input Problem in Diffusively-Coupled Networks**|Nam-Jin Park et.al.|[2405.05557](http://arxiv.org/abs/2405.05557)|null|
 |**2024-05-09**|**A Survey on Personalized Content Synthesis with Diffusion Models**|Xulu Zhang et.al.|[2405.05538](http://arxiv.org/abs/2405.05538)|null|
 |**2024-05-08**|**Pressure and convection robust Finite Elements for Magnetohydrodynamics**|L. Beirão da Veiga et.al.|[2405.05434](http://arxiv.org/abs/2405.05434)|null|
-|**2024-05-08**|**Robust Reward Placement under Uncertainty**|Petros Petsinis et.al.|[2405.05433](http://arxiv.org/abs/2405.05433)|null|
+|**2024-05-11**|**Robust Reward Placement under Uncertainty**|Petros Petsinis et.al.|[2405.05433](http://arxiv.org/abs/2405.05433)|null|
 |**2024-05-08**|**Refined asymptotics for the Cauchy problem for the fast $p$ -Laplace evolution equation**|Matteo Bonforte et.al.|[2405.05405](http://arxiv.org/abs/2405.05405)|null|
 |**2024-05-08**|**Imaging Hot Photocarrier Transfer across a Semiconductor Heterojunction with Ultrafast Electron Microscopy**|Basamat S. Shaheen et.al.|[2405.05401](http://arxiv.org/abs/2405.05401)|null|
 |**2024-05-08**|**Excluded volume effects on tangentially driven active ring polymers**|A. Lamura et.al.|[2405.05380](http://arxiv.org/abs/2405.05380)|null|
@@ -2940,7 +2940,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
