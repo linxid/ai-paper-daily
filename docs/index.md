@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -19,7 +19,7 @@ layout: default
 |**2024-05-13**|**PyZoBot: A Platform for Conversational Information Extraction and Synthesis from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation**|Suad Alshammari et.al.|[2405.07963](http://arxiv.org/abs/2405.07963)|null|
 |**2024-05-13**|**AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments**|Samuel Schmidgall et.al.|[2405.07960](http://arxiv.org/abs/2405.07960)|null|
 |**2024-05-13**|**EconLogicQA: A Question-Answering Benchmark for Evaluating Large Language Models in Economic Sequential Reasoning**|Yinzhu Quan et.al.|[2405.07938](http://arxiv.org/abs/2405.07938)|null|
-|**2024-05-13**|**PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**|Ziyang Zhang et.al.|[2405.07932](http://arxiv.org/abs/2405.07932)|**[link](https://github.com/ed-zh/parden)**|
+|**2024-05-14**|**PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**|Ziyang Zhang et.al.|[2405.07932](http://arxiv.org/abs/2405.07932)|**[link](https://github.com/ed-zh/parden)**|
 |**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
 |**2024-05-13**|**A Systematic Investigation of Distilling Large Language Models into Cross-Encoders for Passage Re-ranking**|Ferdinand Schlatt et.al.|[2405.07920](http://arxiv.org/abs/2405.07920)|null|
 |**2024-05-13**|**RLHF Workflow: From Reward Modeling to Online RLHF**|Hanze Dong et.al.|[2405.07863](http://arxiv.org/abs/2405.07863)|**[link](https://github.com/rlhflow/online-rlhf)**|
@@ -30,7 +30,7 @@ layout: default
 |**2024-05-13**|**Synthetic Test Collections for Retrieval Evaluation**|Hossein A. Rahmani et.al.|[2405.07767](http://arxiv.org/abs/2405.07767)|null|
 |**2024-05-13**|**LLM4ED: Large Language Models for Automatic Equation Discovery**|Mengge Du et.al.|[2405.07761](http://arxiv.org/abs/2405.07761)|null|
 |**2024-05-13**|**LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language**|Cagri Toraman et.al.|[2405.07745](http://arxiv.org/abs/2405.07745)|**[link](https://github.com/metunlp/llamaturk)**|
-|**2024-05-13**|**OpenLLM-Ro -- Technical Report on Open-source Romanian LLMs trained starting from Llama 2**|Mihai Masala et.al.|[2405.07703](http://arxiv.org/abs/2405.07703)|null|
+|**2024-05-14**|**OpenLLM-Ro -- Technical Report on Open-source Romanian LLMs trained starting from Llama 2**|Mihai Masala et.al.|[2405.07703](http://arxiv.org/abs/2405.07703)|null|
 |**2024-05-13**|**Backdoor Removal for Generative Large Language Models**|Haoran Li et.al.|[2405.07667](http://arxiv.org/abs/2405.07667)|null|
 |**2024-05-13**|**DoLLM: How Large Language Models Understanding Network Flow Data to Detect Carpet Bombing DDoS**|Qingyang Li et.al.|[2405.07638](http://arxiv.org/abs/2405.07638)|null|
 |**2024-05-13**|**AnomalyLLM: Few-shot Anomaly Edge Detection for Dynamic Graphs using Large Language Models**|Shuo Liu et.al.|[2405.07626](http://arxiv.org/abs/2405.07626)|**[link](https://github.com/anomalyllm/anomalyllm)**|
@@ -53,7 +53,7 @@ layout: default
 |**2024-05-13**|**Can Language Models Explain Their Own Classification Behavior?**|Dane Sherburn et.al.|[2405.07436](http://arxiv.org/abs/2405.07436)|**[link](https://github.com/danesherbs/articulate-rules)**|
 |**2024-05-13**|**Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference**|Linyi Han et.al.|[2405.07430](http://arxiv.org/abs/2405.07430)|null|
 |**2024-05-13**|**Identifying Hate Speech Peddlers in Online Platforms. A Bayesian Social Learning Approach for Large Language Model Driven Decision-Makers**|Adit Jain et.al.|[2405.07417](http://arxiv.org/abs/2405.07417)|null|
-|**2024-05-12**|**MedConceptsQA -- Open Source Medical Concepts QA Benchmark**|Ofir Ben Shoham et.al.|[2405.07348](http://arxiv.org/abs/2405.07348)|null|
+|**2024-05-14**|**MedConceptsQA: Open Source Medical Concepts QA Benchmark**|Ofir Ben Shoham et.al.|[2405.07348](http://arxiv.org/abs/2405.07348)|**[link](https://github.com/nadavlab/MedConceptsQA)**|
 |**2024-05-12**|**Learnable Tokenizer for LLM-based Generative Recommendation**|Wenjie Wang et.al.|[2405.07314](http://arxiv.org/abs/2405.07314)|null|
 |**2024-05-12**|**Human-interpretable clustering of short-text using large language models**|Justin K. Miller et.al.|[2405.07278](http://arxiv.org/abs/2405.07278)|null|
 |**2024-05-12**|**Limited Ability of LLMs to Simulate Human Psychological Behaviours: a Psychometric Analysis**|Nikolay B Petrov et.al.|[2405.07248](http://arxiv.org/abs/2405.07248)|null|
@@ -67,7 +67,7 @@ layout: default
 |**2024-05-11**|**Advanced Natural-based interaction for the ITAlian language: LLaMAntino-3-ANITA**|Marco Polignano et.al.|[2405.07101](http://arxiv.org/abs/2405.07101)|null|
 |**2024-05-11**|**MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling**|Sidong Feng et.al.|[2405.07090](http://arxiv.org/abs/2405.07090)|null|
 |**2024-05-11**|**SonifyAR: Context-Aware Sound Generation in Augmented Reality**|Xia Su et.al.|[2405.07089](http://arxiv.org/abs/2405.07089)|null|
-|**2024-05-11**|**Integrating Emotional and Linguistic Models for Ethical Compliance in Large Language Models**|Edward Y. Chang et.al.|[2405.07076](http://arxiv.org/abs/2405.07076)|null|
+|**2024-05-14**|**Integrating Emotional and Linguistic Models for Ethical Compliance in Large Language Models**|Edward Y. Chang et.al.|[2405.07076](http://arxiv.org/abs/2405.07076)|null|
 |**2024-05-11**|**LogoMotion: Visually Grounded Code Generation for Content-Aware Animation**|Vivian Liu et.al.|[2405.07065](http://arxiv.org/abs/2405.07065)|null|
 |**2024-05-11**|**Memory-Maze: Scenario Driven Benchmark and Visual Language Navigation Model for Guiding Blind People**|Masaki Kuribayashi et.al.|[2405.07060](http://arxiv.org/abs/2405.07060)|null|
 |**2024-05-11**|**A Turkish Educational Crossword Puzzle**|Kamyar Zeinalipour et.al.|[2405.07035](http://arxiv.org/abs/2405.07035)|null|
@@ -80,12 +80,12 @@ layout: default
 |**2024-05-11**|**Aladdin: Joint Placement and Scaling for SLO-Aware LLM Serving**|Chengyi Nie et.al.|[2405.06856](http://arxiv.org/abs/2405.06856)|null|
 |**2024-05-10**|**MEIC: Re-thinking RTL Debug Automation using LLMs**|Ke Xu et.al.|[2405.06840](http://arxiv.org/abs/2405.06840)|null|
 |**2024-05-10**|**Automating Code Adaptation for MLOps -- A Benchmarking Study on LLMs**|Harsh Patel et.al.|[2405.06835](http://arxiv.org/abs/2405.06835)|null|
-|**2024-05-10**|**PLeak: Prompt Leaking Attacks against Large Language Model Applications**|Bo Hui et.al.|[2405.06823](http://arxiv.org/abs/2405.06823)|**[link](https://github.com/bhui97/pleak)**|
+|**2024-05-14**|**PLeak: Prompt Leaking Attacks against Large Language Model Applications**|Bo Hui et.al.|[2405.06823](http://arxiv.org/abs/2405.06823)|**[link](https://github.com/bhui97/pleak)**|
 |**2024-05-10**|**Large Language Model in Financial Regulatory Interpretation**|Zhiyu Cao et.al.|[2405.06808](http://arxiv.org/abs/2405.06808)|null|
 |**2024-05-10**|**Tackling Execution-Based Evaluation for NL2Bash**|Ngoc Phuoc An Vo et.al.|[2405.06807](http://arxiv.org/abs/2405.06807)|null|
 |**2024-05-10**|**An Empirical Study on the Effectiveness of Large Language Models for SATD Identification and Classification**|Mohammad Sadegh Sheikhaei et.al.|[2405.06806](http://arxiv.org/abs/2405.06806)|null|
 |**2024-05-10**|**LLM-Generated Black-box Explanations Can Be Adversarially Helpful**|Rohan Ajwani et.al.|[2405.06800](http://arxiv.org/abs/2405.06800)|null|
-|**2024-05-10**|**On the Shape of Brainscores for Large Language Models (LLMs)**|Jingkai Li et.al.|[2405.06725](http://arxiv.org/abs/2405.06725)|null|
+|**2024-05-14**|**On the Shape of Brainscores for Large Language Models (LLMs)**|Jingkai Li et.al.|[2405.06725](http://arxiv.org/abs/2405.06725)|**[link](https://github.com/GUDHI/TDA-tutorial)**|
 |**2024-05-10**|**Enhancing Traffic Prediction with Textual Data Using Large Language Models**|Xiannan Huang et.al.|[2405.06719](http://arxiv.org/abs/2405.06719)|null|
 |**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
 |**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|**[link](https://github.com/idanshen/Value-Augmented-Sampling)**|
@@ -110,7 +110,7 @@ layout: default
 |**2024-05-09**|**Can Perplexity Reflect Large Language Model's Ability in Long Text Understanding?**|Yutong Hu et.al.|[2405.06105](http://arxiv.org/abs/2405.06105)|null|
 |**2024-05-09**|**Selective Fine-tuning on LLM-labeled Data May Reduce Reliance on Human Annotation: A Case Study Using Schedule-of-Event Table Detection**|Bhawesh Kumar et.al.|[2405.06093](http://arxiv.org/abs/2405.06093)|null|
 |**2024-05-09**|**Believing Anthropomorphism: Examining the Role of Anthropomorphic Cues on Trust in Large Language Models**|Michelle Cohn et.al.|[2405.06079](http://arxiv.org/abs/2405.06079)|null|
-|**2024-05-09**|**HMT: Hierarchical Memory Transformer for Long Context Language Processing**|Zifan He et.al.|[2405.06067](http://arxiv.org/abs/2405.06067)|**[link](https://github.com/OswaldHe/HMT-pytorch)**|
+|**2024-05-14**|**HMT: Hierarchical Memory Transformer for Long Context Language Processing**|Zifan He et.al.|[2405.06067](http://arxiv.org/abs/2405.06067)|**[link](https://github.com/OswaldHe/HMT-pytorch)**|
 |**2024-05-09**|**LLMs for XAI: Future Directions for Explaining Explanations**|Alexandra Zytek et.al.|[2405.06064](http://arxiv.org/abs/2405.06064)|null|
 |**2024-05-09**|**Supporting Physical Activity Behavior Change with LLM-Based Conversational Agents**|Matthew Jörke et.al.|[2405.06061](http://arxiv.org/abs/2405.06061)|null|
 |**2024-05-09**|**Large Language Models Show Human-like Social Desirability Biases in Survey Responses**|Aadesh Salecha et.al.|[2405.06058](http://arxiv.org/abs/2405.06058)|null|
@@ -1897,7 +1897,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-13**|**Cloaking for random walks using a discrete potential theory**|Trent DeGiovanni et.al.|[2405.07961](http://arxiv.org/abs/2405.07961)|null|
+|**2024-05-13**|**Cloaking for random walks using a discrete potential theory**|Trent DeGiovanni et.al.|[2405.07961](http://arxiv.org/abs/2405.07961)|**[link](https://github.com/fguevaravas/crwdpt)**|
 |**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
 |**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
 |**2024-05-13**|**Latest results from Super-Kamiokande**|Andrew D. Santos et.al.|[2405.07900](http://arxiv.org/abs/2405.07900)|null|
@@ -1948,7 +1948,7 @@ layout: default
 |**2024-05-10**|**Searching for Synchrotron Emission from the Geminga TeV Halo using the Planck Satellite**|Dan Hooper et.al.|[2405.06739](http://arxiv.org/abs/2405.06739)|null|
 |**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547](http://arxiv.org/abs/2405.06547)|**[link](https://github.com/lin-jinwei/OneTo3D)**|
 |**2024-05-10**|**Controllable Image Generation With Composed Parallel Token Prediction**|Jamie Stirling et.al.|[2405.06535](http://arxiv.org/abs/2405.06535)|null|
-|**2024-05-10**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
+|**2024-05-14**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
 |**2024-05-10**|**A universal phenomenology of charge-spin interconversion and dynamics in diffusive systems with spin-orbit coupling**|Tim Kokkeler et.al.|[2405.06334](http://arxiv.org/abs/2405.06334)|null|
 |**2024-05-10**|**PUMA: margin-based data pruning**|Javier Maroto et.al.|[2405.06298](http://arxiv.org/abs/2405.06298)|null|
 |**2024-05-10**|**Green's Function and Pointwise Space-time Behaviors of the Three-Dimensional Relativistic Boltzmann Equation**|Yanchao Li et.al.|[2405.06280](http://arxiv.org/abs/2405.06280)|null|
