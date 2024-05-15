@@ -19,6 +19,38 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs**|Edison Jair Bejarano Sepulveda et.al.|[2405.08792](http://arxiv.org/abs/2405.08792)|null|
+|**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
+|**2024-05-14**|**Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Intent Resolution in LLMs**|Akhila Yerukola et.al.|[2405.08760](http://arxiv.org/abs/2405.08760)|null|
+|**2024-05-14**|**Distributed Threat Intelligence at the Edge Devices: A Large Language Model-Driven Approach**|Syed Mhamudul Hasan et.al.|[2405.08755](http://arxiv.org/abs/2405.08755)|null|
+|**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748](http://arxiv.org/abs/2405.08748)|**[link](https://github.com/tencent/hunyuandit)**|
+|**2024-05-14**|**ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation**|Dimitris Gkoumas et.al.|[2405.08619](http://arxiv.org/abs/2405.08619)|null|
+|**2024-05-14**|**A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine**|Hanguang Xiao et.al.|[2405.08603](http://arxiv.org/abs/2405.08603)|null|
+|**2024-05-14**|**EVDA: Evolving Deepfake Audio Detection Continual Learning Benchmark**|Xiaohui Zhang et.al.|[2405.08596](http://arxiv.org/abs/2405.08596)|null|
+|**2024-05-14**|**Falcon 7b for Software Mention Detection in Scholarly Documents**|AmeerAli Khan et.al.|[2405.08514](http://arxiv.org/abs/2405.08514)|null|
+|**2024-05-14**|**Archimedes-AUEB at SemEval-2024 Task 5: LLM explains Civil Procedure**|Odysseas S. Chlapanis et.al.|[2405.08502](http://arxiv.org/abs/2405.08502)|null|
+|**2024-05-14**|**Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models**|Andrea Piergentili et.al.|[2405.08477](http://arxiv.org/abs/2405.08477)|null|
+|**2024-05-14**|**Challenges and Opportunities in Text Generation Explainability**|Kenza Amara et.al.|[2405.08468](http://arxiv.org/abs/2405.08468)|null|
+|**2024-05-14**|**Evaluating LLMs at Evaluating Temporal Generalization**|Chenghao Zhu et.al.|[2405.08460](http://arxiv.org/abs/2405.08460)|**[link](https://github.com/freedomintelligence/freshbench)**|
+|**2024-05-14**|**Understanding the performance gap between online and offline alignment algorithms**|Yunhao Tang et.al.|[2405.08448](http://arxiv.org/abs/2405.08448)|null|
+|**2024-05-14**|**Stylometric Watermarks for Large Language Models**|Georg Niess et.al.|[2405.08400](http://arxiv.org/abs/2405.08400)|null|
+|**2024-05-14**|**PromptMind Team at MEDIQA-CORR 2024: Improving Clinical Text Correction with Error Categorization and LLM Ensembles**|Satya Kesav Gundabathula et.al.|[2405.08373](http://arxiv.org/abs/2405.08373)|null|
+|**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317](http://arxiv.org/abs/2405.08317)|null|
+|**2024-05-14**|**SpeechVerse: A Large-scale Generalizable Audio Language Model**|Nilaksh Das et.al.|[2405.08295](http://arxiv.org/abs/2405.08295)|null|
+|**2024-05-14**|**VS-Assistant: Versatile Surgery Assistant on the Demand of Surgeons**|Zhen Chen et.al.|[2405.08272](http://arxiv.org/abs/2405.08272)|null|
+|**2024-05-14**|**Compositional Text-to-Image Generation with Dense Blob Representations**|Weili Nie et.al.|[2405.08246](http://arxiv.org/abs/2405.08246)|null|
+|**2024-05-13**|**Silver-Tongued and Sundry: Exploring Intersectional Pronouns with ChatGPT**|Takao Fujii et.al.|[2405.08238](http://arxiv.org/abs/2405.08238)|null|
+|**2024-05-13**|**Toward Automated Programming for Robotic Assembly Using ChatGPT**|Annabella Macaluso et.al.|[2405.08216](http://arxiv.org/abs/2405.08216)|null|
+|**2024-05-13**|**Interpreting Latent Student Knowledge Representations in Programming Assignments**|Nigel Fernandez et.al.|[2405.08213](http://arxiv.org/abs/2405.08213)|null|
+|**2024-05-13**|**LLM Theory of Mind and Alignment: Opportunities and Risks**|Winnie Street et.al.|[2405.08154](http://arxiv.org/abs/2405.08154)|null|
+|**2024-05-13**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151](http://arxiv.org/abs/2405.08151)|null|
+|**2024-05-13**|**Many-Shot Regurgitation (MSR) Prompting**|Shashank Sonkar et.al.|[2405.08134](http://arxiv.org/abs/2405.08134)|null|
+|**2024-05-13**|**From Questions to Insightful Answers: Building an Informed Chatbot for University Resources**|Subash Neupane et.al.|[2405.08120](http://arxiv.org/abs/2405.08120)|null|
+|**2024-05-13**|**Layout Generation Agents with Large Language Models**|Yuichi Sasazawa et.al.|[2405.08037](http://arxiv.org/abs/2405.08037)|null|
+|**2024-05-13**|**A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems**|Lixi Zhu et.al.|[2405.08035](http://arxiv.org/abs/2405.08035)|null|
+|**2024-05-12**|**Medical Research as a Productivity Indicator**|Maya M. Durvasula et.al.|[2405.08030](http://arxiv.org/abs/2405.08030)|null|
+|**2024-05-12**|**ExplainableDetector: Exploring Transformer-based Language Modeling Approach for SMS Spam Detection with Explainability Analysis**|Mohammad Amaz Uddin et.al.|[2405.08026](http://arxiv.org/abs/2405.08026)|null|
+|**2024-05-11**|**Translating Expert Intuition into Quantifiable Features: Encode Investigator Domain Knowledge via LLM for Enhanced Predictive Analytics**|Phoebe Jing et.al.|[2405.08017](http://arxiv.org/abs/2405.08017)|null|
 |**2024-05-13**|**Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots**|Chengyue Wu et.al.|[2405.07990](http://arxiv.org/abs/2405.07990)|null|
 |**2024-05-13**|**A Generalist Learner for Multifaceted Medical Image Interpretation**|Hong-Yu Zhou et.al.|[2405.07988](http://arxiv.org/abs/2405.07988)|null|
 |**2024-05-13**|**PyZoBot: A Platform for Conversational Information Extraction and Synthesis from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation**|Suad Alshammari et.al.|[2405.07963](http://arxiv.org/abs/2405.07963)|null|
@@ -1630,6 +1662,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
+|**2024-05-14**|**Open-Vocabulary Object Detection via Neighboring Region Attention Alignment**|Sunyuan Qiang et.al.|[2405.08593](http://arxiv.org/abs/2405.08593)|null|
 |**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
 |**2024-05-13**|**Oedipus: LLM-enchanced Reasoning CAPTCHA Solver**|Gelei Deng et.al.|[2405.07496](http://arxiv.org/abs/2405.07496)|null|
 |**2024-05-12**|**DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model**|Yang Jin et.al.|[2405.07309](http://arxiv.org/abs/2405.07309)|null|
@@ -1906,6 +1940,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**The Flux Hypothesis for Odd Transport Phenomena**|Cory Hargus et.al.|[2405.08798](http://arxiv.org/abs/2405.08798)|null|
+|**2024-05-14**|**A Generalized Curvilinear Coordinate system-based Patch Dynamics Scheme in Equation-free Multiscale Modelling**|Tanay Kumar Karmakar et.al.|[2405.08764](http://arxiv.org/abs/2405.08764)|null|
+|**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748](http://arxiv.org/abs/2405.08748)|**[link](https://github.com/tencent/hunyuandit)**|
+|**2024-05-14**|**Dimensionality reduction in bulk-boundary reaction-diffusion systems**|Tom Burkart et.al.|[2405.08728](http://arxiv.org/abs/2405.08728)|null|
+|**2024-05-14**|**Design and Analysis of Resilient Vehicular Platoon Systems over Wireless Networks**|Tingyu Shui et.al.|[2405.08706](http://arxiv.org/abs/2405.08706)|null|
+|**2024-05-14**|**Expensive Multi-Objective Bayesian Optimization Based on Diffusion Models**|Bingdong Li et.al.|[2405.08674](http://arxiv.org/abs/2405.08674)|null|
+|**2024-05-14**|**Quantum Circuit Model for Lattice Boltzmann Fluid Flow Simulations**|Dinesh Kumar E et.al.|[2405.08669](http://arxiv.org/abs/2405.08669)|null|
+|**2024-05-14**|**Anomalous Landau damping and algebraic thermalization in two-dimensional superfluids far from equilibrium**|Clément Duval et.al.|[2405.08606](http://arxiv.org/abs/2405.08606)|null|
+|**2024-05-14**|**PTPI-DL-ROMs: pre-trained physics-informed deep learning-based reduced order models for nonlinear parametrized PDEs**|Simone Brivio et.al.|[2405.08558](http://arxiv.org/abs/2405.08558)|null|
+|**2024-05-14**|**$γ$ rays from in-flight positron annihilation as a probe of new physics**|Pedro De la Torre Luque et.al.|[2405.08482](http://arxiv.org/abs/2405.08482)|null|
+|**2024-05-14**|**Real time observation of oxygen diffusion in CGO thin films using spatially resolved Isotope Exchange Raman Spectroscopy**|Alexander Stangl et.al.|[2405.08462](http://arxiv.org/abs/2405.08462)|null|
+|**2024-05-14**|**Multi-center decomposition of molecular densities: A numerical perspective**|YingXing Cheng et.al.|[2405.08455](http://arxiv.org/abs/2405.08455)|null|
+|**2024-05-14**|**Regions of suppressed diffusion around supernova remnants?**|Yiwei Bao et.al.|[2405.08385](http://arxiv.org/abs/2405.08385)|null|
+|**2024-05-14**|**A generic approach to homogenization of a diffusion driven by growing incompressible drift**|Brice Franke et.al.|[2405.08369](http://arxiv.org/abs/2405.08369)|null|
+|**2024-05-14**|**Towards Multi-Task Generative-AI Edge Services with an Attention-based Diffusion DRL Approach**|Yaju Liu et.al.|[2405.08328](http://arxiv.org/abs/2405.08328)|null|
+|**2024-05-14**|**Sequential Maximal Updated Density Parameter Estimation for Dynamical Systems with Parameter Drift**|Carlos del-Castillo-Negrete et.al.|[2405.08307](http://arxiv.org/abs/2405.08307)|null|
+|**2024-05-14**|**Compositional Text-to-Image Generation with Dense Blob Representations**|Weili Nie et.al.|[2405.08246](http://arxiv.org/abs/2405.08246)|null|
+|**2024-05-13**|**Macroscopic Fluctuation Theory for Ginzburg-Landau dynamics with long range interactions**|Cédric Bernardin et.al.|[2405.08212](http://arxiv.org/abs/2405.08212)|null|
+|**2024-05-13**|**Infinite Texture: Text-guided High Resolution Diffusion Texture Synthesis**|Yifan Wang et.al.|[2405.08210](http://arxiv.org/abs/2405.08210)|null|
+|**2024-05-13**|**Fully Kinetic Simulations of Proton-Beam-Driven Instabilities from Parker Solar Probe Observations**|Luca Pezzini et.al.|[2405.08196](http://arxiv.org/abs/2405.08196)|null|
+|**2024-05-13**|**Do Bayesian imaging methods report trustworthy probabilities?**|David Y. W. Thong et.al.|[2405.08179](http://arxiv.org/abs/2405.08179)|null|
+|**2024-05-13**|**Formation channels of the diffuse lights in the groups and clusters over time**|Kyungwon Chun et.al.|[2405.08061](http://arxiv.org/abs/2405.08061)|null|
+|**2024-05-13**|**DiffTF++: 3D-aware Diffusion Transformer for Large-Vocabulary 3D Generation**|Ziang Cao et.al.|[2405.08055](http://arxiv.org/abs/2405.08055)|null|
+|**2024-05-13**|**Coin3D: Controllable and Interactive 3D Assets Generation with Proxy-Guided Conditioning**|Wenqi Dong et.al.|[2405.08054](http://arxiv.org/abs/2405.08054)|null|
+|**2024-05-13**|**Optimizing Synthetic Correlated Diffusion Imaging for Breast Cancer Tumour Delineation**|Chi-en Amy Tai et.al.|[2405.08049](http://arxiv.org/abs/2405.08049)|null|
+|**2024-05-11**|**Diff-ETS: Learning a Diffusion Probabilistic Model for Electromyography-to-Speech Conversion**|Zhao Ren et.al.|[2405.08021](http://arxiv.org/abs/2405.08021)|null|
+|**2024-05-09**|**An Efficient Phase-field Framework for Contact Dynamics between Deformable Solids in Fluid Flow**|Biswajeet Rath et.al.|[2405.08010](http://arxiv.org/abs/2405.08010)|null|
 |**2024-05-13**|**Cloaking for random walks using a discrete potential theory**|Trent DeGiovanni et.al.|[2405.07961](http://arxiv.org/abs/2405.07961)|**[link](https://github.com/fguevaravas/crwdpt)**|
 |**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
 |**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
