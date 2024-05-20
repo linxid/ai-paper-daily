@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.19
+## Updated on 2024.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -40,7 +40,7 @@ layout: default
 |**2024-05-16**|**SciQAG: A Framework for Auto-Generated Scientific Question Answering Dataset with Fine-grained Evaluation**|Yuwei Wan et.al.|[2405.09939](http://arxiv.org/abs/2405.09939)|null|
 |**2024-05-16**|**IGOT: Information Gain Optimized Tokenizer on Domain Adaptive Pretraining**|Dawei Feng et.al.|[2405.09857](http://arxiv.org/abs/2405.09857)|null|
 |**2024-05-16**|**SEEK: Semantic Reasoning for Object Goal Navigation in Real World Inspection Tasks**|Muhammad Fadhil Ginting et.al.|[2405.09822](http://arxiv.org/abs/2405.09822)|null|
-|**2024-05-16**|**Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis**|Zeyi Zhang et.al.|[2405.09814](http://arxiv.org/abs/2405.09814)|null|
+|**2024-05-17**|**Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis**|Zeyi Zhang et.al.|[2405.09814](http://arxiv.org/abs/2405.09814)|null|
 |**2024-05-16**|**Many-Shot In-Context Learning in Multimodal Foundation Models**|Yixing Jiang et.al.|[2405.09798](http://arxiv.org/abs/2405.09798)|**[link](https://github.com/stanfordmlgroup/ManyICL)**|
 |**2024-05-16**|**Synthesizing Proteins on the Graphics Card. Protein Folding and the Limits of Critical AI Studies**|Fabian Offert et.al.|[2405.09788](http://arxiv.org/abs/2405.09788)|null|
 |**2024-05-16**|**LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery**|Pingchuan Ma et.al.|[2405.09783](http://arxiv.org/abs/2405.09783)|null|
@@ -1716,12 +1716,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
-|**2024-05-16**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
+|**2024-05-17**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
 |**2024-05-16**|**Generating Coherent Sequences of Visual Illustrations for Real-World Manual Tasks**|João Bordalo et.al.|[2405.10122](http://arxiv.org/abs/2405.10122)|null|
 |**2024-05-16**|**Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models**|Yuchen Hu et.al.|[2405.10025](http://arxiv.org/abs/2405.10025)|null|
 |**2024-05-16**|**Harmonizing Generalization and Personalization in Federated Prompt Learning**|Tianyu Cui et.al.|[2405.09771](http://arxiv.org/abs/2405.09771)|null|
-|**2024-05-15**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713](http://arxiv.org/abs/2405.09713)|null|
+|**2024-05-17**|**SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**|Andong Wang et.al.|[2405.09713](http://arxiv.org/abs/2405.09713)|null|
 |**2024-05-15**|**A Survey On Text-to-3D Contents Generation In The Wild**|Chenhan Jiang et.al.|[2405.09431](http://arxiv.org/abs/2405.09431)|null|
 |**2024-05-15**|**Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model**|Wanting Xu et.al.|[2405.09215](http://arxiv.org/abs/2405.09215)|**[link](https://github.com/xiaoduoailab/xmodelvlm)**|
 |**2024-05-14**|**Contextual Emotion Recognition using Large Vision Language Models**|Yasaman Etesam et.al.|[2405.08992](http://arxiv.org/abs/2405.08992)|null|
@@ -2027,7 +2027,7 @@ layout: default
 |**2024-05-15**|**Open Effective Field Theories for cosmology**|Thomas Colas et.al.|[2405.09639](http://arxiv.org/abs/2405.09639)|null|
 |**2024-05-15**|**Evolving motility of active droplets is captured by a self-repelling random walk model**|Wenjun Chen et.al.|[2405.09636](http://arxiv.org/abs/2405.09636)|null|
 |**2024-05-15**|**Cross-correlating IceCube neutrinos with a large set of galaxy samples around redshift z ~ 1**|Aaron Ouellette et.al.|[2405.09633](http://arxiv.org/abs/2405.09633)|null|
-|**2024-05-15**|**CaloDREAM $\unicode{x2013}$ Detector Response Emulation via Attentive flow Matching**|Luigi Favaro et.al.|[2405.09629](http://arxiv.org/abs/2405.09629)|null|
+|**2024-05-17**|**CaloDREAM -- Detector Response Emulation via Attentive flow Matching**|Luigi Favaro et.al.|[2405.09629](http://arxiv.org/abs/2405.09629)|null|
 |**2024-05-15**|**Electron heating in high Mach number collisionless shocks**|Arno Vanthieghem et.al.|[2405.09618](http://arxiv.org/abs/2405.09618)|null|
 |**2024-05-15**|**A Survey of Generative Techniques for Spatial-Temporal Data Mining**|Qianru Zhang et.al.|[2405.09592](http://arxiv.org/abs/2405.09592)|null|
 |**2024-05-16**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539](http://arxiv.org/abs/2405.09539)|**[link](https://github.com/wuchengyu123/mmfusion)**|
@@ -2044,7 +2044,7 @@ layout: default
 |**2024-05-15**|**A Catalogue and Analysis of Ultra-Diffuse Galaxy Spectroscopic Properties**|Jonah S. Gannon et.al.|[2405.09104](http://arxiv.org/abs/2405.09104)|**[link](https://github.com/gannonjs/published_data)**|
 |**2024-05-15**|**RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing**|Jiamei Xiong et.al.|[2405.09083](http://arxiv.org/abs/2405.09083)|**[link](https://github.com/jm-xiong/rshazediff)**|
 |**2024-05-15**|**Early Planet Formation in Embedded Disks (eDisk) XV: Influence of Magnetic Field Morphology in Dense Cores on Sizes of Protostellar Disks**|Hsi-Wei Yen et.al.|[2405.09063](http://arxiv.org/abs/2405.09063)|null|
-|**2024-05-15**|**Naturalistic Music Decoding from EEG Data via Latent Diffusion Models**|Emilian Postolache et.al.|[2405.09062](http://arxiv.org/abs/2405.09062)|null|
+|**2024-05-17**|**Naturalistic Music Decoding from EEG Data via Latent Diffusion Models**|Emilian Postolache et.al.|[2405.09062](http://arxiv.org/abs/2405.09062)|null|
 |**2024-05-15**|**Response Matching for generating materials and molecules**|Bingqing Cheng et.al.|[2405.09057](http://arxiv.org/abs/2405.09057)|null|
 |**2024-05-15**|**CTS: A Consistency-Based Medical Image Segmentation Model**|Kejia Zhang et.al.|[2405.09056](http://arxiv.org/abs/2405.09056)|**[link](https://github.com/LanHEU/CTS)**|
 |**2024-05-14**|**A practical guide to light-sheet microscopy for nanoscale imaging: Looking beyond the cell**|Stephanie N. Kramer et.al.|[2405.08987](http://arxiv.org/abs/2405.08987)|null|
