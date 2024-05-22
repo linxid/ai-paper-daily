@@ -7,22 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|null|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
 |**2024-05-20**|**MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark**|Hongwei Liu et.al.|[2405.12209](http://arxiv.org/abs/2405.12209)|**[link](https://github.com/open-compass/mathbench)**|
 |**2024-05-20**|**Developers' Perceptions on the Impact of ChatGPT in Software Development: A Survey**|Thiago S. Vaillant et.al.|[2405.12195](http://arxiv.org/abs/2405.12195)|null|
 |**2024-05-20**|**CT-Eval: Benchmarking Chinese Text-to-Table Performance in Large Language Models**|Haoxiang Shi et.al.|[2405.12174](http://arxiv.org/abs/2405.12174)|null|
 |**2024-05-20**|**Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**|Xiaobo Liang et.al.|[2405.12163](http://arxiv.org/abs/2405.12163)|**[link](https://github.com/dropreg/fennec)**|
 |**2024-05-20**|**Eliciting Problem Specifications via Large Language Models**|Robert E. Wray et.al.|[2405.12147](http://arxiv.org/abs/2405.12147)|null|
-|**2024-05-20**|**MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning**|Ting Jiang et.al.|[2405.12130](http://arxiv.org/abs/2405.12130)|null|
+|**2024-05-20**|**MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning**|Ting Jiang et.al.|[2405.12130](http://arxiv.org/abs/2405.12130)|**[link](https://github.com/kongds/mora)**|
 |**2024-05-20**|**Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation**|Zhankui He et.al.|[2405.12119](http://arxiv.org/abs/2405.12119)|null|
-|**2024-05-20**|**Imp: Highly Capable Large Multimodal Models for Mobile Devices**|Zhenwei Shao et.al.|[2405.12107](http://arxiv.org/abs/2405.12107)|null|
+|**2024-05-20**|**Imp: Highly Capable Large Multimodal Models for Mobile Devices**|Zhenwei Shao et.al.|[2405.12107](http://arxiv.org/abs/2405.12107)|**[link](https://github.com/milvlg/imp)**|
 |**2024-05-20**|**DOP: Diagnostic-Oriented Prompting for Large Language Models in Mathematical Correction**|Hao Chen et.al.|[2405.12100](http://arxiv.org/abs/2405.12100)|null|
 |**2024-05-20**|**PARALLELGPUOS: A Concurrent OS-level GPU Checkpoint and Restore System using Validated Speculation**|Zhuobin Huang et.al.|[2405.12079](http://arxiv.org/abs/2405.12079)|null|
 |**2024-05-20**|**CLAMBER: A Benchmark of Identifying and Clarifying Ambiguous Information Needs in Large Language Models**|Tong Zhang et.al.|[2405.12063](http://arxiv.org/abs/2405.12063)|**[link](https://github.com/zt991211/clamber)**|
@@ -36,7 +36,7 @@ layout: default
 |**2024-05-20**|**WisPerMed at BioLaySumm: Adapting Autoregressive Large Language Models for Lay Summarization of Scientific Articles**|Tabea M. G. Pakull et.al.|[2405.11950](http://arxiv.org/abs/2405.11950)|null|
 |**2024-05-20**|**Data Contamination Calibration for Black-box LLMs**|Wentao Ye et.al.|[2405.11930](http://arxiv.org/abs/2405.11930)|**[link](https://github.com/yyy01/pac)**|
 |**2024-05-20**|**"Set It Up!": Functional Object Arrangement with Compositional Generative Models**|Yiqing Xu et.al.|[2405.11928](http://arxiv.org/abs/2405.11928)|null|
-|**2024-05-20**|**Information Leakage from Embedding in Large Language Models**|Zhipeng Wang et.al.|[2405.11916](http://arxiv.org/abs/2405.11916)|null|
+|**2024-05-21**|**Information Leakage from Embedding in Large Language Models**|Zhipeng Wang et.al.|[2405.11916](http://arxiv.org/abs/2405.11916)|null|
 |**2024-05-20**|**Unveiling and Manipulating Prompt Influence in Large Language Models**|Zijian Feng et.al.|[2405.11891](http://arxiv.org/abs/2405.11891)|**[link](https://github.com/zijian678/tdd)**|
 |**2024-05-20**|**Quantifying In-Context Reasoning Effects and Memorization Effects in LLMs**|Siyu Lou et.al.|[2405.11880](http://arxiv.org/abs/2405.11880)|null|
 |**2024-05-20**|**xFinder: Robust and Pinpoint Answer Extraction for Large Language Models**|Qingchen Yu et.al.|[2405.11874](http://arxiv.org/abs/2405.11874)|null|
@@ -47,14 +47,14 @@ layout: default
 |**2024-05-20**|**Semantic Trajectory Data Mining with LLM-Informed POI Classification**|Yifan Liu et.al.|[2405.11715](http://arxiv.org/abs/2405.11715)|null|
 |**2024-05-20**|**Increasing the LLM Accuracy for Question Answering: Ontologies to the Rescue!**|Dean Allemang et.al.|[2405.11706](http://arxiv.org/abs/2405.11706)|null|
 |**2024-05-19**|**Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning**|Zishan Gu et.al.|[2405.11640](http://arxiv.org/abs/2405.11640)|null|
-|**2024-05-19**|**Zero-Shot Stance Detection using Contextual Data Generation with LLMs**|Ghazaleh Mahmoudi et.al.|[2405.11637](http://arxiv.org/abs/2405.11637)|null|
+|**2024-05-19**|**Zero-Shot Stance Detection using Contextual Data Generation with LLMs**|Ghazaleh Mahmoudi et.al.|[2405.11637](http://arxiv.org/abs/2405.11637)|**[link](https://github.com/Babakbehkamkia/GPT-Stance-Detection)**|
 |**2024-05-19**|**Attention to Quantum Complexity**|Hyejin Kim et.al.|[2405.11632](http://arxiv.org/abs/2405.11632)|null|
-|**2024-05-19**|**Decoding by Contrasting Knowledge: Enhancing LLMs' Confidence on Edited Facts**|Baolong Bi et.al.|[2405.11613](http://arxiv.org/abs/2405.11613)|null|
-|**2024-05-19**|**DOLLmC: DevOPs for Large Language model Customization**|Panos Fitsilis et.al.|[2405.11581](http://arxiv.org/abs/2405.11581)|null|
+|**2024-05-21**|**Decoding by Contrasting Knowledge: Enhancing LLMs' Confidence on Edited Facts**|Baolong Bi et.al.|[2405.11613](http://arxiv.org/abs/2405.11613)|null|
+|**2024-05-21**|**DOLLmC: DevOps for Large Language model Customization**|Panos Fitsilis et.al.|[2405.11581](http://arxiv.org/abs/2405.11581)|null|
 |**2024-05-19**|**Exploring the Capabilities of Prompted Large Language Models in Educational and Assessment Applications**|Subhankar Maity et.al.|[2405.11579](http://arxiv.org/abs/2405.11579)|null|
 |**2024-05-19**|**A Multi-Perspective Analysis of Memorization in Large Language Models**|Bowen Chen et.al.|[2405.11577](http://arxiv.org/abs/2405.11577)|null|
 |**2024-05-19**|**Simple-Sampling and Hard-Mixup with Prototypes to Rebalance Contrastive Learning for Text Classification**|Mengyu Li et.al.|[2405.11524](http://arxiv.org/abs/2405.11524)|null|
-|**2024-05-19**|**Towards Translating Real-World Code with LLMs: A Study of Translating to Rust**|Hasan Ferit Eniser et.al.|[2405.11514](http://arxiv.org/abs/2405.11514)|null|
+|**2024-05-21**|**Towards Translating Real-World Code with LLMs: A Study of Translating to Rust**|Hasan Ferit Eniser et.al.|[2405.11514](http://arxiv.org/abs/2405.11514)|null|
 |**2024-05-19**|**Enhancing user experience in large language models through human-centered design: Integrating theoretical insights with an experimental study to meet diverse software learning needs with a single document knowledge base**|Yuchen Wang et.al.|[2405.11505](http://arxiv.org/abs/2405.11505)|null|
 |**2024-05-19**|**Measuring Impacts of Poisoning on Model Parameters and Embeddings for Large Language Models of Code**|Aftab Hussain et.al.|[2405.11466](http://arxiv.org/abs/2405.11466)|null|
 |**2024-05-19**|**Effective In-Context Example Selection through Data Compression**|Zhongxiang Sun et.al.|[2405.11465](http://arxiv.org/abs/2405.11465)|null|
@@ -88,7 +88,7 @@ layout: default
 |**2024-05-17**|**Prompt Exploration with Prompt Regression**|Michael Feffer et.al.|[2405.11083](http://arxiv.org/abs/2405.11083)|null|
 |**2024-05-17**|**Exploring Subjectivity for more Human-Centric Assessment of Social Biases in Large Language Models**|Paula Akemi Aoyagui et.al.|[2405.11048](http://arxiv.org/abs/2405.11048)|null|
 |**2024-05-17**|**From Generalist to Specialist: Improving Large Language Models for Medical Physics Using ARCoT**|Jace Grandinetti et.al.|[2405.11040](http://arxiv.org/abs/2405.11040)|null|
-|**2024-05-17**|**CC-GPX: Extracting High-Quality Annotated Geospatial Data from Common Crawl**|Ilya Ilyankou et.al.|[2405.11039](http://arxiv.org/abs/2405.11039)|null|
+|**2024-05-17**|**CC-GPX: Extracting High-Quality Annotated Geospatial Data from Common Crawl**|Ilya Ilyankou et.al.|[2405.11039](http://arxiv.org/abs/2405.11039)|**[link](https://github.com/ilyankou/cc-gpx)**|
 |**2024-05-17**|**Generative Artificial Intelligence: A Systematic Review and Applications**|Sandeep Singh Sengar et.al.|[2405.11029](http://arxiv.org/abs/2405.11029)|null|
 |**2024-05-17**|**A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers**|Kaiyu Huang et.al.|[2405.10936](http://arxiv.org/abs/2405.10936)|**[link](https://github.com/kaiyuhwang/mllm-survey)**|
 |**2024-05-20**|**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**|Lucius Bushnaq et.al.|[2405.10928](http://arxiv.org/abs/2405.10928)|**[link](https://github.com/apolloresearch/rib)**|
@@ -99,12 +99,12 @@ layout: default
 |**2024-05-17**|**ActiveLLM: Large Language Model-based Active Learning for Textual Few-Shot Scenarios**|Markus Bayer et.al.|[2405.10808](http://arxiv.org/abs/2405.10808)|null|
 |**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745](http://arxiv.org/abs/2405.10745)|null|
 |**2024-05-17**|**Efficient Multimodal Large Language Models: A Survey**|Yizhang Jin et.al.|[2405.10739](http://arxiv.org/abs/2405.10739)|**[link](https://github.com/lijiannuist/efficient-multimodal-llms-survey)**|
-|**2024-05-17**|**INDUS: Effective and Efficient Language Models for Scientific Applications**|Bishwaranjan Bhattacharjee et.al.|[2405.10725](http://arxiv.org/abs/2405.10725)|null|
+|**2024-05-20**|**INDUS: Effective and Efficient Language Models for Scientific Applications**|Bishwaranjan Bhattacharjee et.al.|[2405.10725](http://arxiv.org/abs/2405.10725)|null|
 |**2024-05-17**|**SignLLM: Sign Languages Production Large Language Models**|Sen Fang et.al.|[2405.10718](http://arxiv.org/abs/2405.10718)|null|
 |**2024-05-17**|**SynDy: Synthetic Dynamic Dataset Generation Framework for Misinformation Tasks**|Michael Shliselberg et.al.|[2405.10700](http://arxiv.org/abs/2405.10700)|null|
 |**2024-05-17**|**Revolutionizing Process Mining: A Novel Architecture for ChatGPT Integration and Enhanced User Experience through Optimized Prompt Engineering**|Mehrdad Agha Mohammad Ali Kermani et.al.|[2405.10689](http://arxiv.org/abs/2405.10689)|null|
 |**2024-05-20**|**Realistic Evaluation of Toxicity in Large Language Models**|Tinh Son Luong et.al.|[2405.10659](http://arxiv.org/abs/2405.10659)|null|
-|**2024-05-20**|**SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation**|Ziyao Xu et.al.|[2405.10650](http://arxiv.org/abs/2405.10650)|**[link](https://github.com/xzy-xzy/spor)**|
+|**2024-05-21**|**SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation**|Ziyao Xu et.al.|[2405.10650](http://arxiv.org/abs/2405.10650)|**[link](https://github.com/xzy-xzy/spor)**|
 |**2024-05-17**|**Layer-Condensed KV Cache for Efficient Inference of Large Language Models**|Haoyi Wu et.al.|[2405.10637](http://arxiv.org/abs/2405.10637)|**[link](https://github.com/whyNLP/LCKV)**|
 |**2024-05-17**|**Medical Dialogue: A Survey of Categories, Methods, Evaluation and Challenges**|Xiaoming Shi et.al.|[2405.10630](http://arxiv.org/abs/2405.10630)|null|
 |**2024-05-17**|**Dynamic data sampler for cross-language transfer learning in large language models**|Yudong Li et.al.|[2405.10626](http://arxiv.org/abs/2405.10626)|**[link](https://github.com/cvi-szu/linly)**|
@@ -2149,7 +2149,7 @@ layout: default
 |**2024-05-19**|**Diffusion-Based Hierarchical Image Steganography**|Youmin Xu et.al.|[2405.11523](http://arxiv.org/abs/2405.11523)|null|
 |**2024-05-19**|**FIFO-Diffusion: Generating Infinite Videos from Text without Training**|Jihwan Kim et.al.|[2405.11473](http://arxiv.org/abs/2405.11473)|null|
 |**2024-05-19**|**Discrete-state Continuous-time Diffusion for Graph Generation**|Zhe Xu et.al.|[2405.11416](http://arxiv.org/abs/2405.11416)|null|
-|**2024-05-18**|**PDE Control Gym: A Benchmark for Data-Driven Boundary Control of Partial Differential Equations**|Luke Bhan et.al.|[2405.11401](http://arxiv.org/abs/2405.11401)|null|
+|**2024-05-18**|**PDE Control Gym: A Benchmark for Data-Driven Boundary Control of Partial Differential Equations**|Luke Bhan et.al.|[2405.11401](http://arxiv.org/abs/2405.11401)|**[link](https://github.com/lukebhan/pdecontrolgym)**|
 |**2024-05-18**|**On the Trajectory Regularity of ODE-based Diffusion Sampling**|Defang Chen et.al.|[2405.11326](http://arxiv.org/abs/2405.11326)|null|
 |**2024-05-18**|**Boundary homogenization for partially reactive patches**|Claire E Plunkett et.al.|[2405.11310](http://arxiv.org/abs/2405.11310)|null|
 |**2024-05-18**|**Diffusion Model Driven Test-Time Image Adaptation for Robust Skin Lesion Classification**|Ming Hu et.al.|[2405.11289](http://arxiv.org/abs/2405.11289)|null|
