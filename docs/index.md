@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-21**|**Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**|William Brandon et.al.|[2405.12981](http://arxiv.org/abs/2405.12981)|null|
 |**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961](http://arxiv.org/abs/2405.12961)|null|
-|**2024-05-19**|**A Method on Searching Better Activation Functions**|Haoyuan Sun et.al.|[2405.12954](http://arxiv.org/abs/2405.12954)|null|
+|**2024-05-22**|**A Method on Searching Better Activation Functions**|Haoyuan Sun et.al.|[2405.12954](http://arxiv.org/abs/2405.12954)|null|
 |**2024-05-21**|**Aggregation of Reasoning: A Hierarchical Framework for Enhancing Answer Selection in Large Language Models**|Zhangyue Yin et.al.|[2405.12939](http://arxiv.org/abs/2405.12939)|null|
 |**2024-05-21**|**Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs**|Bilgehan Sel et.al.|[2405.12933](http://arxiv.org/abs/2405.12933)|null|
 |**2024-05-21**|**Code-mixed Sentiment and Hate-speech Prediction**|Anjali Yadav et.al.|[2405.12929](http://arxiv.org/abs/2405.12929)|null|
@@ -77,7 +77,7 @@ layout: default
 |**2024-05-20**|**WisPerMed at BioLaySumm: Adapting Autoregressive Large Language Models for Lay Summarization of Scientific Articles**|Tabea M. G. Pakull et.al.|[2405.11950](http://arxiv.org/abs/2405.11950)|null|
 |**2024-05-20**|**Data Contamination Calibration for Black-box LLMs**|Wentao Ye et.al.|[2405.11930](http://arxiv.org/abs/2405.11930)|**[link](https://github.com/yyy01/pac)**|
 |**2024-05-20**|**"Set It Up!": Functional Object Arrangement with Compositional Generative Models**|Yiqing Xu et.al.|[2405.11928](http://arxiv.org/abs/2405.11928)|null|
-|**2024-05-21**|**Information Leakage from Embedding in Large Language Models**|Zhipeng Wang et.al.|[2405.11916](http://arxiv.org/abs/2405.11916)|null|
+|**2024-05-22**|**Information Leakage from Embedding in Large Language Models**|Zhipeng Wan et.al.|[2405.11916](http://arxiv.org/abs/2405.11916)|null|
 |**2024-05-20**|**Unveiling and Manipulating Prompt Influence in Large Language Models**|Zijian Feng et.al.|[2405.11891](http://arxiv.org/abs/2405.11891)|**[link](https://github.com/zijian678/tdd)**|
 |**2024-05-20**|**Quantifying In-Context Reasoning Effects and Memorization Effects in LLMs**|Siyu Lou et.al.|[2405.11880](http://arxiv.org/abs/2405.11880)|null|
 |**2024-05-20**|**xFinder: Robust and Pinpoint Answer Extraction for Large Language Models**|Qingchen Yu et.al.|[2405.11874](http://arxiv.org/abs/2405.11874)|null|
@@ -112,7 +112,7 @@ layout: default
 |**2024-05-18**|**Large Language Models Lack Understanding of Character Composition of Words**|Andrew Shin et.al.|[2405.11357](http://arxiv.org/abs/2405.11357)|null|
 |**2024-05-18**|**Decision support system for Forest fire management using Ontology with Big Data and LLMs**|Ritesh Chandra et.al.|[2405.11346](http://arxiv.org/abs/2405.11346)|null|
 |**2024-05-18**|**The CAP Principle for LLM Serving**|Pai Zeng et.al.|[2405.11299](http://arxiv.org/abs/2405.11299)|null|
-|**2024-05-18**|**MBIAS: Mitigating Bias in Large Language Models While Retaining Context**|Shaina Raza et.al.|[2405.11290](http://arxiv.org/abs/2405.11290)|null|
+|**2024-05-22**|**MBIAS: Mitigating Bias in Large Language Models While Retaining Context**|Shaina Raza et.al.|[2405.11290](http://arxiv.org/abs/2405.11290)|null|
 |**2024-05-18**|**Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts**|Yunxin Li et.al.|[2405.11273](http://arxiv.org/abs/2405.11273)|**[link](https://github.com/hitsz-tmg/umoe-scaling-unified-multimodal-llms)**|
 |**2024-05-18**|**EnviroExam: Benchmarking Environmental Science Knowledge of Large Language Models**|Yu Huang et.al.|[2405.11265](http://arxiv.org/abs/2405.11265)|null|
 |**2024-05-18**|**WisPerMed at "Discharge Me!": Advancing Text Generation in Healthcare with Large Language Models, Dynamic Expert Selection, and Priming Techniques on MIMIC-IV**|Hendrik Damm et.al.|[2405.11255](http://arxiv.org/abs/2405.11255)|null|
@@ -1866,7 +1866,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-21**|**C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning**|Ji Ma et.al.|[2405.12752](http://arxiv.org/abs/2405.12752)|null|
 |**2024-05-21**|**EmoEdit: Evoking Emotions through Image Manipulation**|Jingyuan Yang et.al.|[2405.12661](http://arxiv.org/abs/2405.12661)|null|
-|**2024-05-20**|**Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography**|Shantanu Ghosh et.al.|[2405.12255](http://arxiv.org/abs/2405.12255)|**[link](https://github.com/batmanlab/mammo-clip)**|
+|**2024-05-22**|**Mammo-CLIP: A Vision Language Foundation Model to Enhance Data Efficiency and Robustness in Mammography**|Shantanu Ghosh et.al.|[2405.12255](http://arxiv.org/abs/2405.12255)|**[link](https://github.com/batmanlab/mammo-clip)**|
 |**2024-05-20**|**Rethinking Overlooked Aspects in Vision-Language Models**|Yuan Liu et.al.|[2405.11850](http://arxiv.org/abs/2405.11850)|null|
 |**2024-05-19**|**Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning**|Zishan Gu et.al.|[2405.11640](http://arxiv.org/abs/2405.11640)|null|
 |**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629](http://arxiv.org/abs/2405.11629)|null|
@@ -1877,7 +1877,7 @@ layout: default
 |**2024-05-18**|**Detecting Multimodal Situations with Insufficient Context and Abstaining from Baseless Predictions**|Junzhang Liu et.al.|[2405.11145](http://arxiv.org/abs/2405.11145)|null|
 |**2024-05-17**|**Efficient Multimodal Large Language Models: A Survey**|Yizhang Jin et.al.|[2405.10739](http://arxiv.org/abs/2405.10739)|**[link](https://github.com/lijiannuist/efficient-multimodal-llms-survey)**|
 |**2024-05-17**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
-|**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
+|**2024-05-21**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
 |**2024-05-17**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
 |**2024-05-16**|**Generating Coherent Sequences of Visual Illustrations for Real-World Manual Tasks**|João Bordalo et.al.|[2405.10122](http://arxiv.org/abs/2405.10122)|null|
@@ -1936,7 +1936,7 @@ layout: default
 |**2024-04-28**|**Paint by Inpaint: Learning to Add Image Objects by Removing Them First**|Navve Wasserman et.al.|[2404.18212](http://arxiv.org/abs/2404.18212)|**[link](https://github.com/RotsteinNoam/Paint-by-Inpaint)**|
 |**2024-04-27**|**SERPENT-VLM : Self-Refining Radiology Report Generation Using Vision Language Models**|Manav Nitin Kapadnis et.al.|[2404.17912](http://arxiv.org/abs/2404.17912)|null|
 |**2024-04-27**|**Medical Vision-Language Pre-Training for Brain Abnormalities**|Masoud Monajatipoor et.al.|[2404.17779](http://arxiv.org/abs/2404.17779)|null|
-|**2024-04-26**|**BlenderAlchemy: Editing 3D Graphics with Vision-Language Models**|Ian Huang et.al.|[2404.17672](http://arxiv.org/abs/2404.17672)|null|
+|**2024-05-22**|**BlenderAlchemy: Editing 3D Graphics with Vision-Language Models**|Ian Huang et.al.|[2404.17672](http://arxiv.org/abs/2404.17672)|null|
 |**2024-04-26**|**Exploring the Distinctiveness and Fidelity of the Descriptions Generated by Large Vision-Language Models**|Yuhang Huang et.al.|[2404.17534](http://arxiv.org/abs/2404.17534)|null|
 |**2024-04-26**|**Open-Set Video-based Facial Expression Recognition with Human Expression-sensitive Prompting**|Yuanyuan Liu et.al.|[2404.17100](http://arxiv.org/abs/2404.17100)|null|
 |**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804](http://arxiv.org/abs/2404.16804)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
@@ -1951,7 +1951,7 @@ layout: default
 |**2024-04-24**|**Seeing Beyond Classes: Zero-Shot Grounded Situation Recognition via Language Explainer**|Jiaming Lei et.al.|[2404.15785](http://arxiv.org/abs/2404.15785)|null|
 |**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592](http://arxiv.org/abs/2404.15592)|**[link](https://github.com/HenryPengZou/ImplicitAVE)**|
 |**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532](http://arxiv.org/abs/2404.15532)|**[link](https://github.com/agiresearch/battleagent)**|
-|**2024-04-23**|**Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs**|Davide Caffagni et.al.|[2404.15406](http://arxiv.org/abs/2404.15406)|null|
+|**2024-05-22**|**Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs**|Davide Caffagni et.al.|[2404.15406](http://arxiv.org/abs/2404.15406)|null|
 |**2024-04-12**|**FLoRA: Enhancing Vision-Language Models with Parameter-Efficient Federated Learning**|Duy Phuong Nguyen et.al.|[2404.15182](http://arxiv.org/abs/2404.15182)|null|
 |**2024-04-23**|**MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning**|Sunan He et.al.|[2404.15127](http://arxiv.org/abs/2404.15127)|null|
 |**2024-04-21**|**Interpreting COVID Lateral Flow Tests' Results with Foundation Models**|Stuti Pandey et.al.|[2404.14990](http://arxiv.org/abs/2404.14990)|null|
