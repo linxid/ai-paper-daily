@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -34,10 +34,10 @@ layout: default
 |**2024-05-23**|**Unveiling the Achilles' Heel of NLG Evaluators: A Unified Adversarial Framework Driven by Large Language Models**|Yiming Chen et.al.|[2405.14646](http://arxiv.org/abs/2405.14646)|null|
 |**2024-05-23**|**PerLLM: Personalized Inference Scheduling with Edge-Cloud Collaboration for Diverse LLM Services**|Zheming Yang et.al.|[2405.14636](http://arxiv.org/abs/2405.14636)|null|
 |**2024-05-23**|**Calibrated Self-Rewarding Vision Language Models**|Yiyang Zhou et.al.|[2405.14622](http://arxiv.org/abs/2405.14622)|null|
-|**2024-05-23**|**Generating Exceptional Behavior Tests with Reasoning Augmented Large Language Models**|Jiyang Zhang et.al.|[2405.14619](http://arxiv.org/abs/2405.14619)|null|
+|**2024-05-24**|**Generating Exceptional Behavior Tests with Reasoning Augmented Large Language Models**|Jiyang Zhang et.al.|[2405.14619](http://arxiv.org/abs/2405.14619)|null|
 |**2024-05-23**|**Explaining Multi-modal Large Language Models by Analyzing their Vision Perception**|Loris Giulivi et.al.|[2405.14612](http://arxiv.org/abs/2405.14612)|null|
 |**2024-05-23**|**A Watermark for Low-entropy and Unbiased Generation in Large Language Models**|Minjia Mao et.al.|[2405.14604](http://arxiv.org/abs/2405.14604)|**[link](https://github.com/djwei96/sta)**|
-|**2024-05-23**|**Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation**|Shiqi Yang et.al.|[2405.14598](http://arxiv.org/abs/2405.14598)|null|
+|**2024-05-24**|**Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation**|Shiqi Yang et.al.|[2405.14598](http://arxiv.org/abs/2405.14598)|null|
 |**2024-05-23**|**Integer Scale: A Free Lunch for Faster Fine-grained Quantization of LLMs**|Qingyuan Li et.al.|[2405.14597](http://arxiv.org/abs/2405.14597)|null|
 |**2024-05-23**|**Base of RoPE Bounds Context Length**|Xin Men et.al.|[2405.14591](http://arxiv.org/abs/2405.14591)|null|
 |**2024-05-23**|**Top-Down Partitioning for Efficient List-Wise Ranking**|Andrew Parry et.al.|[2405.14589](http://arxiv.org/abs/2405.14589)|null|
@@ -77,7 +77,7 @@ layout: default
 |**2024-05-23**|**Super Tiny Language Models**|Dylan Hillier et.al.|[2405.14159](http://arxiv.org/abs/2405.14159)|null|
 |**2024-05-23**|**Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization**|Zexi Li et.al.|[2405.14132](http://arxiv.org/abs/2405.14132)|null|
 |**2024-05-23**|**AlignGPT: Multi-modal Large Language Models with Adaptive Alignment Capability**|Fei Zhao et.al.|[2405.14129](http://arxiv.org/abs/2405.14129)|null|
-|**2024-05-23**|**ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based Evaluation**|Jingnan Zheng et.al.|[2405.14125](http://arxiv.org/abs/2405.14125)|null|
+|**2024-05-24**|**ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based Evaluation**|Jingnan Zheng et.al.|[2405.14125](http://arxiv.org/abs/2405.14125)|null|
 |**2024-05-23**|**Knowledge Localization: Mission Not Accomplished? Enter Query Localization!**|Yuheng Chen et.al.|[2405.14117](http://arxiv.org/abs/2405.14117)|null|
 |**2024-05-23**|**Distributed Speculative Inference of Large Language Models**|Nadav Timor et.al.|[2405.14105](http://arxiv.org/abs/2405.14105)|null|
 |**2024-05-23**|**Online Self-Preferring Language Models**|Yuanzhao Zhai et.al.|[2405.14103](http://arxiv.org/abs/2405.14103)|null|
@@ -111,7 +111,7 @@ layout: default
 |**2024-05-22**|**Large Language Models are Good Spontaneous Multilingual Learners: Is the Multilingual Annotated Data Necessary?**|Shimao Zhang et.al.|[2405.13816](http://arxiv.org/abs/2405.13816)|null|
 |**2024-05-22**|**Dense Connector for MLLMs**|Huanjin Yao et.al.|[2405.13800](http://arxiv.org/abs/2405.13800)|null|
 |**2024-05-22**|**Do Language Models Enjoy Their Own Stories? Prompting Large Language Models for Automatic Story Evaluation**|Cyril Chhun et.al.|[2405.13769](http://arxiv.org/abs/2405.13769)|**[link](https://github.com/dig-team/hanna-benchmark-asg)**|
-|**2024-05-22**|**CG-FedLLM: How to Compress Gradients in Federated Fune-tuning for Large Language Models**|Huiwen Wu et.al.|[2405.13746](http://arxiv.org/abs/2405.13746)|null|
+|**2024-05-24**|**CG-FedLLM: How to Compress Gradients in Federated Fune-tuning for Large Language Models**|Huiwen Wu et.al.|[2405.13746](http://arxiv.org/abs/2405.13746)|null|
 |**2024-05-22**|**Mining Action Rules for Defect Reduction Planning**|Khouloud Oueslati et.al.|[2405.13740](http://arxiv.org/abs/2405.13740)|null|
 |**2024-05-22**|**CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models**|Guangzhi Sun et.al.|[2405.13684](http://arxiv.org/abs/2405.13684)|null|
 |**2024-05-21**|**Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**|William Brandon et.al.|[2405.12981](http://arxiv.org/abs/2405.12981)|null|
@@ -1975,7 +1975,7 @@ layout: default
 |**2024-05-23**|**Imagery as Inquiry: Exploring A Multimodal Dataset for Conversational Recommendation**|Se-eun Yoon et.al.|[2405.14142](http://arxiv.org/abs/2405.14142)|null|
 |**2024-05-22**|**Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline**|Dingyi Yang et.al.|[2405.14040](http://arxiv.org/abs/2405.14040)|null|
 |**2024-05-22**|**Refining Skewed Perceptions in Vision-Language Models through Visual Representations**|Haocheng Dai et.al.|[2405.14030](http://arxiv.org/abs/2405.14030)|null|
-|**2024-05-22**|**No Filter: Cultural and Socioeconomic Diversityin Contrastive Vision-Language Models**|Angéline Pouget et.al.|[2405.13777](http://arxiv.org/abs/2405.13777)|null|
+|**2024-05-24**|**No Filter: Cultural and Socioeconomic Diversity in Contrastive Vision-Language Models**|Angéline Pouget et.al.|[2405.13777](http://arxiv.org/abs/2405.13777)|null|
 |**2024-05-22**|**Safety Alignment for Vision Language Models**|Zhendong Liu et.al.|[2405.13581](http://arxiv.org/abs/2405.13581)|null|
 |**2024-05-22**|**AltChart: Enhancing VLM-based Chart Summarization Through Multi-Pretext Tasks**|Omar Moured et.al.|[2405.13580](http://arxiv.org/abs/2405.13580)|null|
 |**2024-05-22**|**Learning Manipulation Skills through Robot Chain-of-Thought with Sparse Failure Guidance**|Kaifeng Zhang et.al.|[2405.13573](http://arxiv.org/abs/2405.13573)|null|
@@ -2282,7 +2282,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868](http://arxiv.org/abs/2405.14868)|null|
-|**2024-05-23**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
+|**2024-05-24**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/abs/2405.14864)|null|
 |**2024-05-23**|**Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models**|Gen Li et.al.|[2405.14861](http://arxiv.org/abs/2405.14861)|null|
 |**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857](http://arxiv.org/abs/2405.14857)|null|
@@ -2291,7 +2291,7 @@ layout: default
 |**2024-05-23**|**Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models**|Katherine Xu et.al.|[2405.14828](http://arxiv.org/abs/2405.14828)|null|
 |**2024-05-23**|**New limits on neutrino decay from high-energy astrophysical neutrinos**|Victor B. Valera et.al.|[2405.14826](http://arxiv.org/abs/2405.14826)|null|
 |**2024-05-23**|**PaGoDA: Progressive Growing of a One-Step Generator from a Low-Resolution Diffusion Teacher**|Dongjun Kim et.al.|[2405.14822](http://arxiv.org/abs/2405.14822)|null|
-|**2024-05-23**|**Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|null|
+|**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-23**|**Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**|Shengfang Zhai et.al.|[2405.14800](http://arxiv.org/abs/2405.14800)|null|
 |**2024-05-23**|**DIDI: Diffusion-Guided Diversity for Offline Behavioral Generation**|Jinxin Liu et.al.|[2405.14790](http://arxiv.org/abs/2405.14790)|null|
 |**2024-05-23**|**EditWorld: Simulating World Dynamics for Instruction-Following Image Editing**|Ling Yang et.al.|[2405.14785](http://arxiv.org/abs/2405.14785)|null|
@@ -2303,9 +2303,9 @@ layout: default
 |**2024-05-23**|**Lagrangian Neural Networks for Reversible Dissipative Evolution**|Veera Sundararaghavan et.al.|[2405.14645](http://arxiv.org/abs/2405.14645)|null|
 |**2024-05-23**|**Reinforcement Learning for Fine-tuning Text-to-speech Diffusion Models**|Jingyi Chen et.al.|[2405.14632](http://arxiv.org/abs/2405.14632)|null|
 |**2024-05-23**|**Neuroexplicit Diffusion Models for Inpainting of Optical Flow Fields**|Tom Fischer et.al.|[2405.14599](http://arxiv.org/abs/2405.14599)|null|
-|**2024-05-23**|**Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation**|Shiqi Yang et.al.|[2405.14598](http://arxiv.org/abs/2405.14598)|null|
+|**2024-05-24**|**Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation**|Shiqi Yang et.al.|[2405.14598](http://arxiv.org/abs/2405.14598)|null|
 |**2024-05-23**|**On the role of the fast oscillations in the secular dynamics of the lunar coplanar perturbation on Galileo satellites**|Elisa Maria Alessi et.al.|[2405.14593](http://arxiv.org/abs/2405.14593)|null|
-|**2024-05-23**|**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Poses**|Yong Zhong et.al.|[2405.14582](http://arxiv.org/abs/2405.14582)|null|
+|**2024-05-24**|**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Pose Control**|Yong Zhong et.al.|[2405.14582](http://arxiv.org/abs/2405.14582)|null|
 |**2024-05-23**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580](http://arxiv.org/abs/2405.14580)|null|
 |**2024-05-23**|**Multicontinuum Homogenization for Coupled Flow and Transport Equations**|Dmitry Ammosov et.al.|[2405.14572](http://arxiv.org/abs/2405.14572)|null|
 |**2024-05-23**|**Regressor-free Molecule Generation to Support Drug Response Prediction**|Kun Li et.al.|[2405.14536](http://arxiv.org/abs/2405.14536)|null|
@@ -2318,7 +2318,7 @@ layout: default
 |**2024-05-23**|**Skew-symmetric schemes for stochastic differential equations with non-Lipschitz drift: an unadjusted Barker algorithm**|Samuel Livingstone et.al.|[2405.14373](http://arxiv.org/abs/2405.14373)|null|
 |**2024-05-23**|**Influence of the competition in the spatial dynamics of a population of Aedes mosquitoes**|Ben Samia et.al.|[2405.14360](http://arxiv.org/abs/2405.14360)|null|
 |**2024-05-23**|**I $^2$ VC: A Unified Framework for Intra- \& Inter-frame Video Compression**|Meiqin Liu et.al.|[2405.14336](http://arxiv.org/abs/2405.14336)|null|
-|**2024-05-23**|**Autoregressive Image Diffusion: Generating Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327](http://arxiv.org/abs/2405.14327)|null|
+|**2024-05-24**|**Autoregressive Image Diffusion: Generation of Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327](http://arxiv.org/abs/2405.14327)|null|
 |**2024-05-23**|**Optimal diffusion of chiral active particles with strategic reorientations**|Kristian Stølevik Olsen et.al.|[2405.14326](http://arxiv.org/abs/2405.14326)|null|
 |**2024-05-23**|**Exposure Diffusion: HDR Image Generation by Consistent LDR denoising**|Mojtaba Bemana et.al.|[2405.14304](http://arxiv.org/abs/2405.14304)|null|
 |**2024-05-23**|**Co-Representation Neural Hypergraph Diffusion for Edge-Dependent Node Classification**|Yijia Zheng et.al.|[2405.14286](http://arxiv.org/abs/2405.14286)|null|
@@ -2328,7 +2328,7 @@ layout: default
 |**2024-05-23**|**Survey on Visual Signal Coding and Processing with Generative Models: Technologies, Standards and Optimization**|Zhibo Chen et.al.|[2405.14221](http://arxiv.org/abs/2405.14221)|null|
 |**2024-05-23**|**Symmetry and symmetry-breaking in soil pores and climate change mitigation: What fractal geometry can tell us?**|Abhijeet Das et.al.|[2405.14217](http://arxiv.org/abs/2405.14217)|null|
 |**2024-05-23**|**FreeTuner: Any Subject in Any Style with Training-free Diffusion**|Youcan Xu et.al.|[2405.14201](http://arxiv.org/abs/2405.14201)|null|
-|**2024-05-23**|**Relaxing the sharp density stratification and columnar motion assumptions in layered shallow water systems**|Adim Mahieddine et.al.|[2405.14164](http://arxiv.org/abs/2405.14164)|null|
+|**2024-05-24**|**Relaxing the sharp density stratification and columnar motion assumptions in layered shallow water systems**|Mahieddine Adim et.al.|[2405.14164](http://arxiv.org/abs/2405.14164)|null|
 |**2024-05-23**|**Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization**|Zexi Li et.al.|[2405.14132](http://arxiv.org/abs/2405.14132)|null|
 |**2024-05-23**|**The Disappearance of Timestep Embedding in Modern Time-Dependent Neural Networks**|Bum Jun Kim et.al.|[2405.14126](http://arxiv.org/abs/2405.14126)|null|
 |**2024-05-23**|**Enhancing Image Layout Control with Loss-Guided Diffusion Models**|Zakaria Patel et.al.|[2405.14101](http://arxiv.org/abs/2405.14101)|null|
@@ -2345,14 +2345,14 @@ layout: default
 |**2024-05-22**|**Conditioning diffusion models by explicit forward-backward bridging**|Adrien Corenflos et.al.|[2405.13794](http://arxiv.org/abs/2405.13794)|null|
 |**2024-05-22**|**A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation**|Gwanghyun Kim et.al.|[2405.13762](http://arxiv.org/abs/2405.13762)|null|
 |**2024-05-22**|**Control, Transport and Sampling: Towards Better Loss Design**|Qijia Jiang et.al.|[2405.13731](http://arxiv.org/abs/2405.13731)|null|
-|**2024-05-22**|**ComboStoc: Combinatorial Stochasticity for Diffusion Generative Models**|Rui Xu et.al.|[2405.13729](http://arxiv.org/abs/2405.13729)|null|
+|**2024-05-24**|**ComboStoc: Combinatorial Stochasticity for Diffusion Generative Models**|Rui Xu et.al.|[2405.13729](http://arxiv.org/abs/2405.13729)|null|
 |**2024-05-22**|**Score-based Generative Models with Adaptive Momentum**|Ziqing Wen et.al.|[2405.13726](http://arxiv.org/abs/2405.13726)|null|
 |**2024-05-22**|**InstaDrag: Lightning Fast and Accurate Drag-based Image Editing Emerging from Videos**|Yujun Shi et.al.|[2405.13722](http://arxiv.org/abs/2405.13722)|null|
 |**2024-05-22**|**Learning Diffusion Priors from Observations by Expectation Maximization**|François Rozet et.al.|[2405.13712](http://arxiv.org/abs/2405.13712)|null|
 |**2024-05-22**|**Prompt Mixing in Diffusion Models using the Black Scholes Algorithm**|Divya Kothandaraman et.al.|[2405.13685](http://arxiv.org/abs/2405.13685)|null|
 |**2024-05-22**|**A hot core in the group-dominant elliptical galaxy NGC 777**|Ewan O'Sullivan et.al.|[2405.13667](http://arxiv.org/abs/2405.13667)|null|
 |**2024-05-22**|**A Deep Learning Approach to Multi-Fiber Parameter Estimation and Uncertainty Quantification in Diffusion MRI**|William Consagra et.al.|[2405.13655](http://arxiv.org/abs/2405.13655)|null|
-|**2024-05-22**|**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**|Florinel-Alin Croitoru et.al.|[2405.13637](http://arxiv.org/abs/2405.13637)|null|
+|**2024-05-24**|**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**|Florinel-Alin Croitoru et.al.|[2405.13637](http://arxiv.org/abs/2405.13637)|null|
 |**2024-05-22**|**MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**|Zhiping Yu et.al.|[2405.13570](http://arxiv.org/abs/2405.13570)|null|
 |**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|null|
 |**2024-05-22**|**Directly Denoising Diffusion Model**|Dan Zhang et.al.|[2405.13540](http://arxiv.org/abs/2405.13540)|null|
@@ -2373,7 +2373,7 @@ layout: default
 |**2024-05-21**|**Structural Properties of Plastically Deformed SrTiO3 and KTaO3**|Issam Khayr et.al.|[2405.13249](http://arxiv.org/abs/2405.13249)|null|
 |**2024-05-21**|**Granular temperature controls local rheology of vibrated granular flows**|Mitchell G. Irmer et.al.|[2405.13236](http://arxiv.org/abs/2405.13236)|null|
 |**2024-05-21**|**A generative machine learning surrogate model of plasma turbulence**|B. Clavier et.al.|[2405.13232](http://arxiv.org/abs/2405.13232)|null|
-|**2024-05-21**|**Computational Tradeoffs in Image Synthesis: Diffusion, Masked-Token, and Next-Token Prediction**|Maciej Kilian et.al.|[2405.13218](http://arxiv.org/abs/2405.13218)|null|
+|**2024-05-24**|**Computational Tradeoffs in Image Synthesis: Diffusion, Masked-Token, and Next-Token Prediction**|Maciej Kilian et.al.|[2405.13218](http://arxiv.org/abs/2405.13218)|null|
 |**2024-05-21**|**Low-energy pathways lead to self-healing defects in CsPbBr $_3$**|Kumar Miskin et.al.|[2405.13213](http://arxiv.org/abs/2405.13213)|null|
 |**2024-05-21**|**TauAD: MRI-free Tau Anomaly Detection in PET Imaging via Conditioned Diffusion Models**|Lujia Zhong et.al.|[2405.13199](http://arxiv.org/abs/2405.13199)|null|
 |**2024-05-21**|**Non-existence of solutions for a non-Gaussian equation in fractional time with Osgood type nonlinearity**|Soveny Solís et.al.|[2405.13151](http://arxiv.org/abs/2405.13151)|null|
