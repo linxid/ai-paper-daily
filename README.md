@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.03
+## Updated on 2024.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -101,7 +101,7 @@
 |**2024-05-30**|**Reasoning about concepts with LLMs: Inconsistencies abound**|Rosario Uceda-Sosa et.al.|[2405.20163](http://arxiv.org/abs/2405.20163)|null|
 |**2024-05-30**|**Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals**|Phillip Howard et.al.|[2405.20152](http://arxiv.org/abs/2405.20152)|null|
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139](http://arxiv.org/abs/2405.20139)|null|
-|**2024-05-30**|**LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics**|Niki van Stein et.al.|[2405.20132](http://arxiv.org/abs/2405.20132)|null|
+|**2024-06-01**|**LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics**|Niki van Stein et.al.|[2405.20132](http://arxiv.org/abs/2405.20132)|null|
 |**2024-05-30**|**Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks**|Chen Xiong et.al.|[2405.20099](http://arxiv.org/abs/2405.20099)|null|
 |**2024-05-30**|**Divide-and-Conquer Meets Consensus: Unleashing the Power of Functions in Code Generation**|Jingchang Chen et.al.|[2405.20092](http://arxiv.org/abs/2405.20092)|null|
 |**2024-05-30**|**Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models**|Hao Cheng et.al.|[2405.20090](http://arxiv.org/abs/2405.20090)|null|
@@ -2422,13 +2422,13 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240604>back to top</a>)</p>
 
 ## Multimodal LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
+|**2024-06-03**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013](http://arxiv.org/abs/2405.21013)|null|
 |**2024-05-31**|**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**|Cheng Tan et.al.|[2405.20834](http://arxiv.org/abs/2405.20834)|null|
 |**2024-05-31**|**InsightSee: Advancing Multi-agent Vision-Language Models for Enhanced Visual Understanding**|Huaxiang Zhang et.al.|[2405.20795](http://arxiv.org/abs/2405.20795)|null|
 |**2024-05-31**|**Information Theoretic Text-to-Image Alignment**|Chao Wang et.al.|[2405.20759](http://arxiv.org/abs/2405.20759)|null|
@@ -2452,14 +2452,14 @@
 |**2024-05-29**|**Efficient Black-box Adversarial Attacks via Bayesian Optimization Guided by a Function Prior**|Shuyu Cheng et.al.|[2405.19098](http://arxiv.org/abs/2405.19098)|**[link](https://github.com/yibo-miao/pbo-attack)**|
 |**2024-05-31**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
 |**2024-05-29**|**Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions**|Zhe Hu et.al.|[2405.19088](http://arxiv.org/abs/2405.19088)|null|
-|**2024-05-29**|**Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design**|Markus J. Buehler et.al.|[2405.19076](http://arxiv.org/abs/2405.19076)|**[link](https://github.com/lamm-mit/Cephalo)**|
+|**2024-06-02**|**Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design**|Markus J. Buehler et.al.|[2405.19076](http://arxiv.org/abs/2405.19076)|**[link](https://github.com/lamm-mit/Cephalo)**|
 |**2024-05-29**|**Enhancing Vision-Language Model with Unmasked Token Alignment**|Jihao Liu et.al.|[2405.19009](http://arxiv.org/abs/2405.19009)|**[link](https://github.com/jihaonew/uta)**|
 |**2024-05-29**|**Kestrel: Point Grounding Multimodal LLM for Part-Aware 3D Vision-Language Understanding**|Junjie Fei et.al.|[2405.18937](http://arxiv.org/abs/2405.18937)|null|
 |**2024-05-29**|**DecomCAM: Advancing Beyond Saliency Maps through Decomposition and Integration**|Yuguang Yang et.al.|[2405.18882](http://arxiv.org/abs/2405.18882)|null|
 |**2024-05-29**|**Descriptive Image Quality Assessment in the Wild**|Zhiyuan You et.al.|[2405.18842](http://arxiv.org/abs/2405.18842)|null|
 |**2024-05-29**|**Reverse Image Retrieval Cues Parametric Memory in Multimodal LLMs**|Jialiang Xu et.al.|[2405.18740](http://arxiv.org/abs/2405.18740)|**[link](https://github.com/mi92/reverse-image-rag)**|
 |**2024-05-28**|**Recent Advances of Foundation Language Models-based Continual Learning: A Survey**|Yutao Yang et.al.|[2405.18653](http://arxiv.org/abs/2405.18653)|null|
-|**2024-05-28**|**Low-Rank Few-Shot Adaptation of Vision-Language Models**|Maxime Zanella et.al.|[2405.18541](http://arxiv.org/abs/2405.18541)|null|
+|**2024-06-01**|**Low-Rank Few-Shot Adaptation of Vision-Language Models**|Maxime Zanella et.al.|[2405.18541](http://arxiv.org/abs/2405.18541)|null|
 |**2024-05-28**|**WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization**|Jiawei Ma et.al.|[2405.18405](http://arxiv.org/abs/2405.18405)|null|
 |**2024-05-28**|**Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**|Yifan Bai et.al.|[2405.18361](http://arxiv.org/abs/2405.18361)|null|
 |**2024-05-28**|**Frustratingly Easy Test-Time Adaptation of Vision-Language Models**|Matteo Farina et.al.|[2405.18330](http://arxiv.org/abs/2405.18330)|**[link](https://github.com/farinamatteo/zero)**|
@@ -2503,7 +2503,7 @@
 |**2024-05-24**|**No Filter: Cultural and Socioeconomic Diversity in Contrastive Vision-Language Models**|Angéline Pouget et.al.|[2405.13777](http://arxiv.org/abs/2405.13777)|null|
 |**2024-05-22**|**Safety Alignment for Vision Language Models**|Zhendong Liu et.al.|[2405.13581](http://arxiv.org/abs/2405.13581)|null|
 |**2024-05-22**|**AltChart: Enhancing VLM-based Chart Summarization Through Multi-Pretext Tasks**|Omar Moured et.al.|[2405.13580](http://arxiv.org/abs/2405.13580)|null|
-|**2024-05-22**|**Learning Manipulation Skills through Robot Chain-of-Thought with Sparse Failure Guidance**|Kaifeng Zhang et.al.|[2405.13573](http://arxiv.org/abs/2405.13573)|null|
+|**2024-06-01**|**Learning Manipulation Skills through Robot Chain-of-Thought with Sparse Failure Guidance**|Kaifeng Zhang et.al.|[2405.13573](http://arxiv.org/abs/2405.13573)|null|
 |**2024-05-22**|**What Makes Good Few-shot Examples for Vision-Language Models?**|Zhaojun Guo et.al.|[2405.13532](http://arxiv.org/abs/2405.13532)|null|
 |**2024-05-22**|**PerSense: Personalized Instance Segmentation in Dense Images**|Muhammad Ibraheem Siddiqui et.al.|[2405.13518](http://arxiv.org/abs/2405.13518)|null|
 |**2024-05-22**|**Adapting Multi-modal Large Language Model to Concept Drift in the Long-tailed Open World**|Xiaoyu Yang et.al.|[2405.13459](http://arxiv.org/abs/2405.13459)|**[link](https://github.com/anonymous0knight/conceptdriftmllms)**|
@@ -2802,7 +2802,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240604>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2821,7 +2821,7 @@
 |**2024-05-31**|**Unusual Diffusivity in Strongly Disordered Quantum Lattices: Random Dimer Model**|Ilia Tutunnikov et.al.|[2405.20813](http://arxiv.org/abs/2405.20813)|null|
 |**2024-05-31**|**On the Cahn-Hilliard equation with kinetic rate dependent dynamic boundary condition and non-smooth potential: separation property and long-time behavior**|Maoyin Lv et.al.|[2405.20807](http://arxiv.org/abs/2405.20807)|null|
 |**2024-05-31**|**GS-Phong: Meta-Learned 3D Gaussians for Relightable Novel View Synthesis**|Yumeng He et.al.|[2405.20791](http://arxiv.org/abs/2405.20791)|null|
-|**2024-05-30**|**Stratified Avatar Generation from Sparse Observations**|Han Feng et.al.|[2405.20786](http://arxiv.org/abs/2405.20786)|null|
+|**2024-06-03**|**Stratified Avatar Generation from Sparse Observations**|Han Feng et.al.|[2405.20786](http://arxiv.org/abs/2405.20786)|null|
 |**2024-05-31**|**Share Your Secrets for Privacy! Confidential Forecasting with Vertical Federated Learning**|Aditya Shankar et.al.|[2405.20761](http://arxiv.org/abs/2405.20761)|**[link](https://github.com/adis98/stv)**|
 |**2024-05-31**|**Information Theoretic Text-to-Image Alignment**|Chao Wang et.al.|[2405.20759](http://arxiv.org/abs/2405.20759)|null|
 |**2024-05-31**|**Diffusion Models Are Innate One-Step Generators**|Bowen Zheng et.al.|[2405.20750](http://arxiv.org/abs/2405.20750)|**[link](https://github.com/Zyriix/GDD)**|
@@ -2834,7 +2834,7 @@
 |**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674](http://arxiv.org/abs/2405.20674)|null|
 |**2024-05-31**|**Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation**|Shuzhou Yang et.al.|[2405.20669](http://arxiv.org/abs/2405.20669)|null|
 |**2024-05-31**|**GenMix: Combining Generative and Mixture Data Augmentation for Medical Image Classification**|Hansang Lee et.al.|[2405.20650](http://arxiv.org/abs/2405.20650)|null|
-|**2024-05-31**|**Stochastic Optimal Control for Diffusion Bridges in Function Spaces**|Byoungwoo Park et.al.|[2405.20630](http://arxiv.org/abs/2405.20630)|null|
+|**2024-06-03**|**Stochastic Optimal Control for Diffusion Bridges in Function Spaces**|Byoungwoo Park et.al.|[2405.20630](http://arxiv.org/abs/2405.20630)|null|
 |**2024-05-31**|**Disrupting Diffusion: Token-Level Attention Erasure Attack against Diffusion-based Customization**|Yisu Liu et.al.|[2405.20584](http://arxiv.org/abs/2405.20584)|null|
 |**2024-05-31**|**Lopsided Rigid Dumbbell Rheology from Langevin Equation: A Graduate Tutorial**|Nhan Phan-Thien et.al.|[2405.20578](http://arxiv.org/abs/2405.20578)|null|
 |**2024-05-31**|**Diffusion Actor-Critic: Formulating Constrained Policy Iteration as Diffusion Noise Regression for Offline Reinforcement Learning**|Linjiajie Fang et.al.|[2405.20555](http://arxiv.org/abs/2405.20555)|**[link](https://github.com/Fang-Lin93/DAC)**|
@@ -2858,7 +2858,7 @@
 |**2024-05-30**|**SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow**|Chaoyang Wang et.al.|[2405.20282](http://arxiv.org/abs/2405.20282)|**[link](https://github.com/wang-chaoyang/semflow)**|
 |**2024-05-30**|**CV-VAE: A Compatible Video VAE for Latent Generative Video Models**|Sijie Zhao et.al.|[2405.20279](http://arxiv.org/abs/2405.20279)|**[link](https://github.com/ailab-cvc/cv-vae)**|
 |**2024-05-31**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247](http://arxiv.org/abs/2405.20247)|null|
-|**2024-05-30**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|null|
+|**2024-06-02**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|null|
 |**2024-05-30**|**Boost Your Own Human Image Generation Model via Direct Preference Optimization with AI Feedback**|Sanghyeon Na et.al.|[2405.20216](http://arxiv.org/abs/2405.20216)|null|
 |**2024-05-30**|**MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models**|Lukas Uzolas et.al.|[2405.20155](http://arxiv.org/abs/2405.20155)|null|
 |**2024-05-30**|**Variationally Correct Neural Residual Regression for Parametric PDEs: On the Viability of Controlled Accuracy**|Markus Bachmayr et.al.|[2405.20065](http://arxiv.org/abs/2405.20065)|null|
@@ -2877,8 +2877,8 @@
 |**2024-05-30**|**Sloshing and spiral structures breeding a putative radio mini-halo in the environment of a cool-core cluster Abell 795**|S. K. Kadam et.al.|[2405.19750](http://arxiv.org/abs/2405.19750)|null|
 |**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|**[link](https://github.com/Chenfeng1271/SVDiff)**|
 |**2024-05-30**|**Text Guided Image Editing with Automatic Concept Locating and Forgetting**|Jia Li et.al.|[2405.19708](http://arxiv.org/abs/2405.19708)|null|
-|**2024-05-30**|**Diffusion Policies creating a Trust Region for Offline Reinforcement Learning**|Tianyu Chen et.al.|[2405.19690](http://arxiv.org/abs/2405.19690)|null|
-|**2024-05-30**|**Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**|Masatoshi Uehara et.al.|[2405.19673](http://arxiv.org/abs/2405.19673)|null|
+|**2024-05-31**|**Diffusion Policies creating a Trust Region for Offline Reinforcement Learning**|Tianyu Chen et.al.|[2405.19690](http://arxiv.org/abs/2405.19690)|**[link](https://github.com/tianyucodings/diffusion_trusted_q_learning)**|
+|**2024-05-31**|**Bridging Model-Based Optimization and Generative Modeling via Conservative Fine-Tuning of Diffusion Models**|Masatoshi Uehara et.al.|[2405.19673](http://arxiv.org/abs/2405.19673)|null|
 |**2024-05-30**|**Transport signatures of phase fluctuations in superconducting qubits**|Maxwell Wisne et.al.|[2405.19658](http://arxiv.org/abs/2405.19658)|null|
 |**2024-05-30**|**Nonthermal Acceleration of Electrons, Positrons and Protons at a Nonrelativistic Quasiparallel Collisionless Shock**|Huan Yu et.al.|[2405.19611](http://arxiv.org/abs/2405.19611)|null|
 |**2024-05-29**|**Blind Image Restoration via Fast Diffusion Inversion**|Hamadi Chihaoui et.al.|[2405.19572](http://arxiv.org/abs/2405.19572)|**[link](https://github.com/hamadichihaoui/BIRD)**|
@@ -4563,7 +4563,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240604>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
