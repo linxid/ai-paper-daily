@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -87,12 +87,12 @@ layout: default
 |**2024-06-12**|**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**|Zhangchen Xu et.al.|[2406.08464](http://arxiv.org/abs/2406.08464)|null|
 |**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434](http://arxiv.org/abs/2406.08434)|**[link](https://github.com/yutongwang1216/reflectionllmmt)**|
 |**2024-06-12**|**Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL**|Zijin Hong et.al.|[2406.08426](http://arxiv.org/abs/2406.08426)|null|
-|**2024-06-12**|**OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418](http://arxiv.org/abs/2406.08418)|**[link](https://github.com/opengvlab/omnicorpus)**|
+|**2024-06-13**|**OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418](http://arxiv.org/abs/2406.08418)|**[link](https://github.com/opengvlab/omnicorpus)**|
 |**2024-06-12**|**Discovering Preference Optimization Algorithms with and for Large Language Models**|Chris Lu et.al.|[2406.08414](http://arxiv.org/abs/2406.08414)|**[link](https://github.com/luchris429/DiscoPOP)**|
 |**2024-06-12**|**Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference**|Christopher Wolters et.al.|[2406.08413](http://arxiv.org/abs/2406.08413)|null|
 |**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402](http://arxiv.org/abs/2406.08402)|**[link](https://github.com/kuan2jiu99/audio-hallucination)**|
 |**2024-06-12**|**cPAPERS: A Dataset of Situated and Multimodal Interactive Conversations in Scientific Papers**|Anirudh Sundar et.al.|[2406.08398](http://arxiv.org/abs/2406.08398)|null|
-|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394](http://arxiv.org/abs/2406.08394)|**[link](https://github.com/opengvlab/visionllm)**|
+|**2024-06-14**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394](http://arxiv.org/abs/2406.08394)|**[link](https://github.com/opengvlab/visionllm)**|
 |**2024-06-12**|**Large Language Models Must Be Taught to Know What They Don't Know**|Sanyam Kapoor et.al.|[2406.08391](http://arxiv.org/abs/2406.08391)|**[link](https://github.com/activatedgeek/calibration-tuning)**|
 |**2024-06-12**|**Banal Deception Human-AI Ecosystems: A Study of People's Perceptions of LLM-generated Deceptive Behaviour**|Xiao Zhan et.al.|[2406.08386](http://arxiv.org/abs/2406.08386)|null|
 |**2024-06-12**|**ProTrain: Efficient LLM Training via Memory-Aware Techniques**|Hanmei Yang et.al.|[2406.08334](http://arxiv.org/abs/2406.08334)|null|
@@ -2690,12 +2690,12 @@ layout: default
 |**2024-06-13**|**MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding**|Fei Wang et.al.|[2406.09411](http://arxiv.org/abs/2406.09411)|null|
 |**2024-06-13**|**Too Many Frames, not all Useful:Efficient Strategies for Long-Form Video QA**|Jongwoo Park et.al.|[2406.09396](http://arxiv.org/abs/2406.09396)|null|
 |**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|null|
-|**2024-06-13**|**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models**|Yuhang Wu et.al.|[2406.09295](http://arxiv.org/abs/2406.09295)|null|
+|**2024-06-14**|**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models**|Yuhang Wu et.al.|[2406.09295](http://arxiv.org/abs/2406.09295)|null|
 |**2024-06-13**|**MirrorCheck: Efficient Adversarial Defense for Vision-Language Models**|Samar Fares et.al.|[2406.09250](http://arxiv.org/abs/2406.09250)|null|
-|**2024-06-13**|**Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model**|Melvin Wong et.al.|[2406.09143](http://arxiv.org/abs/2406.09143)|null|
+|**2024-06-14**|**Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model**|Melvin Wong et.al.|[2406.09143](http://arxiv.org/abs/2406.09143)|null|
 |**2024-06-13**|**INS-MMBench: A Comprehensive Benchmark for Evaluating LVLMs' Performance in Insurance**|Chenwei Lin et.al.|[2406.09105](http://arxiv.org/abs/2406.09105)|**[link](https://github.com/fdu-ins/ins-mmbench)**|
 |**2024-06-13**|**How structured are the representations in transformer-based vision encoders? An analysis of multi-object representations in vision-language models**|Tarun Khajuria et.al.|[2406.09067](http://arxiv.org/abs/2406.09067)|null|
-|**2024-06-13**|**Language-Driven Closed-Loop Grasping with Model-Predictive Trajectory Replanning**|Huy Hoang Nguyen et.al.|[2406.09039](http://arxiv.org/abs/2406.09039)|null|
+|**2024-06-14**|**Language-Driven Closed-Loop Grasping with Model-Predictive Trajectory Replanning**|Huy Hoang Nguyen et.al.|[2406.09039](http://arxiv.org/abs/2406.09039)|null|
 |**2024-06-13**|**Conceptual Learning via Embedding Approximations for Reinforcing Interpretability and Transparency**|Maor Dikter et.al.|[2406.08840](http://arxiv.org/abs/2406.08840)|**[link](https://github.com/clearproject/clear)**|
 |**2024-06-13**|**DubWise: Video-Guided Speech Duration Control in Multimodal LLM-based Text-to-Speech for Dubbing**|Neha Sahipjohn et.al.|[2406.08802](http://arxiv.org/abs/2406.08802)|null|
 |**2024-06-13**|**MMFakeBench: A Mixed-Source Multimodal Misinformation Detection Benchmark for LVLMs**|Xuannan Liu et.al.|[2406.08772](http://arxiv.org/abs/2406.08772)|null|
@@ -2785,7 +2785,7 @@ layout: default
 |**2024-05-31**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
 |**2024-05-29**|**Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions**|Zhe Hu et.al.|[2405.19088](http://arxiv.org/abs/2405.19088)|null|
 |**2024-06-02**|**Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design**|Markus J. Buehler et.al.|[2405.19076](http://arxiv.org/abs/2405.19076)|**[link](https://github.com/lamm-mit/Cephalo-Phi-3-MoE)**|
-|**2024-05-29**|**Enhancing Vision-Language Model with Unmasked Token Alignment**|Jihao Liu et.al.|[2405.19009](http://arxiv.org/abs/2405.19009)|**[link](https://github.com/jihaonew/uta)**|
+|**2024-06-14**|**Enhancing Vision-Language Model with Unmasked Token Alignment**|Jihao Liu et.al.|[2405.19009](http://arxiv.org/abs/2405.19009)|**[link](https://github.com/jihaonew/uta)**|
 |**2024-05-29**|**Kestrel: Point Grounding Multimodal LLM for Part-Aware 3D Vision-Language Understanding**|Junjie Fei et.al.|[2405.18937](http://arxiv.org/abs/2405.18937)|null|
 |**2024-05-29**|**DecomCAM: Advancing Beyond Saliency Maps through Decomposition and Integration**|Yuguang Yang et.al.|[2405.18882](http://arxiv.org/abs/2405.18882)|null|
 |**2024-06-12**|**Descriptive Image Quality Assessment in the Wild**|Zhiyuan You et.al.|[2405.18842](http://arxiv.org/abs/2405.18842)|null|
@@ -3146,7 +3146,7 @@ layout: default
 |**2024-06-13**|**ConsistDreamer: 3D-Consistent 2D Diffusion for High-Fidelity Scene Editing**|Jun-Kun Chen et.al.|[2406.09404](http://arxiv.org/abs/2406.09404)|null|
 |**2024-06-13**|**Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion**|Linzhan Mou et.al.|[2406.09402](http://arxiv.org/abs/2406.09402)|null|
 |**2024-06-13**|**OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation**|Junke Wang et.al.|[2406.09399](http://arxiv.org/abs/2406.09399)|**[link](https://github.com/foundationvision/omnitokenizer)**|
-|**2024-06-13**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394](http://arxiv.org/abs/2406.09394)|null|
+|**2024-06-14**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394](http://arxiv.org/abs/2406.09394)|null|
 |**2024-06-13**|**Sagiri: Low Dynamic Range Image Enhancement with Generative Diffusion Prior**|Baiang Li et.al.|[2406.09389](http://arxiv.org/abs/2406.09389)|null|
 |**2024-06-13**|**SimGen: Simulator-conditioned Driving Scene Generation**|Yunsong Zhou et.al.|[2406.09386](http://arxiv.org/abs/2406.09386)|null|
 |**2024-06-13**|**CLIPAway: Harmonizing Focused Embeddings for Removing Objects via Diffusion Models**|Yigit Ekin et.al.|[2406.09368](http://arxiv.org/abs/2406.09368)|null|
@@ -3157,7 +3157,7 @@ layout: default
 |**2024-06-13**|**Neural Assets: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models**|Ziyi Wu et.al.|[2406.09292](http://arxiv.org/abs/2406.09292)|null|
 |**2024-06-13**|**FlowAVSE: Efficient Audio-Visual Speech Enhancement with Conditional Flow Matching**|Chaeyoung Jung et.al.|[2406.09286](http://arxiv.org/abs/2406.09286)|null|
 |**2024-06-13**|**Multigrid preconditioning for discontinuous Galerkin discretizations of an elliptic optimal control problem with a convection-dominated state equation**|Sijing Liu et.al.|[2406.09276](http://arxiv.org/abs/2406.09276)|null|
-|**2024-06-13**|**Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers**|Izumi Takahara et.al.|[2406.09263](http://arxiv.org/abs/2406.09263)|null|
+|**2024-06-14**|**Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers**|Izumi Takahara et.al.|[2406.09263](http://arxiv.org/abs/2406.09263)|null|
 |**2024-06-13**|**OpenVLA: An Open-Source Vision-Language-Action Model**|Moo Jin Kim et.al.|[2406.09246](http://arxiv.org/abs/2406.09246)|null|
 |**2024-06-13**|**Well-posedness of aggregation-diffusion systems with irregular kernels**|José A. Carrillo et.al.|[2406.09227](http://arxiv.org/abs/2406.09227)|null|
 |**2024-06-13**|**Well-posedness and regularity of solutions to neural field problems with dendritic processing**|Daniele Avitabile et.al.|[2406.09222](http://arxiv.org/abs/2406.09222)|null|
@@ -3210,7 +3210,7 @@ layout: default
 |**2024-06-12**|**MaIL: Improving Imitation Learning with Mamba**|Xiaogang Jia et.al.|[2406.08234](http://arxiv.org/abs/2406.08234)|null|
 |**2024-06-12**|**Diffusion-Promoted HDR Video Reconstruction**|Yuanshen Guan et.al.|[2406.08204](http://arxiv.org/abs/2406.08204)|null|
 |**2024-06-12**|**LAFMA: A Latent Flow Matching Model for Text-to-Audio Generation**|Wenhao Guan et.al.|[2406.08203](http://arxiv.org/abs/2406.08203)|null|
-|**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
+|**2024-06-14**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
 |**2024-06-12**|**Optical Investigations of Coherence and Relaxation Dynamics of a Thulium-doped Yttrium Gallium Garnet Crystal at sub-Kelvin Temperatures for Optical Quantum Memory**|Antariksha Das et.al.|[2406.08167](http://arxiv.org/abs/2406.08167)|null|
 |**2024-06-12**|**Defect-related Anomalous Mobility of Small polarons in Oxides: the Case of Congruent Lithium Niobate**|Anton Pfannstiel et.al.|[2406.08123](http://arxiv.org/abs/2406.08123)|null|
 |**2024-06-12**|**On the representation property for 1D general diffusion semimartingales**|David Criens et.al.|[2406.08109](http://arxiv.org/abs/2406.08109)|null|
