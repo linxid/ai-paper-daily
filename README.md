@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -75,7 +75,7 @@
 |**2024-06-20**|**RE-AdaptIR: Improving Information Retrieval through Reverse Engineered Adaptation**|William Fleshman et.al.|[2406.14764](http://arxiv.org/abs/2406.14764)|null|
 |**2024-06-20**|**A Learn-Then-Reason Model Towards Generalization in Knowledge Base Question Answering**|Lingxi Zhang et.al.|[2406.14763](http://arxiv.org/abs/2406.14763)|null|
 |**2024-06-20**|**A Large Language Model Outperforms Other Computational Approaches to the High-Throughput Phenotyping of Physician Notes**|Syed I. Munzir et.al.|[2406.14757](http://arxiv.org/abs/2406.14757)|null|
-|**2024-06-20**|**Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks**|Sefika Efeoglu et.al.|[2406.14745](http://arxiv.org/abs/2406.14745)|null|
+|**2024-06-24**|**Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks**|Sefika Efeoglu et.al.|[2406.14745](http://arxiv.org/abs/2406.14745)|null|
 |**2024-06-20**|**Learning to Retrieve Iteratively for In-Context Learning**|Yunmo Chen et.al.|[2406.14739](http://arxiv.org/abs/2406.14739)|null|
 |**2024-06-20**|**Dissecting the Ullman Variations with a SCALPEL: Why do LLMs fail at Trivial Alterations to the False Belief Task?**|Zhiqiang Pi et.al.|[2406.14737](http://arxiv.org/abs/2406.14737)|null|
 |**2024-06-20**|**Does GPT Really Get It? A Hierarchical Scale to Quantify Human vs AI's Understanding of Algorithms**|Mirabel Reid et.al.|[2406.14722](http://arxiv.org/abs/2406.14722)|null|
@@ -115,7 +115,7 @@
 |**2024-06-20**|**Jailbreaking as a Reward Misspecification Problem**|Zhihui Xie et.al.|[2406.14393](http://arxiv.org/abs/2406.14393)|null|
 |**2024-06-20**|**Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory**|Gordon Dai et.al.|[2406.14373](http://arxiv.org/abs/2406.14373)|null|
 |**2024-06-20**|**The neural correlates of logical-mathematical symbol systems processing resemble that of spatial cognition more than natural language processing**|Yuannan Li et.al.|[2406.14358](http://arxiv.org/abs/2406.14358)|null|
-|**2024-06-20**|**iWISDM: Assessing instruction following in multimodal models at scale**|Xiaoxuan Lei et.al.|[2406.14343](http://arxiv.org/abs/2406.14343)|null|
+|**2024-06-23**|**iWISDM: Assessing instruction following in multimodal models at scale**|Xiaoxuan Lei et.al.|[2406.14343](http://arxiv.org/abs/2406.14343)|null|
 |**2024-06-20**|**Exploring Spatial Representations in the Historical Lake District Texts with LLM-based Relation Extraction**|Erum Haris et.al.|[2406.14336](http://arxiv.org/abs/2406.14336)|null|
 |**2024-06-20**|**Self-supervised Interpretable Concept-based Models for Text Classification**|Francesco De Santis et.al.|[2406.14335](http://arxiv.org/abs/2406.14335)|null|
 |**2024-06-20**|**medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs**|Mingyi Jia et.al.|[2406.14326](http://arxiv.org/abs/2406.14326)|null|
@@ -3116,7 +3116,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -3165,7 +3165,7 @@
 |**2024-06-18**|**BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models**|Xuefeng Hu et.al.|[2406.11309](http://arxiv.org/abs/2406.11309)|null|
 |**2024-06-17**|**MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models**|Shengkang Wang et.al.|[2406.11288](http://arxiv.org/abs/2406.11288)|null|
 |**2024-06-17**|**Unifying Multimodal Retrieval via Document Screenshot Embedding**|Xueguang Ma et.al.|[2406.11251](http://arxiv.org/abs/2406.11251)|null|
-|**2024-06-17**|**WeatherQA: Can Multimodal Language Models Reason about Severe Weather?**|Chengqian Ma et.al.|[2406.11217](http://arxiv.org/abs/2406.11217)|**[link](https://github.com/chengqianma/weatherqa)**|
+|**2024-06-24**|**WeatherQA: Can Multimodal Language Models Reason about Severe Weather?**|Chengqian Ma et.al.|[2406.11217](http://arxiv.org/abs/2406.11217)|**[link](https://github.com/chengqianma/weatherqa)**|
 |**2024-06-19**|**SUGARCREPE++ Dataset: Vision-Language Model Sensitivity to Semantic and Lexical Alterations**|Sri Harsha Dumpala et.al.|[2406.11171](http://arxiv.org/abs/2406.11171)|**[link](https://github.com/Sri-Harsha/scpp)**|
 |**2024-06-17**|**Few-Shot Recognition via Stage-Wise Augmented Finetuning**|Tian Liu et.al.|[2406.11148](http://arxiv.org/abs/2406.11148)|null|
 |**2024-06-16**|**WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences**|Yujie Lu et.al.|[2406.11069](http://arxiv.org/abs/2406.11069)|null|
@@ -3187,7 +3187,7 @@
 |**2024-06-14**|**DevBench: A multimodal developmental benchmark for language learning**|Alvin Wei Ming Tan et.al.|[2406.10215](http://arxiv.org/abs/2406.10215)|null|
 |**2024-06-14**|**Detecting and Evaluating Medical Hallucinations in Large Vision Language Models**|Jiawei Chen et.al.|[2406.10185](http://arxiv.org/abs/2406.10185)|null|
 |**2024-06-14**|**CarLLaVA: Vision language models for camera-only closed-loop driving**|Katrin Renz et.al.|[2406.10165](http://arxiv.org/abs/2406.10165)|null|
-|**2024-06-14**|**RoboGolf: Mastering Real-World Minigolf with a Reflective Multi-Modality Vision-Language Model**|Hantao Zhou et.al.|[2406.10157](http://arxiv.org/abs/2406.10157)|null|
+|**2024-06-23**|**RoboGolf: Mastering Real-World Minigolf with a Reflective Multi-Modality Vision-Language Model**|Hantao Zhou et.al.|[2406.10157](http://arxiv.org/abs/2406.10157)|null|
 |**2024-06-14**|**Details Make a Difference: Object State-Sensitive Neurorobotic Task Planning**|Xiaowen Sun et.al.|[2406.09988](http://arxiv.org/abs/2406.09988)|**[link](https://github.com/xiao-wen-sun/ossa)**|
 |**2024-06-21**|**Vision Language Modeling of Content, Distortion and Appearance for Image Quality Assessment**|Fei Zhou et.al.|[2406.09858](http://arxiv.org/abs/2406.09858)|null|
 |**2024-06-14**|**Vision-Language Models Meet Meteorology: Developing Models for Extreme Weather Events Detection with Heatmaps**|Jian Chen et.al.|[2406.09838](http://arxiv.org/abs/2406.09838)|**[link](https://github.com/AlexJJJChen/Climate-Zoo)**|
@@ -3222,7 +3222,7 @@
 |**2024-06-13**|**From Redundancy to Relevance: Enhancing Explainability in Multimodal Large Language Models**|Xiaofeng Zhang et.al.|[2406.06579](http://arxiv.org/abs/2406.06579)|null|
 |**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512](http://arxiv.org/abs/2406.06512)|null|
 |**2024-06-14**|**Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation**|Oishi Banerjee et.al.|[2406.06496](http://arxiv.org/abs/2406.06496)|null|
-|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462](http://arxiv.org/abs/2406.06462)|**[link](https://github.com/tianyu-z/vcr)**|
+|**2024-06-24**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462](http://arxiv.org/abs/2406.06462)|**[link](https://github.com/tianyu-z/vcr)**|
 |**2024-06-10**|**Data Augmentation in Earth Observation: A Diffusion Model Approach**|Tiago Sousa et.al.|[2406.06218](http://arxiv.org/abs/2406.06218)|null|
 |**2024-06-10**|**CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models**|Peng Xia et.al.|[2406.06007](http://arxiv.org/abs/2406.06007)|**[link](https://github.com/richard-peng-xia/cares)**|
 |**2024-06-10**|**CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark**|David Romero et.al.|[2406.05967](http://arxiv.org/abs/2406.05967)|null|
@@ -3644,7 +3644,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
 ## Diffusion
 
@@ -3673,7 +3673,7 @@
 |**2024-06-21**|**High energy neutrino production in gamma-ray bursts: dependence of the neutrino signal on the jet composition**|Valentin De Lia et.al.|[2406.14975](http://arxiv.org/abs/2406.14975)|null|
 |**2024-06-21**|**VividDreamer: Towards High-Fidelity and Efficient Text-to-3D Generation**|Zixuan Chen et.al.|[2406.14964](http://arxiv.org/abs/2406.14964)|null|
 |**2024-06-21**|**J0011+3217: A peculiar radio galaxy with one-sided secondary lobe and misaligned giant primary lobes**|Shobha Kumari et.al.|[2406.14889](http://arxiv.org/abs/2406.14889)|null|
-|**2024-06-21**|**LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models**|Mengdan Zhu et.al.|[2406.14862](http://arxiv.org/abs/2406.14862)|null|
+|**2024-06-24**|**LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models**|Mengdan Zhu et.al.|[2406.14862](http://arxiv.org/abs/2406.14862)|null|
 |**2024-06-21**|**Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models**|Jie Ren et.al.|[2406.14855](http://arxiv.org/abs/2406.14855)|null|
 |**2024-06-21**|**DExter: Learning and Controlling Performance Expression with Diffusion Models**|Huan Zhang et.al.|[2406.14850](http://arxiv.org/abs/2406.14850)|null|
 |**2024-06-21**|**Fair Text to Medical Image Diffusion Model with Subgroup Distribution Aligned Tuning**|Xu Han et.al.|[2406.14847](http://arxiv.org/abs/2406.14847)|null|
@@ -3726,7 +3726,7 @@
 |**2024-06-19**|**Poiseuille flow for a simplified pseduoplastic rheology**|Chris Reese et.al.|[2406.13832](http://arxiv.org/abs/2406.13832)|null|
 |**2024-06-19**|**Multi-wavelength observations of the Luminous Fast Blue Optical Transient AT2023fhn**|A. A. Chrimes et.al.|[2406.13821](http://arxiv.org/abs/2406.13821)|null|
 |**2024-06-19**|**Groupwise Deformable Registration of Diffusion Tensor Cardiovascular Magnetic Resonance: Disentangling Diffusion Contrast, Respiratory and Cardiac Motions**|Fanwen Wang et.al.|[2406.13788](http://arxiv.org/abs/2406.13788)|null|
-|**2024-06-19**|**GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation**|Baiqi Li et.al.|[2406.13743](http://arxiv.org/abs/2406.13743)|**[link](https://github.com/linzhiqiu/t2v_metrics)**|
+|**2024-06-21**|**GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation**|Baiqi Li et.al.|[2406.13743](http://arxiv.org/abs/2406.13743)|**[link](https://github.com/linzhiqiu/t2v_metrics)**|
 |**2024-06-19**|**StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images**|Rushikesh Zawar et.al.|[2406.13735](http://arxiv.org/abs/2406.13735)|null|
 |**2024-06-19**|**On the dark matter content of ultra-diffuse galaxies**|Andrey Kravtsov et.al.|[2406.13732](http://arxiv.org/abs/2406.13732)|null|
 |**2024-06-19**|**Low-rank based motion correction followed by automatic frame selection in DT-CMR**|Fanwen Wang et.al.|[2406.13708](http://arxiv.org/abs/2406.13708)|null|
@@ -3747,7 +3747,7 @@
 |**2024-06-19**|**Diffusion-based Generative Modeling with Discriminative Guidance for Streamable Speech Enhancement**|Chenda Li et.al.|[2406.13471](http://arxiv.org/abs/2406.13471)|null|
 |**2024-06-19**|**MsFEM for advection-dominated problems in heterogeneous media: Stabilization via nonconforming variants**|Rutger A. Biezemans et.al.|[2406.13437](http://arxiv.org/abs/2406.13437)|null|
 |**2024-06-19**|**Multi-messenger modeling of the Monogem pulsar halo**|Youyou Li et.al.|[2406.13426](http://arxiv.org/abs/2406.13426)|null|
-|**2024-06-19**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393](http://arxiv.org/abs/2406.13393)|null|
+|**2024-06-24**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393](http://arxiv.org/abs/2406.13393)|null|
 |**2024-06-19**|**Berezinsky Hidden Sources: An Emergent Tension in the High-Energy Neutrino Sky?**|Antonio Ambrosone et.al.|[2406.13336](http://arxiv.org/abs/2406.13336)|null|
 |**2024-06-19**|**Multimodal MRI-based Detection of Amyloid Status in Alzheimer's Disease Continuum**|Giorgio Dolci et.al.|[2406.13305](http://arxiv.org/abs/2406.13305)|null|
 |**2024-06-19**|**ARDuP: Active Region Video Diffusion for Universal Policies**|Shuaiyi Huang et.al.|[2406.13301](http://arxiv.org/abs/2406.13301)|null|
@@ -5914,7 +5914,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
