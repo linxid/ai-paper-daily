@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2024-06-25**|**LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users**|Elinor Poole-Dayan et.al.|[2406.17737](http://arxiv.org/abs/2406.17737)|null|
 |**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|null|
 |**2024-06-25**|**From Distributional to Overton Pluralism: Investigating Large Language Model Alignment**|Thom Lake et.al.|[2406.17692](http://arxiv.org/abs/2406.17692)|**[link](https://github.com/thomlake/investigating-alignment)**|
-|**2024-06-25**|**VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation**|Kun Qian et.al.|[2406.17681](http://arxiv.org/abs/2406.17681)|null|
+|**2024-06-26**|**VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation**|Kun Qian et.al.|[2406.17681](http://arxiv.org/abs/2406.17681)|**[link](https://github.com/qbetterk/VarBench)**|
 |**2024-06-25**|**Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models**|Yuan Li et.al.|[2406.17675](http://arxiv.org/abs/2406.17675)|null|
 |**2024-06-25**|**LLM-ARC: Enhancing LLMs with an Automated Reasoning Critic**|Aditya Kalyanpur et.al.|[2406.17663](http://arxiv.org/abs/2406.17663)|null|
 |**2024-06-25**|**Grass: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients**|Aashiq Muhamed et.al.|[2406.17660](http://arxiv.org/abs/2406.17660)|**[link](https://github.com/aashiqmuhamed/grass)**|
@@ -37,14 +37,14 @@
 |**2024-06-25**|**CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference**|Erxin Yu et.al.|[2406.17626](http://arxiv.org/abs/2406.17626)|null|
 |**2024-06-25**|**Self-assessment, Exhibition, and Recognition: a Review of Personality in Large Language Models**|Zhiyuan Wen et.al.|[2406.17624](http://arxiv.org/abs/2406.17624)|null|
 |**2024-06-25**|**"Seeing the Big through the Small": Can LLMs Approximate Human Judgment Distributions on NLI from a Few Explanations?**|Beiduo Chen et.al.|[2406.17600](http://arxiv.org/abs/2406.17600)|null|
-|**2024-06-25**|**LongIns: A Challenging Long-context Instruction-based Exam for LLMs**|Shawn Gavin et.al.|[2406.17588](http://arxiv.org/abs/2406.17588)|null|
+|**2024-06-26**|**LongIns: A Challenging Long-context Instruction-based Exam for LLMs**|Shawn Gavin et.al.|[2406.17588](http://arxiv.org/abs/2406.17588)|null|
 |**2024-06-25**|**Beyond Text-to-SQL for IoT Defense: A Comprehensive Framework for Querying and Classifying IoT Threats**|Ryan Pavlich et.al.|[2406.17574](http://arxiv.org/abs/2406.17574)|null|
 |**2024-06-25**|**FrenchToxicityPrompts: a Large Benchmark for Evaluating and Mitigating Toxicity in French Texts**|Caroline Brun et.al.|[2406.17566](http://arxiv.org/abs/2406.17566)|null|
-|**2024-06-25**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
+|**2024-06-26**|**MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool**|Cunchen Hu et.al.|[2406.17565](http://arxiv.org/abs/2406.17565)|null|
 |**2024-06-25**|**Multi-property Steering of Large Language Models with Dynamic Activation Composition**|Daniel Scalena et.al.|[2406.17563](http://arxiv.org/abs/2406.17563)|null|
 |**2024-06-25**|**The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale**|Guilherme Penedo et.al.|[2406.17557](http://arxiv.org/abs/2406.17557)|null|
 |**2024-06-25**|**Retrieval-Augmented Code Generation for Situated Action Generation: A Case Study on Minecraft**|Chalamalasetti Kranti et.al.|[2406.17553](http://arxiv.org/abs/2406.17553)|null|
-|**2024-06-25**|**CDQuant: Accurate Post-training Weight Quantization of Large Pre-trained Models using Greedy Coordinate Descent**|Pranav Ajit Nair et.al.|[2406.17542](http://arxiv.org/abs/2406.17542)|null|
+|**2024-06-26**|**CDQuant: Accurate Post-training Weight Quantization of Large Pre-trained Models using Greedy Coordinate Descent**|Pranav Ajit Nair et.al.|[2406.17542](http://arxiv.org/abs/2406.17542)|null|
 |**2024-06-25**|**Disce aut Deficere: Evaluating LLMs Proficiency on the INVALSI Italian Benchmark**|Fabio Mercorio et.al.|[2406.17535](http://arxiv.org/abs/2406.17535)|null|
 |**2024-06-25**|**Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification**|Huiyao Chen et.al.|[2406.17534](http://arxiv.org/abs/2406.17534)|null|
 |**2024-06-25**|**Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study**|Keyu Wang et.al.|[2406.17532](http://arxiv.org/abs/2406.17532)|null|
@@ -54,9 +54,9 @@
 |**2024-06-25**|**MedCare: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation**|Yusheng Liao et.al.|[2406.17484](http://arxiv.org/abs/2406.17484)|null|
 |**2024-06-25**|**Enhancing Tool Retrieval with Iterative Feedback from Large Language Models**|Qiancheng Xu et.al.|[2406.17465](http://arxiv.org/abs/2406.17465)|null|
 |**2024-06-25**|**Learning to Ask Informative Questions: Enhancing LLMs with Preference Optimization and Expected Information Gain**|Davide Mazzaccara et.al.|[2406.17453](http://arxiv.org/abs/2406.17453)|null|
-|**2024-06-25**|**A Large-scale Investigation of Semantically Incompatible APIs behind Compatibility Issues in Android Apps**|Shidong Pan et.al.|[2406.17431](http://arxiv.org/abs/2406.17431)|null|
+|**2024-06-26**|**A Large-scale Investigation of Semantically Incompatible APIs behind Compatibility Issues in Android Apps**|Shidong Pan et.al.|[2406.17431](http://arxiv.org/abs/2406.17431)|null|
 |**2024-06-25**|**Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA**|Minzheng Wang et.al.|[2406.17419](http://arxiv.org/abs/2406.17419)|**[link](https://github.com/mozerwang/loong)**|
-|**2024-06-25**|**Variable Layer-Wise Quantization: A Simple and Effective Approach to Quantize LLMs**|Razvan-Gabriel Dumitru et.al.|[2406.17415](http://arxiv.org/abs/2406.17415)|null|
+|**2024-06-26**|**Layer-Wise Quantization: A Pragmatic and Effective Method for Quantizing LLMs Beyond Integer Bit-Levels**|Razvan-Gabriel Dumitru et.al.|[2406.17415](http://arxiv.org/abs/2406.17415)|null|
 |**2024-06-25**|**Make Some Noise: Unlocking Language Model Parallel Inference Capability through Noisy Training**|Yixuan Wang et.al.|[2406.17404](http://arxiv.org/abs/2406.17404)|null|
 |**2024-06-25**|**Native Design Bias: Studying the Impact of English Nativeness on Language Model Performance**|Manon Reusens et.al.|[2406.17385](http://arxiv.org/abs/2406.17385)|null|
 |**2024-06-25**|**A Text is Worth Several Tokens: Text Embedding from LLMs Secretly Aligns Well with The Key Tokens**|Zhijie Nie et.al.|[2406.17378](http://arxiv.org/abs/2406.17378)|null|
@@ -67,7 +67,7 @@
 |**2024-06-25**|**Leveraging LLMs for Dialogue Quality Measurement**|Jinghan Jia et.al.|[2406.17304](http://arxiv.org/abs/2406.17304)|null|
 |**2024-06-25**|**BlockLLM: Memory-Efficient Adaptation of LLMs by Selecting and Optimizing the Right Coordinate Blocks**|Amrutha Varshini Ramesh et.al.|[2406.17296](http://arxiv.org/abs/2406.17296)|null|
 |**2024-06-25**|**MatText: Do Language Models Need More than Text & Scale for Materials Modeling?**|Nawaf Alampara et.al.|[2406.17295](http://arxiv.org/abs/2406.17295)|null|
-|**2024-06-25**|**Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**|Wenhao Shi et.al.|[2406.17294](http://arxiv.org/abs/2406.17294)|null|
+|**2024-06-26**|**Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**|Wenhao Shi et.al.|[2406.17294](http://arxiv.org/abs/2406.17294)|null|
 |**2024-06-25**|**Predicting the Big Five Personality Traits in Chinese Counselling Dialogues Using Large Language Models**|Yang Yan et.al.|[2406.17287](http://arxiv.org/abs/2406.17287)|**[link](https://github.com/kuri-leo/bigfive-llm-predictor)**|
 |**2024-06-25**|**Can We Trust the Performance Evaluation of Uncertainty Estimation Methods in Text Summarization?**|Jianfeng He et.al.|[2406.17274](http://arxiv.org/abs/2406.17274)|null|
 |**2024-06-25**|**A Comprehensive Solution to Connect Speech Encoder and Large Language Model for ASR**|Van Tung Pham et.al.|[2406.17272](http://arxiv.org/abs/2406.17272)|null|
@@ -80,7 +80,7 @@
 |**2024-06-25**|**Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks**|Yun-Shiuan Chuang et.al.|[2406.17232](http://arxiv.org/abs/2406.17232)|null|
 |**2024-06-25**|**CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph**|Tong Zhou et.al.|[2406.17231](http://arxiv.org/abs/2406.17231)|null|
 |**2024-06-25**|**Large Language Models are Interpretable Learners**|Ruochen Wang et.al.|[2406.17224](http://arxiv.org/abs/2406.17224)|**[link](https://github.com/ruocwang/llm-symbolic-program)**|
-|**2024-06-25**|**Enabling Large Language Models to Perform Power System Simulations with Previously Unseen Tools: A Case of Daline**|Mengshuo Jia et.al.|[2406.17215](http://arxiv.org/abs/2406.17215)|null|
+|**2024-06-26**|**Enabling Large Language Models to Perform Power System Simulations with Previously Unseen Tools: A Case of Daline**|Mengshuo Jia et.al.|[2406.17215](http://arxiv.org/abs/2406.17215)|null|
 |**2024-06-24**|**CogExplore: Contextual Exploration with Language-Encoded Environment Representations**|Harel Biggie et.al.|[2406.17180](http://arxiv.org/abs/2406.17180)|null|
 |**2024-06-24**|**Multi-LogiEval: Towards Evaluating Multi-Step Logical Reasoning Ability of Large Language Models**|Nisarg Patel et.al.|[2406.17169](http://arxiv.org/abs/2406.17169)|**[link](https://github.com/mihir3009/multi-logieval)**|
 |**2024-06-24**|**Paraphrase and Aggregate with Large Language Models for Minimizing Intent Classification Errors**|Vikas Yadav et.al.|[2406.17163](http://arxiv.org/abs/2406.17163)|null|
@@ -93,7 +93,7 @@
 |**2024-06-24**|**From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models**|Sean Welleck et.al.|[2406.16838](http://arxiv.org/abs/2406.16838)|null|
 |**2024-06-24**|**USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and $\underline{D}$ogmatism in Long $\underline{C}$ onversations**|Mounika Marreddy et.al.|[2406.16833](http://arxiv.org/abs/2406.16833)|null|
 |**2024-06-24**|**Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track**|Ronak Pradeep et.al.|[2406.16828](http://arxiv.org/abs/2406.16828)|null|
-|**2024-06-24**|**RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale**|Beck LaBash et.al.|[2406.16801](http://arxiv.org/abs/2406.16801)|**[link](https://github.com/qurrent-ai/res-q)**|
+|**2024-06-25**|**RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale**|Beck LaBash et.al.|[2406.16801](http://arxiv.org/abs/2406.16801)|**[link](https://github.com/qurrent-ai/res-q)**|
 |**2024-06-25**|**Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**|Ashwinee Panda et.al.|[2406.16797](http://arxiv.org/abs/2406.16797)|**[link](https://github.com/kiddyboots216/lottery-ticket-adaptation)**|
 |**2024-06-24**|**M2Lingual: Enhancing Multilingual, Multi-Turn Instruction Alignment in Large Language Models**|Rishabh Maheshwary et.al.|[2406.16783](http://arxiv.org/abs/2406.16783)|null|
 |**2024-06-24**|**It Is Not About What You Say, It Is About How You Say It: A Surprisingly Simple Approach for Improving Reading Comprehension**|Sagi Shaier et.al.|[2406.16779](http://arxiv.org/abs/2406.16779)|null|
@@ -3286,7 +3286,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -3295,7 +3295,7 @@
 |**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768](http://arxiv.org/abs/2406.17768)|null|
 |**2024-06-25**|**DKPROMPT: Domain Knowledge Prompting Vision-Language Models for Open-World Planning**|Xiaohan Zhang et.al.|[2406.17659](http://arxiv.org/abs/2406.17659)|null|
 |**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520](http://arxiv.org/abs/2406.17520)|null|
-|**2024-06-25**|**Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**|Wenhao Shi et.al.|[2406.17294](http://arxiv.org/abs/2406.17294)|null|
+|**2024-06-26**|**Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**|Wenhao Shi et.al.|[2406.17294](http://arxiv.org/abs/2406.17294)|null|
 |**2024-06-24**|**MM-SpuBench: Towards Better Understanding of Spurious Biases in Multimodal LLMs**|Wenqian Ye et.al.|[2406.17126](http://arxiv.org/abs/2406.17126)|null|
 |**2024-06-24**|**Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models**|Bei Yan et.al.|[2406.17115](http://arxiv.org/abs/2406.17115)|**[link](https://github.com/hqhbench/hqhbench)**|
 |**2024-06-24**|**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**|Shengbang Tong et.al.|[2406.16860](http://arxiv.org/abs/2406.16860)|**[link](https://github.com/cambrian-mllm/cambrian)**|
@@ -3831,7 +3831,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## Diffusion
 
@@ -3844,7 +3844,7 @@
 |**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688](http://arxiv.org/abs/2406.17688)|null|
 |**2024-06-25**|**Asymptotic Properties of Random Homology Induced by Diffusion Processes**|Artem Galkin et.al.|[2406.17683](http://arxiv.org/abs/2406.17683)|null|
 |**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673](http://arxiv.org/abs/2406.17673)|null|
-|**2024-06-25**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunita et.al.|[2406.17672](http://arxiv.org/abs/2406.17672)|null|
+|**2024-06-26**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunità et.al.|[2406.17672](http://arxiv.org/abs/2406.17672)|null|
 |**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636](http://arxiv.org/abs/2406.17636)|null|
 |**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608](http://arxiv.org/abs/2406.17608)|**[link](https://github.com/maxiao0234/ttga)**|
 |**2024-06-25**|**Diffusion-based Adversarial Purification for Intrusion Detection**|Mohamed Amine Merzouk et.al.|[2406.17606](http://arxiv.org/abs/2406.17606)|null|
@@ -6185,7 +6185,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
