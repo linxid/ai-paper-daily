@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.01
+## Updated on 2024.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -51,7 +51,7 @@
 |**2024-06-28**|**Uncertainty Quantification in Large Language Models Through Convex Hull Analysis**|Ferhat Ozgur Catak et.al.|[2406.19712](http://arxiv.org/abs/2406.19712)|null|
 |**2024-06-28**|**InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management**|Wonbeom Lee et.al.|[2406.19707](http://arxiv.org/abs/2406.19707)|null|
 |**2024-06-28**|**MMRo: Are Multimodal LLMs Eligible as the Brain for In-Home Robotics?**|Jinming Li et.al.|[2406.19693](http://arxiv.org/abs/2406.19693)|null|
-|**2024-06-28**|**Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation and Improvement through LLMs**|Zichao Shen et.al.|[2406.19644](http://arxiv.org/abs/2406.19644)|null|
+|**2024-07-01**|**Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation and Improvement through LLMs**|Zichao Shen et.al.|[2406.19644](http://arxiv.org/abs/2406.19644)|null|
 |**2024-06-28**|**A Survey on Data Quality Dimensions and Tools for Machine Learning**|Yuhan Zhou et.al.|[2406.19614](http://arxiv.org/abs/2406.19614)|null|
 |**2024-06-28**|**Mixture of In-Context Experts Enhance LLMs' Long Context Awareness**|Hongzhan Lin et.al.|[2406.19598](http://arxiv.org/abs/2406.19598)|null|
 |**2024-06-27**|**PathAlign: A vision-language model for whole slide images in histopathology**|Faruk Ahmed et.al.|[2406.19578](http://arxiv.org/abs/2406.19578)|null|
@@ -101,7 +101,7 @@
 |**2024-06-27**|**Improving Weak-to-Strong Generalization with Reliability-Aware Alignment**|Yue Guo et.al.|[2406.19032](http://arxiv.org/abs/2406.19032)|**[link](https://github.com/irenehere/reliablealignment)**|
 |**2024-06-27**|**Applying LLMs for Rescoring N-best ASR Hypotheses of Casual Conversations: Effects of Domain Adaptation and Context Carry-over**|Atsunori Ogawa et.al.|[2406.18972](http://arxiv.org/abs/2406.18972)|null|
 |**2024-06-28**|**UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models**|Siyuan Wu et.al.|[2406.18966](http://arxiv.org/abs/2406.18966)|null|
-|**2024-06-27**|**Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data**|Yiting Ran et.al.|[2406.18921](http://arxiv.org/abs/2406.18921)|null|
+|**2024-06-29**|**Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data**|Yiting Ran et.al.|[2406.18921](http://arxiv.org/abs/2406.18921)|null|
 |**2024-06-27**|**TrustUQA: A Trustful Framework for Unified Structured Data Question Answering**|Wen Zhang et.al.|[2406.18916](http://arxiv.org/abs/2406.18916)|null|
 |**2024-06-27**|**Sonnet or Not, Bot? Poetry Evaluation for Large Models and Datasets**|Melanie Walsh et.al.|[2406.18906](http://arxiv.org/abs/2406.18906)|null|
 |**2024-06-27**|**Can we teach language models to gloss endangered languages?**|Michael Ginn et.al.|[2406.18895](http://arxiv.org/abs/2406.18895)|null|
@@ -116,7 +116,7 @@
 |**2024-06-27**|**OutlierTune: Efficient Channel-Wise Quantization for Large Language Models**|Jinguang Wang et.al.|[2406.18832](http://arxiv.org/abs/2406.18832)|null|
 |**2024-06-27**|**ELCoRec: Enhance Language Understanding with Co-Propagation of Numerical and Categorical Features for Recommendation**|Jizheng Chen et.al.|[2406.18825](http://arxiv.org/abs/2406.18825)|null|
 |**2024-06-27**|**MissionGNN: Hierarchical Multimodal GNN-based Weakly Supervised Video Anomaly Recognition with Mission-Specific Knowledge Graph Generation**|Sanggeon Yun et.al.|[2406.18815](http://arxiv.org/abs/2406.18815)|null|
-|**2024-06-26**|**Psychological Profiling in Cybersecurity: A Look at LLMs and Psycholinguistic Features**|Jean Marie Tshimula et.al.|[2406.18783](http://arxiv.org/abs/2406.18783)|null|
+|**2024-06-28**|**Psychological Profiling in Cybersecurity: A Look at LLMs and Psycholinguistic Features**|Jean Marie Tshimula et.al.|[2406.18783](http://arxiv.org/abs/2406.18783)|null|
 |**2024-06-26**|**Implicit Discourse Relation Classification For Nigerian Pidgin**|Muhammed Saeed et.al.|[2406.18776](http://arxiv.org/abs/2406.18776)|null|
 |**2024-06-26**|**ADO-LLM: Analog Design Bayesian Optimization with In-Context Learning of Large Language Models**|Yuxuan Yin et.al.|[2406.18770](http://arxiv.org/abs/2406.18770)|null|
 |**2024-06-26**|**Categorical Syllogisms Revisited: A Review of the Logical Reasoning Abilities of LLMs for Analyzing Categorical Syllogism**|Shi Zong et.al.|[2406.18762](http://arxiv.org/abs/2406.18762)|null|
@@ -3469,7 +3469,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240702>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -4041,7 +4041,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240702>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4092,7 +4092,7 @@
 |**2024-06-27**|**Numerical Analysis of the Complete Active-Space Extended Koopmans's Theorem**|Reza Hemmati et.al.|[2406.19211](http://arxiv.org/abs/2406.19211)|null|
 |**2024-06-27**|**The case for Centaurus A as the main source of ultrahigh-energy cosmic rays**|Silvia Mollerach et.al.|[2406.19199](http://arxiv.org/abs/2406.19199)|null|
 |**2024-06-27**|**Mechanical cell interactions on curved interfaces**|Pascal R. Buenzli et.al.|[2406.19197](http://arxiv.org/abs/2406.19197)|**[link](https://github.com/prbuen/buenzli2024_mechanical_cell_interactions_on_curved_interfaces)**|
-|**2024-06-27**|**Existence of solution of a triangular degenerate reaction-diffusion system**|Saumyajit Das IIT Bombay et.al.|[2406.19196](http://arxiv.org/abs/2406.19196)|null|
+|**2024-07-01**|**Existence of solution of a triangular degenerate reaction-diffusion system**|Saumyajit Das et.al.|[2406.19196](http://arxiv.org/abs/2406.19196)|null|
 |**2024-06-27**|**DEX-TTS: Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability**|Hyun Joon Park et.al.|[2406.19135](http://arxiv.org/abs/2406.19135)|**[link](https://github.com/winddori2002/dex-tts)**|
 |**2024-06-27**|**Coagulation-flocculation process on a lattice: Monte Carlo simulations**|V. Blavatska et.al.|[2406.19115](http://arxiv.org/abs/2406.19115)|null|
 |**2024-06-27**|**Geometric heat pumping under continuous modulation in thermal diffusion**|Hao-Ran Yan et.al.|[2406.19100](http://arxiv.org/abs/2406.19100)|null|
@@ -4112,7 +4112,7 @@
 |**2024-06-27**|**Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs**|Jie Zhang et.al.|[2406.18849](http://arxiv.org/abs/2406.18849)|**[link](https://github.com/benchmark-dysca/dysca)**|
 |**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790](http://arxiv.org/abs/2406.18790)|null|
 |**2024-06-26**|**Self-consistent expansion and field-theoretic renormalization group for a singular nonlinear diffusion equation with anomalous scaling**|Minhui Zhu et.al.|[2406.18784](http://arxiv.org/abs/2406.18784)|null|
-|**2024-06-26**|**Molecular dynamics simulations of water-ethanol mixtures. I. Composition trends in thermodynamic properties**|D. B. Bautista et.al.|[2406.18707](http://arxiv.org/abs/2406.18707)|null|
+|**2024-06-30**|**Molecular dynamics simulations of water-ethanol mixtures. I. Composition trends in thermodynamic properties**|D. Benavides Bautista et.al.|[2406.18707](http://arxiv.org/abs/2406.18707)|null|
 |**2024-06-26**|**Signatures of ballistic and diffusive transport in the time-dependent Kerr-response of magnetic materials**|Sanjay Ashok et.al.|[2406.18686](http://arxiv.org/abs/2406.18686)|null|
 |**2024-06-26**|**Dynamically localized but deconfined excitations in strained classical spin ice**|Zhongling Lu et.al.|[2406.18649](http://arxiv.org/abs/2406.18649)|null|
 |**2024-06-26**|**A Cyclical Fast Iterative Method for Simulating Reentries in Cardiac Electrophysiology Using an Eikonal-Based Model**|C. Barrios Espinosa et.al.|[2406.18619](http://arxiv.org/abs/2406.18619)|null|
@@ -6489,7 +6489,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
