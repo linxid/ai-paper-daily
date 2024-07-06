@@ -25,11 +25,11 @@ layout: default
 |**2024-07-03**|**SOS! Soft Prompt Attack Against Open-Source Large Language Models**|Ziqing Yang et.al.|[2407.03160](http://arxiv.org/abs/2407.03160)|null|
 |**2024-07-03**|**Let the Code LLM Edit Itself When You Edit the Code**|Zhenyu He et.al.|[2407.03157](http://arxiv.org/abs/2407.03157)|null|
 |**2024-07-03**|**Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data**|Minato Kondo et.al.|[2407.03145](http://arxiv.org/abs/2407.03145)|null|
-|**2024-07-03**|**Social Bias Evaluation for Large Language Models Requires Prompt Variations**|Rem Hida et.al.|[2407.03129](http://arxiv.org/abs/2407.03129)|null|
+|**2024-07-03**|**Social Bias Evaluation for Large Language Models Requires Prompt Variations**|Rem Hida et.al.|[2407.03129](http://arxiv.org/abs/2407.03129)|**[link](https://github.com/rem-h4/llm_socialbias_prompts)**|
 |**2024-07-03**|**KeyVideoLLM: Towards Large-scale Video Keyframe Selection**|Hao Liang et.al.|[2407.03104](http://arxiv.org/abs/2407.03104)|null|
-|**2024-07-03**|**Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory**|Suyeon Lee et.al.|[2407.03103](http://arxiv.org/abs/2407.03103)|null|
+|**2024-07-03**|**Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory**|Suyeon Lee et.al.|[2407.03103](http://arxiv.org/abs/2407.03103)|**[link](https://github.com/coding-groot/cactus)**|
 |**2024-07-03**|**ScreenTK: Seamless Detection of Time-Killing Moments Using Continuous Mobile Screen Text Monitoring**|Le Fang et.al.|[2407.03063](http://arxiv.org/abs/2407.03063)|null|
-|**2024-07-03**|**ALTER: Augmentation for Large-Table-Based Reasoning**|Han Zhang et.al.|[2407.03061](http://arxiv.org/abs/2407.03061)|null|
+|**2024-07-03**|**ALTER: Augmentation for Large-Table-Based Reasoning**|Han Zhang et.al.|[2407.03061](http://arxiv.org/abs/2407.03061)|**[link](https://github.com/Hanzhang-lang/ALTER)**|
 |**2024-07-03**|**Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment**|Janghwan Lee et.al.|[2407.03051](http://arxiv.org/abs/2407.03051)|null|
 |**2024-07-03**|**JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets**|Zhihua Jin et.al.|[2407.03045](http://arxiv.org/abs/2407.03045)|null|
 |**2024-07-03**|**Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model**|Xia Hou et.al.|[2407.03040](http://arxiv.org/abs/2407.03040)|null|
@@ -88,28 +88,28 @@ layout: default
 |**2024-07-02**|**Open foundation models for Azerbaijani language**|Jafar Isbarov et.al.|[2407.02337](http://arxiv.org/abs/2407.02337)|null|
 |**2024-07-02**|**Efficient Sparse Attention needs Adaptive Token Release**|Chaoran Zhang et.al.|[2407.02328](http://arxiv.org/abs/2407.02328)|null|
 |**2024-07-02**|**Exploring the Role of Transliteration in In-Context Learning for Low-resource Languages Written in Non-Latin Scripts**|Chunlan Ma et.al.|[2407.02320](http://arxiv.org/abs/2407.02320)|null|
-|**2024-07-02**|**Evaluating the Ability of LLMs to Solve Semantics-Aware Process Mining Tasks**|Adrian Rebmann et.al.|[2407.02310](http://arxiv.org/abs/2407.02310)|null|
+|**2024-07-02**|**Evaluating the Ability of LLMs to Solve Semantics-Aware Process Mining Tasks**|Adrian Rebmann et.al.|[2407.02310](http://arxiv.org/abs/2407.02310)|**[link](https://github.com/a-rebmann/llms4pm)**|
 |**2024-07-02**|**CFinBench: A Comprehensive Chinese Financial Benchmark for Large Language Models**|Ying Nie et.al.|[2407.02301](http://arxiv.org/abs/2407.02301)|null|
 |**2024-07-02**|**Strategic Demand-Planning in Wireless Networks: Can Generative-AI Save Spectrum and Energy?**|Berk Çiloğlu et.al.|[2407.02292](http://arxiv.org/abs/2407.02292)|null|
-|**2024-07-02**|**Multilingual Trolley Problems for Language Models**|Zhijing Jin et.al.|[2407.02273](http://arxiv.org/abs/2407.02273)|null|
+|**2024-07-02**|**Multilingual Trolley Problems for Language Models**|Zhijing Jin et.al.|[2407.02273](http://arxiv.org/abs/2407.02273)|**[link](https://github.com/causalNLP/moralmachine)**|
 |**2024-07-02**|**GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**|Jian Ma et.al.|[2407.02252](http://arxiv.org/abs/2407.02252)|**[link](https://github.com/oppo-mente-lab/glyphdraw2)**|
 |**2024-07-02**|**MIREncoder: Multi-modal IR-based Pretrained Embeddings for Performance Optimizations**|Akash Dutta et.al.|[2407.02238](http://arxiv.org/abs/2407.02238)|null|
 |**2024-07-02**|**Towards a Holistic Framework for Multimodal Large Language Models in Three-dimensional Brain CT Report Generation**|Cheng-Yi Li et.al.|[2407.02235](http://arxiv.org/abs/2407.02235)|**[link](https://github.com/charlierabea/FORTE)**|
 |**2024-07-02**|**Synthetic Multimodal Question Generation**|Ian Wu et.al.|[2407.02233](http://arxiv.org/abs/2407.02233)|null|
 |**2024-07-02**|**Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models**|Xiangrui Kong et.al.|[2407.02220](http://arxiv.org/abs/2407.02220)|null|
 |**2024-07-02**|**PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning**|Jiaru Zou et.al.|[2407.02211](http://arxiv.org/abs/2407.02211)|null|
-|**2024-07-02**|**Generative Monoculture in Large Language Models**|Fan Wu et.al.|[2407.02209](http://arxiv.org/abs/2407.02209)|null|
+|**2024-07-02**|**Generative Monoculture in Large Language Models**|Fan Wu et.al.|[2407.02209](http://arxiv.org/abs/2407.02209)|**[link](https://github.com/GeMoLLM/GeMO)**|
 |**2024-07-02**|**Automatic Adaptation Rule Optimization via Large Language Models**|Yusei Ishimizu et.al.|[2407.02203](http://arxiv.org/abs/2407.02203)|null|
 |**2024-07-02**|**FineCLIPER: Multi-modal Fine-grained CLIP for Dynamic Facial Expression Recognition with AdaptERs**|Haodong Chen et.al.|[2407.02157](http://arxiv.org/abs/2407.02157)|null|
 |**2024-07-02**|**LlamAr & GemmAr: Enhancing LLMs Through Arabic Instruction-Tuning**|Hasna Chouikhi et.al.|[2407.02147](http://arxiv.org/abs/2407.02147)|null|
 |**2024-07-02**|**Cost-Effective Proxy Reward Model Construction with On-Policy and Active Learning**|Yifang Chen et.al.|[2407.02119](http://arxiv.org/abs/2407.02119)|null|
 |**2024-07-02**|**Breaking Language Barriers: Cross-Lingual Continual Pre-Training at Scale**|Wenzhen Zheng et.al.|[2407.02118](http://arxiv.org/abs/2407.02118)|null|
-|**2024-07-02**|**Helpful assistant or fruitful facilitator? Investigating how personas affect language model behavior**|Pedro Henrique Luz de Araujo et.al.|[2407.02099](http://arxiv.org/abs/2407.02099)|null|
+|**2024-07-02**|**Helpful assistant or fruitful facilitator? Investigating how personas affect language model behavior**|Pedro Henrique Luz de Araujo et.al.|[2407.02099](http://arxiv.org/abs/2407.02099)|**[link](https://github.com/peluz/persona-behavior)**|
 |**2024-07-02**|**GPTCast: a weather language model for precipitation nowcasting**|Gabriele Franch et.al.|[2407.02089](http://arxiv.org/abs/2407.02089)|null|
 |**2024-07-02**|**Theseus: Towards High-Efficiency Wafer-Scale Chip Design Space Exploration for Large Language Models**|Jingchen Zhu et.al.|[2407.02079](http://arxiv.org/abs/2407.02079)|null|
 |**2024-07-02**|**Prompt Stability Scoring for Text Annotation with Large Language Models**|Christopher Barrie et.al.|[2407.02039](http://arxiv.org/abs/2407.02039)|null|
-|**2024-07-02**|**Breaking Bias, Building Bridges: Evaluation and Mitigation of Social Biases in LLMs via Contact Hypothesis**|Chahat Raj et.al.|[2407.02030](http://arxiv.org/abs/2407.02030)|**[link](https://github.com/chahatraj/breakingbias)**|
-|**2024-07-02**|**Why does in-context learning fail sometimes? Evaluating in-context learning on open and closed questions**|Xiang Li et.al.|[2407.02028](http://arxiv.org/abs/2407.02028)|null|
+|**2024-07-02**|**Breaking Bias, Building Bridges: Evaluation and Mitigation of Social Biases in LLMs via Contact Hypothesis**|Chahat Raj et.al.|[2407.02030](http://arxiv.org/abs/2407.02030)|null|
+|**2024-07-02**|**Why does in-context learning fail sometimes? Evaluating in-context learning on open and closed questions**|Xiang Li et.al.|[2407.02028](http://arxiv.org/abs/2407.02028)|**[link](https://github.com/mikelixiang88/context-matters)**|
 |**2024-07-02**|**An End-to-End Speech Summarization Using Large Language Model**|Hengchao Shang et.al.|[2407.02005](http://arxiv.org/abs/2407.02005)|null|
 |**2024-07-02**|**Is Your Large Language Model Knowledgeable or a Choices-Only Cheater?**|Nishant Balepur et.al.|[2407.01992](http://arxiv.org/abs/2407.01992)|null|
 |**2024-07-02**|**A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding**|Jinghui Lu et.al.|[2407.01976](http://arxiv.org/abs/2407.01976)|null|
@@ -3624,7 +3624,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-03**|**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**|Pan Zhang et.al.|[2407.03320](http://arxiv.org/abs/2407.03320)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314](http://arxiv.org/abs/2407.03314)|null|
-|**2024-07-03**|**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**|Marco Mistretta et.al.|[2407.03056](http://arxiv.org/abs/2407.03056)|null|
+|**2024-07-03**|**Improving Zero-shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation**|Marco Mistretta et.al.|[2407.03056](http://arxiv.org/abs/2407.03056)|**[link](https://github.com/miccunifi/kdpl)**|
 |**2024-07-03**|**SAFT: Towards Out-of-Distribution Generalization in Fine-Tuning**|Bac Nguyen et.al.|[2407.03036](http://arxiv.org/abs/2407.03036)|null|
 |**2024-07-03**|**VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values**|Zhe Hu et.al.|[2407.03000](http://arxiv.org/abs/2407.03000)|null|
 |**2024-07-03**|**Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Model from a Causal Mediation Perspective**|Zhaotian Weng et.al.|[2407.02814](http://arxiv.org/abs/2407.02814)|null|
@@ -3653,12 +3653,12 @@ layout: default
 |**2024-07-01**|**GalLoP: Learning Global and Local Prompts for Vision-Language Models**|Marc Lafon et.al.|[2407.01400](http://arxiv.org/abs/2407.01400)|null|
 |**2024-07-01**|**CPT: Consistent Proxy Tuning for Black-box Optimization**|Yuanyang He et.al.|[2407.01155](http://arxiv.org/abs/2407.01155)|**[link](https://github.com/chunmeifeng/cpt)**|
 |**2024-07-01**|**Eliminating Position Bias of Language Models: A Mechanistic Approach**|Ziqi Wang et.al.|[2407.01100](http://arxiv.org/abs/2407.01100)|null|
-|**2024-07-01**|**CVLUE: A New Benchmark Dataset for Chinese Vision-Language Understanding Evaluation**|Yuxuan Wang et.al.|[2407.01081](http://arxiv.org/abs/2407.01081)|null|
+|**2024-07-01**|**CVLUE: A New Benchmark Dataset for Chinese Vision-Language Understanding Evaluation**|Yuxuan Wang et.al.|[2407.01081](http://arxiv.org/abs/2407.01081)|**[link](https://github.com/WangYuxuan93/CVLUE)**|
 |**2024-07-01**|**Human-like object concept representations emerge naturally in multimodal large language models**|Changde Du et.al.|[2407.01067](http://arxiv.org/abs/2407.01067)|null|
 |**2024-07-01**|**Learning Robust 3D Representation from CLIP via Dual Denoising**|Shuqing Luo et.al.|[2407.00905](http://arxiv.org/abs/2407.00905)|null|
 |**2024-07-01**|**From Introspection to Best Practices: Principled Analysis of Demonstrations in Multimodal In-Context Learning**|Nan Xu et.al.|[2407.00902](http://arxiv.org/abs/2407.00902)|null|
 |**2024-06-30**|**GenderBias-\emph{VL}: Benchmarking Gender Bias in Vision Language Models via Counterfactual Probing**|Yisong Xiao et.al.|[2407.00600](http://arxiv.org/abs/2407.00600)|null|
-|**2024-06-30**|**Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models**|Weihong Zhong et.al.|[2407.00569](http://arxiv.org/abs/2407.00569)|null|
+|**2024-06-30**|**Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models**|Weihong Zhong et.al.|[2407.00569](http://arxiv.org/abs/2407.00569)|**[link](https://github.com/whongzhong/MMHalSnowball)**|
 |**2024-06-30**|**Explaining Chest X-ray Pathology Models using Textual Concepts**|Vijay Sadashivaiah et.al.|[2407.00557](http://arxiv.org/abs/2407.00557)|null|
 |**2024-06-30**|**Revisiting Vision-Language Features Adaptation and Inconsistency for Social Media Popularity Prediction**|Chih-Chung Hsu et.al.|[2407.00556](http://arxiv.org/abs/2407.00556)|null|
 |**2024-06-28**|**From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models**|Mehar Bhatia et.al.|[2407.00263](http://arxiv.org/abs/2407.00263)|null|
@@ -4273,7 +4273,7 @@ layout: default
 |**2024-07-02**|**Interplay between MRI-based axon diameter and myelination estimates in macaque and human brain**|Ting Gong et.al.|[2407.02227](http://arxiv.org/abs/2407.02227)|null|
 |**2024-07-02**|**Identification of a Spatially-Dependent Variable Order in One-Dimensional Subdiffusion**|Jiho Hong et.al.|[2407.02193](http://arxiv.org/abs/2407.02193)|null|
 |**2024-07-02**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
-|**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143](http://arxiv.org/abs/2407.02143)|null|
+|**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143](http://arxiv.org/abs/2407.02143)|**[link](https://github.com/ChunjingXiao/CAGAD)**|
 |**2024-07-02**|**Rossby wave instability in weakly ionized protoplanetary disks. I. azimuthal or vertical B-fields**|Can Cui et.al.|[2407.02103](http://arxiv.org/abs/2407.02103)|null|
 |**2024-07-02**|**Cost-time trade-off in diffusion with stochastic return: optimal resetting potential and Pareto front**|Prashant Singh et.al.|[2407.02071](http://arxiv.org/abs/2407.02071)|null|
 |**2024-07-02**|**Latent Diffusion Model for Generating Ensembles of Climate Simulations**|Johannes Meuer et.al.|[2407.02070](http://arxiv.org/abs/2407.02070)|null|
@@ -4290,8 +4290,8 @@ layout: default
 |**2024-07-02**|**Text-Aware Diffusion for Policy Learning**|Calvin Luo et.al.|[2407.01903](http://arxiv.org/abs/2407.01903)|null|
 |**2024-07-01**|**Equivariant Diffusion Policy**|Dian Wang et.al.|[2407.01812](http://arxiv.org/abs/2407.01812)|null|
 |**2024-07-01**|**Label-free Neural Semantic Image Synthesis**|Jiayi Wang et.al.|[2407.01790](http://arxiv.org/abs/2407.01790)|null|
-|**2024-07-01**|**Adaptive control of reaction-diffusion PDEs via neural operator-approximated gain kernels**|Luke Bhan et.al.|[2407.01745](http://arxiv.org/abs/2407.01745)|null|
-|**2024-07-01**|**Entropic Optimal Transport Eigenmaps for Nonlinear Alignment and Joint Embedding of High-Dimensional Datasets**|Boris Landa et.al.|[2407.01718](http://arxiv.org/abs/2407.01718)|null|
+|**2024-07-01**|**Adaptive control of reaction-diffusion PDEs via neural operator-approximated gain kernels**|Luke Bhan et.al.|[2407.01745](http://arxiv.org/abs/2407.01745)|**[link](https://github.com/lukebhan/NeuralOperatorParabolicAdaptiveControl)**|
+|**2024-07-01**|**Entropic Optimal Transport Eigenmaps for Nonlinear Alignment and Joint Embedding of High-Dimensional Datasets**|Boris Landa et.al.|[2407.01718](http://arxiv.org/abs/2407.01718)|**[link](https://github.com/rongstat/EOT-eigenmap)**|
 |**2024-07-01**|**Unification theory of instabilities of visco-diffusive swirling flows**|Oleg N. Kirillov et.al.|[2407.01706](http://arxiv.org/abs/2407.01706)|null|
 |**2024-07-01**|**Hot QCD matter around the chiral crossover: a lattice study with $O(a)$ -improved Wilson fermions**|Ardit Krasniqi et.al.|[2407.01657](http://arxiv.org/abs/2407.01657)|null|
 |**2024-07-01**|**A thermodynamically consistent phase-field lattice Boltzmann method for two-phase electrohydrodynamic flows**|Fang Xiong et.al.|[2407.01654](http://arxiv.org/abs/2407.01654)|null|
