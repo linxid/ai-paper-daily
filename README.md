@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -64,7 +64,7 @@
 |**2024-07-03**|**A Comparative Study of DSL Code Generation: Fine-Tuning vs. Optimized Retrieval Augmentation**|Nastaran Bassamzadeh et.al.|[2407.02742](http://arxiv.org/abs/2407.02742)|null|
 |**2024-07-03**|**MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating and Attribute Control**|Yeonji Lee et.al.|[2407.02736](http://arxiv.org/abs/2407.02736)|null|
 |**2024-07-02**|**LLM-Select: Feature Selection with Large Language Models**|Daniel P. Jeong et.al.|[2407.02694](http://arxiv.org/abs/2407.02694)|null|
-|**2024-07-02**|**KGym: A Platform and Dataset to Benchmark Large Language Models on Linux Kernel Crash Resolution**|Alex Mathai et.al.|[2407.02680](http://arxiv.org/abs/2407.02680)|null|
+|**2024-07-04**|**KGym: A Platform and Dataset to Benchmark Large Language Models on Linux Kernel Crash Resolution**|Alex Mathai et.al.|[2407.02680](http://arxiv.org/abs/2407.02680)|null|
 |**2024-07-02**|**Reasoning in Large Language Models: A Geometric Perspective**|Romain Cosentino et.al.|[2407.02678](http://arxiv.org/abs/2407.02678)|null|
 |**2024-07-02**|**Supporters and Skeptics: LLM-based Analysis of Engagement with Mental Health (Mis)Information Content on Video-sharing Platforms**|Viet Cuong Nguyen et.al.|[2407.02662](http://arxiv.org/abs/2407.02662)|null|
 |**2024-07-02**|**Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**|Devam Mondal et.al.|[2407.02659](http://arxiv.org/abs/2407.02659)|null|
@@ -84,7 +84,7 @@
 |**2024-07-02**|**CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models**|Song Wang et.al.|[2407.02408](http://arxiv.org/abs/2407.02408)|null|
 |**2024-07-02**|**Assessing the Code Clone Detection Capability of Large Language Models**|Zixian Zhang et.al.|[2407.02402](http://arxiv.org/abs/2407.02402)|null|
 |**2024-07-02**|**Learning to Refine with Fine-Grained Natural Language Feedback**|Manya Wadhwa et.al.|[2407.02397](http://arxiv.org/abs/2407.02397)|**[link](https://github.com/manyawadhwa/dcr)**|
-|**2024-07-02**|**Is Your AI-Generated Code Really Secure? Evaluating Large Language Models on Secure Code Generation with CodeSecEval**|Jiexin Wang et.al.|[2407.02395](http://arxiv.org/abs/2407.02395)|null|
+|**2024-07-04**|**Is Your AI-Generated Code Really Safe? Evaluating Large Language Models on Secure Code Generation with CodeSecEval**|Jiexin Wang et.al.|[2407.02395](http://arxiv.org/abs/2407.02395)|null|
 |**2024-07-02**|**TokenPacker: Efficient Visual Projector for Multimodal LLM**|Wentong Li et.al.|[2407.02392](http://arxiv.org/abs/2407.02392)|**[link](https://github.com/circleradon/tokenpacker)**|
 |**2024-07-02**|**Talking to Machines: do you read me?**|Lina M. Rojas-Barahona et.al.|[2407.02354](http://arxiv.org/abs/2407.02354)|null|
 |**2024-07-02**|**Generative Large Language Models in Automated Fact-Checking: A Survey**|Ivan Vykopal et.al.|[2407.02351](http://arxiv.org/abs/2407.02351)|null|
@@ -101,7 +101,7 @@
 |**2024-07-02**|**MIREncoder: Multi-modal IR-based Pretrained Embeddings for Performance Optimizations**|Akash Dutta et.al.|[2407.02238](http://arxiv.org/abs/2407.02238)|null|
 |**2024-07-02**|**Towards a Holistic Framework for Multimodal Large Language Models in Three-dimensional Brain CT Report Generation**|Cheng-Yi Li et.al.|[2407.02235](http://arxiv.org/abs/2407.02235)|**[link](https://github.com/charlierabea/FORTE)**|
 |**2024-07-02**|**Synthetic Multimodal Question Generation**|Ian Wu et.al.|[2407.02233](http://arxiv.org/abs/2407.02233)|null|
-|**2024-07-02**|**Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models**|Xiangrui Kong et.al.|[2407.02220](http://arxiv.org/abs/2407.02220)|null|
+|**2024-07-04**|**Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models**|Xiangrui Kong et.al.|[2407.02220](http://arxiv.org/abs/2407.02220)|null|
 |**2024-07-02**|**PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning**|Jiaru Zou et.al.|[2407.02211](http://arxiv.org/abs/2407.02211)|null|
 |**2024-07-02**|**Generative Monoculture in Large Language Models**|Fan Wu et.al.|[2407.02209](http://arxiv.org/abs/2407.02209)|**[link](https://github.com/GeMoLLM/GeMO)**|
 |**2024-07-02**|**Automatic Adaptation Rule Optimization via Large Language Models**|Yusei Ishimizu et.al.|[2407.02203](http://arxiv.org/abs/2407.02203)|null|
@@ -3623,7 +3623,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -3645,7 +3645,7 @@
 |**2024-07-02**|**TokenPacker: Efficient Visual Projector for Multimodal LLM**|Wentong Li et.al.|[2407.02392](http://arxiv.org/abs/2407.02392)|**[link](https://github.com/circleradon/tokenpacker)**|
 |**2024-07-02**|**Conceptual Codebook Learning for Vision-Language Models**|Yi Zhang et.al.|[2407.02350](http://arxiv.org/abs/2407.02350)|null|
 |**2024-07-02**|**Why do LLaVA Vision-Language Models Reply to Images in English?**|Musashi Hinck et.al.|[2407.02333](http://arxiv.org/abs/2407.02333)|null|
-|**2024-07-02**|**Multi-Modal Video Dialog State Tracking in the Wild**|Adnen Abdessaied et.al.|[2407.02218](http://arxiv.org/abs/2407.02218)|null|
+|**2024-07-05**|**Multi-Modal Video Dialog State Tracking in the Wild**|Adnen Abdessaied et.al.|[2407.02218](http://arxiv.org/abs/2407.02218)|null|
 |**2024-07-02**|**BiasDora: Exploring Hidden Biased Associations in Vision-Language Models**|Chahat Raj et.al.|[2407.02066](http://arxiv.org/abs/2407.02066)|**[link](https://github.com/chahatraj/BiasDora)**|
 |**2024-07-02**|**Fake News Detection and Manipulation Reasoning via Large Vision-Language Models**|Ruihan Jin et.al.|[2407.02042](http://arxiv.org/abs/2407.02042)|null|
 |**2024-07-03**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Badr-Eddine Marani et.al.|[2407.01996](http://arxiv.org/abs/2407.01996)|null|
@@ -3655,7 +3655,7 @@
 |**2024-07-01**|**μ-Bench: A Vision-Language Benchmark for Microscopy Understanding**|Alejandro Lozano et.al.|[2407.01791](http://arxiv.org/abs/2407.01791)|null|
 |**2024-06-26**|**JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models**|Haibo Jin et.al.|[2407.01599](http://arxiv.org/abs/2407.01599)|null|
 |**2024-07-01**|**MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations**|Yubo Ma et.al.|[2407.01523](http://arxiv.org/abs/2407.01523)|null|
-|**2024-07-01**|**MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs**|Yusu Qian et.al.|[2407.01509](http://arxiv.org/abs/2407.01509)|null|
+|**2024-07-03**|**MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs**|Yusu Qian et.al.|[2407.01509](http://arxiv.org/abs/2407.01509)|null|
 |**2024-07-02**|**ColPali: Efficient Document Retrieval with Vision Language Models**|Manuel Faysse et.al.|[2407.01449](http://arxiv.org/abs/2407.01449)|null|
 |**2024-07-01**|**GalLoP: Learning Global and Local Prompts for Vision-Language Models**|Marc Lafon et.al.|[2407.01400](http://arxiv.org/abs/2407.01400)|null|
 |**2024-07-01**|**CPT: Consistent Proxy Tuning for Black-box Optimization**|Yuanyang He et.al.|[2407.01155](http://arxiv.org/abs/2407.01155)|**[link](https://github.com/chunmeifeng/cpt)**|
@@ -4236,7 +4236,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4247,7 +4247,7 @@
 |**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168](http://arxiv.org/abs/2407.03168)|**[link](https://github.com/KwaiVGI/LivePortrait)**|
 |**2024-07-03**|**Closing Pandora's Box -- The deepest X-ray observations of Abell 2744 and a multi-wavelength merger picture**|Urmila Chadayammuri et.al.|[2407.03142](http://arxiv.org/abs/2407.03142)|null|
 |**2024-07-03**|**$L_p$ -norm Distortion-Efficient Adversarial Attack**|Chao Zhou et.al.|[2407.03115](http://arxiv.org/abs/2407.03115)|null|
-|**2024-07-03**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089](http://arxiv.org/abs/2407.03089)|null|
+|**2024-07-04**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089](http://arxiv.org/abs/2407.03089)|null|
 |**2024-07-03**|**Electromagnetic Property Sensing Based on Diffusion Model in ISAC System**|Yuhua Jiang et.al.|[2407.03075](http://arxiv.org/abs/2407.03075)|null|
 |**2024-07-03**|**Semantic-Aware Power Allocation for Generative Semantic Communications with Foundation Models**|Chunmei Xu et.al.|[2407.03050](http://arxiv.org/abs/2407.03050)|null|
 |**2024-07-03**|**SlerpFace: Face Template Protection via Spherical Linear Interpolation**|Zhizhou Zhong et.al.|[2407.03043](http://arxiv.org/abs/2407.03043)|null|
@@ -4257,7 +4257,7 @@
 |**2024-07-03**|**An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis**|Marawan Elbatel et.al.|[2407.03018](http://arxiv.org/abs/2407.03018)|null|
 |**2024-07-03**|**Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation**|Xiang Gao et.al.|[2407.03006](http://arxiv.org/abs/2407.03006)|**[link](https://github.com/xianggao1102/fcdiffusion)**|
 |**2024-07-03**|**Modelling the mitigation of anti-vaccine opinion propagation to suppress epidemic spread: A computational approach**|Sarah Alahmadi et.al.|[2407.02980](http://arxiv.org/abs/2407.02980)|null|
-|**2024-07-03**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/abs/2407.02945)|null|
+|**2024-07-04**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/abs/2407.02945)|null|
 |**2024-07-03**|**Single Image Rolling Shutter Removal with Diffusion Models**|Zhanglei Yang et.al.|[2407.02906](http://arxiv.org/abs/2407.02906)|null|
 |**2024-07-03**|**Robot Shape and Location Retention in Video Generation Using Diffusion Models**|Peng Wang et.al.|[2407.02873](http://arxiv.org/abs/2407.02873)|null|
 |**2024-07-03**|**Robust optimal investment and consumption strategies with portfolio constraints and stochastic environment**|Len Patrick Dominic M. Garces et.al.|[2407.02831](http://arxiv.org/abs/2407.02831)|null|
@@ -4266,10 +4266,10 @@
 |**2024-07-03**|**Highly Accelerated MRI via Implicit Neural Representation Guided Posterior Sampling of Diffusion Models**|Jiayue Chu et.al.|[2407.02744](http://arxiv.org/abs/2407.02744)|null|
 |**2024-07-02**|**No Training, No Problem: Rethinking Classifier-Free Guidance for Diffusion Models**|Seyedmorteza Sadat et.al.|[2407.02687](http://arxiv.org/abs/2407.02687)|null|
 |**2024-07-02**|**Your Clean Graphene is Still Not Clean**|Ondrej Dyck et.al.|[2407.02642](http://arxiv.org/abs/2407.02642)|null|
-|**2024-07-02**|**Deep Learning Based Apparent Diffusion Coefficient Map Generation1 from Multi-parametric MR Images for Patients with Diffuse Gliomas**|Zach Eidex et.al.|[2407.02616](http://arxiv.org/abs/2407.02616)|null|
+|**2024-07-04**|**Deep Learning Based Apparent Diffusion Coefficient Map Generation from Multi-parametric MR Images for Patients with Diffuse Gliomas**|Zach Eidex et.al.|[2407.02616](http://arxiv.org/abs/2407.02616)|null|
 |**2024-07-02**|**Diffusion Models for Tabular Data Imputation and Synthetic Data Generation**|Mario Villaizán-Vallelado et.al.|[2407.02549](http://arxiv.org/abs/2407.02549)|null|
 |**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489](http://arxiv.org/abs/2407.02489)|null|
-|**2024-07-02**|**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models**|Fei Shen et.al.|[2407.02482](http://arxiv.org/abs/2407.02482)|null|
+|**2024-07-03**|**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models**|Fei Shen et.al.|[2407.02482](http://arxiv.org/abs/2407.02482)|null|
 |**2024-07-02**|**Mirages and Large TeV Halo-Pulsar Offsets from Cosmic Ray Propagation**|Yiwei Bao et.al.|[2407.02478](http://arxiv.org/abs/2407.02478)|null|
 |**2024-07-02**|**Diffusion and pattern formation in spatial games**|Alexandre Champagne-Ruel et.al.|[2407.02385](http://arxiv.org/abs/2407.02385)|null|
 |**2024-07-02**|**OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation**|Kepan Nan et.al.|[2407.02371](http://arxiv.org/abs/2407.02371)|null|
@@ -4281,11 +4281,11 @@
 |**2024-07-02**|**LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation**|Jiarui Xing et.al.|[2407.02229](http://arxiv.org/abs/2407.02229)|null|
 |**2024-07-02**|**Interplay between MRI-based axon diameter and myelination estimates in macaque and human brain**|Ting Gong et.al.|[2407.02227](http://arxiv.org/abs/2407.02227)|null|
 |**2024-07-02**|**Identification of a Spatially-Dependent Variable Order in One-Dimensional Subdiffusion**|Jiho Hong et.al.|[2407.02193](http://arxiv.org/abs/2407.02193)|null|
-|**2024-07-02**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
+|**2024-07-04**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
 |**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143](http://arxiv.org/abs/2407.02143)|**[link](https://github.com/ChunjingXiao/CAGAD)**|
 |**2024-07-02**|**Rossby wave instability in weakly ionized protoplanetary disks. I. azimuthal or vertical B-fields**|Can Cui et.al.|[2407.02103](http://arxiv.org/abs/2407.02103)|null|
 |**2024-07-02**|**Cost-time trade-off in diffusion with stochastic return: optimal resetting potential and Pareto front**|Prashant Singh et.al.|[2407.02071](http://arxiv.org/abs/2407.02071)|null|
-|**2024-07-02**|**Latent Diffusion Model for Generating Ensembles of Climate Simulations**|Johannes Meuer et.al.|[2407.02070](http://arxiv.org/abs/2407.02070)|null|
+|**2024-07-04**|**Latent Diffusion Model for Generating Ensembles of Climate Simulations**|Johannes Meuer et.al.|[2407.02070](http://arxiv.org/abs/2407.02070)|null|
 |**2024-07-02**|**Accompanied Singing Voice Synthesis with Fully Text-controlled Melody**|Ruiqi Li et.al.|[2407.02049](http://arxiv.org/abs/2407.02049)|null|
 |**2024-07-02**|**ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation**|Zhiyuan Ma et.al.|[2407.02040](http://arxiv.org/abs/2407.02040)|**[link](https://github.com/theericma/scaledreamer)**|
 |**2024-07-02**|**SwiftDiffusion: Efficient Diffusion Model Serving with Add-on Modules**|Suyi Li et.al.|[2407.02031](http://arxiv.org/abs/2407.02031)|null|
@@ -4293,7 +4293,7 @@
 |**2024-07-02**|**Zero-shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model**|Cong Cao et.al.|[2407.01960](http://arxiv.org/abs/2407.01960)|null|
 |**2024-07-02**|**LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance**|Wenhao Yu et.al.|[2407.01950](http://arxiv.org/abs/2407.01950)|null|
 |**2024-07-02**|**Fluctuations of dynamical observables in linear diffusions with time delay: a Riccati-based approach**|M. L. Rosinberg et.al.|[2407.01933](http://arxiv.org/abs/2407.01933)|null|
-|**2024-07-02**|**GVDIFF: Grounded Text-to-Video Generation with Diffusion Models**|Huanzhang Dou et.al.|[2407.01921](http://arxiv.org/abs/2407.01921)|null|
+|**2024-07-04**|**GVDIFF: Grounded Text-to-Video Generation with Diffusion Models**|Huanzhang Dou et.al.|[2407.01921](http://arxiv.org/abs/2407.01921)|null|
 |**2024-07-02**|**Unraveling the Trigger Mechanism of Explosive Reconnection in Partially Ionized Solar Plasma**|Abdullah Zafar et.al.|[2407.01915](http://arxiv.org/abs/2407.01915)|null|
 |**2024-07-02**|**Enhancing Multi-Class Anomaly Detection via Diffusion Refinement with Dual Conditioning**|Jiawei Zhan et.al.|[2407.01905](http://arxiv.org/abs/2407.01905)|null|
 |**2024-07-02**|**Text-Aware Diffusion for Policy Learning**|Calvin Luo et.al.|[2407.01903](http://arxiv.org/abs/2407.01903)|null|
@@ -4314,15 +4314,15 @@
 |**2024-07-01**|**Pictures Of MIDI: Controlled Music Generation via Graphical Prompts for Image-Based Diffusion Inpainting**|Scott H. Hawley et.al.|[2407.01499](http://arxiv.org/abs/2407.01499)|null|
 |**2024-07-01**|**Fast Iterative Solver For Neural Network Method: II. 1D Diffusion-Reaction Problems And Data Fitting**|Zhiqiang Cai et.al.|[2407.01496](http://arxiv.org/abs/2407.01496)|null|
 |**2024-07-01**|**EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning**|Jingyun Yang et.al.|[2407.01479](http://arxiv.org/abs/2407.01479)|null|
-|**2024-07-01**|**Understanding Discrepancies of Wavefunction Theories for Large Molecules**|Tobias Schäfer et.al.|[2407.01442](http://arxiv.org/abs/2407.01442)|null|
+|**2024-07-04**|**Understanding Discrepancies of Wavefunction Theories for Large Molecules**|Tobias Schäfer et.al.|[2407.01442](http://arxiv.org/abs/2407.01442)|null|
 |**2024-07-01**|**FORA: Fast-Forward Caching in Diffusion Transformer Acceleration**|Pratheba Selvaraju et.al.|[2407.01425](http://arxiv.org/abs/2407.01425)|null|
 |**2024-07-01**|**AtLAST Science Overview Report**|Mark Booth et.al.|[2407.01413](http://arxiv.org/abs/2407.01413)|null|
-|**2024-07-02**|**Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion**|Boyuan Chen et.al.|[2407.01392](http://arxiv.org/abs/2407.01392)|null|
+|**2024-07-04**|**Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion**|Boyuan Chen et.al.|[2407.01392](http://arxiv.org/abs/2407.01392)|**[link](https://github.com/buoyancy99/diffusion-forcing)**|
 |**2024-07-01**|**Probing the connection between IceCube neutrinos and MOJAVE AGN**|R. Abbasi et.al.|[2407.01351](http://arxiv.org/abs/2407.01351)|null|
 |**2024-07-01**|**Learning data efficient coarse-grained molecular dynamics from forces and noise**|Aleksander E. P. Durumeric et.al.|[2407.01286](http://arxiv.org/abs/2407.01286)|null|
 |**2024-07-01**|**A nonlocal regularization of a generalized Busenberg-Travis cross-diffusion system**|Ansgar Jüngel et.al.|[2407.01123](http://arxiv.org/abs/2407.01123)|null|
 |**2024-07-01**|**Orbital cluster-based network modelling**|Antonio Colanera et.al.|[2407.01109](http://arxiv.org/abs/2407.01109)|null|
-|**2024-07-02**|**Indirect social influence and diffusion of innovations: An experimental approach**|Manuel Miranda et.al.|[2407.01106](http://arxiv.org/abs/2407.01106)|**[link](https://github.com/mpereda/Indirect-social-influence-helps-shaping-the-diffusion-of-innovations)**|
+|**2024-07-05**|**Indirect social influence and diffusion of innovations: An experimental approach**|Manuel Miranda et.al.|[2407.01106](http://arxiv.org/abs/2407.01106)|**[link](https://github.com/mpereda/Indirect-social-influence-helps-shaping-the-diffusion-of-innovations)**|
 |**2024-07-01**|**Semantic-guided Adversarial Diffusion Model for Self-supervised Shadow Removal**|Ziqi Zeng et.al.|[2407.01104](http://arxiv.org/abs/2407.01104)|null|
 |**2024-07-01**|**On Statistical Rates and Provably Efficient Criteria of Latent Diffusion Transformers (DiTs)**|Jerry Yao-Chieh Hu et.al.|[2407.01079](http://arxiv.org/abs/2407.01079)|null|
 |**2024-07-01**|**Multimodal Conditional 3D Face Geometry Generation**|Christopher Otto et.al.|[2407.01074](http://arxiv.org/abs/2407.01074)|null|
@@ -6810,7 +6810,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
