@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -29,7 +29,7 @@ layout: default
 |**2024-07-05**|**Dude: Dual Distribution-Aware Context Prompt Learning For Large Vision-Language Model**|Duy M. H. Nguyen et.al.|[2407.04489](http://arxiv.org/abs/2407.04489)|null|
 |**2024-07-05**|**Leveraging Graph Structures to Detect Hallucinations in Large Language Models**|Noa Nonkes et.al.|[2407.04485](http://arxiv.org/abs/2407.04485)|null|
 |**2024-07-05**|**Controlling Whisper: Universal Acoustic Adversarial Attacks to Control Speech Foundation Models**|Vyas Raina et.al.|[2407.04482](http://arxiv.org/abs/2407.04482)|null|
-|**2024-07-05**|**LoCo: Low-Bit Communication Adaptor for Large-scale Model Training**|Xingyu Xie et.al.|[2407.04480](http://arxiv.org/abs/2407.04480)|null|
+|**2024-07-05**|**LoCo: Low-Bit Communication Adaptor for Large-scale Model Training**|Xingyu Xie et.al.|[2407.04480](http://arxiv.org/abs/2407.04480)|**[link](https://github.com/XingyuXie/LoCo)**|
 |**2024-07-05**|**EventChat: Implementation and user-centric evaluation of a large language model-driven conversational recommender system for exploring leisure events in an SME context**|Hannes Kunstmann et.al.|[2407.04472](http://arxiv.org/abs/2407.04472)|null|
 |**2024-07-05**|**Are Large Language Models Strategic Decision Makers? A Study of Performance and Bias in Two-Player Non-Zero-Sum Games**|Nathan Herr et.al.|[2407.04467](http://arxiv.org/abs/2407.04467)|null|
 |**2024-07-05**|**Generalists vs. Specialists: Evaluating Large Language Models for Urdu**|Samee Arif et.al.|[2407.04459](http://arxiv.org/abs/2407.04459)|null|
@@ -104,7 +104,7 @@ layout: default
 |**2024-07-04**|**Generative Technology for Human Emotion Recognition: A Scope Review**|Fei Ma et.al.|[2407.03640](http://arxiv.org/abs/2407.03640)|null|
 |**2024-07-04**|**HERA: High-efficiency Matrix Compression via Element Replacement**|Yanshu Wang et.al.|[2407.03637](http://arxiv.org/abs/2407.03637)|null|
 |**2024-07-04**|**MRIR: Integrating Multimodal Insights for Diffusion-based Realistic Image Restoration**|Yuhong Zhang et.al.|[2407.03635](http://arxiv.org/abs/2407.03635)|null|
-|**2024-07-04**|**DSLR: Document Refinement with Sentence-Level Re-ranking and Reconstruction to Enhance Retrieval-Augmented Generation**|Taeho Hwang et.al.|[2407.03627](http://arxiv.org/abs/2407.03627)|null|
+|**2024-07-08**|**DSLR: Document Refinement with Sentence-Level Re-ranking and Reconstruction to Enhance Retrieval-Augmented Generation**|Taeho Hwang et.al.|[2407.03627](http://arxiv.org/abs/2407.03627)|null|
 |**2024-07-04**|**Augmenting LLMs to Repair Obsolete Test Cases with Static Collector and Neural Reranker**|Jun Liu et.al.|[2407.03625](http://arxiv.org/abs/2407.03625)|null|
 |**2024-07-04**|**The Mysterious Case of Neuron 1512: Injectable Realignment Architectures Reveal Internal Characteristics of Meta's Llama 2 Model**|Brenden Smith et.al.|[2407.03621](http://arxiv.org/abs/2407.03621)|**[link](https://github.com/dragnlabs/injectable-alignment-model)**|
 |**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|null|
@@ -3743,7 +3743,7 @@ layout: default
 |**2024-07-03**|**MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context**|Zishan Gu et.al.|[2407.02730](http://arxiv.org/abs/2407.02730)|**[link](https://github.com/dongzizhu/medvh)**|
 |**2024-07-02**|**Light-weight Fine-tuning Method for Defending Adversarial Noise in Pre-trained Medical Vision-Language Models**|Xu Han et.al.|[2407.02716](http://arxiv.org/abs/2407.02716)|null|
 |**2024-07-02**|**Commonsense Reasoning for Legged Robot Adaptation with Vision-Language Models**|Annie S. Chen et.al.|[2407.02666](http://arxiv.org/abs/2407.02666)|null|
-|**2024-07-02**|**Uplifting Lower-Income Data: Strategies for Socioeconomic Perspective Shifts in Vision-Language Models**|Joan Nwatu et.al.|[2407.02623](http://arxiv.org/abs/2407.02623)|**[link](https://github.com/anniejoan/uplifting-lower-income-data)**|
+|**2024-07-08**|**Uplifting Lower-Income Data: Strategies for Socioeconomic Perspective Shifts in Vision-Language Models**|Joan Nwatu et.al.|[2407.02623](http://arxiv.org/abs/2407.02623)|**[link](https://github.com/anniejoan/uplifting-lower-income-data)**|
 |**2024-07-02**|**D-Rax: Domain-specific Radiologic assistant leveraging multi-modal data and eXpert model predictions**|Hareem Nisar et.al.|[2407.02604](http://arxiv.org/abs/2407.02604)|null|
 |**2024-07-02**|**Improving Visual Storytelling with Multimodal Large Language Models**|Xiaochuan Lin et.al.|[2407.02586](http://arxiv.org/abs/2407.02586)|null|
 |**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477](http://arxiv.org/abs/2407.02477)|null|
@@ -4354,7 +4354,7 @@ layout: default
 |**2024-07-05**|**Unified continuous-time q-learning for mean-field game and mean-field control problems**|Xiaoli Wei et.al.|[2407.04521](http://arxiv.org/abs/2407.04521)|null|
 |**2024-07-05**|**G-Adaptive mesh refinement -- leveraging graph neural networks and differentiable finite element solvers**|James Rowbottom et.al.|[2407.04516](http://arxiv.org/abs/2407.04516)|null|
 |**2024-07-05**|**Analysis of SIR Reaction diffusion system with constant birth and death rate**|Yiting Yao et.al.|[2407.04509](http://arxiv.org/abs/2407.04509)|null|
-|**2024-07-05**|**Speed-accuracy trade-off for the diffusion models: Wisdom from nonequlibrium thermodynamics and optimal transport**|Kotaro Ikeda et.al.|[2407.04495](http://arxiv.org/abs/2407.04495)|null|
+|**2024-07-08**|**Speed-accuracy trade-off for the diffusion models: Wisdom from nonequilibrium thermodynamics and optimal transport**|Kotaro Ikeda et.al.|[2407.04495](http://arxiv.org/abs/2407.04495)|null|
 |**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493](http://arxiv.org/abs/2407.04493)|null|
 |**2024-07-05**|**VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing**|Shang Liu et.al.|[2407.04461](http://arxiv.org/abs/2407.04461)|null|
 |**2024-07-05**|**Elemental Abundances in And XIX From Coadded Spectra**|L. R. Cullinane et.al.|[2407.04349](http://arxiv.org/abs/2407.04349)|null|
