@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -67,7 +67,7 @@
 |**2024-07-12**|**Towards Practical and Useful Automated Program Repair for Debugging**|Qi Xin et.al.|[2407.08958](http://arxiv.org/abs/2407.08958)|null|
 |**2024-07-12**|**Detect, Investigate, Judge and Determine: A Novel LLM-based Framework for Few-shot Fake News Detection**|Ye Liu et.al.|[2407.08952](http://arxiv.org/abs/2407.08952)|null|
 |**2024-07-12**|**A Neural Matrix Decomposition Recommender System Model based on the Multimodal Large Language Model**|Ao Xiang et.al.|[2407.08942](http://arxiv.org/abs/2407.08942)|null|
-|**2024-07-12**|**Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation**|Biqing Qi et.al.|[2407.08940](http://arxiv.org/abs/2407.08940)|null|
+|**2024-07-15**|**Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation**|Biqing Qi et.al.|[2407.08940](http://arxiv.org/abs/2407.08940)|null|
 |**2024-07-12**|**Self-Evolving GPT: A Lifelong Autonomous Experiential Learner**|Jinglong Gao et.al.|[2407.08937](http://arxiv.org/abs/2407.08937)|null|
 |**2024-07-12**|**Global-Local Collaborative Inference with LLM for Lidar-Based Open-Vocabulary Detection**|Xingyu Peng et.al.|[2407.08931](http://arxiv.org/abs/2407.08931)|**[link](https://github.com/gradiustwinbee/glis)**|
 |**2024-07-12**|**Toward Automatic Group Membership Annotation for Group Fairness Evaluation**|Fumian Chen et.al.|[2407.08926](http://arxiv.org/abs/2407.08926)|null|
@@ -94,7 +94,7 @@
 |**2024-07-11**|**$β$-DPO: Direct Preference Optimization with Dynamic $β$**|Junkang Wu et.al.|[2407.08639](http://arxiv.org/abs/2407.08639)|**[link](https://github.com/junkangwu/beta-dpo)**|
 |**2024-07-11**|**RoboMorph: Evolving Robot Morphology using Large Language Models**|Kevin Qiu et.al.|[2407.08626](http://arxiv.org/abs/2407.08626)|null|
 |**2024-07-11**|**Tamil Language Computing: the Present and the Future**|Kengatharaiyer Sarveswaran et.al.|[2407.08618](http://arxiv.org/abs/2407.08618)|null|
-|**2024-07-11**|**FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision**|Jay Shah et.al.|[2407.08608](http://arxiv.org/abs/2407.08608)|null|
+|**2024-07-12**|**FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision**|Jay Shah et.al.|[2407.08608](http://arxiv.org/abs/2407.08608)|null|
 |**2024-07-11**|**Turn-Level Empathy Prediction Using Psychological Indicators**|Shaz Furniturewala et.al.|[2407.08607](http://arxiv.org/abs/2407.08607)|null|
 |**2024-07-11**|**The Synergy between Data and Multi-Modal Large Language Models: A Survey from Co-Development Perspective**|Zhen Qin et.al.|[2407.08583](http://arxiv.org/abs/2407.08583)|**[link](https://github.com/modelscope/data-juicer)**|
 |**2024-07-11**|**On the Universal Truthfulness Hyperplane Inside LLMs**|Junteng Liu et.al.|[2407.08582](http://arxiv.org/abs/2407.08582)|null|
@@ -3823,7 +3823,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -3838,11 +3838,11 @@
 |**2024-07-11**|**CXR-Agent: Vision-language models for chest X-ray interpretation with uncertainty aware radiology reporting**|Naman Sharma et.al.|[2407.08811](http://arxiv.org/abs/2407.08811)|null|
 |**2024-07-11**|**Extracting Training Data from Document-Based VQA Models**|Francesco Pinto et.al.|[2407.08707](http://arxiv.org/abs/2407.08707)|null|
 |**2024-07-11**|**HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models**|Runhui Huang et.al.|[2407.08706](http://arxiv.org/abs/2407.08706)|null|
-|**2024-07-11**|**Robotic Control via Embodied Chain-of-Thought Reasoning**|Zawalski Michał et.al.|[2407.08693](http://arxiv.org/abs/2407.08693)|null|
+|**2024-07-12**|**Robotic Control via Embodied Chain-of-Thought Reasoning**|Michał Zawalski et.al.|[2407.08693](http://arxiv.org/abs/2407.08693)|null|
 |**2024-07-11**|**NODE-Adapter: Neural Ordinary Differential Equations for Better Vision-Language Reasoning**|Yi Zhang et.al.|[2407.08672](http://arxiv.org/abs/2407.08672)|null|
 |**2024-07-11**|**Bootstrapping Vision-language Models for Self-supervised Remote Physiological Measurement**|Zijie Yue et.al.|[2407.08507](http://arxiv.org/abs/2407.08507)|null|
 |**2024-07-11**|**Specialist vision-language models for clinical ophthalmology**|Robbie Holland et.al.|[2407.08410](http://arxiv.org/abs/2407.08410)|null|
-|**2024-07-11**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
+|**2024-07-15**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
 |**2024-07-11**|**Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation**|Tong Shao et.al.|[2407.08268](http://arxiv.org/abs/2407.08268)|null|
 |**2024-07-11**|**GeNet: A Multimodal LLM-Based Co-Pilot for Network Topology and Configuration**|Beni Ifland et.al.|[2407.08249](http://arxiv.org/abs/2407.08249)|null|
 |**2024-07-11**|**SoupLM: Model Integration in Large Language and Multi-Modal Models**|Yue Bai et.al.|[2407.08196](http://arxiv.org/abs/2407.08196)|null|
@@ -4496,7 +4496,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4508,7 +4508,7 @@
 |**2024-07-12**|**Efficient energy-stable parametric finite element methods for surface diffusion flow and applications in solid-state dewetting**|Meng Li et.al.|[2407.09418](http://arxiv.org/abs/2407.09418)|null|
 |**2024-07-12**|**A Numerical Study of WENO Approximations to Sharp Propagating Fronts for Reaction-Diffusion Systems**|Jiaxi Gu et.al.|[2407.09393](http://arxiv.org/abs/2407.09393)|null|
 |**2024-07-12**|**Grain boundaries control lithiation of solid solution substrates in lithium metal batteries**|Leonardo Shoji Aota et.al.|[2407.09374](http://arxiv.org/abs/2407.09374)|null|
-|**2024-07-12**|**Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees**|Alexia Jolicoeur-Martineau et.al.|[2407.09357](http://arxiv.org/abs/2407.09357)|null|
+|**2024-07-15**|**Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees**|Alexia Jolicoeur-Martineau et.al.|[2407.09357](http://arxiv.org/abs/2407.09357)|null|
 |**2024-07-12**|**Thermodynamics of Giant Molecular Clouds: The Effects of Dust Grain Size**|Nadine H. Soliman et.al.|[2407.09343](http://arxiv.org/abs/2407.09343)|null|
 |**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
 |**2024-07-12**|**SS-SfP:Neural Inverse Rendering for Self Supervised Shape from (Mixed) Polarization**|Ashish Tiwari et.al.|[2407.09294](http://arxiv.org/abs/2407.09294)|null|
@@ -4533,7 +4533,7 @@
 |**2024-07-11**|**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**|Zhening Xing et.al.|[2407.08701](http://arxiv.org/abs/2407.08701)|null|
 |**2024-07-11**|**CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs**|Leah Chong et.al.|[2407.08675](http://arxiv.org/abs/2407.08675)|null|
 |**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659](http://arxiv.org/abs/2407.08659)|null|
-|**2024-07-11**|**Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size**|Youssef Sultan et.al.|[2407.08513](http://arxiv.org/abs/2407.08513)|null|
+|**2024-07-13**|**Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size**|Youssef Sultan et.al.|[2407.08513](http://arxiv.org/abs/2407.08513)|null|
 |**2024-07-11**|**Latent Conditional Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Mode**|Yuxing Tian et.al.|[2407.08500](http://arxiv.org/abs/2407.08500)|null|
 |**2024-07-11**|**Killing versus catastrophes in birth-death processes and an application to population genetics**|Ellen Baake et.al.|[2407.08478](http://arxiv.org/abs/2407.08478)|null|
 |**2024-07-11**|**Propagation and non-reciprocity in time-modulated diffusion through the lens of high-order homogenization**|Marie Touboul et.al.|[2407.08456](http://arxiv.org/abs/2407.08456)|null|
@@ -4547,7 +4547,7 @@
 |**2024-07-11**|**The Cauchy problem for quasi-linear parabolic systems revisited**|Isabelle Gallagher et.al.|[2407.08226](http://arxiv.org/abs/2407.08226)|null|
 |**2024-07-11**|**Dynamical critical behavior of the two-dimensional three-state Potts model**|Erol Vatansever et.al.|[2407.08198](http://arxiv.org/abs/2407.08198)|null|
 |**2024-07-11**|**Performance-Barrier Event-Triggered Control of a Class of Reaction-Diffusion PDEs**|Bhathiya Rathnayake et.al.|[2407.08178](http://arxiv.org/abs/2407.08178)|null|
-|**2024-07-11**|**Generalized Diffusive Epidemic Process with Permanent Immunity in Two Dimensions**|V. R. Carvalho et.al.|[2407.08175](http://arxiv.org/abs/2407.08175)|null|
+|**2024-07-15**|**Generalized Diffusive Epidemic Process with Permanent Immunity in Two Dimensions**|V. R. Carvalho et.al.|[2407.08175](http://arxiv.org/abs/2407.08175)|null|
 |**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137](http://arxiv.org/abs/2407.08137)|null|
 |**2024-07-11**|**Non-convergence of Adam and other adaptive stochastic gradient descent optimization methods for non-vanishing learning rates**|Steffen Dereich et.al.|[2407.08100](http://arxiv.org/abs/2407.08100)|null|
 |**2024-07-10**|**RoCap: A Robotic Data Collection Pipeline for the Pose Estimation of Appearance-Changing Objects**|Jiahao Nick Li et.al.|[2407.08081](http://arxiv.org/abs/2407.08081)|null|
@@ -4596,7 +4596,7 @@
 |**2024-07-09**|**Relation between asymptotic $L_p$ -convergence and some classical modes of convergence**|Nuno J. Alves et.al.|[2407.06830](http://arxiv.org/abs/2407.06830)|null|
 |**2024-07-09**|**AstroSpy: On detecting Fake Images in Astronomy via Joint Image-Spectral Representations**|Mohammed Talha Alam et.al.|[2407.06817](http://arxiv.org/abs/2407.06817)|null|
 |**2024-07-09**|**A reaction-diffusion model for relapsing-remitting multiple sclerosis with a treatment term**|Romina Travaglini et.al.|[2407.06802](http://arxiv.org/abs/2407.06802)|null|
-|**2024-07-09**|**Investigating the Kinetic Effects on Current Gradient-Driven Instabilities of Electron Current Layers via Particle-in-Cell Simulations**|Sushmita Mishra et.al.|[2407.06799](http://arxiv.org/abs/2407.06799)|null|
+|**2024-07-15**|**Investigating the Kinetic Effects on Current Gradient-Driven Instabilities of Electron Current Layers via Particle-in-Cell Simulations**|Sushmita Mishra et.al.|[2407.06799](http://arxiv.org/abs/2407.06799)|null|
 |**2024-07-09**|**Extinction profiles for the Sobolev critical fast diffusion equation in bounded domains. I. One bubble dynamics**|Tianling Jin et.al.|[2407.06757](http://arxiv.org/abs/2407.06757)|null|
 |**2024-07-09**|**Predicting Mesoscopic Larmor Frequency Shifts in White Matter with Diffusion MRI -- An In-Silico Monte-Carlo Study**|Anders Dyhr Sandgaard et.al.|[2407.06694](http://arxiv.org/abs/2407.06694)|null|
 |**2024-07-09**|**Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning**|Fanyue Wei et.al.|[2407.06642](http://arxiv.org/abs/2407.06642)|**[link](https://github.com/wfanyue/dpg-t2i-personalization)**|
@@ -7221,7 +7221,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
