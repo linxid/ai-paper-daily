@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -82,7 +82,7 @@
 |**2024-07-18**|**Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies**|Chaofan Tao et.al.|[2407.13623](http://arxiv.org/abs/2407.13623)|null|
 |**2024-07-18**|**KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration**|Youfu Yan et.al.|[2407.13598](http://arxiv.org/abs/2407.13598)|null|
 |**2024-07-18**|**PLANTS: A Novel Problem and Dataset for Summarization of Planning-Like (PL) Tasks**|Vishal Pallagani et.al.|[2407.13597](http://arxiv.org/abs/2407.13597)|null|
-|**2024-07-18**|**EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596](http://arxiv.org/abs/2407.13596)|null|
+|**2024-07-20**|**EarthMarker: Visual Prompt Learning for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596](http://arxiv.org/abs/2407.13596)|null|
 |**2024-07-18**|**Large Language Models as Reliable Knowledge Bases?**|Danna Zheng et.al.|[2407.13578](http://arxiv.org/abs/2407.13578)|null|
 |**2024-07-18**|**Research on Tibetan Tourism Viewpoints information generation system based on LLM**|Jinhu Qi et.al.|[2407.13561](http://arxiv.org/abs/2407.13561)|null|
 |**2024-07-18**|**INDIC QA BENCHMARK: A Multilingual Benchmark to Evaluate Question Answering capability of LLMs for Indic Languages**|Abhishek Kumar Singh et.al.|[2407.13522](http://arxiv.org/abs/2407.13522)|null|
@@ -4113,7 +4113,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -4155,7 +4155,7 @@
 |**2024-07-18**|**Benchmarking Vision Language Models for Cultural Understanding**|Shravan Nayak et.al.|[2407.10920](http://arxiv.org/abs/2407.10920)|null|
 |**2024-07-15**|**GPT Sonograpy: Hand Gesture Decoding from Forearm Ultrasound Images via VLM**|Keshav Bimbraw et.al.|[2407.10870](http://arxiv.org/abs/2407.10870)|null|
 |**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856](http://arxiv.org/abs/2407.10856)|null|
-|**2024-07-15**|**Quantized Prompt for Efficient Generalization of Vision-Language Models**|Tianxiang Hao et.al.|[2407.10704](http://arxiv.org/abs/2407.10704)|**[link](https://github.com/beyondhtx/qprompt)**|
+|**2024-07-19**|**Quantized Prompt for Efficient Generalization of Vision-Language Models**|Tianxiang Hao et.al.|[2407.10704](http://arxiv.org/abs/2407.10704)|**[link](https://github.com/beyondhtx/qprompt)**|
 |**2024-07-15**|**OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer**|Yu Wang et.al.|[2407.10655](http://arxiv.org/abs/2407.10655)|**[link](https://github.com/atten4vis/lw-detr)**|
 |**2024-07-15**|**By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting**|Hyungjun Yoon et.al.|[2407.10385](http://arxiv.org/abs/2407.10385)|null|
 |**2024-07-15**|**NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models**|Pranshu Pandya et.al.|[2407.10380](http://arxiv.org/abs/2407.10380)|null|
@@ -4832,7 +4832,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4913,7 +4913,7 @@
 |**2024-07-17**|**DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion**|Huiguo He et.al.|[2407.12899](http://arxiv.org/abs/2407.12899)|null|
 |**2024-07-17**|**GeoGuide: Geometric guidance of diffusion models**|Mateusz Poleski et.al.|[2407.12889](http://arxiv.org/abs/2407.12889)|**[link](https://github.com/mateuszpoleski/geoguide)**|
 |**2024-07-17**|**SMooDi: Stylized Motion Diffusion Model**|Lei Zhong et.al.|[2407.12783](http://arxiv.org/abs/2407.12783)|null|
-|**2024-07-17**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781](http://arxiv.org/abs/2407.12781)|null|
+|**2024-07-20**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781](http://arxiv.org/abs/2407.12781)|null|
 |**2024-07-17**|**Hallucination Index: An Image Quality Metric for Generative Reconstruction Models**|Matthew Tivnan et.al.|[2407.12780](http://arxiv.org/abs/2407.12780)|null|
 |**2024-07-17**|**The Role of Network and Identity in the Diffusion of Hashtags**|Aparna Ananthasubramaniam et.al.|[2407.12771](http://arxiv.org/abs/2407.12771)|null|
 |**2024-07-17**|**Vanishing viscosity limit for hyperbolic system of Temple class in 1-d with nonlinear viscosity**|Boris Haspot et.al.|[2407.12766](http://arxiv.org/abs/2407.12766)|null|
@@ -7792,7 +7792,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
