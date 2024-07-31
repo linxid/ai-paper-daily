@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -49,7 +49,7 @@ layout: default
 |**2024-07-29**|**Legal Minds, Algorithmic Decisions: How LLMs Apply Constitutional Principles in Complex Scenarios**|Camilla Bignotti et.al.|[2407.19760](http://arxiv.org/abs/2407.19760)|null|
 |**2024-07-29**|**Do Text-to-Vis Benchmarks Test Real Use of Visualisations?**|Hy Nguyen et.al.|[2407.19726](http://arxiv.org/abs/2407.19726)|null|
 |**2024-07-29**|**Revolutionizing Urban Safety Perception Assessments: Integrating Multimodal Large Language Models with Street View Images**|Jiaxin Zhanga et.al.|[2407.19719](http://arxiv.org/abs/2407.19719)|null|
-|**2024-07-29**|**CollectiveSFT: Scaling Large Language Models for Chinese Medical Benchmark with Collective Instructions in Healthcare**|Jingwei Zhu et.al.|[2407.19705](http://arxiv.org/abs/2407.19705)|null|
+|**2024-07-30**|**CollectiveSFT: Scaling Large Language Models for Chinese Medical Benchmark with Collective Instructions in Healthcare**|Jingwei Zhu et.al.|[2407.19705](http://arxiv.org/abs/2407.19705)|**[link](https://github.com/cas-siat-xinhai/collectivesft)**|
 |**2024-07-29**|**Harnessing Large Vision and Language Models in Agriculture: A Review**|Hongyan Zhu et.al.|[2407.19679](http://arxiv.org/abs/2407.19679)|null|
 |**2024-07-29**|**SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages**|Wenxuan Zhang et.al.|[2407.19672](http://arxiv.org/abs/2407.19672)|null|
 |**2024-07-29**|**Smart Language Agents in Real-World Planning**|Annabelle Miin et.al.|[2407.19667](http://arxiv.org/abs/2407.19667)|**[link](https://github.com/llv22/travelplanner_forward)**|
@@ -62,12 +62,12 @@ layout: default
 |**2024-07-29**|**AgEval: A Benchmark for Zero-Shot and Few-Shot Plant Stress Phenotyping with Multimodal LLMs**|Muhammad Arbab Arshad et.al.|[2407.19617](http://arxiv.org/abs/2407.19617)|null|
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616](http://arxiv.org/abs/2407.19616)|null|
 |**2024-07-28**|**Mixture of Modular Experts: Distilling Knowledge from a Multilingual Teacher into Specialized Modular Language Models**|Mohammed Al-Maamari et.al.|[2407.19610](http://arxiv.org/abs/2407.19610)|**[link](https://github.com/padas-lab-de/multi-language-dataset-creator)**|
-|**2024-07-28**|**Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge**|Tianhao Wu et.al.|[2407.19594](http://arxiv.org/abs/2407.19594)|null|
+|**2024-07-30**|**Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge**|Tianhao Wu et.al.|[2407.19594](http://arxiv.org/abs/2407.19594)|null|
 |**2024-07-28**|**Is Generative AI an Existential Threat to Human Creatives? Insights from Financial Economics**|Jiasun Li et.al.|[2407.19586](http://arxiv.org/abs/2407.19586)|null|
 |**2024-07-28**|**SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain**|Pierre Colombo et.al.|[2407.19584](http://arxiv.org/abs/2407.19584)|null|
 |**2024-07-28**|**Memory-efficient Training of LLMs with Larger Mini-batches**|Dang Nguyen et.al.|[2407.19580](http://arxiv.org/abs/2407.19580)|null|
 |**2024-07-28**|**Are LLMs Good Annotators for Discourse-level Event Relation Extraction?**|Kangda Wei et.al.|[2407.19568](http://arxiv.org/abs/2407.19568)|null|
-|**2024-07-28**|**Enabling Uniform Computer Interaction Experience for Blind Users through Large Language Models**|Satwik Ram Kodandaram et.al.|[2407.19537](http://arxiv.org/abs/2407.19537)|null|
+|**2024-07-30**|**Enabling Uniform Computer Interaction Experience for Blind Users through Large Language Models**|Satwik Ram Kodandaram et.al.|[2407.19537](http://arxiv.org/abs/2407.19537)|null|
 |**2024-07-28**|**Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis**|Fatema Tuj Johora Faria et.al.|[2407.19528](http://arxiv.org/abs/2407.19528)|null|
 |**2024-07-28**|**Impact of Decoding Methods on Human Alignment of Conversational LLMs**|Shaz Furniturewala et.al.|[2407.19526](http://arxiv.org/abs/2407.19526)|null|
 |**2024-07-28**|**Independent fact-checking organizations exhibit a departure from political neutrality**|Sahajpreet Singh et.al.|[2407.19498](http://arxiv.org/abs/2407.19498)|null|
@@ -86,7 +86,7 @@ layout: default
 |**2024-07-27**|**Multi-Modal CLIP-Informed Protein Editing**|Mingze Yin et.al.|[2407.19296](http://arxiv.org/abs/2407.19296)|null|
 |**2024-07-27**|**Large Language Models for Human-like Autonomous Driving: A Survey**|Yun Li et.al.|[2407.19280](http://arxiv.org/abs/2407.19280)|null|
 |**2024-07-27**|**Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications**|Till Speicher et.al.|[2407.19262](http://arxiv.org/abs/2407.19262)|null|
-|**2024-07-27**|**Evaluating Large Language Models in Detecting Test Smells**|Keila Lucas et.al.|[2407.19261](http://arxiv.org/abs/2407.19261)|null|
+|**2024-07-30**|**Evaluating Large Language Models in Detecting Test Smells**|Keila Lucas et.al.|[2407.19261](http://arxiv.org/abs/2407.19261)|null|
 |**2024-07-27**|**Stochastic Parrots or ICU Experts? Large Language Models in Critical Care Medicine: A Scoping Review**|Tongyue Shi et.al.|[2407.19256](http://arxiv.org/abs/2407.19256)|null|
 |**2024-07-27**|**Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs**|Emilio Colombo et.al.|[2407.19204](http://arxiv.org/abs/2407.19204)|null|
 |**2024-07-27**|**LLaVA-Read: Enhancing Reading Ability of Multimodal Language Models**|Ruiyi Zhang et.al.|[2407.19185](http://arxiv.org/abs/2407.19185)|null|
@@ -95,7 +95,7 @@ layout: default
 |**2024-07-26**|**Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining**|Jianwei Li et.al.|[2407.19126](http://arxiv.org/abs/2407.19126)|null|
 |**2024-07-26**|**Large Language Models as Co-Pilots for Causal Inference in Medical Studies**|Ahmed Alaa et.al.|[2407.19118](http://arxiv.org/abs/2407.19118)|null|
 |**2024-07-26**|**Many-Shot In-Context Learning for Molecular Inverse Design**|Saeed Moayedpour et.al.|[2407.19089](http://arxiv.org/abs/2407.19089)|null|
-|**2024-07-26**|**Evaluating the Capability of LLMs in Identifying Compilation Errors in Configurable Systems**|Lucas Albuquerque et.al.|[2407.19087](http://arxiv.org/abs/2407.19087)|null|
+|**2024-07-30**|**Evaluating the Capability of LLMs in Identifying Compilation Errors in Configurable Systems**|Lucas Albuquerque et.al.|[2407.19087](http://arxiv.org/abs/2407.19087)|null|
 |**2024-07-26**|**ESAC (EQ-SANS Assisting Chatbot): Application of Large Language Models and Retrieval-Augmented Generation for Enhanced User Experience at EQ-SANS**|Changwoo Do et.al.|[2407.19075](http://arxiv.org/abs/2407.19075)|null|
 |**2024-07-26**|**Effective Large Language Model Debugging with Best-first Tree Search**|Jialin Song et.al.|[2407.19055](http://arxiv.org/abs/2407.19055)|null|
 |**2024-07-26**|**A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps**|Bangyan Ju et.al.|[2407.19053](http://arxiv.org/abs/2407.19053)|null|
@@ -106,7 +106,7 @@ layout: default
 |**2024-07-26**|**Automatic Detection of Moral Values in Music Lyrics**|Vjosa Preniqi et.al.|[2407.18787](http://arxiv.org/abs/2407.18787)|null|
 |**2024-07-26**|**The power of Prompts: Evaluating and Mitigating Gender Bias in MT with LLMs**|Aleix Sant et.al.|[2407.18786](http://arxiv.org/abs/2407.18786)|null|
 |**2024-07-26**|**TAGIFY: LLM-powered Tagging Interface for Improved Data Findability on OGD portals**|Kevin Kliimask et.al.|[2407.18764](http://arxiv.org/abs/2407.18764)|null|
-|**2024-07-29**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752](http://arxiv.org/abs/2407.18752)|**[link](https://github.com/littleflow3r/kg-structure-as-prompt)**|
+|**2024-07-30**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752](http://arxiv.org/abs/2407.18752)|**[link](https://github.com/littleflow3r/kg-structure-as-prompt)**|
 |**2024-07-26**|**Towards Effective and Efficient Continual Pre-training of Large Language Models**|Jie Chen et.al.|[2407.18743](http://arxiv.org/abs/2407.18743)|null|
 |**2024-07-26**|**Towards Generalized Offensive Language Identification**|Alphaeus Dmonte et.al.|[2407.18738](http://arxiv.org/abs/2407.18738)|null|
 |**2024-07-26**|**LLASP: Fine-tuning Large Language Models for Answer Set Programming**|Erica Coppolillo et.al.|[2407.18723](http://arxiv.org/abs/2407.18723)|null|
@@ -4468,7 +4468,7 @@ layout: default
 |**2024-07-22**|**Concept-Based Interpretable Reinforcement Learning with Limited to No Human Labels**|Zhuorui Ye et.al.|[2407.15786](http://arxiv.org/abs/2407.15786)|null|
 |**2024-07-22**|**Zero-Shot Embeddings Inform Learning and Forgetting with Vision-Language Encoders**|Laura Niss et.al.|[2407.15731](http://arxiv.org/abs/2407.15731)|null|
 |**2024-07-23**|**SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection**|Dimitrios Kollias et.al.|[2407.15728](http://arxiv.org/abs/2407.15728)|null|
-|**2024-07-25**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706](http://arxiv.org/abs/2407.15706)|**[link](https://github.com/liujf69/MMCL-Action)**|
+|**2024-07-30**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706](http://arxiv.org/abs/2407.15706)|**[link](https://github.com/liujf69/MMCL-Action)**|
 |**2024-07-22**|**HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning**|Zhecan Wang et.al.|[2407.15680](http://arxiv.org/abs/2407.15680)|**[link](https://github.com/google/haloquest)**|
 |**2024-07-22**|**In-Context Learning Improves Compositional Understanding of Vision-Language Models**|Matteo Nulli et.al.|[2407.15487](http://arxiv.org/abs/2407.15487)|**[link](https://github.com/hoezey/vlm-compositionality)**|
 |**2024-07-22**|**WTS: A Pedestrian-Centric Traffic Video Dataset for Fine-grained Spatial-Temporal Understanding**|Quan Kong et.al.|[2407.15350](http://arxiv.org/abs/2407.15350)|null|
@@ -5200,7 +5200,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
-|**2024-07-29**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218](http://arxiv.org/abs/2407.20218)|null|
+|**2024-07-30**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218](http://arxiv.org/abs/2407.20218)|null|
 |**2024-07-29**|**On the leptonic contribution to the ultra high-energy diffuse gamma-ray background**|Samy Kaci et.al.|[2407.20186](http://arxiv.org/abs/2407.20186)|null|
 |**2024-07-29**|**LatentArtiFusion: An Effective and Efficient Histological Artifacts Restoration Framework**|Zhenqi He et.al.|[2407.20172](http://arxiv.org/abs/2407.20172)|**[link](https://github.com/bugs-creator/latentartifusion)**|
 |**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171](http://arxiv.org/abs/2407.20171)|null|
@@ -5221,7 +5221,7 @@ layout: default
 |**2024-07-29**|**Detecting Unsafe Behavior in Neural Network Imitation Policies for Caregiving Robotics**|Andrii Tytarenko et.al.|[2407.19819](http://arxiv.org/abs/2407.19819)|null|
 |**2024-07-29**|**Map2Traj: Street Map Piloted Zero-shot Trajectory Generation with Diffusion Model**|Zhenyu Tao et.al.|[2407.19765](http://arxiv.org/abs/2407.19765)|null|
 |**2024-07-29**|**Existence of suitable weak solutions to an anisotropic electrokinetic flow model**|Dietmar Hömberg et.al.|[2407.19713](http://arxiv.org/abs/2407.19713)|null|
-|**2024-07-28**|**Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture**|ShahRukh Athar et.al.|[2407.19593](http://arxiv.org/abs/2407.19593)|null|
+|**2024-07-30**|**Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture**|ShahRukh Athar et.al.|[2407.19593](http://arxiv.org/abs/2407.19593)|null|
 |**2024-07-28**|**MX precipitate behavior in an irradiated advanced Fe-9Cr steel: Helium effects on phase stability**|T. M. Kelsy Green et.al.|[2407.19589](http://arxiv.org/abs/2407.19589)|null|
 |**2024-07-28**|**Is Generative AI an Existential Threat to Human Creatives? Insights from Financial Economics**|Jiasun Li et.al.|[2407.19586](http://arxiv.org/abs/2407.19586)|null|
 |**2024-07-28**|**The flow field due to a sphere moving in a viscous, density stratified fluid**|Ramana Patibandla et.al.|[2407.19579](http://arxiv.org/abs/2407.19579)|null|
