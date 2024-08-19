@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -53,7 +53,7 @@ layout: default
 |**2024-08-15**|**Fine-tuning Large Language Models with Human-inspired Learning Strategies in Medical Question Answering**|Yushi Yang et.al.|[2408.07888](http://arxiv.org/abs/2408.07888)|**[link](https://github.com/Oxford-AI-for-Society/human-learning-strategies)**|
 |**2024-08-15**|**Instruct Large Language Models to Generate Scientific Literature Survey Step by Step**|Yuxuan Lai et.al.|[2408.07884](http://arxiv.org/abs/2408.07884)|null|
 |**2024-08-15**|**Words Matter: Reducing Stigma in Online Conversations about Substance Use with Large Language Models**|Layla Bouzoubaa et.al.|[2408.07873](http://arxiv.org/abs/2408.07873)|null|
-|**2024-08-14**|**A System for Automated Unit Test Generation Using Large Language Models and Assessment of Generated Test Suites**|Andrea Lops et.al.|[2408.07846](http://arxiv.org/abs/2408.07846)|null|
+|**2024-08-16**|**A System for Automated Unit Test Generation Using Large Language Models and Assessment of Generated Test Suites**|Andrea Lops et.al.|[2408.07846](http://arxiv.org/abs/2408.07846)|null|
 |**2024-08-14**|**ONSEP: A Novel Online Neural-Symbolic Framework for Event Prediction Based on Large Language Model**|Xuanqing Yu et.al.|[2408.07840](http://arxiv.org/abs/2408.07840)|null|
 |**2024-08-14**|**From Decision to Action in Surgical Autonomy: Multi-Modal Large Language Models for Robot-Assisted Blood Suction**|Sadra Zargarzadeh et.al.|[2408.07806](http://arxiv.org/abs/2408.07806)|null|
 |**2024-08-14**|**MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis**|Nimeesha Chan et.al.|[2408.07773](http://arxiv.org/abs/2408.07773)|**[link](https://github.com/flixpar/med-ts-llm)**|
@@ -84,7 +84,7 @@ layout: default
 |**2024-08-14**|**Evaluating Large Language Model based Personal Information Extraction and Countermeasures**|Yupei Liu et.al.|[2408.07291](http://arxiv.org/abs/2408.07291)|null|
 |**2024-08-14**|**NL2OR: Solve Complex Operations Research Problems Using Natural Language Inputs**|Junxuan Li et.al.|[2408.07272](http://arxiv.org/abs/2408.07272)|null|
 |**2024-08-14**|**GQE: Generalized Query Expansion for Enhanced Text-Video Retrieval**|Zechen Bai et.al.|[2408.07249](http://arxiv.org/abs/2408.07249)|null|
-|**2024-08-14**|**Seeing and Understanding: Bridging Vision with Chemical Knowledge Via ChemVLM**|Junxian Li et.al.|[2408.07246](http://arxiv.org/abs/2408.07246)|null|
+|**2024-08-16**|**ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area**|Junxian Li et.al.|[2408.07246](http://arxiv.org/abs/2408.07246)|null|
 |**2024-08-13**|**Using Advanced LLMs to Enhance Smaller LLMs: An Interpretable Knowledge Distillation Approach**|Tong Wang et.al.|[2408.07238](http://arxiv.org/abs/2408.07238)|null|
 |**2024-08-13**|**Neural embedding of beliefs reveals the role of relative dissonance in human decision-making**|Byunghwee Lee et.al.|[2408.07237](http://arxiv.org/abs/2408.07237)|null|
 |**2024-08-13**|**The gene function prediction challenge: large language models and knowledge graphs to the rescue**|Rohan Shawn Sunil et.al.|[2408.07222](http://arxiv.org/abs/2408.07222)|null|
