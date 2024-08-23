@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,7 +33,7 @@
 |**2024-08-21**|**Mixed Sparsity Training: Achieving 4 $\times$ FLOP Reduction for Transformer Pretraining**|Pihe Hu et.al.|[2408.11746](http://arxiv.org/abs/2408.11746)|null|
 |**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
 |**2024-08-21**|**Clinical Insights: A Comprehensive Review of Language Models in Medicine**|Nikita Neveditsin et.al.|[2408.11735](http://arxiv.org/abs/2408.11735)|null|
-|**2024-08-21**|**LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites**|Zachariah Sollenberger et.al.|[2408.11729](http://arxiv.org/abs/2408.11729)|null|
+|**2024-08-22**|**LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites**|Zachariah Sollenberger et.al.|[2408.11729](http://arxiv.org/abs/2408.11729)|null|
 |**2024-08-21**|**AI-assisted Automated Short Answer Grading of Handwritten University Level Mathematics Exams**|Tianyi Liu et.al.|[2408.11728](http://arxiv.org/abs/2408.11728)|null|
 |**2024-08-21**|**Efficient Detection of Toxic Prompts in Large Language Models**|Yi Liu et.al.|[2408.11727](http://arxiv.org/abs/2408.11727)|null|
 |**2024-08-21**|**Leveraging Large Language Models for Enhancing the Understandability of Generated Unit Tests**|Amirhossein Deljouyi et.al.|[2408.11710](http://arxiv.org/abs/2408.11710)|null|
@@ -74,7 +74,7 @@
 |**2024-08-21**|**FedMoE: Personalized Federated Learning via Heterogeneous Mixture of Experts**|Hanzi Mei et.al.|[2408.11304](http://arxiv.org/abs/2408.11304)|null|
 |**2024-08-21**|**RedWhale: An Adapted Korean LLM Through Efficient Continual Pretraining**|Anh-Dung Vo et.al.|[2408.11294](http://arxiv.org/abs/2408.11294)|null|
 |**2024-08-21**|**Applying and Evaluating Large Language Models in Mental Health Care: A Scoping Review of Human-Assessed Generative Tasks**|Yining Hua et.al.|[2408.11288](http://arxiv.org/abs/2408.11288)|null|
-|**2024-08-21**|**Video Emotion Open-vocabulary Recognition Based on Multimodal Large Language Model**|Mengying Ge et.al.|[2408.11286](http://arxiv.org/abs/2408.11286)|null|
+|**2024-08-22**|**Video Emotion Open-vocabulary Recognition Based on Multimodal Large Language Model**|Mengying Ge et.al.|[2408.11286](http://arxiv.org/abs/2408.11286)|null|
 |**2024-08-21**|**BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation**|Haotian Peng et.al.|[2408.11281](http://arxiv.org/abs/2408.11281)|**[link](https://github.com/hatton613/bearllm)**|
 |**2024-08-20**|**Unboxing Occupational Bias: Grounded Debiasing LLMs with U.S. Labor Data**|Atmika Gorti et.al.|[2408.11247](http://arxiv.org/abs/2408.11247)|null|
 |**2024-08-20**|**A Little Confidence Goes a Long Way**|John Scoville et.al.|[2408.11239](http://arxiv.org/abs/2408.11239)|null|
@@ -84,7 +84,7 @@
 |**2024-08-20**|**SubgoalXL: Subgoal-based Expert Learning for Theorem Proving**|Xueliang Zhao et.al.|[2408.11172](http://arxiv.org/abs/2408.11172)|**[link](https://github.com/zhaoxlpku/subgoalxl)**|
 |**2024-08-20**|**Public Health in Disaster: Emotional Health and Life Incidents Extraction during Hurricane Harvey**|Thomas Hoang et.al.|[2408.11133](http://arxiv.org/abs/2408.11133)|null|
 |**2024-08-20**|**DOMBA: Double Model Balancing for Access-Controlled Language Models via Minimum-Bounded Aggregation**|Tom Segal et.al.|[2408.11121](http://arxiv.org/abs/2408.11121)|null|
-|**2024-08-20**|**Mistral-SPLADE: LLMs for for better Learned Sparse Retrieval**|Meet Doshi et.al.|[2408.11119](http://arxiv.org/abs/2408.11119)|null|
+|**2024-08-22**|**Mistral-SPLADE: LLMs for better Learned Sparse Retrieval**|Meet Doshi et.al.|[2408.11119](http://arxiv.org/abs/2408.11119)|null|
 |**2024-08-20**|**What can Large Language Models Capture about Code Functional Equivalence?**|Nickil Maveli et.al.|[2408.11081](http://arxiv.org/abs/2408.11081)|null|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
 |**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
@@ -5115,7 +5115,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240823>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -5996,7 +5996,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240823>back to top</a>)</p>
 
 ## Diffusion
 
@@ -6039,7 +6039,7 @@
 |**2024-08-20**|**The densities in diffuse and translucent molecular clouds: estimates from observations of C $_2$ and from 3-dimensional extinction maps**|David A. Neufeld et.al.|[2408.11108](http://arxiv.org/abs/2408.11108)|null|
 |**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039](http://arxiv.org/abs/2408.11039)|null|
 |**2024-08-20**|**A new perspective on the learning dynamics for a class of learning problems via averaged gradient systems coupled with diffusion-transmutation processes**|Getachew K. Befekadu et.al.|[2408.11005](http://arxiv.org/abs/2408.11005)|null|
-|**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001](http://arxiv.org/abs/2408.11001)|null|
+|**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001](http://arxiv.org/abs/2408.11001)|**[link](https://github.com/ShaochengShen/MegaFusion)**|
 |**2024-08-20**|**Denoising Plane Wave Ultrasound Images Using Diffusion Probabilistic Models**|Hojat Asgariandehkordi et.al.|[2408.10987](http://arxiv.org/abs/2408.10987)|null|
 |**2024-08-20**|**GreediRIS: Scalable Influence Maximization using Distributed Streaming Maximum Cover**|Reet Barik et.al.|[2408.10982](http://arxiv.org/abs/2408.10982)|null|
 |**2024-08-21**|**Monte Carlo Physics-informed neural networks for multiscale heat conduction via phonon Boltzmann transport equation**|Qingyi Lin et.al.|[2408.10965](http://arxiv.org/abs/2408.10965)|null|
@@ -9616,7 +9616,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240823>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
