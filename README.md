@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -74,7 +74,7 @@
 |**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333](http://arxiv.org/abs/2408.12333)|**[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)**|
 |**2024-08-22**|**Interactive DualChecker for Mitigating Hallucinations in Distilling Large Language Models**|Meiyun Wang et.al.|[2408.12326](http://arxiv.org/abs/2408.12326)|**[link](https://github.com/kirawang23/dualchecker)**|
 |**2024-08-22**|**Improving Factuality in Large Language Models via Decoding-Time Hallucinatory and Truthful Comparators**|Dingkang Yang et.al.|[2408.12325](http://arxiv.org/abs/2408.12325)|null|
-|**2024-08-22**|**MaVEn: An Effective Multi-granularity Hybrid Visual Encoding Framework for Multimodal Large Language Model**|Chaoya Jiang et.al.|[2408.12321](http://arxiv.org/abs/2408.12321)|null|
+|**2024-08-26**|**MaVEn: An Effective Multi-granularity Hybrid Visual Encoding Framework for Multimodal Large Language Model**|Chaoya Jiang et.al.|[2408.12321](http://arxiv.org/abs/2408.12321)|null|
 |**2024-08-22**|**PolyRouter: A Multi-LLM Querying System**|Dimitris Stripelis et.al.|[2408.12320](http://arxiv.org/abs/2408.12320)|null|
 |**2024-08-22**|**Large Language Models Are Self-Taught Reasoners: Enhancing LLM Applications via Tailored Problem-Solving Demonstrations**|Kai Tzu-iunn Ong et.al.|[2408.12315](http://arxiv.org/abs/2408.12315)|null|
 |**2024-08-22**|**Toward the Evaluation of Large Language Models Considering Score Variance across Instruction Templates**|Yusuke Sakai et.al.|[2408.12263](http://arxiv.org/abs/2408.12263)|null|
@@ -5205,7 +5205,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -6098,7 +6098,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
 ## Diffusion
 
@@ -6138,7 +6138,7 @@
 |**2024-08-23**|**Detecting random bifurcations via rigorous enclosures of large deviations rate functions**|Alexandra Blessing et.al.|[2408.12556](http://arxiv.org/abs/2408.12556)|null|
 |**2024-08-22**|**Neural Fields and Noise-Induced Patterns in Neurons on Large Disordered Networks**|Daniele Avitabile et.al.|[2408.12540](http://arxiv.org/abs/2408.12540)|null|
 |**2024-08-22**|**Spectral eigenfunction decomposition of a Fokker-Planck operator for relativistic heavy-ion collisions**|A. Rizzi et.al.|[2408.12532](http://arxiv.org/abs/2408.12532)|null|
-|**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|null|
+|**2024-08-25**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|null|
 |**2024-08-22**|**FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing**|Jue Wang et.al.|[2408.12429](http://arxiv.org/abs/2408.12429)|**[link](https://github.com/a-new-b/flex_edit)**|
 |**2024-08-22**|**4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment**|Kaihui Cheng et.al.|[2408.12419](http://arxiv.org/abs/2408.12419)|null|
 |**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418](http://arxiv.org/abs/2408.12418)|**[link](https://github.com/vita-epfl/code)**|
@@ -6176,7 +6176,7 @@
 |**2024-08-21**|**FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive Prompt Weighting**|Liyao Jiang et.al.|[2408.11706](http://arxiv.org/abs/2408.11706)|null|
 |**2024-08-21**|**The off-equilibrium Kinetic Ising model: The Metric Case**|Luca Di Carlo et.al.|[2408.11690](http://arxiv.org/abs/2408.11690)|null|
 |**2024-08-21**|**Plug-in estimation of Schrödinger bridges**|Aram-Alexandre Pooladian et.al.|[2408.11686](http://arxiv.org/abs/2408.11686)|**[link](https://github.com/apooladian/sinkhornbridge)**|
-|**2024-08-21**|**Reconstruction of reverberation theory in a diffuse sound field by using reflection orders**|Toshiki Hanyu et.al.|[2408.11670](http://arxiv.org/abs/2408.11670)|null|
+|**2024-08-24**|**Reconstruction of reverberation theory in a diffuse sound field by using reflection orders**|Toshiki Hanyu et.al.|[2408.11670](http://arxiv.org/abs/2408.11670)|null|
 |**2024-08-21**|**Variability and stellar pulsation incidence in Am/Fm stars using TESS and Gaia data**|Oliver Durfeldt-Pedros et.al.|[2408.11657](http://arxiv.org/abs/2408.11657)|null|
 |**2024-08-21**|**Moderate deviation principles for a reaction diffusion model in non-equilibrium**|Linjie Zhao et.al.|[2408.11633](http://arxiv.org/abs/2408.11633)|null|
 |**2024-08-21**|**Achieving specific yet transient bonds between anisotropic colloids**|Muraleedharapai Mayarani et.al.|[2408.11569](http://arxiv.org/abs/2408.11569)|null|
@@ -9781,7 +9781,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
