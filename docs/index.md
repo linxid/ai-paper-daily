@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.31
+## Updated on 2024.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -6346,7 +6346,7 @@ layout: default
 |**2024-08-29**|**Advancing Architectural Floorplan Design with Geometry-enhanced Graph Diffusion**|Sizhe Hu et.al.|[2408.16258](http://arxiv.org/abs/2408.16258)|null|
 |**2024-08-29**|**A collision-oriented interacting particle system for Landau-type equations and the molecular chaos**|Kai Du et.al.|[2408.16252](http://arxiv.org/abs/2408.16252)|null|
 |**2024-08-29**|**Error analysis of conformal finite element method for nonlocal diffusion model**|Zuoqiang Shi et.al.|[2408.16243](http://arxiv.org/abs/2408.16243)|null|
-|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|null|
+|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-29**|**Global boundedness and blow-up in a repulsive chemotaxis-consumption system in higher dimensions**|Jaewook Ahn et.al.|[2408.16225](http://arxiv.org/abs/2408.16225)|null|
 |**2024-08-28**|**How does vortex dynamics help undulating bodies spread odor?**|Maham Kamran et.al.|[2408.16136](http://arxiv.org/abs/2408.16136)|null|
 |**2024-08-28**|**Reversible to Irreversible Transitions for ac Driven Skyrmions on Periodic Substrates**|J. C. Bellizotti Souza et.al.|[2408.16111](http://arxiv.org/abs/2408.16111)|null|
