@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,7 +38,7 @@
 |**2024-08-29**|**Law of Vision Representation in MLLMs**|Shijia Yang et.al.|[2408.16357](http://arxiv.org/abs/2408.16357)|null|
 |**2024-08-29**|**The Unreasonable Ineffectiveness of Nucleus Sampling on Mitigating Text Memorization**|Luka Borec et.al.|[2408.16345](http://arxiv.org/abs/2408.16345)|**[link](https://github.com/lukaborec/memorization-nucleus-sampling)**|
 |**2024-08-29**|**Critic-CoT: Boosting the reasoning abilities of large language model via Chain-of-thoughts Critic**|Xin Zheng et.al.|[2408.16326](http://arxiv.org/abs/2408.16326)|null|
-|**2024-08-29**|**SynDL: A Large-Scale Synthetic Test Collection**|Hossein A. Rahmani et.al.|[2408.16312](http://arxiv.org/abs/2408.16312)|null|
+|**2024-08-30**|**SynDL: A Large-Scale Synthetic Test Collection for Passage Retrieval**|Hossein A. Rahmani et.al.|[2408.16312](http://arxiv.org/abs/2408.16312)|null|
 |**2024-08-29**|**Understanding Privacy Norms through Web Forms**|Hao Cui et.al.|[2408.16304](http://arxiv.org/abs/2408.16304)|null|
 |**2024-08-29**|**Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**|Kengo Nakata et.al.|[2408.16296](http://arxiv.org/abs/2408.16296)|null|
 |**2024-08-29**|**Enhancing AI-Driven Psychological Consultation: Layered Prompts with Large Language Models**|Rafael Souza et.al.|[2408.16276](http://arxiv.org/abs/2408.16276)|null|
@@ -49,7 +49,7 @@
 |**2024-08-29**|**Benchmarking Japanese Speech Recognition on ASR-LLM Setups with Multi-Pass Augmented Generative Error Correction**|Yuka Ko et.al.|[2408.16180](http://arxiv.org/abs/2408.16180)|null|
 |**2024-08-28**|**LLM-assisted Labeling Function Generation for Semantic Type Detection**|Chenjie Li et.al.|[2408.16173](http://arxiv.org/abs/2408.16173)|null|
 |**2024-08-28**|**FRACTURED-SORRY-Bench: Framework for Revealing Attacks in Conversational Turns Undermining Refusal Efficacy and Defenses over SORRY-Bench**|Aman Priyanshu et.al.|[2408.16163](http://arxiv.org/abs/2408.16163)|null|
-|**2024-08-28**|**Automatic Library Migration Using Large Language Models: First Results**|Aylton Almeida et.al.|[2408.16151](http://arxiv.org/abs/2408.16151)|null|
+|**2024-08-30**|**Automatic Library Migration Using Large Language Models: First Results**|Aylton Almeida et.al.|[2408.16151](http://arxiv.org/abs/2408.16151)|null|
 |**2024-08-28**|**LLMSecCode: Evaluating Large Language Models for Secure Coding**|Anton Rydén et.al.|[2408.16100](http://arxiv.org/abs/2408.16100)|null|
 |**2024-08-28**|**Structured Event Reasoning with Large Language Models**|Li Zhang et.al.|[2408.16098](http://arxiv.org/abs/2408.16098)|null|
 |**2024-08-28**|**Logic-Enhanced Language Model Agents for Trustworthy Social Simulations**|Agnieszka Mensfelt et.al.|[2408.16081](http://arxiv.org/abs/2408.16081)|**[link](https://github.com/dicelab-rhul/lelma)**|
@@ -83,7 +83,7 @@
 |**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562](http://arxiv.org/abs/2408.15562)|null|
 |**2024-08-28**|**Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models**|Wenbin Wang et.al.|[2408.15556](http://arxiv.org/abs/2408.15556)|**[link](https://github.com/DreamMr/HR-Bench)**|
 |**2024-08-28**|**WildFeedback: Aligning LLMs With In-situ User Interactions And Feedback**|Taiwei Shi et.al.|[2408.15549](http://arxiv.org/abs/2408.15549)|null|
-|**2024-08-28**|**SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding**|Sihang Li et.al.|[2408.15545](http://arxiv.org/abs/2408.15545)|null|
+|**2024-08-30**|**SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding**|Sihang Li et.al.|[2408.15545](http://arxiv.org/abs/2408.15545)|null|
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|Jiajun Liu et.al.|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-29**|**LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation**|Haichuan Hu et.al.|[2408.15533](http://arxiv.org/abs/2408.15533)|**[link](https://github.com/tomsawyerhu/lrp4rag)**|
 |**2024-08-28**|**Towards Fully Autonomous Research Powered by LLMs: Case Study on Simulations**|Zhihan Liu et.al.|[2408.15512](http://arxiv.org/abs/2408.15512)|**[link](https://github.com/zokaraa/autonomous_simulation_agent)**|
@@ -5395,7 +5395,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -5409,7 +5409,7 @@
 |**2024-08-29**|**Text-Enhanced Zero-Shot Action Recognition: A training-free approach**|Massimo Bosetti et.al.|[2408.16412](http://arxiv.org/abs/2408.16412)|null|
 |**2024-08-29**|**Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**|Kengo Nakata et.al.|[2408.16296](http://arxiv.org/abs/2408.16296)|null|
 |**2024-08-29**|**Policy Adaptation via Language Optimization: Decomposing Tasks for Few-Shot Imitation**|Vivek Myers et.al.|[2408.16228](http://arxiv.org/abs/2408.16228)|null|
-|**2024-08-29**|**LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models**|Jingyi Wang et.al.|[2408.16224](http://arxiv.org/abs/2408.16224)|null|
+|**2024-08-30**|**LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models**|Jingyi Wang et.al.|[2408.16224](http://arxiv.org/abs/2408.16224)|null|
 |**2024-08-28**|**VLM4Bio: A Benchmark Dataset to Evaluate Pretrained Vision-Language Models for Trait Discovery from Biological Images**|M. Maruf et.al.|[2408.16176](http://arxiv.org/abs/2408.16176)|**[link](https://github.com/sammarfy/vlm4bio)**|
 |**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998](http://arxiv.org/abs/2408.15998)|**[link](https://github.com/nvlabs/eagle)**|
 |**2024-08-28**|**Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games**|Nicholas R. Waytowich et.al.|[2408.15950](http://arxiv.org/abs/2408.15950)|null|
@@ -5444,7 +5444,7 @@
 |**2024-08-18**|**Crossing New Frontiers: Knowledge-Augmented Large Language Model Prompting for Zero-Shot Text-Based De Novo Molecule Design**|Sakhinana Sagar Srinivas et.al.|[2408.11866](http://arxiv.org/abs/2408.11866)|null|
 |**2024-08-21**|**SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs**|Yuanyang Yin et.al.|[2408.11813](http://arxiv.org/abs/2408.11813)|null|
 |**2024-08-21**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795](http://arxiv.org/abs/2408.11795)|null|
-|**2024-08-22**|**DH-Bench: Probing Depth and Height Perception of Large Visual-Language Models**|Shehreen Azad et.al.|[2408.11748](http://arxiv.org/abs/2408.11748)|**[link](https://github.com/sacrcv/dh-bench)**|
+|**2024-08-30**|**GeoMeter: Probing Depth and Height Perception of Large Visual-Language Models**|Shehreen Azad et.al.|[2408.11748](http://arxiv.org/abs/2408.11748)|**[link](https://github.com/sacrcv/dh-bench)**|
 |**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742](http://arxiv.org/abs/2408.11742)|**[link](https://github.com/yuliangcai2022/clumo)**|
 |**2024-08-21**|**MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning**|Minghao Han et.al.|[2408.11505](http://arxiv.org/abs/2408.11505)|null|
 |**2024-08-21**|**Enabling Small Models for Zero-Shot Classification through Model Label Learning**|Jia Zhang et.al.|[2408.11449](http://arxiv.org/abs/2408.11449)|null|
@@ -6317,7 +6317,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
 
 ## Diffusion
 
@@ -10164,7 +10164,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
