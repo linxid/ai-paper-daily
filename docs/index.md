@@ -51,7 +51,7 @@ layout: default
 |**2024-08-29**|**LLMs vs Established Text Augmentation Techniques for Classification: When do the Benefits Outweight the Costs?**|Jan Cegin et.al.|[2408.16502](http://arxiv.org/abs/2408.16502)|null|
 |**2024-08-29**|**A Survey on Evaluating Large Language Models in Code Generation Tasks**|Liguo Chen et.al.|[2408.16498](http://arxiv.org/abs/2408.16498)|null|
 |**2024-08-29**|**Self-Alignment: Improving Alignment of Cultural Values in LLMs via In-Context Learning**|Rochelle Choenni et.al.|[2408.16482](http://arxiv.org/abs/2408.16482)|null|
-|**2024-08-29**|**Human and LLM-Based Voice Assistant Interaction: An Analytical Framework for User Verbal and Nonverbal Behaviors**|Szeyi Chan et.al.|[2408.16465](http://arxiv.org/abs/2408.16465)|null|
+|**2024-09-03**|**Human and LLM-Based Voice Assistant Interaction: An Analytical Framework for User Verbal and Nonverbal Behaviors**|Szeyi Chan et.al.|[2408.16465](http://arxiv.org/abs/2408.16465)|null|
 |**2024-08-29**|**Instruction-tuned Large Language Models for Machine Translation in the Medical Domain**|Miguel Rios et.al.|[2408.16440](http://arxiv.org/abs/2408.16440)|null|
 |**2024-08-29**|**WHISMA: A Speech-LLM to Perform Zero-shot Spoken Language Understanding**|Mohan Li et.al.|[2408.16423](http://arxiv.org/abs/2408.16423)|null|
 |**2024-08-29**|**Outside the Comfort Zone: Analysing LLM Capabilities in Software Vulnerability Detection**|Yuejun Guo et.al.|[2408.16400](http://arxiv.org/abs/2408.16400)|null|
@@ -5419,8 +5419,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-30**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422](http://arxiv.org/abs/2408.17422)|null|
-|**2024-08-30**|**LSMS: Language-guided Scale-aware MedSegmentor for Medical Image Referring Segmentation**|Shuyi Ouyang et.al.|[2408.17347](http://arxiv.org/abs/2408.17347)|null|
+|**2024-09-03**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422](http://arxiv.org/abs/2408.17422)|null|
+|**2024-09-02**|**LSMS: Language-guided Scale-aware MedSegmentor for Medical Image Referring Segmentation**|Shuyi Ouyang et.al.|[2408.17347](http://arxiv.org/abs/2408.17347)|null|
 |**2024-08-30**|**Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning**|Xiaoye Qu et.al.|[2408.17150](http://arxiv.org/abs/2408.17150)|**[link](https://github.com/gasolsun36/mvp)**|
 |**2024-08-29**|**VLM-KD: Knowledge Distillation from VLM for Long-Tail Visual Recognition**|Zaiwei Zhang et.al.|[2408.16930](http://arxiv.org/abs/2408.16930)|null|
 |**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|Noor Hussein et.al.|[2408.16769](http://arxiv.org/abs/2408.16769)|**[link](https://github.com/nhussein/promptsmooth)**|
@@ -5437,7 +5437,7 @@ layout: default
 |**2024-08-28**|**Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games**|Nicholas R. Waytowich et.al.|[2408.15950](http://arxiv.org/abs/2408.15950)|null|
 |**2024-08-28**|**Visual Prompt Engineering for Medical Vision Language Models in Radiology**|Stefan Denner et.al.|[2408.15802](http://arxiv.org/abs/2408.15802)|null|
 |**2024-08-28**|**Can Visual Language Models Replace OCR-Based Visual Question Answering Pipelines in Production? A Case Study in Retail**|Bianca Lamm et.al.|[2408.15626](http://arxiv.org/abs/2408.15626)|null|
-|**2024-08-28**|**Dolphin: Long Context as a New Modality for Energy-Efficient On-Device Language Models**|Wei Chen et.al.|[2408.15518](http://arxiv.org/abs/2408.15518)|null|
+|**2024-09-03**|**Squid: Long Context as a New Modality for Energy-Efficient On-Device Language Models**|Wei Chen et.al.|[2408.15518](http://arxiv.org/abs/2408.15518)|null|
 |**2024-08-27**|**Parameter-Efficient Quantized Mixture-of-Experts Meets Vision-Language Instruction Tuning for Semiconductor Electron Micrograph Analysis**|Sakhinana Sagar Srinivas et.al.|[2408.15305](http://arxiv.org/abs/2408.15305)|null|
 |**2024-08-28**|**VHAKG: A Multi-modal Knowledge Graph Based on Synchronized Multi-view Videos of Daily Activities**|Shusaku Egami et.al.|[2408.14895](http://arxiv.org/abs/2408.14895)|**[link](https://github.com/aistairc/virtualhome_aist)**|
 |**2024-08-27**|**HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling**|Yubin Wang et.al.|[2408.14812](http://arxiv.org/abs/2408.14812)|null|
@@ -5502,7 +5502,7 @@ layout: default
 |**2024-08-15**|**Level Up Your Tutorials: VLMs for Game Tutorials Quality Assessment**|Daniele Rege Cambrin et.al.|[2408.08396](http://arxiv.org/abs/2408.08396)|**[link](https://github.com/DarthReca/level-up-your-tutorials)**|
 |**2024-08-15**|**Towards Flexible Visual Relationship Segmentation**|Fangrui Zhu et.al.|[2408.08305](http://arxiv.org/abs/2408.08305)|null|
 |**2024-08-14**|**Cropper: Vision-Language Model for Image Cropping through In-Context Learning**|Seung Hyun Lee et.al.|[2408.07790](http://arxiv.org/abs/2408.07790)|null|
-|**2024-08-14**|**Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach**|Shizhou Zhang et.al.|[2408.07500](http://arxiv.org/abs/2408.07500)|**[link](https://github.com/fhr-l/vsla-clip)**|
+|**2024-09-03**|**Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach**|Shizhou Zhang et.al.|[2408.07500](http://arxiv.org/abs/2408.07500)|**[link](https://github.com/fhr-l/vsla-clip)**|
 |**2024-08-13**|**Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces**|Zhiling Chen et.al.|[2408.07146](http://arxiv.org/abs/2408.07146)|null|
 |**2024-08-13**|**Do Vision-Language Foundational models show Robust Visual Perception?**|Shivam Chandhok et.al.|[2408.06781](http://arxiv.org/abs/2408.06781)|**[link](https://github.com/shivam-chandhok/cpsc-540-project)**|
 |**2024-08-13**|**Response Wide Shut: Surprising Observations in Basic Vision Language Model Capabilities**|Shivam Chandhok et.al.|[2408.06721](http://arxiv.org/abs/2408.06721)|null|
@@ -6354,13 +6354,13 @@ layout: default
 |**2024-08-30**|**Shock-driven amorphization and melt in Fe $_2$O$_3$**|Céline Crépisson et.al.|[2408.17204](http://arxiv.org/abs/2408.17204)|null|
 |**2024-08-30**|**Excitation and spatial study of a prestellar cluster towards G+0.693-0.027 in the Galactic centre**|L. Colzi et.al.|[2408.17141](http://arxiv.org/abs/2408.17141)|null|
 |**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131](http://arxiv.org/abs/2408.17131)|null|
-|**2024-08-30**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
+|**2024-09-02**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
 |**2024-09-02**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
 |**2024-08-30**|**Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL**|Haiyang Zhao et.al.|[2408.17060](http://arxiv.org/abs/2408.17060)|null|
 |**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046](http://arxiv.org/abs/2408.17046)|null|
 |**2024-08-30**|**Contrastive Learning with Synthetic Positives**|Dewen Zeng et.al.|[2408.16965](http://arxiv.org/abs/2408.16965)|**[link](https://github.com/dewenzeng/clsp)**|
 |**2024-08-29**|**Revising Multimodal VAEs with Diffusion Decoders**|Daniel Wesego et.al.|[2408.16883](http://arxiv.org/abs/2408.16883)|null|
-|**2024-08-29**|**Enabling Local Editing in Diffusion Models by Joint and Individual Component Analysis**|Theodoros Kouzelis et.al.|[2408.16845](http://arxiv.org/abs/2408.16845)|null|
+|**2024-09-02**|**Enabling Local Editing in Diffusion Models by Joint and Individual Component Analysis**|Theodoros Kouzelis et.al.|[2408.16845](http://arxiv.org/abs/2408.16845)|null|
 |**2024-08-29**|**Mapping AGN winds: a connection between radio-mode AGN and the AGN feedback cycle**|Marco Albán et.al.|[2408.16831](http://arxiv.org/abs/2408.16831)|null|
 |**2024-08-29**|**Intensity mapping of intergalactic Lyman- $α$ haloes before reionization**|Hamsa Padmanabhan et.al.|[2408.16820](http://arxiv.org/abs/2408.16820)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
@@ -6374,7 +6374,7 @@ layout: default
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704](http://arxiv.org/abs/2408.16704)|null|
 |**2024-08-29**|**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**|Yongjie Fu et.al.|[2408.16647](http://arxiv.org/abs/2408.16647)|null|
 |**2024-08-29**|**Dynamics of switching processes: general results and applications to intermittent active motion**|Ion Santra et.al.|[2408.16643](http://arxiv.org/abs/2408.16643)|null|
-|**2024-08-29**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
+|**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 |**2024-08-29**|**Deep extragalactic HI survey of the COSMOS field with FAST**|Hengxing Pan et.al.|[2408.16597](http://arxiv.org/abs/2408.16597)|null|
 |**2024-08-29**|**GRPose: Learning Graph Relations for Human Image Generation with Pose Priors**|Xiangchen Yin et.al.|[2408.16540](http://arxiv.org/abs/2408.16540)|null|
@@ -6386,7 +6386,7 @@ layout: default
 |**2024-08-29**|**Convective Instability Driven by Diffusiophoresis of Colloids in Binary Liquid Mixtures**|Carmine Anzivino et.al.|[2408.16432](http://arxiv.org/abs/2408.16432)|null|
 |**2024-08-29**|**COIN: Control-Inpainting Diffusion Prior for Human and Camera Motion Estimation**|Jiefeng Li et.al.|[2408.16426](http://arxiv.org/abs/2408.16426)|null|
 |**2024-08-29**|**3D Topological Modeling and Multi-Agent Movement Simulation for Viral Infection Risk Analysis**|Wassim Jabi et.al.|[2408.16417](http://arxiv.org/abs/2408.16417)|null|
-|**2024-08-29**|**IBO: Inpainting-Based Occlusion to Enhance Explainable Artificial Intelligence Evaluation in Histopathology**|Pardis Afshar et.al.|[2408.16395](http://arxiv.org/abs/2408.16395)|**[link](https://github.com/a-fsh-r/IBO)**|
+|**2024-09-03**|**IBO: Inpainting-Based Occlusion to Enhance Explainable Artificial Intelligence Evaluation in Histopathology**|Pardis Afshar et.al.|[2408.16395](http://arxiv.org/abs/2408.16395)|**[link](https://github.com/a-fsh-r/IBO)**|
 |**2024-08-29**|**Large time asymptotic behavior for the dissipative Timoshenko system and its application**|Wenhui Chen et.al.|[2408.16351](http://arxiv.org/abs/2408.16351)|null|
 |**2024-08-29**|**Self-Improving Diffusion Models with Synthetic Data**|Sina Alemohammad et.al.|[2408.16333](http://arxiv.org/abs/2408.16333)|null|
 |**2024-08-29**|**P2P-Bridge: Diffusion Bridges for 3D Point Cloud Denoising**|Mathias Vogel et.al.|[2408.16325](http://arxiv.org/abs/2408.16325)|null|
@@ -6394,7 +6394,7 @@ layout: default
 |**2024-08-29**|**Improving Diffusion-based Data Augmentation with Inversion Spherical Interpolation**|Yanghao Wang et.al.|[2408.16266](http://arxiv.org/abs/2408.16266)|null|
 |**2024-08-29**|**Advancing Architectural Floorplan Design with Geometry-enhanced Graph Diffusion**|Sizhe Hu et.al.|[2408.16258](http://arxiv.org/abs/2408.16258)|null|
 |**2024-08-29**|**A collision-oriented interacting particle system for Landau-type equations and the molecular chaos**|Kai Du et.al.|[2408.16252](http://arxiv.org/abs/2408.16252)|null|
-|**2024-08-29**|**Error analysis of conformal finite element method for nonlocal diffusion model**|Zuoqiang Shi et.al.|[2408.16243](http://arxiv.org/abs/2408.16243)|null|
+|**2024-09-03**|**Error analysis of finite element method for nonlocal diffusion model**|Zuoqiang Shi et.al.|[2408.16243](http://arxiv.org/abs/2408.16243)|null|
 |**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-29**|**Global boundedness and blow-up in a repulsive chemotaxis-consumption system in higher dimensions**|Jaewook Ahn et.al.|[2408.16225](http://arxiv.org/abs/2408.16225)|null|
 |**2024-08-28**|**How does vortex dynamics help undulating bodies spread odor?**|Maham Kamran et.al.|[2408.16136](http://arxiv.org/abs/2408.16136)|null|
