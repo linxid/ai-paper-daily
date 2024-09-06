@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920](http://arxiv.org/abs/2409.02920)|null|
-|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-05**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
 |**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889](http://arxiv.org/abs/2409.02889)|**[link](https://github.com/freedomintelligence/longllava)**|
 |**2024-09-04**|**Historical German Text Normalization Using Type- and Token-Based Language Modeling**|Anton Ehrmanntraut et.al.|[2409.02841](http://arxiv.org/abs/2409.02841)|null|
 |**2024-09-04**|**Exploring Sentiment Dynamics and Predictive Behaviors in Cryptocurrency Discussions by Few-Shot Learning with Large Language Models**|Moein Shahiki Tash et.al.|[2409.02836](http://arxiv.org/abs/2409.02836)|null|
@@ -25,7 +25,7 @@ layout: default
 |**2024-09-04**|**Language Understanding as a Constraint on Consensus Size in LLM Societies**|Giordano De Marzo et.al.|[2409.02822](http://arxiv.org/abs/2409.02822)|null|
 |**2024-09-04**|**Towards a Unified View of Preference Learning for Large Language Models: A Survey**|Bofei Gao et.al.|[2409.02795](http://arxiv.org/abs/2409.02795)|null|
 |**2024-09-03**|**MedUnA: Language guided Unsupervised Adaptation of Vision-Language Models for Medical Image Classification**|Umaima Rahman et.al.|[2409.02729](http://arxiv.org/abs/2409.02729)|null|
-|**2024-09-04**|**Pooling And Attention: What Are Effective Designs For LLm-Based Embedding Models?**|Yixuan Tang et.al.|[2409.02727](http://arxiv.org/abs/2409.02727)|**[link](https://github.com/yixuantt/poolingandattn)**|
+|**2024-09-05**|**Pooling And Attention: What Are Effective Designs For LLM-Based Embedding Models?**|Yixuan Tang et.al.|[2409.02727](http://arxiv.org/abs/2409.02727)|**[link](https://github.com/yixuantt/poolingandattn)**|
 |**2024-09-04**|**Alignment-Aware Model Extraction Attacks on Large Language Models**|Zi Liang et.al.|[2409.02718](http://arxiv.org/abs/2409.02718)|null|
 |**2024-09-04**|**Creating a Gen-AI based Track and Trace Assistant MVP (SuperTracy) for PostNL**|Mohammad Reshadati et.al.|[2409.02711](http://arxiv.org/abs/2409.02711)|null|
 |**2024-09-04**|**LLM-Assisted Visual Analytics: Opportunities and Challenges**|Maeve Hutchinson et.al.|[2409.02691](http://arxiv.org/abs/2409.02691)|null|
@@ -48,7 +48,7 @@ layout: default
 |**2024-09-04**|**Abstractive Text Summarization: State of the Art, Challenges, and Improvements**|Hassan Shakil et.al.|[2409.02413](http://arxiv.org/abs/2409.02413)|null|
 |**2024-09-04**|**Building Math Agents with Multi-Turn Iterative Preference Learning**|Wei Xiong et.al.|[2409.02392](http://arxiv.org/abs/2409.02392)|null|
 |**2024-09-04**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Translation**|Ali Merali et.al.|[2409.02391](http://arxiv.org/abs/2409.02391)|null|
-|**2024-09-04**|**Large Language Models and Cognitive Science: A Comprehensive Review of Similarities, Differences, and Challenges**|Qian Niu et.al.|[2409.02387](http://arxiv.org/abs/2409.02387)|null|
+|**2024-09-05**|**Large Language Models and Cognitive Science: A Comprehensive Review of Similarities, Differences, and Challenges**|Qian Niu et.al.|[2409.02387](http://arxiv.org/abs/2409.02387)|null|
 |**2024-09-04**|**STAB: Speech Tokenizer Assessment Benchmark**|Shikhar Vashishth et.al.|[2409.02384](http://arxiv.org/abs/2409.02384)|null|
 |**2024-09-04**|**How Privacy-Savvy Are Large Language Models? A Case Study on Compliance and Privacy Technical Review**|Xichou Zhu et.al.|[2409.02375](http://arxiv.org/abs/2409.02375)|null|
 |**2024-09-04**|**Do Large Language Models Possess Sensitive to Sentiment?**|Yang Liu et.al.|[2409.02370](http://arxiv.org/abs/2409.02370)|null|
@@ -83,7 +83,7 @@ layout: default
 |**2024-09-03**|**From Yes-Men to Truth-Tellers: Addressing Sycophancy in Large Language Models with Pinpoint Tuning**|Wei Chen et.al.|[2409.01658](http://arxiv.org/abs/2409.01658)|null|
 |**2024-09-03**|**SafeEmbodAI: a Safety Framework for Mobile Robots in Embodied AI Systems**|Wenxiao Zhang et.al.|[2409.01630](http://arxiv.org/abs/2409.01630)|null|
 |**2024-09-03**|**Laser: Parameter-Efficient LLM Bi-Tuning for Sequential Recommendation with Collaborative Information**|Xinyu Zhang et.al.|[2409.01605](http://arxiv.org/abs/2409.01605)|null|
-|**2024-09-03**|**Booster: Tackling Harmful Fine-tuing for Large Language Models via Attenuating Harmful Perturbation**|Tiansheng Huang et.al.|[2409.01586](http://arxiv.org/abs/2409.01586)|**[link](https://github.com/git-disl/booster)**|
+|**2024-09-04**|**Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation**|Tiansheng Huang et.al.|[2409.01586](http://arxiv.org/abs/2409.01586)|**[link](https://github.com/git-disl/booster)**|
 |**2024-09-03**|**AdaComp: Extractive Context Compression with Adaptive Predictor for Retrieval-Augmented Large Language Models**|Qianchi Zhang et.al.|[2409.01579](http://arxiv.org/abs/2409.01579)|null|
 |**2024-09-03**|**An Implementation of Werewolf Agent That does not Truly Trust LLMs**|Takehiro Sato et.al.|[2409.01575](http://arxiv.org/abs/2409.01575)|null|
 |**2024-09-03**|**Benchmarking Cognitive Domains for LLMs: Insights from Taiwanese Hakka Culture**|Chen-Chi Chang et.al.|[2409.01556](http://arxiv.org/abs/2409.01556)|null|
@@ -6482,7 +6482,7 @@ layout: default
 |**2024-09-04**|**UNC-104 transport properties are robust and independent of changes in its cargo binding**|Amir Shee et.al.|[2409.02655](http://arxiv.org/abs/2409.02655)|null|
 |**2024-09-04**|**Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects**|Kyungmin Jo et.al.|[2409.02653](http://arxiv.org/abs/2409.02653)|null|
 |**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
-|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-05**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
 |**2024-09-04**|**Gate control of magnon spin transport in unconventional magnon transistors based on the van der Waals antiferromagnet CrPS4**|Dennis K. de Wal et.al.|[2409.02621](http://arxiv.org/abs/2409.02621)|null|
 |**2024-09-04**|**Rate-Adaptive Generative Semantic Communication Using Conditional Diffusion Models**|Pujing Yang et.al.|[2409.02597](http://arxiv.org/abs/2409.02597)|null|
 |**2024-09-04**|**Solving Video Inverse Problems Using Image Diffusion Models**|Taesung Kwon et.al.|[2409.02574](http://arxiv.org/abs/2409.02574)|null|
@@ -6511,13 +6511,13 @@ layout: default
 |**2024-09-03**|**Stochastic Dark Matter: Covariant Brownian Motion from Planckian Discreteness**|Emma Albertini et.al.|[2409.02188](http://arxiv.org/abs/2409.02188)|null|
 |**2024-09-03**|**Metal line emission around z<1 galaxies**|Rajeshwari Dutta et.al.|[2409.02182](http://arxiv.org/abs/2409.02182)|null|
 |**2024-09-02**|**A Financial Time Series Denoiser Based on Diffusion Model**|Zhuohan Wang et.al.|[2409.02138](http://arxiv.org/abs/2409.02138)|null|
-|**2024-09-03**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097](http://arxiv.org/abs/2409.02097)|**[link](https://github.com/huage001/linfusion)**|
+|**2024-09-05**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097](http://arxiv.org/abs/2409.02097)|**[link](https://github.com/huage001/linfusion)**|
 |**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](http://arxiv.org/abs/2409.02095)|null|
 |**2024-09-03**|**Storms and convection on Uranus and Neptune: impact of methane abundance revealed by a 3D cloud-resolving model**|Noé Clément et.al.|[2409.02091](http://arxiv.org/abs/2409.02091)|null|
 |**2024-09-03**|**X-ray and optical observations of the millisecond pulsar binary PSRJ1431-4715**|D. de Martino et.al.|[2409.02075](http://arxiv.org/abs/2409.02075)|null|
 |**2024-09-03**|**ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis**|Wangbo Yu et.al.|[2409.02048](http://arxiv.org/abs/2409.02048)|null|
 |**2024-09-03**|**Map-Assisted Remote-Sensing Image Compression at Extremely Low Bitrates**|Yixuan Ye et.al.|[2409.01935](http://arxiv.org/abs/2409.01935)|**[link](https://github.com/whuyyx/magc)**|
-|**2024-09-03**|**CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention**|Gaojie Lin et.al.|[2409.01876](http://arxiv.org/abs/2409.01876)|null|
+|**2024-09-05**|**CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention**|Gaojie Lin et.al.|[2409.01876](http://arxiv.org/abs/2409.01876)|null|
 |**2024-09-03**|**Enhanced control of single-molecule emission frequency and spectral diffusion**|Rocco Duquennoy et.al.|[2409.01840](http://arxiv.org/abs/2409.01840)|null|
 |**2024-09-03**|**Aspects of holographic Langevin diffusion in the presence of anisotropic magnetic field**|Qi Zhou et.al.|[2409.01838](http://arxiv.org/abs/2409.01838)|null|
 |**2024-09-03**|**Towards Generative Class Prompt Learning for Few-shot Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|null|
@@ -6551,7 +6551,7 @@ layout: default
 |**2024-09-02**|**Analysis of flows in social media uncovers a new multi-step model of information spread**|Matteo Serafino et.al.|[2409.01225](http://arxiv.org/abs/2409.01225)|null|
 |**2024-09-02**|**Anisotropic Photo-Physical Properties of Plexcitons in Strongly Coupled Metal-Organic Thin Films**|Maximilian Rödel et.al.|[2409.01210](http://arxiv.org/abs/2409.01210)|null|
 |**2024-09-02**|**OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model**|Liuhan Chen et.al.|[2409.01199](http://arxiv.org/abs/2409.01199)|null|
-|**2024-09-02**|**Charge transport systems with Fermi-Dirac statistics for memristors**|Maxime Herda et.al.|[2409.01196](http://arxiv.org/abs/2409.01196)|null|
+|**2024-09-05**|**Charge transport systems with Fermi-Dirac statistics for memristors**|Maxime Herda et.al.|[2409.01196](http://arxiv.org/abs/2409.01196)|null|
 |**2024-09-02**|**Ground-truth effects in learning-based fiber orientation distribution estimation in neonatal brains**|Rizhong Lin et.al.|[2409.01195](http://arxiv.org/abs/2409.01195)|null|
 |**2024-09-02**|**Mathematical model of CAR-T-cell therapy for a B-cell Lymphoma lymph node**|Soukaina Sabir et.al.|[2409.01164](http://arxiv.org/abs/2409.01164)|null|
 |**2024-09-02**|**Moisture Diffusion in Multi-Layered Materials: The Role of Layer Stacking and Composition**|Shaojie Zhang et.al.|[2409.01150](http://arxiv.org/abs/2409.01150)|null|
