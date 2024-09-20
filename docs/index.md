@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
+|**2024-09-19**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
 |**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180](http://arxiv.org/abs/2409.12180)|null|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
@@ -25,7 +25,7 @@ layout: default
 |**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|
 |**2024-09-18**|**Measuring Human and AI Values based on Generative Psychometrics with Large Language Models**|Haoran Ye et.al.|[2409.12106](http://arxiv.org/abs/2409.12106)|**[link](https://github.com/value4ai/gpv)**|
 |**2024-09-18**|**Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking**|Ningyuan Xi et.al.|[2409.12059](http://arxiv.org/abs/2409.12059)|null|
-|**2024-09-18**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
+|**2024-09-19**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
 |**2024-09-18**|**ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation**|Peiyu Li et.al.|[2409.12010](http://arxiv.org/abs/2409.12010)|**[link](https://github.com/peiyu-georgia-li/cheffusion-multimodal-foundation-model-integrating-recipe-and-food-image-generation)**|
 |**2024-09-18**|**Sampling Latent Material-Property Information From LLM-Derived Embedding Representations**|Luke P. J. Gilligan et.al.|[2409.11971](http://arxiv.org/abs/2409.11971)|null|
 |**2024-09-18**|**Efficacy of Synthetic Data as a Benchmark**|Gaurav Maheshwari et.al.|[2409.11968](http://arxiv.org/abs/2409.11968)|null|
@@ -45,7 +45,7 @@ layout: default
 |**2024-09-18**|**From Lists to Emojis: How Format Bias Affects Model Alignment**|Xuanchang Zhang et.al.|[2409.11704](http://arxiv.org/abs/2409.11704)|null|
 |**2024-09-18**|**Harnessing LLMs for API Interactions: A Framework for Classification and Synthetic Data Generation**|Chunliang Tao et.al.|[2409.11703](http://arxiv.org/abs/2409.11703)|null|
 |**2024-09-18**|**From Words to Wheels: Automated Style-Customized Policy Generation for Autonomous Driving**|Xu Han et.al.|[2409.11694](http://arxiv.org/abs/2409.11694)|null|
-|**2024-09-18**|**LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems**|Zongwei Wang et.al.|[2409.11690](http://arxiv.org/abs/2409.11690)|null|
+|**2024-09-19**|**LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems**|Zongwei Wang et.al.|[2409.11690](http://arxiv.org/abs/2409.11690)|null|
 |**2024-09-18**|**RUIE: Retrieval-based Unified Information Extraction using Large Language Model**|Xincheng Liao et.al.|[2409.11673](http://arxiv.org/abs/2409.11673)|null|
 |**2024-09-18**|**Bridging Design and Development with Automated Declarative UI Code Generation**|Ting Zhou et.al.|[2409.11667](http://arxiv.org/abs/2409.11667)|null|
 |**2024-09-18**|**Combating Phone Scams with LLM-based Detection: Where Do We Stand?**|Zitong Shen et.al.|[2409.11643](http://arxiv.org/abs/2409.11643)|null|
@@ -73,7 +73,7 @@ layout: default
 |**2024-09-17**|**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**|Weiye Xu et.al.|[2409.11279](http://arxiv.org/abs/2409.11279)|null|
 |**2024-09-17**|**Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments**|Maria Rigaki et.al.|[2409.11276](http://arxiv.org/abs/2409.11276)|null|
 |**2024-09-17**|**Task Arithmetic for Language Expansion in Speech Translation**|Yao-Fei Cheng et.al.|[2409.11274](http://arxiv.org/abs/2409.11274)|null|
-|**2024-09-18**|**LOLA -- An Open-Source Massively Multilingual Large Language Model**|Nikit Srivastava et.al.|[2409.11272](http://arxiv.org/abs/2409.11272)|**[link](https://github.com/dice-group/lola)**|
+|**2024-09-19**|**LOLA -- An Open-Source Massively Multilingual Large Language Model**|Nikit Srivastava et.al.|[2409.11272](http://arxiv.org/abs/2409.11272)|**[link](https://github.com/dice-group/lola)**|
 |**2024-09-17**|**Towards Novel Malicious Packet Recognition: A Few-Shot Learning Approach**|Kyle Stein et.al.|[2409.11254](http://arxiv.org/abs/2409.11254)|null|
 |**2024-09-17**|**LLM-as-a-Judge & Reward Model: What They Can and Cannot Do**|Guijin Son et.al.|[2409.11239](http://arxiv.org/abs/2409.11239)|null|
 |**2024-09-17**|**Evaluating the Impact of Compression Techniques on Task-Specific Performance of Large Language Models**|Bishwash Khanal et.al.|[2409.11233](http://arxiv.org/abs/2409.11233)|null|
@@ -6007,7 +6007,7 @@ layout: default
 |**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
 |**2024-09-16**|**NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions**|Zhixi Cai et.al.|[2409.10196](http://arxiv.org/abs/2409.10196)|null|
 |**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090](http://arxiv.org/abs/2409.10090)|null|
-|**2024-09-17**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078](http://arxiv.org/abs/2409.10078)|null|
+|**2024-09-19**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078](http://arxiv.org/abs/2409.10078)|null|
 |**2024-09-15**|**FSL-LVLM: Friction-Aware Safety Locomotion using Large Vision Language Model in Wheeled Robots**|Bo Peng et.al.|[2409.09845](http://arxiv.org/abs/2409.09845)|null|
 |**2024-09-15**|**Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models**|Yuan-Hong Liao et.al.|[2409.09788](http://arxiv.org/abs/2409.09788)|null|
 |**2024-09-15**|**Finetuning CLIP to Reason about Pairwise Differences**|Dylan Sam et.al.|[2409.09721](http://arxiv.org/abs/2409.09721)|null|
@@ -7012,7 +7012,7 @@ layout: default
 |**2024-09-18**|**Uncovering liquid-substrate fluctuation effects on crystal growth and disordered hyperuniformity of two-dimensional materials**|S. K. Mkhonta et.al.|[2409.12090](http://arxiv.org/abs/2409.12090)|null|
 |**2024-09-18**|**Denoising diffusion models for high-resolution microscopy image restoration**|Pamela Osuna-Vargas et.al.|[2409.12078](http://arxiv.org/abs/2409.12078)|null|
 |**2024-09-18**|**LEMON: Localized Editing with Mesh Optimization and Neural Shaders**|Furkan Mert Algan et.al.|[2409.12024](http://arxiv.org/abs/2409.12024)|null|
-|**2024-09-18**|**On some singularly perturbed elliptic systems modeling partial segregation, Part 1: uniform Hölder estimates and basic properties of the limits**|Nicola Soave et.al.|[2409.11976](http://arxiv.org/abs/2409.11976)|null|
+|**2024-09-19**|**On some singularly perturbed elliptic systems modeling partial segregation: uniform Hölder estimates and basic properties of the limits**|Nicola Soave et.al.|[2409.11976](http://arxiv.org/abs/2409.11976)|null|
 |**2024-09-18**|**Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models**|Lorenzo Mandelli et.al.|[2409.11920](http://arxiv.org/abs/2409.11920)|null|
 |**2024-09-18**|**Finding the Subjective Truth: Collecting 2 Million Votes for Comprehensive Gen-AI Model Evaluation**|Dimitrios Christodoulou et.al.|[2409.11904](http://arxiv.org/abs/2409.11904)|null|
 |**2024-09-18**|**High stability 2D electron gases formed in Si3N4/Al//KTaO3 heterostructures: synthesis and in-depth interfacial characterization**|E. A. Martínez et.al.|[2409.11893](http://arxiv.org/abs/2409.11893)|null|
@@ -7043,7 +7043,7 @@ layout: default
 |**2024-09-17**|**A lattice Boltzmann method for Biot's consolidation model of linear poroelasticity**|Stephan B. Lunowa et.al.|[2409.11382](http://arxiv.org/abs/2409.11382)|null|
 |**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/abs/2409.11380)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
 |**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
-|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|null|
+|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|**[link](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)**|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
 |**2024-09-17**|**fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D Reconstruction**|Jianxiong Gao et.al.|[2409.11315](http://arxiv.org/abs/2409.11315)|null|
 |**2024-09-17**|**DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models**|Avirup Das et.al.|[2409.11292](http://arxiv.org/abs/2409.11292)|null|
