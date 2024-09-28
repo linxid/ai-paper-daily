@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127](http://arxiv.org/abs/2409.18127)|null|
 |**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119](http://arxiv.org/abs/2409.18119)|null|
-|**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111](http://arxiv.org/abs/2409.18111)|null|
+|**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111](http://arxiv.org/abs/2409.18111)|**[link](https://github.com/PolyU-ChenLab/ETBench)**|
 |**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
 |**2024-09-26**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[2409.18053](http://arxiv.org/abs/2409.18053)|null|
 |**2024-09-26**|**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**|Kai Chen et.al.|[2409.18042](http://arxiv.org/abs/2409.18042)|null|
@@ -6237,7 +6237,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -7315,12 +7315,56 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
+|**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
+|**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114](http://arxiv.org/abs/2409.18114)|null|
+|**2024-09-26**|**StackGen: Generating Stable Structures from Silhouettes via Diffusion**|Luzhe Sun et.al.|[2409.18098](http://arxiv.org/abs/2409.18098)|null|
+|**2024-09-26**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092](http://arxiv.org/abs/2409.18092)|null|
+|**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083](http://arxiv.org/abs/2409.18083)|null|
+|**2024-09-26**|**The radio halo in PLCKESZ G171.94 $-$ 40.65: Beacon of merging activity**|Ramananda Santra et.al.|[2409.18075](http://arxiv.org/abs/2409.18075)|null|
+|**2024-09-26**|**Low Photon Number Non-Invasive Imaging Through Time-Varying Diffusers**|Adrian Makowski et.al.|[2409.18072](http://arxiv.org/abs/2409.18072)|null|
+|**2024-09-26**|**Radio-FIR correlation- A probe into cosmic ray propagation in the nearby galaxy IC 342**|M. R. Nasirzadeh et.al.|[2409.17999](http://arxiv.org/abs/2409.17999)|null|
+|**2024-09-26**|**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements**|Zhian Ruan et.al.|[2409.17997](http://arxiv.org/abs/2409.17997)|null|
+|**2024-09-26**|**PhoCoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging**|Xin Cai et.al.|[2409.17996](http://arxiv.org/abs/2409.17996)|null|
+|**2024-09-26**|**Joint Localization and Planning using Diffusion**|L. Lao Beyer et.al.|[2409.17995](http://arxiv.org/abs/2409.17995)|null|
+|**2024-09-26**|**Nonparametric Inference Framework for Time-dependent Epidemic Models**|Son Luu et.al.|[2409.17968](http://arxiv.org/abs/2409.17968)|null|
+|**2024-09-26**|**CNCA: Toward Customizable and Natural Generation of Adversarial Camouflage for Vehicle Detectors**|Linye Lyu et.al.|[2409.17963](http://arxiv.org/abs/2409.17963)|null|
+|**2024-09-26**|**Relativistic diffusion model for hadron production in p-Pb collisions at the LHC**|Philipp Schulz et.al.|[2409.17960](http://arxiv.org/abs/2409.17960)|null|
+|**2024-09-26**|**Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion**|Hengrui Gu et.al.|[2409.17928](http://arxiv.org/abs/2409.17928)|null|
+|**2024-09-26**|**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**|Qihan Huang et.al.|[2409.17920](http://arxiv.org/abs/2409.17920)|null|
+|**2024-09-26**|**Nonlinear stability of periodic wave trains in the FitzHugh-Nagumo system against fully nonlocalized perturbations**|Joannis Alexopoulos et.al.|[2409.17859](http://arxiv.org/abs/2409.17859)|null|
+|**2024-09-26**|**Physics-aligned Schrödinger bridge**|Zeyu Li et.al.|[2409.17825](http://arxiv.org/abs/2409.17825)|null|
+|**2024-09-26**|**Continual learning with task specialist**|Indu Solomon et.al.|[2409.17806](http://arxiv.org/abs/2409.17806)|null|
+|**2024-09-26**|**Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs**|Qinpeng Cui et.al.|[2409.17778](http://arxiv.org/abs/2409.17778)|**[link](https://github.com/qinpengcui/dossr)**|
+|**2024-09-26**|**Text Image Generation for Low-Resource Languages with Dual Translation Learning**|Chihiro Noguchi et.al.|[2409.17747](http://arxiv.org/abs/2409.17747)|null|
+|**2024-09-26**|**AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status**|Jinghao Zhang et.al.|[2409.17740](http://arxiv.org/abs/2409.17740)|null|
+|**2024-09-26**|**VVTEAM: A Compact Behavioral Model for Volatile Memristors**|Tanay Patni et.al.|[2409.17723](http://arxiv.org/abs/2409.17723)|null|
+|**2024-09-26**|**Dark Miner: Defend against unsafe generation for text-to-image diffusion models**|Zheling Meng et.al.|[2409.17682](http://arxiv.org/abs/2409.17682)|null|
+|**2024-09-26**|**Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation**|Huan Yang et.al.|[2409.17674](http://arxiv.org/abs/2409.17674)|null|
+|**2024-09-26**|**Entropy Scaling for Diffusion Coefficients in Mixtures**|Sebastian Schmitt et.al.|[2409.17615](http://arxiv.org/abs/2409.17615)|null|
+|**2024-09-26**|**Anomalous Conformations and Dynamics of Active Block Copolymers**|Suman Majumder et.al.|[2409.17585](http://arxiv.org/abs/2409.17585)|null|
+|**2024-09-26**|**ID $^3$ : Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition**|Shen Li et.al.|[2409.17576](http://arxiv.org/abs/2409.17576)|null|
+|**2024-09-26**|**Flexiffusion: Segment-wise Neural Architecture Search for Flexible Denoising Schedule**|Hongtao Huang et.al.|[2409.17566](http://arxiv.org/abs/2409.17566)|null|
+|**2024-09-26**|**Pixel-Space Post-Training of Latent Diffusion Models**|Christina Zhang et.al.|[2409.17565](http://arxiv.org/abs/2409.17565)|null|
+|**2024-09-26**|**A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation**|Masato Ishii et.al.|[2409.17550](http://arxiv.org/abs/2409.17550)|null|
+|**2024-09-26**|**Invariant measures, periodic measures and pullback measure attractors of McKean-Vlasov stochastic reaction-diffusion equations on unbounded domains**|Lin Shi et.al.|[2409.17548](http://arxiv.org/abs/2409.17548)|null|
+|**2024-09-26**|**JoyType: A Robust Design for Multilingual Visual Text Creation**|Chao Li et.al.|[2409.17524](http://arxiv.org/abs/2409.17524)|null|
+|**2024-09-26**|**Optimizing Resource Allocation for Multi-modal Semantic Communication in Mobile AIGC Networks: A Diffusion-based Game Approach**|Jian Liu et.al.|[2409.17506](http://arxiv.org/abs/2409.17506)|null|
+|**2024-09-26**|**Learning Quantized Adaptive Conditions for Diffusion Models**|Yuchen Liang et.al.|[2409.17487](http://arxiv.org/abs/2409.17487)|null|
+|**2024-09-26**|**Efficient Federated Learning against Heterogeneous and Non-stationary Client Unavailability**|Ming Xiang et.al.|[2409.17446](http://arxiv.org/abs/2409.17446)|null|
+|**2024-09-26**|**Rejection Sampling IMLE: Designing Priors for Better Few-Shot Image Synthesis**|Chirag Vashist et.al.|[2409.17439](http://arxiv.org/abs/2409.17439)|null|
+|**2024-09-25**|**Consistent estimation of generative model representations in the data kernel perspective space**|Aranyak Acharyya et.al.|[2409.17308](http://arxiv.org/abs/2409.17308)|null|
+|**2024-09-25**|**Schrödinger bridge based deep conditional generative learning**|Hanwen Huang et.al.|[2409.17294](http://arxiv.org/abs/2409.17294)|null|
+|**2024-09-25**|**Scalable quality control on processing of large diffusion-weighted and structural magnetic resonance imaging datasets**|Michael E. Kim et.al.|[2409.17286](http://arxiv.org/abs/2409.17286)|null|
+|**2024-09-25**|**Disco4D: Disentangled 4D Human Generation and Animation from a Single Image**|Hui En Pang et.al.|[2409.17280](http://arxiv.org/abs/2409.17280)|null|
+|**2024-09-25**|**Sub-ballistic operator growth in spin chains with heavy-tailed random fields**|Christopher L. Baldwin et.al.|[2409.17242](http://arxiv.org/abs/2409.17242)|null|
+|**2024-09-25**|**A random measure approach to reinforcement learning in continuous time**|Christian Bender et.al.|[2409.17200](http://arxiv.org/abs/2409.17200)|null|
 |**2024-09-25**|**DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**|Yukun Huang et.al.|[2409.17145](http://arxiv.org/abs/2409.17145)|null|
 |**2024-09-25**|**Language-oriented Semantic Communication for Image Transmission with Fine-Tuned Diffusion Model**|Xinfeng Wei et.al.|[2409.17104](http://arxiv.org/abs/2409.17104)|null|
 |**2024-09-25**|**Effects of the internal temperature on vertical mixing and on cloud structures in Ultra Hot Jupiters**|Pascal A. Noti et.al.|[2409.17101](http://arxiv.org/abs/2409.17101)|null|
@@ -11827,7 +11871,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
