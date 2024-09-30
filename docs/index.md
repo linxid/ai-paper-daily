@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -40,9 +40,9 @@ layout: default
 |**2024-09-26**|**PEDRO: Parameter-Efficient Fine-tuning with Prompt DEpenDent Representation MOdification**|Tianfang Xie et.al.|[2409.17834](http://arxiv.org/abs/2409.17834)|null|
 |**2024-09-26**|**Inference-Time Language Model Alignment via Integrated Value Guidance**|Zhixuan Liu et.al.|[2409.17819](http://arxiv.org/abs/2409.17819)|null|
 |**2024-09-26**|**Self-supervised Preference Optimization: Enhance Your Language Model with Preference Degree Awareness**|Jian Li et.al.|[2409.17791](http://arxiv.org/abs/2409.17791)|**[link](https://github.com/lijian16/spo)**|
-|**2024-09-26**|**Few-shot Pairwise Rank Prompting: An Effective Non-Parametric Retrieval Model**|Nilanjan Sinhababu et.al.|[2409.17745](http://arxiv.org/abs/2409.17745)|null|
+|**2024-09-27**|**Few-shot Pairwise Rank Prompting: An Effective Non-Parametric Retrieval Model**|Nilanjan Sinhababu et.al.|[2409.17745](http://arxiv.org/abs/2409.17745)|null|
 |**2024-09-26**|**Episodic Memory Verbalization using Hierarchical Representations of Life-Long Robot Experience**|Leonard Bärmann et.al.|[2409.17702](http://arxiv.org/abs/2409.17702)|null|
-|**2024-09-26**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699](http://arxiv.org/abs/2409.17699)|null|
+|**2024-09-27**|**MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks**|Giandomenico Cornacchia et.al.|[2409.17699](http://arxiv.org/abs/2409.17699)|null|
 |**2024-09-26**|**MIO: A Foundation Model on Multimodal Tokens**|Zekun Wang et.al.|[2409.17692](http://arxiv.org/abs/2409.17692)|null|
 |**2024-09-26**|**Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT**|Natthanaphop Isaradech et.al.|[2409.17683](http://arxiv.org/abs/2409.17683)|null|
 |**2024-09-26**|**AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment**|Nan Sun et.al.|[2409.17655](http://arxiv.org/abs/2409.17655)|null|
@@ -77,7 +77,7 @@ layout: default
 |**2024-09-25**|**Post-hoc Reward Calibration: A Case Study on Length Bias**|Zeyu Huang et.al.|[2409.17407](http://arxiv.org/abs/2409.17407)|null|
 |**2024-09-25**|**Zeroth-Order Policy Gradient for Reinforcement Learning from Human Feedback without Reward Inference**|Qining Zhang et.al.|[2409.17401](http://arxiv.org/abs/2409.17401)|null|
 |**2024-09-25**|**Severity Prediction in Mental Health: LLM-based Creation, Analysis, Evaluation of a Novel Multilingual Dataset**|Konstantinos Skianis et.al.|[2409.17397](http://arxiv.org/abs/2409.17397)|null|
-|**2024-09-25**|**Scaling Behavior for Large Language Models regarding Numeral Systems: An Example using Pythia**|Zhejian Zhou et.al.|[2409.17391](http://arxiv.org/abs/2409.17391)|null|
+|**2024-09-27**|**Scaling Behavior for Large Language Models regarding Numeral Systems: An Example using Pythia**|Zhejian Zhou et.al.|[2409.17391](http://arxiv.org/abs/2409.17391)|null|
 |**2024-09-25**|**Search for Efficient Large Language Models**|Xuan Shen et.al.|[2409.17372](http://arxiv.org/abs/2409.17372)|null|
 |**2024-09-25**|**Language Grounded Multi-agent Communication for Ad-hoc Teamwork**|Huao Li et.al.|[2409.17348](http://arxiv.org/abs/2409.17348)|null|
 |**2024-09-25**|**ChatCam: Empowering Camera Control through Conversational AI**|Xinhang Liu et.al.|[2409.17331](http://arxiv.org/abs/2409.17331)|null|
@@ -104,7 +104,7 @@ layout: default
 |**2024-09-25**|**Decoding Large-Language Models: A Systematic Overview of Socio-Technical Impacts, Constraints, and Emerging Questions**|Zeyneb N. Kaya et.al.|[2409.16974](http://arxiv.org/abs/2409.16974)|null|
 |**2024-09-25**|**Adaptive Self-Supervised Learning Strategies for Dynamic On-Device LLM Personalization**|Rafael Mendoza et.al.|[2409.16973](http://arxiv.org/abs/2409.16973)|null|
 |**2024-09-25**|**DALDA: Data Augmentation Leveraging Diffusion Model and LLM with Adaptive Guidance Scaling**|Kyuheon Jung et.al.|[2409.16949](http://arxiv.org/abs/2409.16949)|**[link](https://github.com/kkyuhun94/dalda)**|
-|**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937](http://arxiv.org/abs/2409.16937)|**[link](https://github.com/yc-li20/semi-supervised-training)**|
+|**2024-09-27**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937](http://arxiv.org/abs/2409.16937)|**[link](https://github.com/yc-li20/semi-supervised-training)**|
 |**2024-09-26**|**Investigating OCR-Sensitive Neurons to Improve Entity Recognition in Historical Documents**|Emanuela Boros et.al.|[2409.16934](http://arxiv.org/abs/2409.16934)|null|
 |**2024-09-25**|**Zero-Shot Detection of LLM-Generated Text using Token Cohesiveness**|Shixuan Ma et.al.|[2409.16914](http://arxiv.org/abs/2409.16914)|**[link](https://github.com/shixuan-ma/tocsin)**|
 |**2024-09-25**|**Pruning Multilingual Large Language Models for Multilingual Inference**|Hwichan Kim et.al.|[2409.16911](http://arxiv.org/abs/2409.16911)|null|
@@ -7403,7 +7403,7 @@ layout: default
 |**2024-09-24**|**PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation**|Mingyo Seo et.al.|[2409.16012](http://arxiv.org/abs/2409.16012)|null|
 |**2024-09-24**|**Unleashing the Potential of Synthetic Images: A Study on Histopathology Image Classification**|Leire Benito-Del-Valle et.al.|[2409.16002](http://arxiv.org/abs/2409.16002)|**[link](https://github.com/leirebv/synthetic_histopathology_dataset)**|
 |**2024-09-25**|**Effective interface laws for fluid flow and solute transport through thin reactive porous layers**|Markus Gahn et.al.|[2409.16000](http://arxiv.org/abs/2409.16000)|null|
-|**2024-09-24**|**Improvements to SDXL in NovelAI Diffusion V3**|Juan Ossa et.al.|[2409.15997](http://arxiv.org/abs/2409.15997)|null|
+|**2024-09-26**|**Improvements to SDXL in NovelAI Diffusion V3**|Juan Ossa et.al.|[2409.15997](http://arxiv.org/abs/2409.15997)|null|
 |**2024-09-24**|**Particles in Relativistic MHD Jets II: Bridging Jet Dynamics with Multi-waveband Non-Thermal Emission Signatures**|Ravi Pratap Dubey et.al.|[2409.15983](http://arxiv.org/abs/2409.15983)|null|
 |**2024-09-24**|**A Probabilistic Approach to Shape Derivatives**|Luka Schlegel et.al.|[2409.15967](http://arxiv.org/abs/2409.15967)|null|
 |**2024-09-24**|**ASD-Diffusion: Anomalous Sound Detection with Diffusion Models**|Fengrun Zhang et.al.|[2409.15957](http://arxiv.org/abs/2409.15957)|null|
