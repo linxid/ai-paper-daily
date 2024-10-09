@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.08
+## Updated on 2024.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -6839,7 +6839,7 @@ layout: default
 |**2024-09-30**|**Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels**|Heeseong Shin et.al.|[2409.19846](http://arxiv.org/abs/2409.19846)|null|
 |**2024-09-30**|**Textual Training for the Hassle-Free Removal of Unwanted Visual Data**|Saehyung Lee et.al.|[2409.19840](http://arxiv.org/abs/2409.19840)|**[link](https://github.com/saehyung-lee/hftt)**|
 |**2024-09-29**|**PALM: Few-Shot Prompt Learning for Audio Language Models**|Asif Hanif et.al.|[2409.19806](http://arxiv.org/abs/2409.19806)|null|
-|**2024-09-29**|**A multimodal LLM for the non-invasive decoding of spoken text from brain recordings**|Youssef Hmamouche et.al.|[2409.19710](http://arxiv.org/abs/2409.19710)|**[link](https://github.com/hmamouche/brain_decode)**|
+|**2024-09-29**|**A multimodal LLM for the non-invasive decoding of spoken text from brain recordings**|Youssef Hmamouche et.al.|[2409.19710](http://arxiv.org/abs/2409.19710)|null|
 |**2024-09-29**|**Vision-Language Models are Strong Noisy Label Detectors**|Tong Wei et.al.|[2409.19696](http://arxiv.org/abs/2409.19696)|**[link](https://github.com/HotanLee/DeFT)**|
 |**2024-09-29**|**MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation**|Lijian Xu et.al.|[2409.19684](http://arxiv.org/abs/2409.19684)|**[link](https://github.com/MedHK23/MedViLaM)**|
 |**2024-09-29**|**Multimodal Misinformation Detection by Learning from Synthetic Data with Multimodal LLMs**|Fengzhu Zeng et.al.|[2409.19656](http://arxiv.org/abs/2409.19656)|null|
@@ -7955,7 +7955,7 @@ layout: default
 |**2024-10-07**|**Artificial Barriers for stochastic differential equations and for construction of Boundary-preserving schemes**|Johan Ulander et.al.|[2410.04850](http://arxiv.org/abs/2410.04850)|null|
 |**2024-10-07**|**PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing**|Feng Tian et.al.|[2410.04844](http://arxiv.org/abs/2410.04844)|null|
 |**2024-10-07**|**Real-time cardiac cine MRI -- A comparison of a diffusion probabilistic model with alternative state-of-the-art image reconstruction techniques for undersampled spiral acquisitions**|Oliver Schad et.al.|[2410.04843](http://arxiv.org/abs/2410.04843)|null|
-|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|null|
+|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
 |**2024-10-07**|**FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models**|Haokun Chen et.al.|[2410.04810](http://arxiv.org/abs/2410.04810)|null|
 |**2024-10-07**|**Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations**|Jinxiong Lu et.al.|[2410.04809](http://arxiv.org/abs/2410.04809)|null|
 |**2024-10-07**|**Stochastic Runge-Kutta Methods: Provable Acceleration of Diffusion Models**|Yuchen Wu et.al.|[2410.04760](http://arxiv.org/abs/2410.04760)|null|
@@ -8011,7 +8011,7 @@ layout: default
 |**2024-10-04**|**SONIQUE: Video Background Music Generation Using Unpaired Audio-Visual Data**|Liqian Zhang et.al.|[2410.03879](http://arxiv.org/abs/2410.03879)|null|
 |**2024-10-04**|**Exploring the role of diffusive coupling in spatiotemporal chaos**|A. Raj et.al.|[2410.03872](http://arxiv.org/abs/2410.03872)|null|
 |**2024-10-04**|**Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step**|Wenxuan Wang et.al.|[2410.03869](http://arxiv.org/abs/2410.03869)|null|
-|**2024-10-04**|**MDMP: Multi-modal Diffusion for supervised Motion Predictions with uncertainty**|Leo Bringer et.al.|[2410.03860](http://arxiv.org/abs/2410.03860)|null|
+|**2024-10-04**|**MDMP: Multi-modal Diffusion for supervised Motion Predictions with uncertainty**|Leo Bringer et.al.|[2410.03860](http://arxiv.org/abs/2410.03860)|**[link](https://github.com/leob03/mdmp)**|
 |**2024-10-04**|**Projected Walk on Spheres: A Monte Carlo Closest Point Method for Surface PDEs**|Ryusuke Sugimoto et.al.|[2410.03844](http://arxiv.org/abs/2410.03844)|null|
 |**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665](http://arxiv.org/abs/2410.03665)|null|
 |**2024-10-04**|**Connecting Lyman- $α$ and ionizing photon escape in the Sunburst Arc**|M. Riley Owens et.al.|[2410.03660](http://arxiv.org/abs/2410.03660)|null|
