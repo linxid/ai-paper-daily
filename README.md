@@ -86,7 +86,7 @@
 |**2024-10-10**|**News Reporter: A Multi-lingual LLM Framework for Broadcast T.V News**|Tarun Jain et.al.|[2410.07520](http://arxiv.org/abs/2410.07520)|null|
 |**2024-10-10**|**Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing**|Pengyu Xue et.al.|[2410.07516](http://arxiv.org/abs/2410.07516)|null|
 |**2024-10-10**|**Evolutionary Contrastive Distillation for Language Model Alignment**|Julian Katz-Samuels et.al.|[2410.07513](http://arxiv.org/abs/2410.07513)|null|
-|**2024-10-10**|**Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)**|Abhijit Mishra et.al.|[2410.07507](http://arxiv.org/abs/2410.07507)|null|
+|**2024-10-10**|**Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)**|Abhijit Mishra et.al.|[2410.07507](http://arxiv.org/abs/2410.07507)|**[link](https://github.com/abhijitmishra/Thought2Text)**|
 |**2024-10-10**|**CrossQuant: A Post-Training Quantization Method with Smaller Quantization Kernel for Precise Large Language Model Compression**|Wenyuan Liu et.al.|[2410.07505](http://arxiv.org/abs/2410.07505)|null|
 |**2024-10-10**|**Using LLMs to Discover Legal Factors**|Morgan Gray et.al.|[2410.07504](http://arxiv.org/abs/2410.07504)|null|
 |**2024-10-10**|**PublicHearingBR: A Brazilian Portuguese Dataset of Public Hearing Transcripts for Summarization of Long Documents**|Leandro Carísio Fernandes et.al.|[2410.07495](http://arxiv.org/abs/2410.07495)|null|
@@ -6967,7 +6967,7 @@
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
 |**2024-10-10**|**How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?**|Seongyun Lee et.al.|[2410.07571](http://arxiv.org/abs/2410.07571)|null|
 |**2024-10-10**|**CoPESD: A Multi-Level Surgical Motion Dataset for Training Large Vision-Language Models to Co-Pilot Endoscopic Submucosal Dissection**|Guankun Wang et.al.|[2410.07540](http://arxiv.org/abs/2410.07540)|**[link](https://github.com/gkw0010/copesd)**|
-|**2024-10-10**|**Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)**|Abhijit Mishra et.al.|[2410.07507](http://arxiv.org/abs/2410.07507)|null|
+|**2024-10-10**|**Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)**|Abhijit Mishra et.al.|[2410.07507](http://arxiv.org/abs/2410.07507)|**[link](https://github.com/abhijitmishra/Thought2Text)**|
 |**2024-10-09**|**The Cognitive Capabilities of Generative AI: A Comparative Analysis with Human Benchmarks**|Isaac R. Galatzer-Levy et.al.|[2410.07391](http://arxiv.org/abs/2410.07391)|null|
 |**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
 |**2024-10-09**|**Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate**|Qidong Huang et.al.|[2410.07167](http://arxiv.org/abs/2410.07167)|**[link](https://github.com/shikiw/modality-integration-rate)**|
