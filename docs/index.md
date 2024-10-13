@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202](http://arxiv.org/abs/2410.08202)|null|
-|**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197](http://arxiv.org/abs/2410.08197)|null|
+|**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197](http://arxiv.org/abs/2410.08197)|**[link](https://github.com/quchangle1/DRAFT)**|
 |**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196](http://arxiv.org/abs/2410.08196)|**[link](https://github.com/mathllm/mathcoder2)**|
 |**2024-10-10**|**GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-time Alignment**|Yuancheng Xu et.al.|[2410.08193](http://arxiv.org/abs/2410.08193)|null|
 |**2024-10-10**|**Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models**|Qingni Wang et.al.|[2410.08174](http://arxiv.org/abs/2410.08174)|null|
@@ -45,7 +45,7 @@ layout: default
 |**2024-10-10**|**Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions**|Kuleen Sasse et.al.|[2410.07951](http://arxiv.org/abs/2410.07951)|null|
 |**2024-10-10**|**Efficient Reinforcement Learning with Large Language Model Priors**|Xue Yan et.al.|[2410.07927](http://arxiv.org/abs/2410.07927)|null|
 |**2024-10-10**|**InstructBioMol: Advancing Biomolecule Understanding and Design Following Human Instructions**|Xiang Zhuang et.al.|[2410.07919](http://arxiv.org/abs/2410.07919)|null|
-|**2024-10-10**|**Executing Arithmetic: Fine-Tuning Large Language Models as Turing Machines**|Junyu Lai et.al.|[2410.07896](http://arxiv.org/abs/2410.07896)|null|
+|**2024-10-10**|**Executing Arithmetic: Fine-Tuning Large Language Models as Turing Machines**|Junyu Lai et.al.|[2410.07896](http://arxiv.org/abs/2410.07896)|**[link](https://github.com/NJUDeepEngine/CAEF)**|
 |**2024-10-10**|**Benchmarking Agentic Workflow Generation**|Shuofei Qiao et.al.|[2410.07869](http://arxiv.org/abs/2410.07869)|null|
 |**2024-10-10**|**Scalable Representation Learning for Multimodal Tabular Transactions**|Natraj Raman et.al.|[2410.07851](http://arxiv.org/abs/2410.07851)|null|
 |**2024-10-10**|**Enhancing Language Model Reasoning via Weighted Reasoning in Self-Consistency**|Tim Knappe et.al.|[2410.07839](http://arxiv.org/abs/2410.07839)|null|
@@ -59,21 +59,21 @@ layout: default
 |**2024-10-10**|**GameTraversalBenchmark: Evaluating Planning Abilities Of Large Language Models Through Traversing 2D Game Maps**|Muhammad Umair Nasir et.al.|[2410.07765](http://arxiv.org/abs/2410.07765)|**[link](https://github.com/umair-nasir14/game-traversal-benchmark)**|
 |**2024-10-10**|**TVBench: Redesigning Video-Language Evaluation**|Daniel Cores et.al.|[2410.07752](http://arxiv.org/abs/2410.07752)|null|
 |**2024-10-10**|**StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning in LLMs**|Yuanqing Yu et.al.|[2410.07745](http://arxiv.org/abs/2410.07745)|**[link](https://github.com/yuyq18/steptool)**|
-|**2024-10-10**|**Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data**|Can Wang et.al.|[2410.07737](http://arxiv.org/abs/2410.07737)|null|
+|**2024-10-10**|**Plug-and-Play Performance Estimation for LLM Services without Relying on Labeled Data**|Can Wang et.al.|[2410.07737](http://arxiv.org/abs/2410.07737)|**[link](https://github.com/WangCan1178/Plug-and-Play-Estimation)**|
 |**2024-10-10**|**AgentBank: Towards Generalized LLM Agents via Fine-Tuning on 50000+ Interaction Trajectories**|Yifan Song et.al.|[2410.07706](http://arxiv.org/abs/2410.07706)|null|
 |**2024-10-10**|**Enhancing Zeroth-order Fine-tuning for Language Models with Low-rank Structures**|Yiming Chen et.al.|[2410.07698](http://arxiv.org/abs/2410.07698)|null|
 |**2024-10-10**|**Multi-Facet Counterfactual Learning for Content Quality Evaluation**|Jiasheng Zheng et.al.|[2410.07693](http://arxiv.org/abs/2410.07693)|null|
 |**2024-10-10**|**Smart Audit System Empowered by LLM**|Xu Yao et.al.|[2410.07677](http://arxiv.org/abs/2410.07677)|null|
 |**2024-10-10**|**MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization**|Yougang Lyu et.al.|[2410.07672](http://arxiv.org/abs/2410.07672)|null|
 |**2024-10-10**|**StablePrompt: Automatic Prompt Tuning using Reinforcement Learning for Large Language Models**|Minchan Kwon et.al.|[2410.07652](http://arxiv.org/abs/2410.07652)|null|
-|**2024-10-10**|**TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text**|Songshuo Lu et.al.|[2410.07590](http://arxiv.org/abs/2410.07590)|null|
+|**2024-10-10**|**TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text**|Songshuo Lu et.al.|[2410.07590](http://arxiv.org/abs/2410.07590)|**[link](https://github.com/MooreThreads/TurboRAG)**|
 |**2024-10-10**|**No Free Lunch: Retrieval-Augmented Generation Undermines Fairness in LLMs, Even for Vigilant Users**|Mengxuan Hu et.al.|[2410.07589](http://arxiv.org/abs/2410.07589)|null|
-|**2024-10-10**|**Detecting Training Data of Large Language Models via Expectation Maximization**|Gyuwan Kim et.al.|[2410.07582](http://arxiv.org/abs/2410.07582)|null|
+|**2024-10-10**|**Detecting Training Data of Large Language Models via Expectation Maximization**|Gyuwan Kim et.al.|[2410.07582](http://arxiv.org/abs/2410.07582)|**[link](https://github.com/gyuwankim/em-mia)**|
 |**2024-10-10**|**RealVul: Can We Detect Vulnerabilities in Web Applications with LLM?**|Di Cao et.al.|[2410.07573](http://arxiv.org/abs/2410.07573)|null|
 |**2024-10-10**|**How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?**|Seongyun Lee et.al.|[2410.07571](http://arxiv.org/abs/2410.07571)|null|
 |**2024-10-10**|**AI-Press: A Multi-Agent News Generating and Feedback Simulation System Powered by Large Language Models**|Xiawei Liu et.al.|[2410.07561](http://arxiv.org/abs/2410.07561)|null|
 |**2024-10-10**|**KRAG Framework for Enhancing LLMs in the Legal Domain**|Nguyen Ha Thanh et.al.|[2410.07551](http://arxiv.org/abs/2410.07551)|null|
-|**2024-10-10**|**OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting**|Xukai Liu et.al.|[2410.07549](http://arxiv.org/abs/2410.07549)|null|
+|**2024-10-10**|**OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting**|Xukai Liu et.al.|[2410.07549](http://arxiv.org/abs/2410.07549)|**[link](https://github.com/laquabe/OneNet)**|
 |**2024-10-10**|**Reducing the Cost of Dropout in Flash-Attention by Hiding RNG with GEMM**|Haiyue Ma et.al.|[2410.07531](http://arxiv.org/abs/2410.07531)|null|
 |**2024-10-10**|**MKGL: Mastery of a Three-Word Language**|Lingbing Guo et.al.|[2410.07526](http://arxiv.org/abs/2410.07526)|null|
 |**2024-10-10**|**Upcycling Large Language Models into Mixture of Experts**|Ethan He et.al.|[2410.07524](http://arxiv.org/abs/2410.07524)|null|
@@ -86,7 +86,7 @@ layout: default
 |**2024-10-10**|**Using LLMs to Discover Legal Factors**|Morgan Gray et.al.|[2410.07504](http://arxiv.org/abs/2410.07504)|null|
 |**2024-10-10**|**PublicHearingBR: A Brazilian Portuguese Dataset of Public Hearing Transcripts for Summarization of Long Documents**|Leandro Carísio Fernandes et.al.|[2410.07495](http://arxiv.org/abs/2410.07495)|null|
 |**2024-10-09**|**MoDEM: Mixture of Domain Expert Models**|Toby Simonds et.al.|[2410.07490](http://arxiv.org/abs/2410.07490)|null|
-|**2024-10-09**|**WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents**|Siyu Zhou et.al.|[2410.07484](http://arxiv.org/abs/2410.07484)|null|
+|**2024-10-09**|**WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents**|Siyu Zhou et.al.|[2410.07484](http://arxiv.org/abs/2410.07484)|**[link](https://github.com/elated-sawyer/WALL-E)**|
 |**2024-10-09**|**SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection**|Han Shen et.al.|[2410.07471](http://arxiv.org/abs/2410.07471)|**[link](https://github.com/hanshen95/seal)**|
 |**2024-10-09**|**Optimized Spatial Architecture Mapping Flow for Transformer Accelerators**|Haocheng Xu et.al.|[2410.07407](http://arxiv.org/abs/2410.07407)|null|
 |**2024-10-09**|**The Cognitive Capabilities of Generative AI: A Comparative Analysis with Human Benchmarks**|Isaac R. Galatzer-Levy et.al.|[2410.07391](http://arxiv.org/abs/2410.07391)|null|
@@ -6984,7 +6984,7 @@ layout: default
 |**2024-10-08**|**Beyond Captioning: Task-Specific Prompting for Improved VLM Performance in Mathematical Reasoning**|Ayush Singh et.al.|[2410.05928](http://arxiv.org/abs/2410.05928)|null|
 |**2024-10-08**|**Unobserved Object Detection using Generative Models**|Subhransu S. Bhattacharjee et.al.|[2410.05869](http://arxiv.org/abs/2410.05869)|null|
 |**2024-10-08**|**CASA: Class-Agnostic Shared Attributes in Vision-Language Models for Efficient Incremental Object Detection**|Mingyi Guo et.al.|[2410.05804](http://arxiv.org/abs/2410.05804)|null|
-|**2024-10-08**|**NegMerge: Consensual Weight Negation for Strong Machine Unlearning**|Hyoseo Kim et.al.|[2410.05583](http://arxiv.org/abs/2410.05583)|null|
+|**2024-10-08**|**NegMerge: Consensual Weight Negation for Strong Machine Unlearning**|Hyoseo Kim et.al.|[2410.05583](http://arxiv.org/abs/2410.05583)|**[link](https://github.com/naver-ai/negmerge)**|
 |**2024-10-07**|**AI-Driven Early Mental Health Screening with Limited Data: Analyzing Selfies of Pregnant Women**|Gustavo A. Basílio et.al.|[2410.05450](http://arxiv.org/abs/2410.05450)|null|
 |**2024-10-07**|**Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation**|Fanqing Meng et.al.|[2410.05363](http://arxiv.org/abs/2410.05363)|**[link](https://github.com/opengvlab/phygenbench)**|
 |**2024-10-07**|**RespLLM: Unifying Audio and Text with Multimodal LLMs for Generalized Respiratory Health Prediction**|Yuwei Zhang et.al.|[2410.05361](http://arxiv.org/abs/2410.05361)|null|
@@ -8157,7 +8157,7 @@ layout: default
 |**2024-10-10**|**Scaling Laws For Diffusion Transformers**|Zhengyang Liang et.al.|[2410.08184](http://arxiv.org/abs/2410.08184)|null|
 |**2024-10-10**|**ZeroComp: Zero-shot Object Compositing from Image Intrinsics via Diffusion**|Zitian Zhang et.al.|[2410.08168](http://arxiv.org/abs/2410.08168)|null|
 |**2024-10-10**|**DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**|Jiatao Gu et.al.|[2410.08159](http://arxiv.org/abs/2410.08159)|null|
-|**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151](http://arxiv.org/abs/2410.08151)|null|
+|**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151](http://arxiv.org/abs/2410.08151)|**[link](https://github.com/desaixie/pa_vdm)**|
 |**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134](http://arxiv.org/abs/2410.08134)|null|
 |**2024-10-10**|**CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.08100](http://arxiv.org/abs/2410.08100)|**[link](https://github.com/sky-visionx/cracksegdiff)**|
 |**2024-10-10**|**Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models**|Vinith M. Suriyakumar et.al.|[2410.08074](http://arxiv.org/abs/2410.08074)|null|
@@ -8171,13 +8171,13 @@ layout: default
 |**2024-10-10**|**Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models**|Abhishek Mandal et.al.|[2410.07884](http://arxiv.org/abs/2410.07884)|null|
 |**2024-10-10**|**FDDM: Frequency-Decomposed Diffusion Model for Rectum Cancer Dose Prediction in Radiotherapy**|Xin Liao et.al.|[2410.07876](http://arxiv.org/abs/2410.07876)|null|
 |**2024-10-10**|**RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**|Songming Liu et.al.|[2410.07864](http://arxiv.org/abs/2410.07864)|null|
-|**2024-10-10**|**MinorityPrompt: Text to Minority Image Generation via Prompt Optimization**|Soobin Um et.al.|[2410.07838](http://arxiv.org/abs/2410.07838)|null|
+|**2024-10-10**|**MinorityPrompt: Text to Minority Image Generation via Prompt Optimization**|Soobin Um et.al.|[2410.07838](http://arxiv.org/abs/2410.07838)|**[link](https://github.com/anonymous-6898/MinorityPrompt)**|
 |**2024-10-10**|**Simple ReFlow: Improved Techniques for Fast Flow Models**|Beomsu Kim et.al.|[2410.07815](http://arxiv.org/abs/2410.07815)|null|
 |**2024-10-10**|**vCLIC: Towards Fast Interrupt Handling in Virtualized RISC-V Mixed-criticality Systems**|Enrico Zelioli et.al.|[2410.07798](http://arxiv.org/abs/2410.07798)|null|
 |**2024-10-10**|**Simulating images of radio galaxies with diffusion models**|Tobias Vičánek Martínez et.al.|[2410.07794](http://arxiv.org/abs/2410.07794)|null|
 |**2024-10-10**|**HARIVO: Harnessing Text-to-Image Models for Video Generation**|Mingi Kwon et.al.|[2410.07763](http://arxiv.org/abs/2410.07763)|null|
 |**2024-10-10**|**$\textit{Jump Your Steps}$ : Optimizing Sampling Schedule of Discrete Diffusion Models**|Yong-Hyun Park et.al.|[2410.07761](http://arxiv.org/abs/2410.07761)|null|
-|**2024-10-10**|**Synthesizing Multi-Class Surgical Datasets with Anatomy-Aware Diffusion Models**|Danush Kumar Venkatesh et.al.|[2410.07753](http://arxiv.org/abs/2410.07753)|null|
+|**2024-10-10**|**Synthesizing Multi-Class Surgical Datasets with Anatomy-Aware Diffusion Models**|Danush Kumar Venkatesh et.al.|[2410.07753](http://arxiv.org/abs/2410.07753)|**[link](https://gitlab.com/nct_tso_public/muli-class-image-synthesis)**|
 |**2024-10-10**|**Hydrogen diffusion in garnet: insights from atomistic simulations**|Xin Zhong et.al.|[2410.07724](http://arxiv.org/abs/2410.07724)|null|
 |**2024-10-10**|**Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation**|Jiahao Cui et.al.|[2410.07718](http://arxiv.org/abs/2410.07718)|null|
 |**2024-10-10**|**Flow control-oriented coherent mode prediction via Grassmann-kNN manifold learning**|Hongfu Zhang et.al.|[2410.07683](http://arxiv.org/abs/2410.07683)|null|
@@ -8193,14 +8193,14 @@ layout: default
 |**2024-10-10**|**Imitation Learning with Limited Actions via Diffusion Planners and Deep Koopman Controllers**|Jianxin Bi et.al.|[2410.07584](http://arxiv.org/abs/2410.07584)|null|
 |**2024-10-10**|**Conditional Lagrangian Wasserstein Flow for Time Series Imputation**|Weizhu Qian et.al.|[2410.07550](http://arxiv.org/abs/2410.07550)|null|
 |**2024-10-10**|**I-Max: Maximize the Resolution Potential of Pre-trained Rectified Flow Transformers with Projected Flow**|Ruoyi Du et.al.|[2410.07536](http://arxiv.org/abs/2410.07536)|null|
-|**2024-10-10**|**CSGDN: Contrastive Signed Graph Diffusion Network for Predicting Crop Gene-Trait Associations**|Yiru Pan et.al.|[2410.07511](http://arxiv.org/abs/2410.07511)|null|
+|**2024-10-10**|**CSGDN: Contrastive Signed Graph Diffusion Network for Predicting Crop Gene-Trait Associations**|Yiru Pan et.al.|[2410.07511](http://arxiv.org/abs/2410.07511)|**[link](https://github.com/Erican-Ji/CSGDN)**|
 |**2024-10-10**|**Formalism to Image the Dynamics of Coherent and Incoherent Phonon with Dark-Field X-ray Microscopy using Kinematic Diffraction Theory**|Darshan Chalise et.al.|[2410.07509](http://arxiv.org/abs/2410.07509)|null|
 |**2024-10-10**|**Inferring biological processes with intrinsic noise from cross-sectional data**|Suryanarayana Maddu et.al.|[2410.07501](http://arxiv.org/abs/2410.07501)|null|
 |**2024-10-09**|**Fast reaction limit for a Leslie-Gower model including preys, meso-predators and top-predators**|Desvillettes Laurent et.al.|[2410.07474](http://arxiv.org/abs/2410.07474)|null|
 |**2024-10-09**|**Preconditioning Low Rank Generalized Minimal Residual Method (GMRES) for Implicit Discretizations of Matrix Differential Equations**|Shixu Meng et.al.|[2410.07465](http://arxiv.org/abs/2410.07465)|null|
 |**2024-10-09**|**Language-Guided Joint Audio-Visual Editing via One-Shot Adaptation**|Susan Liang et.al.|[2410.07463](http://arxiv.org/abs/2410.07463)|null|
 |**2024-10-09**|**The two-dimensional homogeneous electron gas with symmetric dual-gate screening: exchange-correlation functional and other ground-state properties**|Yiqi Yang et.al.|[2410.07445](http://arxiv.org/abs/2410.07445)|null|
-|**2024-10-09**|**An undetectable watermark for generative image models**|Sam Gunn et.al.|[2410.07369](http://arxiv.org/abs/2410.07369)|null|
+|**2024-10-09**|**An undetectable watermark for generative image models**|Sam Gunn et.al.|[2410.07369](http://arxiv.org/abs/2410.07369)|**[link](https://github.com/xuandongzhao/prc-watermark)**|
 |**2024-10-09**|**Anisotropic thermal conduction on a moving mesh for cosmological simulations**|Rosie Y. Talbot et.al.|[2410.07316](http://arxiv.org/abs/2410.07316)|null|
 |**2024-10-09**|**Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow**|Fu-Yun Wang et.al.|[2410.07303](http://arxiv.org/abs/2410.07303)|**[link](https://github.com/g-u-n/rectified-diffusion)**|
 |**2024-10-09**|**ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model**|Gaoge Han et.al.|[2410.07296](http://arxiv.org/abs/2410.07296)|null|
@@ -8228,13 +8228,13 @@ layout: default
 |**2024-10-09**|**Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think**|Sihyun Yu et.al.|[2410.06940](http://arxiv.org/abs/2410.06940)|null|
 |**2024-10-09**|**Optimizing search processes in systems with state toggling: exact condition delimiting the efficacy of stochastic resetting strategy**|Hillol kumar Barman et.al.|[2410.06933](http://arxiv.org/abs/2410.06933)|null|
 |**2024-10-09**|**Combining Planning and Diffusion for Mobility with Unknown Dynamics**|Yajvan Ravan et.al.|[2410.06911](http://arxiv.org/abs/2410.06911)|null|
-|**2024-10-09**|**F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching**|Yushen Chen et.al.|[2410.06885](http://arxiv.org/abs/2410.06885)|null|
+|**2024-10-09**|**F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching**|Yushen Chen et.al.|[2410.06885](http://arxiv.org/abs/2410.06885)|**[link](https://github.com/SWivid/F5-TTS)**|
 |**2024-10-09**|**Boosting Few-Shot Detection with Large Language Models and Layout-to-Image Synthesis**|Ahmed Abdullah et.al.|[2410.06841](http://arxiv.org/abs/2410.06841)|null|
 |**2024-10-10**|**The warm-hot intergalactic medium (WHIM) in inter-cluster filaments -- A forecast for HUBS observations based on eRASS1 superclusters**|Yuanyuan Zhao et.al.|[2410.06836](http://arxiv.org/abs/2410.06836)|null|
 |**2024-10-09**|**Magnetic coupling through flux branching of adjacent type-I and -II superconductors in a neutron star**|K. H. Thong et.al.|[2410.06830](http://arxiv.org/abs/2410.06830)|null|
 |**2024-10-09**|**Diffuse or Confuse: A Diffusion Deepfake Speech Dataset**|Anton Firc et.al.|[2410.06796](http://arxiv.org/abs/2410.06796)|**[link](https://github.com/AntonFirc/diffusion-deepfake-speech-dataset)**|
 |**2024-10-09**|**Diff-FMT: Diffusion Models for Fluorescence Molecular Tomography**|Qianqian Xue et.al.|[2410.06757](http://arxiv.org/abs/2410.06757)|null|
-|**2024-10-09**|**Macroscopic effects of an anisotropic Gaussian-type repulsive potential: nematic alignment and spatial effects**|Sara Merino-Aceituno et.al.|[2410.06740](http://arxiv.org/abs/2410.06740)|null|
+|**2024-10-09**|**Macroscopic effects of an anisotropic Gaussian-type repulsive potential: nematic alignment and spatial effects**|Sara Merino-Aceituno et.al.|[2410.06740](http://arxiv.org/abs/2410.06740)|**[link](https://github.com/cwytrzens/anisotropic_particles)**|
 |**2024-10-10**|**Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques**|Benyuan Meng et.al.|[2410.06719](http://arxiv.org/abs/2410.06719)|**[link](https://github.com/Darkbblue/diffusion-content-shift)**|
 |**2024-10-09**|**Decouple-Then-Merge: Towards Better Training for Diffusion Models**|Qianli Ma et.al.|[2410.06664](http://arxiv.org/abs/2410.06664)|null|
 |**2024-10-09**|**Diffusion in porous media with hysteresis and bounded speed of propagation**|Chiara Gavioli et.al.|[2410.06622](http://arxiv.org/abs/2410.06622)|null|
