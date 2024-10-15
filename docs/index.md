@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -83,7 +83,7 @@ layout: default
 |**2024-10-11**|**$\forall$uto$\exists$$\lor\!\land$ L: Autonomous Evaluation of LLMs for Truth Maintenance and Reasoning Tasks**|Rushang Karia et.al.|[2410.08437](http://arxiv.org/abs/2410.08437)|null|
 |**2024-10-11**|**Exploring the Role of Reasoning Structures for Constructing Proofs in Multi-Step Natural Language Reasoning with Large Language Models**|Zi'ou Zheng et.al.|[2410.08436](http://arxiv.org/abs/2410.08436)|null|
 |**2024-10-11**|**oRetrieval Augmented Generation for 10 Large Language Models and its Generalizability in Assessing Medical Fitness**|Yu He Ke et.al.|[2410.08431](http://arxiv.org/abs/2410.08431)|null|
-|**2024-10-10**|**Understanding the Interplay between Parametric and Contextual Knowledge for Large Language Models**|Sitao Cheng et.al.|[2410.08414](http://arxiv.org/abs/2410.08414)|null|
+|**2024-10-10**|**Understanding the Interplay between Parametric and Contextual Knowledge for Large Language Models**|Sitao Cheng et.al.|[2410.08414](http://arxiv.org/abs/2410.08414)|**[link](https://github.com/sitaocheng/Knowledge_Interplay)**|
 |**2024-10-10**|**Investigating Developers' Preferences for Learning and Issue Resolution Resources in the ChatGPT Era**|Ahmad Tayeb et.al.|[2410.08411](http://arxiv.org/abs/2410.08411)|null|
 |**2024-10-10**|**Promptly Yours? A Human Subject Study on Prompt Inference in AI-Generated Art**|Khoi Trinh et.al.|[2410.08406](http://arxiv.org/abs/2410.08406)|null|
 |**2024-10-10**|**AgroGPT: Efficient Agricultural Vision-Language Model with Expert Tuning**|Muhammad Awais et.al.|[2410.08405](http://arxiv.org/abs/2410.08405)|**[link](https://github.com/awaisrauf/agrogpt)**|
@@ -111,7 +111,7 @@ layout: default
 |**2024-10-10**|**Mars: Situated Inductive Reasoning in an Open-World Environment**|Xiaojuan Tang et.al.|[2410.08126](http://arxiv.org/abs/2410.08126)|null|
 |**2024-10-10**|**Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System**|Weize Chen et.al.|[2410.08115](http://arxiv.org/abs/2410.08115)|null|
 |**2024-10-10**|**A Closer Look at Machine Unlearning for Large Language Models**|Xiaojian Yuan et.al.|[2410.08109](http://arxiv.org/abs/2410.08109)|**[link](https://github.com/sail-sg/closer-look-llm-unlearning)**|
-|**2024-10-10**|**What Makes Large Language Models Reason in (Multi-Turn) Code Generation?**|Kunhao Zheng et.al.|[2410.08105](http://arxiv.org/abs/2410.08105)|null|
+|**2024-10-12**|**What Makes Large Language Models Reason in (Multi-Turn) Code Generation?**|Kunhao Zheng et.al.|[2410.08105](http://arxiv.org/abs/2410.08105)|null|
 |**2024-10-10**|**Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining**|Tianyi Bai et.al.|[2410.08102](http://arxiv.org/abs/2410.08102)|null|
 |**2024-10-10**|**Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study over Open-ended Question Answering**|Yuan Sui et.al.|[2410.08085](http://arxiv.org/abs/2410.08085)|null|
 |**2024-10-10**|**Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models**|Wenting Tan et.al.|[2410.08068](http://arxiv.org/abs/2410.08068)|**[link](https://github.com/sallytan13/teaching-inspired-prompting)**|
@@ -7105,7 +7105,7 @@ layout: default
 |**2024-10-05**|**Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning**|Gang Liu et.al.|[2410.04223](http://arxiv.org/abs/2410.04223)|**[link](https://github.com/liugangcode/Llamole)**|
 |**2024-10-05**|**TUBench: Benchmarking Large Vision-Language Models on Trustworthiness with Unanswerable Questions**|Xingwei He et.al.|[2410.04107](http://arxiv.org/abs/2410.04107)|**[link](https://github.com/nlpcode/tubench)**|
 |**2024-10-05**|**Self-Correction is More than Refinement: A Learning Framework for Visual and Language Reasoning Tasks**|Jiayi He et.al.|[2410.04055](http://arxiv.org/abs/2410.04055)|**[link](https://github.com/ivy3h/SCL)**|
-|**2024-10-04**|**Model Developmental Safety: A Safety-Centric Method and Applications in Vision-Language Models**|Gang Li et.al.|[2410.03955](http://arxiv.org/abs/2410.03955)|null|
+|**2024-10-13**|**Model Developmental Safety: A Safety-Centric Method and Applications in Vision-Language Models**|Gang Li et.al.|[2410.03955](http://arxiv.org/abs/2410.03955)|null|
 |**2024-10-04**|**ActPlan-1K: Benchmarking the Procedural Planning Ability of Visual Language Models in Household Activities**|Ying Su et.al.|[2410.03907](http://arxiv.org/abs/2410.03907)|null|
 |**2024-10-04**|**The Wallpaper is Ugly: Indoor Localization using Vision and Language**|Seth Pate et.al.|[2410.03900](http://arxiv.org/abs/2410.03900)|null|
 |**2024-10-11**|**Unraveling Cross-Modality Knowledge Conflicts in Large Vision-Language Models**|Tinghui Zhu et.al.|[2410.03659](http://arxiv.org/abs/2410.03659)|**[link](https://github.com/luka-group/vlm-knowledge-conflict)**|
@@ -7117,7 +7117,7 @@ layout: default
 |**2024-10-07**|**Real-World Cooking Robot System from Recipes Based on Food State Recognition Using Foundation Models and PDDL**|Naoaki Kanazawa et.al.|[2410.02874](http://arxiv.org/abs/2410.02874)|null|
 |**2024-10-03**|**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**|Nick Jiang et.al.|[2410.02762](http://arxiv.org/abs/2410.02762)|**[link](https://github.com/nickjiang2378/vl-interp)**|
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
-|**2024-10-03**|**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**|Zhaowei Wang et.al.|[2410.02730](http://arxiv.org/abs/2410.02730)|null|
+|**2024-10-12**|**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**|Zhaowei Wang et.al.|[2410.02730](http://arxiv.org/abs/2410.02730)|null|
 |**2024-10-03**|**Unified Multi-Modal Interleaved Document Representation for Information Retrieval**|Jaewoo Lee et.al.|[2410.02729](http://arxiv.org/abs/2410.02729)|null|
 |**2024-10-03**|**Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models**|Shuoyuan Wang et.al.|[2410.02681](http://arxiv.org/abs/2410.02681)|null|
 |**2024-10-06**|**LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model**|Duy M. H. Nguyen et.al.|[2410.02615](http://arxiv.org/abs/2410.02615)|null|
@@ -8281,7 +8281,7 @@ layout: default
 |**2024-10-10**|**Avoiding mode collapse in diffusion models fine-tuned with reinforcement learning**|Roberto Barceló et.al.|[2410.08315](http://arxiv.org/abs/2410.08315)|null|
 |**2024-10-10**|**Dynamics of Concept Learning and Compositional Generalization**|Yongyi Yang et.al.|[2410.08309](http://arxiv.org/abs/2410.08309)|null|
 |**2024-10-10**|**Chaotic magnetic disconnections trigger flux eruptions in accretion flows channeled onto magnetically saturated Kerr black holes**|Krzysztof Nalewajko et.al.|[2410.08280](http://arxiv.org/abs/2410.08280)|null|
-|**2024-10-10**|**Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis**|Jinbin Bai et.al.|[2410.08261](http://arxiv.org/abs/2410.08261)|null|
+|**2024-10-10**|**Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis**|Jinbin Bai et.al.|[2410.08261](http://arxiv.org/abs/2410.08261)|**[link](https://github.com/viiika/Meissonic)**|
 |**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209](http://arxiv.org/abs/2410.08209)|null|
 |**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
 |**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
@@ -8291,7 +8291,7 @@ layout: default
 |**2024-10-10**|**DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**|Jiatao Gu et.al.|[2410.08159](http://arxiv.org/abs/2410.08159)|null|
 |**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151](http://arxiv.org/abs/2410.08151)|**[link](https://github.com/desaixie/pa_vdm)**|
 |**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134](http://arxiv.org/abs/2410.08134)|null|
-|**2024-10-10**|**CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.08100](http://arxiv.org/abs/2410.08100)|**[link](https://github.com/sky-visionx/cracksegdiff)**|
+|**2024-10-12**|**CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.08100](http://arxiv.org/abs/2410.08100)|**[link](https://github.com/sky-visionx/cracksegdiff)**|
 |**2024-10-10**|**Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models**|Vinith M. Suriyakumar et.al.|[2410.08074](http://arxiv.org/abs/2410.08074)|null|
 |**2024-10-11**|**Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**|Qingwen Bu et.al.|[2410.08001](http://arxiv.org/abs/2410.08001)|null|
 |**2024-10-10**|**LADIMO: Face Morph Generation through Biometric Template Inversion with Latent Diffusion**|Marcel Grimmer et.al.|[2410.07988](http://arxiv.org/abs/2410.07988)|**[link](https://github.com/dasec/ladimo)**|
@@ -8313,7 +8313,7 @@ layout: default
 |**2024-10-10**|**Hydrogen diffusion in garnet: insights from atomistic simulations**|Xin Zhong et.al.|[2410.07724](http://arxiv.org/abs/2410.07724)|null|
 |**2024-10-10**|**Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation**|Jiahao Cui et.al.|[2410.07718](http://arxiv.org/abs/2410.07718)|null|
 |**2024-10-10**|**Flow control-oriented coherent mode prediction via Grassmann-kNN manifold learning**|Hongfu Zhang et.al.|[2410.07683](http://arxiv.org/abs/2410.07683)|null|
-|**2024-10-10**|**Relational Diffusion Distillation for Efficient Image Generation**|Weilun Feng et.al.|[2410.07679](http://arxiv.org/abs/2410.07679)|**[link](https://github.com/cantbebetter2/rdd)**|
+|**2024-10-12**|**Relational Diffusion Distillation for Efficient Image Generation**|Weilun Feng et.al.|[2410.07679](http://arxiv.org/abs/2410.07679)|**[link](https://github.com/cantbebetter2/rdd)**|
 |**2024-10-10**|**TDDSR: Single-Step Diffusion with Two Discriminators for Super Resolution**|Sohwi Kim et.al.|[2410.07663](http://arxiv.org/abs/2410.07663)|null|
 |**2024-10-10**|**MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion**|Onkar Susladkar et.al.|[2410.07659](http://arxiv.org/abs/2410.07659)|null|
 |**2024-10-10**|**SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors**|Xiao Cai et.al.|[2410.07658](http://arxiv.org/abs/2410.07658)|null|
@@ -8325,7 +8325,7 @@ layout: default
 |**2024-10-10**|**Imitation Learning with Limited Actions via Diffusion Planners and Deep Koopman Controllers**|Jianxin Bi et.al.|[2410.07584](http://arxiv.org/abs/2410.07584)|null|
 |**2024-10-10**|**Conditional Lagrangian Wasserstein Flow for Time Series Imputation**|Weizhu Qian et.al.|[2410.07550](http://arxiv.org/abs/2410.07550)|null|
 |**2024-10-10**|**I-Max: Maximize the Resolution Potential of Pre-trained Rectified Flow Transformers with Projected Flow**|Ruoyi Du et.al.|[2410.07536](http://arxiv.org/abs/2410.07536)|null|
-|**2024-10-10**|**CSGDN: Contrastive Signed Graph Diffusion Network for Predicting Crop Gene-Trait Associations**|Yiru Pan et.al.|[2410.07511](http://arxiv.org/abs/2410.07511)|**[link](https://github.com/Erican-Ji/CSGDN)**|
+|**2024-10-14**|**CSGDN: Contrastive Signed Graph Diffusion Network for Predicting Crop Gene-phenotype Associations**|Yiru Pan et.al.|[2410.07511](http://arxiv.org/abs/2410.07511)|**[link](https://github.com/Erican-Ji/CSGDN)**|
 |**2024-10-10**|**Formalism to Image the Dynamics of Coherent and Incoherent Phonon with Dark-Field X-ray Microscopy using Kinematic Diffraction Theory**|Darshan Chalise et.al.|[2410.07509](http://arxiv.org/abs/2410.07509)|null|
 |**2024-10-10**|**Inferring biological processes with intrinsic noise from cross-sectional data**|Suryanarayana Maddu et.al.|[2410.07501](http://arxiv.org/abs/2410.07501)|null|
 |**2024-10-09**|**Fast reaction limit for a Leslie-Gower model including preys, meso-predators and top-predators**|Desvillettes Laurent et.al.|[2410.07474](http://arxiv.org/abs/2410.07474)|null|
