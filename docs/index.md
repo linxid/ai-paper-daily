@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -36,7 +36,7 @@ layout: default
 |**2024-10-25**|**Computational Bottlenecks of Training Small-scale Large Language Models**|Saleh Ashkboos et.al.|[2410.19456](http://arxiv.org/abs/2410.19456)|null|
 |**2024-10-25**|**ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Contrastive Framework**|Hengyuan Zhang et.al.|[2410.19453](http://arxiv.org/abs/2410.19453)|null|
 |**2024-10-25**|**Intelligent Understanding of Large Language Models in Traditional Chinese Medicine Based on Prompt Engineering Framework**|Yirui Chen et.al.|[2410.19451](http://arxiv.org/abs/2410.19451)|null|
-|**2024-10-25**|**KAHANI: Culturally-Nuanced Visual Storytelling Pipeline for Non-Western Cultures**|Hamna et.al.|[2410.19419](http://arxiv.org/abs/2410.19419)|null|
+|**2024-10-28**|**KAHANI: Culturally-Nuanced Visual Storytelling Pipeline for Non-Western Cultures**|Hamna et.al.|[2410.19419](http://arxiv.org/abs/2410.19419)|null|
 |**2024-10-25**|**Investigating the Role of Prompting and External Tools in Hallucination Rates of Large Language Models**|Liam Barkley et.al.|[2410.19385](http://arxiv.org/abs/2410.19385)|null|
 |**2024-10-25**|**Interleaving Text and Number Embeddings to Solve Mathemathics Problems**|Marvin Alberts et.al.|[2410.19353](http://arxiv.org/abs/2410.19353)|null|
 |**2024-10-25**|**AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios**|Xinyi Mou et.al.|[2410.19346](http://arxiv.org/abs/2410.19346)|null|
@@ -7972,7 +7972,7 @@ layout: default
 |**2024-10-16**|**Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models**|Ce Zhang et.al.|[2410.12790](http://arxiv.org/abs/2410.12790)|**[link](https://github.com/zhangce01/DPE-CLIP)**|
 |**2024-10-16**|**Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**|Zhenyu Jiang et.al.|[2410.12773](http://arxiv.org/abs/2410.12773)|null|
 |**2024-10-16**|**WorldMedQA-V: a multilingual, multimodal medical examination dataset for multimodal language models evaluation**|João Matos et.al.|[2410.12722](http://arxiv.org/abs/2410.12722)|**[link](https://github.com/WorldMedQA/V)**|
-|**2024-10-16**|**WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines**|Genta Indra Winata et.al.|[2410.12705](http://arxiv.org/abs/2410.12705)|**[link](https://github.com/worldcuisines/worldcuisines)**|
+|**2024-10-27**|**WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines**|Genta Indra Winata et.al.|[2410.12705](http://arxiv.org/abs/2410.12705)|**[link](https://github.com/worldcuisines/worldcuisines)**|
 |**2024-10-16**|**VividMed: Vision Language Model with Versatile Visual Grounding for Medicine**|Lingxiao Luo et.al.|[2410.12694](http://arxiv.org/abs/2410.12694)|**[link](https://github.com/function2-llx/mmmm)**|
 |**2024-10-16**|**Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models**|Shicheng Xu et.al.|[2410.12662](http://arxiv.org/abs/2410.12662)|null|
 |**2024-10-16**|**FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion**|Jiacheng Ruan et.al.|[2410.12564](http://arxiv.org/abs/2410.12564)|**[link](https://github.com/IAAR-Shanghai/FTIIBench)**|
@@ -9240,10 +9240,10 @@ layout: default
 |**2024-10-25**|**Nutation-orbit resonances: The origin of the chaotic rotation of Hyperion and the barrel instability**|Max Goldberg et.al.|[2410.19518](http://arxiv.org/abs/2410.19518)|null|
 |**2024-10-25**|**Physics-based inverse modeling of battery degradation with Bayesian methods**|Micha C. J. Philipp et.al.|[2410.19478](http://arxiv.org/abs/2410.19478)|null|
 |**2024-10-25**|**A new calculation method using pathlines for delayed neutron precursors in liquid nuclear fuels**|Mathis Caprais et.al.|[2410.19476](http://arxiv.org/abs/2410.19476)|null|
-|**2024-10-25**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
+|**2024-10-28**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
 |**2024-10-25**|**Learned Reference-based Diffusion Sampling for multi-modal distributions**|Maxence Noble et.al.|[2410.19449](http://arxiv.org/abs/2410.19449)|null|
 |**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
-|**2024-10-25**|**KAHANI: Culturally-Nuanced Visual Storytelling Pipeline for Non-Western Cultures**|Hamna et.al.|[2410.19419](http://arxiv.org/abs/2410.19419)|null|
+|**2024-10-28**|**KAHANI: Culturally-Nuanced Visual Storytelling Pipeline for Non-Western Cultures**|Hamna et.al.|[2410.19419](http://arxiv.org/abs/2410.19419)|null|
 |**2024-10-25**|**A potpourri of results on molecular communication with active transport**|Phanindra Dewan et.al.|[2410.19411](http://arxiv.org/abs/2410.19411)|null|
 |**2024-10-25**|**A rigorous solution to the superluminal issue in the diffusion equation**|Xing-Jian Lv et.al.|[2410.19396](http://arxiv.org/abs/2410.19396)|null|
 |**2024-10-25**|**On low frequency inference for diffusions without the hot spots conjecture**|Giovanni S. Alberti et.al.|[2410.19393](http://arxiv.org/abs/2410.19393)|null|
@@ -9286,7 +9286,7 @@ layout: default
 |**2024-10-24**|**Run-and-tumble exact work statistics in a lazy quantum measurement engine: stochastic information processing**|Léa Bresque et.al.|[2410.18783](http://arxiv.org/abs/2410.18783)|null|
 |**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775](http://arxiv.org/abs/2410.18775)|**[link](https://github.com/shilin-lu/vine)**|
 |**2024-10-24**|**A frequency-domain approach for estimating continuous-time diffusively coupled linear networks**|Desen Liang et.al.|[2410.18773](http://arxiv.org/abs/2410.18773)|null|
-|**2024-10-25**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756](http://arxiv.org/abs/2410.18756)|null|
+|**2024-10-28**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756](http://arxiv.org/abs/2410.18756)|null|
 |**2024-10-24**|**Continuous Dynamic Modeling via Neural ODEs for Popularity Trajectory Prediction**|Songbo Yang et.al.|[2410.18742](http://arxiv.org/abs/2410.18742)|null|
 |**2024-10-24**|**Rectified Diffusion Guidance for Conditional Generation**|Mengfei Xia et.al.|[2410.18737](http://arxiv.org/abs/2410.18737)|null|
 |**2024-10-24**|**Retrieval-Augmented Diffusion Models for Time Series Forecasting**|Jingwei Liu et.al.|[2410.18712](http://arxiv.org/abs/2410.18712)|**[link](https://github.com/stanliu96/RATD)**|
@@ -9307,7 +9307,7 @@ layout: default
 |**2024-10-24**|**High-resolution x-ray scanning with a diffuse, Huffman-patterned probe to minimise radiation damage**|Alaleh Aminzadeh et.al.|[2410.18348](http://arxiv.org/abs/2410.18348)|null|
 |**2024-10-23**|**Separating edges from microstructure in X-ray dark-field imaging: Evolving and devolving perspectives via the X-ray Fokker-Planck equation**|Samantha J. Alloo et.al.|[2410.18317](http://arxiv.org/abs/2410.18317)|null|
 |**2024-10-23**|**A Bayesian Approach to Low-Thrust Maneuvering Spacecraft Tracking**|Enrico M. Zucchelli et.al.|[2410.18300](http://arxiv.org/abs/2410.18300)|null|
-|**2024-10-23**|**Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing**|Dongliang Guo et.al.|[2410.18267](http://arxiv.org/abs/2410.18267)|null|
+|**2024-10-25**|**Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing**|Dongliang Guo et.al.|[2410.18267](http://arxiv.org/abs/2410.18267)|null|
 |**2024-10-23**|**Nested active regions anchor the heliospheric current sheet and stall the reversal of the coronal magnetic field**|Adam J. Finley et.al.|[2410.18244](http://arxiv.org/abs/2410.18244)|null|
 |**2024-10-23**|**DMTG: A Human-Like Mouse Trajectory Generation Bot Based on Entropy-Controlled Diffusion Networks**|Jiahua Liu et.al.|[2410.18233](http://arxiv.org/abs/2410.18233)|null|
 |**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084](http://arxiv.org/abs/2410.18084)|null|
