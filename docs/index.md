@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-31**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|null|
+|**2024-11-01**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|**[link](https://github.com/bigcode-project/selfcodealign)**|
 |**2024-10-31**|**Constraint Back-translation Improves Complex Instruction Following of Large Language Models**|Yunjia Qi et.al.|[2410.24175](http://arxiv.org/abs/2410.24175)|null|
 |**2024-10-31**|**Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning**|Jinghan Zhang et.al.|[2410.24155](http://arxiv.org/abs/2410.24155)|null|
 |**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[2410.24152](http://arxiv.org/abs/2410.24152)|null|
@@ -67,7 +67,7 @@ layout: default
 |**2024-10-31**|**From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents**|Nalin Tiwary et.al.|[2410.23555](http://arxiv.org/abs/2410.23555)|null|
 |**2024-10-31**|**ALISE: Accelerating Large Language Model Serving with Speculative Scheduling**|Youpeng Zhao et.al.|[2410.23537](http://arxiv.org/abs/2410.23537)|null|
 |**2024-10-31**|**Simulating User Agents for Embodied Conversational-AI**|Daniel Philipov et.al.|[2410.23535](http://arxiv.org/abs/2410.23535)|null|
-|**2024-10-31**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528](http://arxiv.org/abs/2410.23528)|null|
+|**2024-11-01**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528](http://arxiv.org/abs/2410.23528)|null|
 |**2024-10-31**|**LEAF: Learning and Evaluation Augmented by Fact-Checking to Improve Factualness in Large Language Models**|Hieu Tran et.al.|[2410.23526](http://arxiv.org/abs/2410.23526)|null|
 |**2024-10-30**|**Neural spell-checker: Beyond words with synthetic data generation**|Matej Klemen et.al.|[2410.23514](http://arxiv.org/abs/2410.23514)|**[link](https://github.com/matejklemen/slonspell)**|
 |**2024-10-30**|**Dynamic Strategy Planning for Efficient Question Answering with Large Language Models**|Tanmay Parekh et.al.|[2410.23511](http://arxiv.org/abs/2410.23511)|null|
@@ -104,7 +104,7 @@ layout: default
 |**2024-10-30**|**VisAidMath: Benchmarking Visual-Aided Mathematical Reasoning**|Jingkun Ma et.al.|[2410.22995](http://arxiv.org/abs/2410.22995)|null|
 |**2024-10-30**|**Retrieval-Augmented Generation with Estimation of Source Reliability**|Jeongyeon Hwang et.al.|[2410.22954](http://arxiv.org/abs/2410.22954)|null|
 |**2024-10-30**|**Focus On This, Not That! Steering LLMs With Adaptive Feature Specification**|Tom A. Lamb et.al.|[2410.22944](http://arxiv.org/abs/2410.22944)|null|
-|**2024-10-30**|**Multi-Agent Large Language Models for Conversational Task-Solving**|Jonas Becker et.al.|[2410.22932](http://arxiv.org/abs/2410.22932)|null|
+|**2024-11-01**|**Multi-Agent Large Language Models for Conversational Task-Solving**|Jonas Becker et.al.|[2410.22932](http://arxiv.org/abs/2410.22932)|null|
 |**2024-10-30**|**Explainable Behavior Cloning: Teaching Large Language Model Agents through Learning by Demonstration**|Yanchu Guan et.al.|[2410.22916](http://arxiv.org/abs/2410.22916)|null|
 |**2024-10-30**|**Eliciting Critical Reasoning in Retrieval-Augmented Language Models via Contrastive Explanations**|Leonardo Ranaldi et.al.|[2410.22874](http://arxiv.org/abs/2410.22874)|null|
 |**2024-10-30**|**Danoliteracy of Generative, Large Language Models**|Søren Vejlgaard Holm et.al.|[2410.22839](http://arxiv.org/abs/2410.22839)|null|
@@ -8230,7 +8230,7 @@ layout: default
 |**2024-10-28**|**Zero-Shot Action Recognition in Surveillance Videos**|Joao Pereira et.al.|[2410.21113](http://arxiv.org/abs/2410.21113)|null|
 |**2024-10-28**|**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**|Yunhan Zhao et.al.|[2410.20971](http://arxiv.org/abs/2410.20971)|null|
 |**2024-10-31**|**VLMimic: Vision Language Models are Visual Imitation Learner for Fine-grained Actions**|Guanyan Chen et.al.|[2410.20927](http://arxiv.org/abs/2410.20927)|null|
-|**2024-10-28**|**Improving Generalization in Visual Reasoning via Self-Ensemble**|Tien-Huy Nguyen et.al.|[2410.20883](http://arxiv.org/abs/2410.20883)|null|
+|**2024-11-01**|**Improving Generalization in Visual Reasoning via Self-Ensemble**|Tien-Huy Nguyen et.al.|[2410.20883](http://arxiv.org/abs/2410.20883)|null|
 |**2024-10-28**|**Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments**|Sangmim Song et.al.|[2410.20666](http://arxiv.org/abs/2410.20666)|null|
 |**2024-10-27**|**MatViX: Multimodal Information Extraction from Visually Rich Articles**|Ghazal Khalighinejad et.al.|[2410.20494](http://arxiv.org/abs/2410.20494)|null|
 |**2024-10-27**|**Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation**|Maohao Shen et.al.|[2410.20336](http://arxiv.org/abs/2410.20336)|null|
