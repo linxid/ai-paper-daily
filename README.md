@@ -9914,7 +9914,7 @@
 |**2024-11-07**|**Uncovering Hidden Subspaces in Video Diffusion Models Using Re-Identification**|Mischa Dombrowski et.al.|[2411.04956](http://arxiv.org/abs/2411.04956)|null|
 |**2024-11-07**|**DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion**|Wenqiang Sun et.al.|[2411.04928](http://arxiv.org/abs/2411.04928)|null|
 |**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924](http://arxiv.org/abs/2411.04924)|**[link](https://github.com/donydchen/mvsplat360)**|
-|**2024-11-07**|**Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**|Kaizhe Hu et.al.|[2411.04919](http://arxiv.org/abs/2411.04919)|null|
+|**2024-11-07**|**Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**|Kaizhe Hu et.al.|[2411.04919](http://arxiv.org/abs/2411.04919)|**[link](https://github.com/hukz18/Stem-Ob)**|
 |**2024-11-06**|**Boosting Latent Diffusion with Perceptual Objectives**|Tariq Berrada et.al.|[2411.04873](http://arxiv.org/abs/2411.04873)|null|
 |**2024-11-07**|**Sharp extinction rates for positive solutions of fast diffusion equations**|Tobias König et.al.|[2411.04783](http://arxiv.org/abs/2411.04783)|null|
 |**2024-11-07**|**Taming Rectified Flow for Inversion and Editing**|Jiangshan Wang et.al.|[2411.04746](http://arxiv.org/abs/2411.04746)|**[link](https://github.com/wangjiangshan0725/rf-solver-edit)**|
@@ -9930,7 +9930,7 @@
 |**2024-11-07**|**Social EgoMesh Estimation**|Luca Scofano et.al.|[2411.04598](http://arxiv.org/abs/2411.04598)|**[link](https://github.com/l-scofano/seeme)**|
 |**2024-11-07**|**Singular stochastic delay equations driven by fractional Brownian motion: Dynamics, longtime behaviour, and pathwise stability**|Mazyar Ghani Varzaneh et.al.|[2411.04590](http://arxiv.org/abs/2411.04590)|null|
 |**2024-11-07**|**DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning**|Yuxuan Duan et.al.|[2411.04571](http://arxiv.org/abs/2411.04571)|**[link](https://github.com/ldhlwh/domaingallery)**|
-|**2024-11-07**|**Hypercube Policy Regularization Framework for Offline Reinforcement Learning**|Yi Shen et.al.|[2411.04534](http://arxiv.org/abs/2411.04534)|null|
+|**2024-11-07**|**Hypercube Policy Regularization Framework for Offline Reinforcement Learning**|Yi Shen et.al.|[2411.04534](http://arxiv.org/abs/2411.04534)|**[link](https://github.com/lastTarnished/Hypyercud-Policy-Regularization)**|
 |**2024-11-07**|**Series-to-Series Diffusion Bridge Model**|Hao Yang et.al.|[2411.04491](http://arxiv.org/abs/2411.04491)|null|
 |**2024-11-07**|**MATI: A GPU-Accelerated Toolbox for Microstructural Diffusion MRI Simulation and Data Fitting with a User-Friendly GUI**|Junzhong Xu et.al.|[2411.04401](http://arxiv.org/abs/2411.04401)|null|
 |**2024-11-07**|**MegaPortrait: Revisiting Diffusion Control for High-fidelity Portrait Generation**|Han Yang et.al.|[2411.04357](http://arxiv.org/abs/2411.04357)|null|
@@ -9944,7 +9944,7 @@
 |**2024-11-06**|**Breaking boundaries: extending the orbit averaged Fokker-Planck equation inside the loss cone**|Luca Broggi et.al.|[2411.04178](http://arxiv.org/abs/2411.04178)|null|
 |**2024-11-06**|**DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation**|Hao Phung et.al.|[2411.04168](http://arxiv.org/abs/2411.04168)|null|
 |**2024-11-06**|**Community Forensics: Using Thousands of Generators to Train Fake Image Detectors**|Jeongsoo Park et.al.|[2411.04125](http://arxiv.org/abs/2411.04125)|null|
-|**2024-11-06**|**Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension**|Iolo Jones et.al.|[2411.04100](http://arxiv.org/abs/2411.04100)|null|
+|**2024-11-06**|**Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension**|Iolo Jones et.al.|[2411.04100](http://arxiv.org/abs/2411.04100)|**[link](https://github.com/Iolo-Jones/ManifoldDiffusionGeometry)**|
 |**2024-11-06**|**Simulation of solar energetic particle events originated from coronal mass ejection shocks with a data-driven physics-based transport model**|Lei Cheng et.al.|[2411.04095](http://arxiv.org/abs/2411.04095)|null|
 |**2024-11-06**|**A Multi-level Monte Carlo simulation for invariant distribution of Markovian switching Lévy-driven SDEs with super-linearly growth coefficients**|Hoang-Viet Nguyen et.al.|[2411.04081](http://arxiv.org/abs/2411.04081)|null|
 |**2024-11-06**|**The Lorentz Gas in a Mean-Field Potential: Weak Coupling and Diffusive Regime**|Dominik Nowak et.al.|[2411.04076](http://arxiv.org/abs/2411.04076)|null|
