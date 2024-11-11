@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -49,7 +49,7 @@ layout: default
 |**2024-11-07**|**An Empirical Study on the Potential of LLMs in Automated Software Refactoring**|Bo Liu et.al.|[2411.04444](http://arxiv.org/abs/2411.04444)|null|
 |**2024-11-07**|**AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering**|Yungeng Liu et.al.|[2411.04440](http://arxiv.org/abs/2411.04440)|null|
 |**2024-11-07**|**Towards Unifying Interpretability and Control: Evaluation via Intervention**|Usha Bhalla et.al.|[2411.04430](http://arxiv.org/abs/2411.04430)|**[link](https://github.com/AI4LIFE-GROUP/interp_interv)**|
-|**2024-11-07**|**One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity**|Sonia K. Murthy et.al.|[2411.04427](http://arxiv.org/abs/2411.04427)|**[link](https://github.com/skmur/onefish-twofish)**|
+|**2024-11-07**|**One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity**|Sonia K. Murthy et.al.|[2411.04427](http://arxiv.org/abs/2411.04427)|null|
 |**2024-11-07**|**DELIFT: Data Efficient Language model Instruction Fine Tuning**|Ishika Agarwal et.al.|[2411.04425](http://arxiv.org/abs/2411.04425)|**[link](https://github.com/agarwalishika/delift)**|
 |**2024-11-07**|**Bayesian Calibration of Win Rate Estimation with LLM Evaluators**|Yicheng Gao et.al.|[2411.04424](http://arxiv.org/abs/2411.04424)|**[link](https://github.com/yale-nlp/bay-calibration-llm-evaluators)**|
 |**2024-11-07**|**Variational Low-Rank Adaptation Using IVON**|Bai Cong et.al.|[2411.04421](http://arxiv.org/abs/2411.04421)|**[link](https://github.com/team-approx-bayes/ivon-lora)**|
@@ -68,7 +68,7 @@ layout: default
 |**2024-11-06**|**An Empirical Study on Automatically Detecting AI-Generated Source Code: How Far Are We?**|Hyunjae Suh et.al.|[2411.04299](http://arxiv.org/abs/2411.04299)|null|
 |**2024-11-06**|**Unfair Alignment: Examining Safety Alignment Across Vision Encoder Layers in Vision-Language Models**|Saketh Bachu et.al.|[2411.04291](http://arxiv.org/abs/2411.04291)|null|
 |**2024-11-06**|**Enhancing Security Control Production With Generative AI**|Chen Ling et.al.|[2411.04284](http://arxiv.org/abs/2411.04284)|null|
-|**2024-11-06**|**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding**|Haolin Chen et.al.|[2411.04282](http://arxiv.org/abs/2411.04282)|null|
+|**2024-11-06**|**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding**|Haolin Chen et.al.|[2411.04282](http://arxiv.org/abs/2411.04282)|**[link](https://github.com/salesforceairesearch/latro)**|
 |**2024-11-06**|**Understanding Generative AI in Robot Logic Parametrization**|Yuna Hwang et.al.|[2411.04273](http://arxiv.org/abs/2411.04273)|null|
 |**2024-11-06**|**LSHBloom: Memory-efficient, Extreme-scale Document Deduplication**|Arham Khan et.al.|[2411.04257](http://arxiv.org/abs/2411.04257)|null|
 |**2024-11-06**|**Multimodal Structure-Aware Quantum Data Processing**|Hala Hawashin et.al.|[2411.04242](http://arxiv.org/abs/2411.04242)|null|
@@ -108,7 +108,7 @@ layout: default
 |**2024-11-06**|**From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond**|Harsha Nori et.al.|[2411.03590](http://arxiv.org/abs/2411.03590)|null|
 |**2024-11-05**|**Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level**|Antoine Grosnit et.al.|[2411.03562](http://arxiv.org/abs/2411.03562)|null|
 |**2024-11-05**|**Exploring the Benefits of Domain-Pretraining of Generative Large Language Models for Chemistry**|Anurag Acharya et.al.|[2411.03542](http://arxiv.org/abs/2411.03542)|null|
-|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|null|
+|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|**[link](https://github.com/haochenz11/vla-3d)**|
 |**2024-11-05**|**Long Context RAG Performance of Large Language Models**|Quinn Leng et.al.|[2411.03538](http://arxiv.org/abs/2411.03538)|null|
 |**2024-11-05**|**Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs**|Wei Wang et.al.|[2411.03522](http://arxiv.org/abs/2411.03522)|null|
 |**2024-11-05**|**AI Metropolis: Scaling Large Language Model-based Multi-Agent Simulation with Out-of-order Execution**|Zhiqiang Xie et.al.|[2411.03519](http://arxiv.org/abs/2411.03519)|null|
@@ -8473,11 +8473,11 @@ layout: default
 |**2024-11-06**|**Both Text and Images Leaked! A Systematic Analysis of Multimodal LLM Data Contamination**|Dingjie Song et.al.|[2411.03823](http://arxiv.org/abs/2411.03823)|**[link](https://github.com/MLLM-Data-Contamination/MM-Detect)**|
 |**2024-11-06**|**Fine-Tuning Vision-Language Model for Automated Engineering Drawing Information Extraction**|Muhammad Tayyab Khan et.al.|[2411.03707](http://arxiv.org/abs/2411.03707)|null|
 |**2024-11-05**|**Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset**|Yingzi Ma et.al.|[2411.03554](http://arxiv.org/abs/2411.03554)|**[link](https://github.com/safolab-wisc/fiubench)**|
-|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|null|
+|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|**[link](https://github.com/haochenz11/vla-3d)**|
 |**2024-11-05**|**An Application-Agnostic Automatic Target Recognition System Using Vision Language Models**|Anthony Palladino et.al.|[2411.03491](http://arxiv.org/abs/2411.03491)|null|
 |**2024-11-05**|**STEER: Flexible Robotic Manipulation via Dense Language Grounding**|Laura Smith et.al.|[2411.03409](http://arxiv.org/abs/2411.03409)|null|
 |**2024-11-05**|**Self-Calibrated Tuning of Vision-Language Models for Out-of-Distribution Detection**|Geng Yu et.al.|[2411.03359](http://arxiv.org/abs/2411.03359)|**[link](https://github.com/tmlr-group/sct)**|
-|**2024-11-02**|**Unlocking the Archives: Using Large Language Models to Transcribe Handwritten Historical Documents**|Mark Humphries et.al.|[2411.03340](http://arxiv.org/abs/2411.03340)|null|
+|**2024-11-02**|**Unlocking the Archives: Using Large Language Models to Transcribe Handwritten Historical Documents**|Mark Humphries et.al.|[2411.03340](http://arxiv.org/abs/2411.03340)|**[link](https://github.com/mhumphries2323/Transcription_Pearl)**|
 |**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
 |**2024-11-05**|**HumanVLM: Foundation for Human-Scene Vision-Language Model**|Dawei Dai et.al.|[2411.03034](http://arxiv.org/abs/2411.03034)|null|
 |**2024-11-05**|**Membership Inference Attacks against Large Vision-Language Models**|Zhan Li et.al.|[2411.02902](http://arxiv.org/abs/2411.02902)|**[link](https://github.com/lions-epfl/vl-mia)**|
@@ -8498,7 +8498,7 @@ layout: default
 |**2024-11-01**|**Identifying Implicit Social Biases in Vision-Language Models**|Kimia Hamidieh et.al.|[2411.00997](http://arxiv.org/abs/2411.00997)|null|
 |**2024-11-01**|**Retrieval-enriched zero-shot image classification in low-resource domains**|Nicola Dall'Asen et.al.|[2411.00988](http://arxiv.org/abs/2411.00988)|null|
 |**2024-11-01**|**Replace-then-Perturb: Targeted Adversarial Attacks With Visual Reasoning for Vision-Language Models**|Jonggyu Jang et.al.|[2411.00898](http://arxiv.org/abs/2411.00898)|null|
-|**2024-10-31**|**LLaMo: Large Language Model-based Molecular Graph Assistant**|Jinyoung Park et.al.|[2411.00871](http://arxiv.org/abs/2411.00871)|null|
+|**2024-10-31**|**LLaMo: Large Language Model-based Molecular Graph Assistant**|Jinyoung Park et.al.|[2411.00871](http://arxiv.org/abs/2411.00871)|**[link](https://github.com/mlvlab/llamo)**|
 |**2024-10-30**|**Survey of Cultural Awareness in Language Models: Text and Beyond**|Siddhesh Pawar et.al.|[2411.00860](http://arxiv.org/abs/2411.00860)|null|
 |**2024-10-30**|**Vision-Language Models Can Self-Improve Reasoning via Reflection**|Kanzhi Cheng et.al.|[2411.00855](http://arxiv.org/abs/2411.00855)|null|
 |**2024-10-29**|**DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models**|Chengke Zou et.al.|[2411.00836](http://arxiv.org/abs/2411.00836)|null|
