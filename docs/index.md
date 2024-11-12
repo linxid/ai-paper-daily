@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.11
+## Updated on 2024.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -8591,7 +8591,7 @@ layout: default
 |**2024-10-31**|**SuctionPrompt: Visual-assisted Robotic Picking with a Suction Cup Using Vision-Language Models and Facile Hardware Design**|Tomohiro Motoda et.al.|[2410.23640](http://arxiv.org/abs/2410.23640)|null|
 |**2024-10-29**|**VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration**|Dezhan Tu et.al.|[2410.23317](http://arxiv.org/abs/2410.23317)|null|
 |**2024-10-30**|**Keypoint Abstraction using Large Models for Object-Relative Imitation Learning**|Xiaolin Fang et.al.|[2410.23254](http://arxiv.org/abs/2410.23254)|null|
-|**2024-10-30**|**OS-ATLAS: A Foundation Action Model for Generalist GUI Agents**|Zhiyong Wu et.al.|[2410.23218](http://arxiv.org/abs/2410.23218)|null|
+|**2024-10-30**|**OS-ATLAS: A Foundation Action Model for Generalist GUI Agents**|Zhiyong Wu et.al.|[2410.23218](http://arxiv.org/abs/2410.23218)|**[link](https://github.com/OS-Copilot/OS-Atlas)**|
 |**2024-10-30**|**VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning**|Yichao Liang et.al.|[2410.23156](http://arxiv.org/abs/2410.23156)|null|
 |**2024-11-03**|**Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models**|Junjie Wu et.al.|[2410.23114](http://arxiv.org/abs/2410.23114)|**[link](https://github.com/wujunjie1998/tri-he)**|
 |**2024-10-30**|**An Individual Identity-Driven Framework for Animal Re-Identification**|Yihao Wu et.al.|[2410.22927](http://arxiv.org/abs/2410.22927)|**[link](https://github.com/ywu840/indivaid)**|
@@ -10026,7 +10026,7 @@ layout: default
 |**2024-11-06**|**Efficient Symmetry-Aware Materials Generation via Hierarchical Generative Flow Networks**|Tri Minh Nguyen et.al.|[2411.04323](http://arxiv.org/abs/2411.04323)|null|
 |**2024-11-06**|**Odd Viscodiffusive Fluids**|Alhad Deshpande et.al.|[2411.04309](http://arxiv.org/abs/2411.04309)|null|
 |**2024-11-06**|**Fast particle trajectories and integrability in quasiaxisymmetric and quasihelical stellarators**|Amelia Chambliss et.al.|[2411.04289](http://arxiv.org/abs/2411.04289)|null|
-|**2024-11-06**|**PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing**|Siddharth Seth et.al.|[2411.04249](http://arxiv.org/abs/2411.04249)|**[link](https://github.com/sidsunny/pocoloco)**|
+|**2024-11-08**|**PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing**|Siddharth Seth et.al.|[2411.04249](http://arxiv.org/abs/2411.04249)|**[link](https://github.com/sidsunny/pocoloco)**|
 |**2024-11-06**|**Holomorphic jump-diffusions**|Christa Cuchiero et.al.|[2411.04238](http://arxiv.org/abs/2411.04238)|null|
 |**2024-11-06**|**Quantum Diffusion Models for Few-Shot Learning**|Ruhan Wang et.al.|[2411.04217](http://arxiv.org/abs/2411.04217)|null|
 |**2024-11-06**|**Breaking boundaries: extending the orbit averaged Fokker-Planck equation inside the loss cone**|Luca Broggi et.al.|[2411.04178](http://arxiv.org/abs/2411.04178)|null|
