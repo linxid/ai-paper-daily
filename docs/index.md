@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.14
+## Updated on 2024.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -22,7 +22,7 @@ layout: default
 |**2024-11-13**|**Can sparse autoencoders be used to decompose and interpret steering vectors?**|Harry Mayne et.al.|[2411.08790](http://arxiv.org/abs/2411.08790)|**[link](https://github.com/harrymayne/sv_interpretability)**|
 |**2024-11-13**|**Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers**|Clément Dumas et.al.|[2411.08745](http://arxiv.org/abs/2411.08745)|**[link](https://github.com/butanium/llm-lang-agnostic)**|
 |**2024-11-13**|**A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks with Large Language Models**|Dingdong Wang et.al.|[2411.08742](http://arxiv.org/abs/2411.08742)|null|
-|**2024-11-13**|**Dynamic Rewarding with Prompt Optimization Enables Tuning-free Self-Alignment of Language Models**|Somanshu Singla et.al.|[2411.08733](http://arxiv.org/abs/2411.08733)|null|
+|**2024-11-14**|**Dynamic Rewarding with Prompt Optimization Enables Tuning-free Self-Alignment of Language Models**|Somanshu Singla et.al.|[2411.08733](http://arxiv.org/abs/2411.08733)|null|
 |**2024-11-13**|**Polymetis:Large Language Modeling for Multiple Material Domains**|Chao Huang et.al.|[2411.08728](http://arxiv.org/abs/2411.08728)|null|
 |**2024-11-13**|**Theoretical Analysis of Byte-Pair Encoding**|László Kozma et.al.|[2411.08671](http://arxiv.org/abs/2411.08671)|null|
 |**2024-11-13**|**A System Level Performance Evaluation for Superconducting Digital Systems**|Joyjit Kundu et.al.|[2411.08645](http://arxiv.org/abs/2411.08645)|null|
@@ -70,7 +70,7 @@ layout: default
 |**2024-11-12**|**From General to Specific: Utilizing General Hallucation to Automatically Measure the Role Relationship Fidelity for Specific Role-Play Agents**|Chuyi Kong et.al.|[2411.07965](http://arxiv.org/abs/2411.07965)|null|
 |**2024-11-12**|**Towards Low-bit Communication for Tensor Parallel LLM Inference**|Harry Dong et.al.|[2411.07942](http://arxiv.org/abs/2411.07942)|null|
 |**2024-11-12**|**Leveraging Multimodal Models for Enhanced Neuroimaging Diagnostics in Alzheimer's Disease**|Francesco Chiumento et.al.|[2411.07871](http://arxiv.org/abs/2411.07871)|null|
-|**2024-11-12**|**Trustful LLMs: Customizing and Grounding Text Generation with Knowledge Bases and Dual Decoders**|Xiaofeng Zhu et.al.|[2411.07870](http://arxiv.org/abs/2411.07870)|null|
+|**2024-11-13**|**Trustful LLMs: Customizing and Grounding Text Generation with Knowledge Bases and Dual Decoders**|Xiaofeng Zhu et.al.|[2411.07870](http://arxiv.org/abs/2411.07870)|null|
 |**2024-11-12**|**Verbosity $\neq$ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models**|Yusen Zhang et.al.|[2411.07858](http://arxiv.org/abs/2411.07858)|**[link](https://github.com/psunlpgroup/verbosityllm)**|
 |**2024-11-12**|**Chain Association-based Attacking and Shielding Natural Language Processing Systems**|Jiacheng Huang et.al.|[2411.07843](http://arxiv.org/abs/2411.07843)|null|
 |**2024-11-12**|**FRUGAL: Memory-Efficient Optimization by Reducing State Overhead for Scalable Training**|Philip Zmushko et.al.|[2411.07837](http://arxiv.org/abs/2411.07837)|null|
@@ -10199,7 +10199,7 @@ layout: default
 |**2024-11-13**|**Particle acceleration and multi-messenger radiation from Ultra-Luminous X-ray Sources -- A new class of Galactic PeVatrons**|Enrico Peretti et.al.|[2411.08762](http://arxiv.org/abs/2411.08762)|null|
 |**2024-11-13**|**Berry-Esseen bounds for large-time asymptotics of one-dimensional diffusion processes via Malliavin-Stein method**|Seiichiro Kusuoka et.al.|[2411.08725](http://arxiv.org/abs/2411.08725)|null|
 |**2024-11-13**|**Starburst heating and synthetic ion column densities in multiphase galactic outflows**|D. Villarruel et.al.|[2411.08704](http://arxiv.org/abs/2411.08704)|null|
-|**2024-11-13**|**MikuDance: Animating Character Art with Mixed Motion Dynamics**|Jiaxu Zhang et.al.|[2411.08656](http://arxiv.org/abs/2411.08656)|null|
+|**2024-11-14**|**MikuDance: Animating Character Art with Mixed Motion Dynamics**|Jiaxu Zhang et.al.|[2411.08656](http://arxiv.org/abs/2411.08656)|null|
 |**2024-11-13**|**Spin-valley-polarized Weiss oscillations in monolayer 1{\it T} $^{\prime}$ -\ce{MoS2}**|Y. Li et.al.|[2411.08654](http://arxiv.org/abs/2411.08654)|null|
 |**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642](http://arxiv.org/abs/2411.08642)|null|
 |**2024-11-13**|**GA-NIFS: Dissecting the multiple sub-structures and probing their complex interactions in the \Lyalpha emitter galaxy CR7 at z = 6.6 with JWST/NIRSpec**|C. Marconcini et.al.|[2411.08627](http://arxiv.org/abs/2411.08627)|null|
@@ -10251,7 +10251,7 @@ layout: default
 |**2024-11-11**|**Crossover from inhomogeneous to homogeneous response of a resonantly driven hBN quantum emitter**|Domitille Gérard et.al.|[2411.07202](http://arxiv.org/abs/2411.07202)|null|
 |**2024-11-11**|**OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision**|Cong Wei et.al.|[2411.07199](http://arxiv.org/abs/2411.07199)|null|
 |**2024-11-11**|**Lifetime-Limited and Tunable Emission from Charge-Stabilized Nickel Vacancy Centers in Diamond**|I. M. Morris et.al.|[2411.07196](http://arxiv.org/abs/2411.07196)|null|
-|**2024-11-11**|**More Expressive Attention with Negative Weights**|Ang Lv et.al.|[2411.07176](http://arxiv.org/abs/2411.07176)|**[link](https://github.com/trestad/cogattn)**|
+|**2024-11-14**|**More Expressive Attention with Negative Weights**|Ang Lv et.al.|[2411.07176](http://arxiv.org/abs/2411.07176)|**[link](https://github.com/trestad/cogattn)**|
 |**2024-11-11**|**Edify 3D: Scalable High-Quality 3D Asset Generation**|NVIDIA et.al.|[2411.07135](http://arxiv.org/abs/2411.07135)|null|
 |**2024-11-11**|**Zero-sum Dynkin games under common and independent Poisson constraints**|David Hobson et.al.|[2411.07134](http://arxiv.org/abs/2411.07134)|null|
 |**2024-11-11**|**Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models**|NVIDIA et.al.|[2411.07126](http://arxiv.org/abs/2411.07126)|null|
@@ -10264,13 +10264,13 @@ layout: default
 |**2024-11-11**|**Layout Control and Semantic Guidance with Attention Loss Backward for T2I Diffusion Model**|Guandong Li et.al.|[2411.06692](http://arxiv.org/abs/2411.06692)|null|
 |**2024-11-11**|**SeedEdit: Align Image Re-Generation to Image Editing**|Yichun Shi et.al.|[2411.06686](http://arxiv.org/abs/2411.06686)|null|
 |**2024-11-11**|**Z Pinch Kinetics II -- A Continuum Perspective: Betatron Heating and Self-Generation of Sheared Flows**|D. W. Crews et.al.|[2411.06674](http://arxiv.org/abs/2411.06674)|null|
-|**2024-11-11**|**Machine learning enabled velocity model building with uncertainty quantification**|Rafael Orozco et.al.|[2411.06651](http://arxiv.org/abs/2411.06651)|null|
+|**2024-11-14**|**Machine learning-enabled velocity model building with uncertainty quantification**|Rafael Orozco et.al.|[2411.06651](http://arxiv.org/abs/2411.06651)|null|
 |**2024-11-10**|**Using Diffusion Models as Generative Replay in Continual Federated Learning -- What will Happen?**|Yongsheng Mei et.al.|[2411.06618](http://arxiv.org/abs/2411.06618)|null|
 |**2024-11-10**|**Machine Learning-based Denoising of Surface Solar Irradiance simulated with Monte Carlo Ray Tracing**|Ment Reeze et.al.|[2411.06574](http://arxiv.org/abs/2411.06574)|null|
 |**2024-11-10**|**CASC: Condition-Aware Semantic Communication with Latent Diffusion Models**|Weixuan Chen et.al.|[2411.06552](http://arxiv.org/abs/2411.06552)|null|
 |**2024-11-10**|**Multiphysics continuum mechanics models to advance glaucoma research: State-of-the-art and future perspectives**|Daniel Sebastia-Saez et.al.|[2411.06539](http://arxiv.org/abs/2411.06539)|null|
 |**2024-11-10**|**Quantum Calculations of Hydrogen Absorption and Diffusivity in Bulk $\mathrm{CeO_2}$**|Jared C. Stimac et.al.|[2411.06536](http://arxiv.org/abs/2411.06536)|null|
-|**2024-11-10**|**Diffusion Sampling Correction via Approximately 10 Parameters**|Guangyi Wang et.al.|[2411.06503](http://arxiv.org/abs/2411.06503)|null|
+|**2024-11-14**|**Diffusion Sampling Correction via Approximately 10 Parameters**|Guangyi Wang et.al.|[2411.06503](http://arxiv.org/abs/2411.06503)|null|
 |**2024-11-10**|**Numerical analysis of the cross-diffusion Cahn-Hilliard model in lymphangiogenesis**|Boyi Wang et.al.|[2411.06488](http://arxiv.org/abs/2411.06488)|null|
 |**2024-11-10**|**DDIM-Driven Coverless Steganography Scheme with Real Key**|Mingyu Yu et.al.|[2411.06486](http://arxiv.org/abs/2411.06486)|null|
 |**2024-11-10**|**ajdmom: a Python Package for Deriving Moment Formulas of Affine Jump Diffusion Processes**|Yan-Feng Wu et.al.|[2411.06484](http://arxiv.org/abs/2411.06484)|null|
