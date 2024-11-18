@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.17
+## Updated on 2024.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -10279,7 +10279,7 @@ layout: default
 |**2024-11-13**|**Parameter Inference via Differentiable Diffusion Bridge Importance Sampling**|Nicklas Boserup et.al.|[2411.08993](http://arxiv.org/abs/2411.08993)|**[link](https://github.com/nickeopti/msc-thesis-code)**|
 |**2024-11-13**|**Single-File Diffusion of Active Brownian Particles**|A. Akintunde et.al.|[2411.08988](http://arxiv.org/abs/2411.08988)|null|
 |**2024-11-13**|**Interaction Between Rogue HI Clouds and the Magnetic Field High Above the Galaxy**|Bailey Forster et.al.|[2411.08978](http://arxiv.org/abs/2411.08978)|null|
-|**2024-11-13**|**Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply Better Samples**|Noël Vouitsis et.al.|[2411.08954](http://arxiv.org/abs/2411.08954)|**[link](https://github.com/layer6ai-labs/direct-cms)**|
+|**2024-11-15**|**Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply Better Samples**|Noël Vouitsis et.al.|[2411.08954](http://arxiv.org/abs/2411.08954)|**[link](https://github.com/layer6ai-labs/direct-cms)**|
 |**2024-11-13**|**Why is the Galactic disk so cool?**|Chris Hamilton et.al.|[2411.08944](http://arxiv.org/abs/2411.08944)|null|
 |**2024-11-12**|**Structured Pattern Expansion with Diffusion Models**|Marzia Riso et.al.|[2411.08930](http://arxiv.org/abs/2411.08930)|null|
 |**2024-11-12**|**Inverse problem of determining the right-hand side of a one-dimensional fractional diffusion equation with variable coefficients**|D. K. Durdiev et.al.|[2411.08922](http://arxiv.org/abs/2411.08922)|null|
