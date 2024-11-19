@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -99,7 +99,7 @@ layout: default
 |**2024-11-14**|**Toward Democratized Generative AI in Next-Generation Mobile Edge Networks**|Ruichen Zhang et.al.|[2411.09148](http://arxiv.org/abs/2411.09148)|null|
 |**2024-11-14**|**DROJ: A Prompt-Driven Attack against Large Language Models**|Leyang Hu et.al.|[2411.09125](http://arxiv.org/abs/2411.09125)|**[link](https://github.com/leon-leyang/llm-safeguard)**|
 |**2024-11-14**|**P-MMEval: A Parallel Multilingual Multitask Benchmark for Consistent Evaluation of LLMs**|Yidan Zhang et.al.|[2411.09116](http://arxiv.org/abs/2411.09116)|null|
-|**2024-11-14**|**Reducing Reasoning Costs -- The Path of Optimization for Chain of Thought via Sparse Attention Mechanism**|Libo Wang et.al.|[2411.09111](http://arxiv.org/abs/2411.09111)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
+|**2024-11-15**|**Reducing Reasoning Costs -- The Path of Optimization for Chain of Thought via Sparse Attention Mechanism**|Libo Wang et.al.|[2411.09111](http://arxiv.org/abs/2411.09111)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
 |**2024-11-13**|**Code-mixed LLM: Improve Large Language Models' Capability to Handle Code-Mixing through Reinforcement Learning from AI Feedback**|Wenbo Zhang et.al.|[2411.09073](http://arxiv.org/abs/2411.09073)|null|
 |**2024-11-13**|**Continuous GNN-based Anomaly Detection on Edge using Efficient Adaptive Knowledge Graph Learning**|Sanggeon Yun et.al.|[2411.09072](http://arxiv.org/abs/2411.09072)|null|
 |**2024-11-13**|**The Systems Engineering Approach in Times of Large Language Models**|Christian Cabrera et.al.|[2411.09050](http://arxiv.org/abs/2411.09050)|**[link](https://github.com/cabrerac/semi-automatic-literature-survey)**|
@@ -8834,7 +8834,7 @@ layout: default
 |**2024-11-12**|**Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation**|Shuai Niu et.al.|[2411.07611](http://arxiv.org/abs/2411.07611)|null|
 |**2024-11-12**|**BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions**|Anas Awadalla et.al.|[2411.07461](http://arxiv.org/abs/2411.07461)|null|
 |**2024-11-13**|**ViTOC: Vision Transformer and Object-aware Captioner**|Feiyang Huang et.al.|[2411.07265](http://arxiv.org/abs/2411.07265)|null|
-|**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
+|**2024-11-16**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
 |**2024-11-11**|**StoryTeller: Improving Long Video Description through Global Audio-Visual Character Identification**|Yichen He et.al.|[2411.07076](http://arxiv.org/abs/2411.07076)|**[link](https://github.com/hyc2026/StoryTeller)**|
 |**2024-11-11**|**UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**|Jiachen Liang et.al.|[2411.06921](http://arxiv.org/abs/2411.06921)|null|
 |**2024-11-11**|**Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning**|Hongsheng Zhang et.al.|[2411.06764](http://arxiv.org/abs/2411.06764)|null|
@@ -8849,7 +8849,7 @@ layout: default
 |**2024-11-09**|**A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization**|Haoxin Liu et.al.|[2411.06018](http://arxiv.org/abs/2411.06018)|null|
 |**2024-11-08**|**Emotional Images: Assessing Emotions in Images and Potential Biases in Generative Models**|Maneet Mehta et.al.|[2411.05985](http://arxiv.org/abs/2411.05985)|null|
 |**2024-11-08**|**Aligned Vector Quantization for Edge-Cloud Collabrative Vision-Language Models**|Xiao Liu et.al.|[2411.05961](http://arxiv.org/abs/2411.05961)|null|
-|**2024-11-08**|**End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering**|Dylan Goetting et.al.|[2411.05755](http://arxiv.org/abs/2411.05755)|null|
+|**2024-11-08**|**End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering**|Dylan Goetting et.al.|[2411.05755](http://arxiv.org/abs/2411.05755)|**[link](https://github.com/Jirl-upenn/VLMnav)**|
 |**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734](http://arxiv.org/abs/2411.05734)|null|
 |**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|**[link](https://github.com/cristianopatricio/2-step-concept-based-skin-diagnosis)**|
 |**2024-11-11**|**Enhancing Visual Classification using Comparative Descriptors**|Hankyeol Lee et.al.|[2411.05357](http://arxiv.org/abs/2411.05357)|null|
@@ -8892,7 +8892,7 @@ layout: default
 |**2024-11-11**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
 |**2024-11-02**|**TypeScore: A Text Fidelity Metric for Text-to-Image Generative Models**|Georgia Gabriela Sampaio et.al.|[2411.02437](http://arxiv.org/abs/2411.02437)|null|
 |**2024-11-04**|**One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering**|Deepayan Das et.al.|[2411.02210](http://arxiv.org/abs/2411.02210)|null|
-|**2024-11-04**|**GraphVL: Graph-Enhanced Semantic Modeling via Vision-Language Models for Generalized Class Discovery**|Bhupendra Solanki et.al.|[2411.02074](http://arxiv.org/abs/2411.02074)|null|
+|**2024-11-16**|**GraphVL: Graph-Enhanced Semantic Modeling via Vision-Language Models for Generalized Class Discovery**|Bhupendra Solanki et.al.|[2411.02074](http://arxiv.org/abs/2411.02074)|null|
 |**2024-11-03**|**Addressing Failures in Robotics using Vision-Based Language Models (VLMs) and Behavior Trees (BT)**|Faseeh Ahmad et.al.|[2411.01568](http://arxiv.org/abs/2411.01568)|null|
 |**2024-11-03**|**Integration of Large Vision Language Models for Efficient Post-disaster Damage Assessment and Reporting**|Zhaohui Chen et.al.|[2411.01511](http://arxiv.org/abs/2411.01511)|null|
 |**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445](http://arxiv.org/abs/2411.01445)|null|
@@ -8910,7 +8910,7 @@ layout: default
 |**2024-11-01**|**CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision**|Gi-Cheon Kang et.al.|[2411.00508](http://arxiv.org/abs/2411.00508)|null|
 |**2024-11-01**|**Right this way: Can VLMs Guide Us to See More to Answer Questions?**|Li Liu et.al.|[2411.00394](http://arxiv.org/abs/2411.00394)|**[link](https://github.com/LeoLee7/Directional_guidance)**|
 |**2024-11-01**|**Unified Generative and Discriminative Training for Multi-modal Large Language Models**|Wei Chow et.al.|[2411.00304](http://arxiv.org/abs/2411.00304)|null|
-|**2024-11-01**|**RadFlag: A Black-Box Hallucination Detection Method for Medical Vision Language Models**|Sraavya Sambara et.al.|[2411.00299](http://arxiv.org/abs/2411.00299)|null|
+|**2024-11-16**|**RadFlag: A Black-Box Hallucination Detection Method for Medical Vision Language Models**|Serena Zhang et.al.|[2411.00299](http://arxiv.org/abs/2411.00299)|null|
 |**2024-10-31**|**Understanding Graphical Perception in Data Visualization through Zero-shot Prompting of Vision-Language Models**|Grace Guo et.al.|[2411.00257](http://arxiv.org/abs/2411.00257)|null|
 |**2024-10-31**|**ResiDual Transformer Alignment with Spectral Decomposition**|Lorenzo Basile et.al.|[2411.00246](http://arxiv.org/abs/2411.00246)|null|
 |**2024-10-31**|**Understanding the Limits of Vision Language Models Through the Lens of the Binding Problem**|Declan Campbell et.al.|[2411.00238](http://arxiv.org/abs/2411.00238)|null|
@@ -10369,7 +10369,7 @@ layout: default
 |**2024-11-14**|**Island formation in heteroepitaxial growth**|Frederik Munko et.al.|[2411.09288](http://arxiv.org/abs/2411.09288)|null|
 |**2024-11-14**|**Are the flows of complex-valued Laplacians and their pseudoinverses related?**|Aditi Saxena et.al.|[2411.09254](http://arxiv.org/abs/2411.09254)|null|
 |**2024-11-14**|**Parallel in time partially explicit splitting scheme for high contrast multiscale problems**|Zhengya Yang et.al.|[2411.09244](http://arxiv.org/abs/2411.09244)|null|
-|**2024-11-14**|**JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation**|Xuyang Cao et.al.|[2411.09209](http://arxiv.org/abs/2411.09209)|null|
+|**2024-11-14**|**JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation**|Xuyang Cao et.al.|[2411.09209](http://arxiv.org/abs/2411.09209)|**[link](https://github.com/jdh-algo/JoyVASA)**|
 |**2024-11-14**|**Spatial localization and diffusion of Dirac particles and waves induced by random temporal medium variations**|Seulong Kim et.al.|[2411.09208](http://arxiv.org/abs/2411.09208)|null|
 |**2024-11-14**|**Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance**|Md Fahim Anjum et.al.|[2411.09174](http://arxiv.org/abs/2411.09174)|null|
 |**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
