@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -103,7 +103,7 @@ layout: default
 |**2024-11-15**|**Generating Energy-efficient code with LLMs**|Tom Cappendijk et.al.|[2411.10599](http://arxiv.org/abs/2411.10599)|null|
 |**2024-11-15**|**Personalization of Code Readability Evaluation Based on LLM Using Collaborative Filtering**|Buntaro Hiraki et.al.|[2411.10583](http://arxiv.org/abs/2411.10583)|null|
 |**2024-11-15**|**Comparing Robustness Against Adversarial Attacks in Code Generation: LLM-Generated vs. Human-Written**|Md Abdul Awal et.al.|[2411.10565](http://arxiv.org/abs/2411.10565)|null|
-|**2024-11-15**|**mlan: language-based instruction tuning improves zero-shot generalization of multimodal large language models**|Jianhong Tu et.al.|[2411.10557](http://arxiv.org/abs/2411.10557)|null|
+|**2024-11-15**|**mlan: language-based instruction tuning improves zero-shot generalization of multimodal large language models**|Jianhong Tu et.al.|[2411.10557](http://arxiv.org/abs/2411.10557)|**[link](https://github.com/wang-research-lab/mlan)**|
 |**2024-11-15**|**Efficient Alignment of Large Language Models via Data Sampling**|Amrit Khera et.al.|[2411.10545](http://arxiv.org/abs/2411.10545)|null|
 |**2024-11-15**|**Does Prompt Formatting Have Any Impact on LLM Performance?**|Jia He et.al.|[2411.10541](http://arxiv.org/abs/2411.10541)|null|
 |**2024-11-15**|**"On the goals of linguistic theory": Revisiting Chomskyan theories in the era of AI**|Eva Portelance et.al.|[2411.10533](http://arxiv.org/abs/2411.10533)|null|
@@ -8909,7 +8909,7 @@ layout: default
 |**2024-11-18**|**TrojanRobot: Backdoor Attacks Against Robotic Manipulation in the Physical World**|Xianlong Wang et.al.|[2411.11683](http://arxiv.org/abs/2411.11683)|null|
 |**2024-11-18**|**VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation**|Bangguo Yu et.al.|[2411.11609](http://arxiv.org/abs/2411.11609)|null|
 |**2024-11-18**|**Enhancing Vision-Language Model Safety through Progressive Concept-Bottleneck-Driven Alignment**|Zhendong Liu et.al.|[2411.11543](http://arxiv.org/abs/2411.11543)|null|
-|**2024-11-18**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|null|
+|**2024-11-19**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|null|
 |**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
 |**2024-11-18**|**Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts**|Jingxuan Li et.al.|[2411.11479](http://arxiv.org/abs/2411.11479)|null|
 |**2024-11-18**|**Efficient Transfer Learning for Video-language Foundation Models**|Haoxing Chen et.al.|[2411.11223](http://arxiv.org/abs/2411.11223)|null|
@@ -8963,7 +8963,7 @@ layout: default
 |**2024-11-08**|**Real-World Offline Reinforcement Learning from Vision Language Model Feedback**|Sreyas Venkataraman et.al.|[2411.05273](http://arxiv.org/abs/2411.05273)|null|
 |**2024-11-07**|**On Erroneous Agreements of CLIP Image Embeddings**|Siting Li et.al.|[2411.05195](http://arxiv.org/abs/2411.05195)|null|
 |**2024-11-07**|**Precision or Recall? An Analysis of Image Captions for Training Text-to-Image Generation Model**|Sheng Cheng et.al.|[2411.05079](http://arxiv.org/abs/2411.05079)|**[link](https://github.com/shengcheng/captions4t2i)**|
-|**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|null|
+|**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|**[link](https://github.com/hello-robot/stretch_ai)**|
 |**2024-11-07**|**A Reinforcement Learning-Based Automatic Video Editing Method Using Pre-trained Vision-Language Model**|Panwen Hu et.al.|[2411.04942](http://arxiv.org/abs/2411.04942)|null|
 |**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
 |**2024-11-06**|**Multi-Reward as Condition for Instruction-based Image Editing**|Xin Gu et.al.|[2411.04713](http://arxiv.org/abs/2411.04713)|null|
@@ -10420,9 +10420,9 @@ layout: default
 |**2024-11-18**|**Generalized Treatment of Energy Accommodation in Gas-Surface Interactions for Satellite Aerodynamics Applications**|Friedrich Tuttas et.al.|[2411.11597](http://arxiv.org/abs/2411.11597)|null|
 |**2024-11-18**|**Convergence and long-time behavior of finite volumes for a generalized Poisson-Nernst-Planck system with cross-diffusion and size exclusion**|Clément Cancès et.al.|[2411.11583](http://arxiv.org/abs/2411.11583)|null|
 |**2024-11-18**|**Quantitative constraint on the contribution of resolved gamma-ray sources to the sub-PeV Galactic diffuse gamma-ray flux measured by the Tibet ASγ experiment**|S. Kato et.al.|[2411.11524](http://arxiv.org/abs/2411.11524)|null|
-|**2024-11-18**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|null|
+|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|null|
 |**2024-11-18**|**LaVin-DiT: Large Vision Diffusion Transformer**|Zhaoqing Wang et.al.|[2411.11505](http://arxiv.org/abs/2411.11505)|null|
-|**2024-11-18**|**Giant Heat Flux Effect in Non-Chiral Transmission Lines**|Florian Stäbler et.al.|[2411.11495](http://arxiv.org/abs/2411.11495)|null|
+|**2024-11-19**|**Giant Heat Flux Effect in Non-Chiral Transmission Lines**|Florian Stäbler et.al.|[2411.11495](http://arxiv.org/abs/2411.11495)|null|
 |**2024-11-18**|**On the intrinsic rest wavelengths of diffuse interstellar bands**|G. A. Galazutdinov et.al.|[2411.11491](http://arxiv.org/abs/2411.11491)|null|
 |**2024-11-18**|**Unraveling 20th-century political regime dynamics using the physics of diffusion**|Paula Pirker-Díaz et.al.|[2411.11484](http://arxiv.org/abs/2411.11484)|null|
 |**2024-11-18**|**MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion**|Dongseok Shim et.al.|[2411.11475](http://arxiv.org/abs/2411.11475)|null|
@@ -10443,7 +10443,7 @@ layout: default
 |**2024-11-17**|**Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid**|Jöbke Janssen et.al.|[2411.11093](http://arxiv.org/abs/2411.11093)|null|
 |**2024-11-17**|**D-Cube: Exploiting Hyper-Features of Diffusion Model for Robust Medical Classification**|Minhee Jang et.al.|[2411.11087](http://arxiv.org/abs/2411.11087)|null|
 |**2024-11-17**|**Directional diffusion splitting method for advection-diffusion-reaction model**|R. Drebotiy et.al.|[2411.11041](http://arxiv.org/abs/2411.11041)|null|
-|**2024-11-17**|**Time Step Generating: A Universal Synthesized Deepfake Image Detector**|Ziyue Zeng et.al.|[2411.11016](http://arxiv.org/abs/2411.11016)|null|
+|**2024-11-17**|**Time Step Generating: A Universal Synthesized Deepfake Image Detector**|Ziyue Zeng et.al.|[2411.11016](http://arxiv.org/abs/2411.11016)|**[link](https://github.com/NuayHL/TimeStepGenerating)**|
 |**2024-11-17**|**Direct and Explicit 3D Generation from a Single Image**|Haoyu Wu et.al.|[2411.10947](http://arxiv.org/abs/2411.10947)|null|
 |**2024-11-17**|**Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**|Ni Ou et.al.|[2411.10936](http://arxiv.org/abs/2411.10936)|null|
 |**2024-11-17**|**Constrained Diffusion with Trust Sampling**|William Huang et.al.|[2411.10932](http://arxiv.org/abs/2411.10932)|null|
@@ -10462,7 +10462,7 @@ layout: default
 |**2024-11-16**|**Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer**|Shitong Shao et.al.|[2411.10781](http://arxiv.org/abs/2411.10781)|null|
 |**2024-11-16**|**Prolonging Carrier Lifetime in P-type 4H-SiC Epilayer by Thermal Oxidation and Hydrogen Annealing**|Ruijun Zhang et.al.|[2411.10777](http://arxiv.org/abs/2411.10777)|null|
 |**2024-11-16**|**MRI Parameter Mapping via Gaussian Mixture VAE: Breaking the Assumption of Independent Pixels**|Moucheng Xu et.al.|[2411.10772](http://arxiv.org/abs/2411.10772)|null|
-|**2024-11-16**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755](http://arxiv.org/abs/2411.10755)|null|
+|**2024-11-19**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755](http://arxiv.org/abs/2411.10755)|null|
 |**2024-11-16**|**TDSM:Triplet Diffusion for Skeleton-Text Matching in Zero-Shot Action Recognition**|Jeonghyeok Do et.al.|[2411.10745](http://arxiv.org/abs/2411.10745)|null|
 |**2024-11-16**|**A Regularized LSTM Method for Detecting Fake News Articles**|Tanjina Sultana Camelia et.al.|[2411.10713](http://arxiv.org/abs/2411.10713)|null|
 |**2024-11-16**|**Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection**|Ying Yang et.al.|[2411.10701](http://arxiv.org/abs/2411.10701)|**[link](https://github.com/xbyym/dlsr)**|
