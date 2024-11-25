@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.24
+## Updated on 2024.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -59,7 +59,7 @@
 |**2024-11-21**|**InstCache: A Predictive Cache for LLM Serving**|Longwei Zou et.al.|[2411.13820](http://arxiv.org/abs/2411.13820)|null|
 |**2024-11-21**|**AutoMixQ: Self-Adjusting Quantization for High Performance Memory-Efficient Fine-Tuning**|Changhai Zhou et.al.|[2411.13814](http://arxiv.org/abs/2411.13814)|null|
 |**2024-11-21**|**The Value of Information from Sell-side Analysts**|Linying Lv et.al.|[2411.13813](http://arxiv.org/abs/2411.13813)|null|
-|**2024-11-21**|**SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model**|Christopher Nguyen et.al.|[2411.13802](http://arxiv.org/abs/2411.13802)|**[link](https://github.com/aitomatic/semikong)**|
+|**2024-11-22**|**SemiKong: Curating, Training, and Evaluating A Semiconductor Industry-Specific Large Language Model**|Christopher Nguyen et.al.|[2411.13802](http://arxiv.org/abs/2411.13802)|**[link](https://github.com/aitomatic/semikong)**|
 |**2024-11-21**|**Explaining GPT-4's Schema of Depression Using Machine Behavior Analysis**|Adithya V Ganesan et.al.|[2411.13800](http://arxiv.org/abs/2411.13800)|null|
 |**2024-11-21**|**NewsInterview: a Dataset and a Playground to Evaluate LLMs' Ground Gap via Informational Interviews**|Michael Lu et.al.|[2411.13779](http://arxiv.org/abs/2411.13779)|**[link](https://github.com/alex2awesome/news-interview-question-generation)**|
 |**2024-11-21**|**FastRAG: Retrieval Augmented Generation for Semi-structured Data**|Amar Abane et.al.|[2411.13773](http://arxiv.org/abs/2411.13773)|null|
@@ -9068,7 +9068,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20241124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -9078,7 +9078,7 @@
 |**2024-11-21**|**Generalizing End-To-End Autonomous Driving In Real-World Environments Using Zero-Shot LLMs**|Zeyu Dong et.al.|[2411.14256](http://arxiv.org/abs/2411.14256)|null|
 |**2024-11-21**|**FoPru: Focal Pruning for Efficient Large Vision-Language Models**|Lei Jiang et.al.|[2411.14164](http://arxiv.org/abs/2411.14164)|null|
 |**2024-11-21**|**Visual Contexts Clarify Ambiguous Expressions: A Benchmark Dataset**|Heejeong Nam et.al.|[2411.14137](http://arxiv.org/abs/2411.14137)|null|
-|**2024-11-21**|**Panther: Illuminate the Sight of Multimodal LLMs with Instruction-Guided Visual Prompts**|Honglin Li et.al.|[2411.13909](http://arxiv.org/abs/2411.13909)|null|
+|**2024-11-22**|**Panther: Illuminate the Sight of Multimodal LLMs with Instruction-Guided Visual Prompts**|Honglin Li et.al.|[2411.13909](http://arxiv.org/abs/2411.13909)|null|
 |**2024-11-18**|**Improved GUI Grounding via Iterative Narrowing**|Anthony Nguyen et.al.|[2411.13591](http://arxiv.org/abs/2411.13591)|**[link](https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing)**|
 |**2024-11-15**|**COOD: Concept-based Zero-shot OOD Detection**|Zhendong Liu et.al.|[2411.13578](http://arxiv.org/abs/2411.13578)|null|
 |**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
@@ -10592,7 +10592,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20241124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
 
 ## Diffusion
 
@@ -10663,7 +10663,7 @@
 |**2024-11-19**|**Enhancing Deep Learning-Driven Multi-Coil MRI Reconstruction via Self-Supervised Denoising**|Asad Aali et.al.|[2411.12919](http://arxiv.org/abs/2411.12919)|**[link](https://github.com/utcsilab/gsure-diffusion-mri)**|
 |**2024-11-19**|**On vanishing diffusivity selection for the advection equation**|Giulia Mescolini et.al.|[2411.12910](http://arxiv.org/abs/2411.12910)|null|
 |**2024-11-19**|**Breaking the wire: the impact of critical length on melting pathways in silver nanowires**|Kannan M Ridings et.al.|[2411.12891](http://arxiv.org/abs/2411.12891)|null|
-|**2024-11-19**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnett et.al.|[2411.12872](http://arxiv.org/abs/2411.12872)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
+|**2024-11-22**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnet et.al.|[2411.12872](http://arxiv.org/abs/2411.12872)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
 |**2024-11-19**|**CDI: Copyrighted Data Identification in Diffusion Models**|Jan Dubiński et.al.|[2411.12858](http://arxiv.org/abs/2411.12858)|null|
 |**2024-11-19**|**Towards motion from video diffusion models**|Paul Janson et.al.|[2411.12831](http://arxiv.org/abs/2411.12831)|null|
 |**2024-11-19**|**Stylecodes: Encoding Stylistic Information For Image Generation**|Ciara Rowles et.al.|[2411.12811](http://arxiv.org/abs/2411.12811)|**[link](https://github.com/ciarastrawberry/stylecodes)**|
@@ -17018,7 +17018,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20241124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
