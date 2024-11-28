@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693](http://arxiv.org/abs/2411.17693)|null|
-|**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691](http://arxiv.org/abs/2411.17691)|null|
+|**2024-11-27**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691](http://arxiv.org/abs/2411.17691)|null|
 |**2024-11-26**|**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**|Yuhang Han et.al.|[2411.17686](http://arxiv.org/abs/2411.17686)|null|
 |**2024-11-26**|**Enhancing Character-Level Understanding in LLMs through Token Internal Structure Learning**|Zhu Xu et.al.|[2411.17679](http://arxiv.org/abs/2411.17679)|null|
 |**2024-11-26**|**Push the Limit of Multi-modal Emotion Recognition by Prompting LLMs with Receptive-Field-Aware Attention Weighting**|Liyun Zhang et.al.|[2411.17674](http://arxiv.org/abs/2411.17674)|null|
@@ -9280,7 +9280,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -10855,13 +10855,13 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697](http://arxiv.org/abs/2411.17697)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
+|**2024-11-27**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697](http://arxiv.org/abs/2411.17697)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
 |**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696](http://arxiv.org/abs/2411.17696)|null|
 |**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687](http://arxiv.org/abs/2411.17687)|null|
 |**2024-11-26**|**Exclusion processes with non-reversible boundary: hydrodynamics and large deviations**|Claudio Landim et.al.|[2411.17653](http://arxiv.org/abs/2411.17653)|null|
@@ -10905,21 +10905,21 @@
 |**2024-11-26**|**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution**|Libo Zhu et.al.|[2411.17106](http://arxiv.org/abs/2411.17106)|**[link](https://github.com/libozhu03/passionsr)**|
 |**2024-11-26**|**Contrastive CFG: Improving CFG in Diffusion Models by Contrasting Positive and Negative Concepts**|Jinho Chang et.al.|[2411.17077](http://arxiv.org/abs/2411.17077)|null|
 |**2024-11-26**|**Global dynamics of isothermal rarefied gas flows in an infinite layer**|Hongxu Chen et.al.|[2411.17068](http://arxiv.org/abs/2411.17068)|null|
-|**2024-11-26**|**Relations, Negations, and Numbers: Looking for Logic in Generative Text-to-Image Models**|Colin Conwell et.al.|[2411.17066](http://arxiv.org/abs/2411.17066)|null|
+|**2024-11-26**|**Relations, Negations, and Numbers: Looking for Logic in Generative Text-to-Image Models**|Colin Conwell et.al.|[2411.17066](http://arxiv.org/abs/2411.17066)|**[link](https://github.com/colinconwell/t2i-probology)**|
 |**2024-11-26**|**Free $^2$ Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models**|Jaemin Kim et.al.|[2411.17041](http://arxiv.org/abs/2411.17041)|null|
 |**2024-11-26**|**Nonequilibrium relaxation exponentially delays the onset of quantum diffusion**|Srijan Bhattacharyya et.al.|[2411.17021](http://arxiv.org/abs/2411.17021)|null|
 |**2024-11-26**|**TED-VITON: Transformer-Empowered Diffusion Models for Virtual Try-On**|Zhenchen Wan et.al.|[2411.17017](http://arxiv.org/abs/2411.17017)|null|
 |**2024-11-25**|**Stability analysis of hyperbolic-parabolic free boundary problems modelling biofilms**|Dieudonné Zirhumanana Balike et.al.|[2411.16977](http://arxiv.org/abs/2411.16977)|null|
 |**2024-11-25**|**Generative vs. Predictive Models in Massive MIMO Channel Prediction**|Ju-Hyung Lee et.al.|[2411.16971](http://arxiv.org/abs/2411.16971)|null|
 |**2024-11-25**|**ZoomLDM: Latent Diffusion Model for multi-scale image generation**|Srikar Yellapragada et.al.|[2411.16969](http://arxiv.org/abs/2411.16969)|null|
-|**2024-11-25**|**MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning**|Yuming Feng et.al.|[2411.16964](http://arxiv.org/abs/2411.16964)|null|
+|**2024-11-27**|**MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning**|Yuming Feng et.al.|[2411.16964](http://arxiv.org/abs/2411.16964)|null|
 |**2024-11-25**|**The Optical Extinction Law Depends on Magnetic Field Orientation: The $R_V$-$ψ$ Relation**|Brandon S. Hensley et.al.|[2411.16839](http://arxiv.org/abs/2411.16839)|null|
 |**2024-11-25**|**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**|Hanhui Wang et.al.|[2411.16832](http://arxiv.org/abs/2411.16832)|null|
 |**2024-11-25**|**Pathways on the Image Manifold: Image Editing via Video Generation**|Noam Rotstein et.al.|[2411.16819](http://arxiv.org/abs/2411.16819)|null|
 |**2024-11-25**|**Study of helium diffusion in yttria: A multiscale approach based on the density functional theory and kinetic Monte Carlo, with transmission electron microscopy and thermo-desorption spectroscopy**|Vinicius Oliveira Cavalcanti et.al.|[2411.16811](http://arxiv.org/abs/2411.16811)|null|
 |**2024-11-25**|**Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation**|Shengeng Tang et.al.|[2411.16810](http://arxiv.org/abs/2411.16810)|null|
 |**2024-11-25**|**Controllable Human Image Generation with Personalized Multi-Garments**|Yisol Choi et.al.|[2411.16801](http://arxiv.org/abs/2411.16801)|null|
-|**2024-11-25**|**Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image**|Jiajing Lin et.al.|[2411.16800](http://arxiv.org/abs/2411.16800)|null|
+|**2024-11-27**|**Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image**|Jiajing Lin et.al.|[2411.16800](http://arxiv.org/abs/2411.16800)|null|
 |**2024-11-25**|**From Diffusion to Resolution: Leveraging 2D Diffusion Models for 3D Super-Resolution Task**|Bohao Chen et.al.|[2411.16792](http://arxiv.org/abs/2411.16792)|null|
 |**2024-11-25**|**TIDE: Training Locally Interpretable Domain Generalization Models Enables Test-time Correction**|Aishwarya Agarwal et.al.|[2411.16788](http://arxiv.org/abs/2411.16788)|null|
 |**2024-11-25**|**Staleness-Centric Optimizations for Efficient Diffusion MoE Inference**|Jiajun Luo et.al.|[2411.16786](http://arxiv.org/abs/2411.16786)|null|
@@ -10947,7 +10947,7 @@
 |**2024-11-25**|**Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing**|Kaifeng Gao et.al.|[2411.16375](http://arxiv.org/abs/2411.16375)|**[link](https://github.com/dawn-lx/causalcache-vdm)**|
 |**2024-11-25**|**Optimal switching strategies in multi-drug therapies for chronic diseases**|Juan Magalang et.al.|[2411.16362](http://arxiv.org/abs/2411.16362)|null|
 |**2024-11-25**|**One Diffusion to Generate Them All**|Duong H. Le et.al.|[2411.16318](http://arxiv.org/abs/2411.16318)|**[link](https://github.com/lehduong/onediffusion)**|
-|**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308](http://arxiv.org/abs/2411.16308)|null|
+|**2024-11-27**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308](http://arxiv.org/abs/2411.16308)|**[link](https://github.com/qwtforgithub/cdsegnet)**|
 |**2024-11-25**|**Holographic Schwinger-Keldysh effective field theories including a non-hydrodynamic mode**|Yan Liu et.al.|[2411.16306](http://arxiv.org/abs/2411.16306)|null|
 |**2024-11-25**|**DiffDesign: Controllable Diffusion with Meta Prior for Efficient Interior Design Generation**|Yuxuan Yang et.al.|[2411.16301](http://arxiv.org/abs/2411.16301)|null|
 |**2024-11-25**|**Rayleigh-Taylor instability in binary fluids with miscibility gap**|Anubhav Dubey et.al.|[2411.16292](http://arxiv.org/abs/2411.16292)|null|
@@ -17475,7 +17475,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
