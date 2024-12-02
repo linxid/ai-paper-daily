@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.01
+## Updated on 2024.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 |**2024-11-27**|**Beyond Examples: High-level Automated Reasoning Paradigm in In-Context Learning via MCTS**|Jinyang Wu et.al.|[2411.18478](http://arxiv.org/abs/2411.18478)|null|
 |**2024-11-27**|**Draft Model Knows When to Stop: A Self-Verification Length Policy for Speculative Decoding**|Ziyin Zhang et.al.|[2411.18462](http://arxiv.org/abs/2411.18462)|**[link](https://github.com/geralt-targaryen/svip)**|
 |**2024-11-27**|**Is my Meeting Summary Good? Estimating Quality with a Multi-LLM Evaluator**|Frederic Kirstein et.al.|[2411.18444](http://arxiv.org/abs/2411.18444)|null|
-|**2024-11-27**|**An AI-Assisted Multi-Agent Dual Dialogue System to Support Mental Health Care Providers**|Onno P. Kampman et.al.|[2411.18429](http://arxiv.org/abs/2411.18429)|null|
+|**2024-11-28**|**A Multi-Agent Dual Dialogue System to Support Mental Health Care Providers**|Onno P. Kampman et.al.|[2411.18429](http://arxiv.org/abs/2411.18429)|null|
 |**2024-11-27**|**FastSwitch: Optimizing Context Switching Efficiency in Fairness-aware Large Language Model Serving**|Ao Shen et.al.|[2411.18424](http://arxiv.org/abs/2411.18424)|null|
 |**2024-11-27**|**Politicians vs ChatGPT. A study of presuppositions in French and Italian political communication**|Davide Garassino et.al.|[2411.18403](http://arxiv.org/abs/2411.18403)|null|
 |**2024-11-27**|**Topic Modeling and Sentiment Analysis on Japanese Online Media's Coverage of Nuclear Energy**|Yifan Sun et.al.|[2411.18383](http://arxiv.org/abs/2411.18383)|null|
@@ -41,7 +41,7 @@
 |**2024-11-27**|**Can LLMs assist with Ambiguity? A Quantitative Evaluation of various Large Language Models on Word Sense Disambiguation**|T. G. D. K. Sumanathilaka et.al.|[2411.18337](http://arxiv.org/abs/2411.18337)|null|
 |**2024-11-27**|**MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation**|Haopeng Fang et.al.|[2411.18281](http://arxiv.org/abs/2411.18281)|null|
 |**2024-11-27**|**Neutralizing Backdoors through Information Conflicts for Large Language Models**|Chen Chen et.al.|[2411.18280](http://arxiv.org/abs/2411.18280)|null|
-|**2024-11-27**|**Large Language Model-Brained GUI Agents: A Survey**|Chaoyun Zhang et.al.|[2411.18279](http://arxiv.org/abs/2411.18279)|null|
+|**2024-11-28**|**Large Language Model-Brained GUI Agents: A Survey**|Chaoyun Zhang et.al.|[2411.18279](http://arxiv.org/abs/2411.18279)|null|
 |**2024-11-27**|**Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**|Tianyuan Zhang et.al.|[2411.18275](http://arxiv.org/abs/2411.18275)|null|
 |**2024-11-27**|**Wearable intelligent throat enables natural speech in stroke patients with dysarthria**|Chenyu Tang et.al.|[2411.18266](http://arxiv.org/abs/2411.18266)|null|
 |**2024-11-27**|**Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation**|Xiaohan Yu et.al.|[2411.18262](http://arxiv.org/abs/2411.18262)|null|
@@ -111,12 +111,12 @@
 |**2024-11-26**|**PIM-AI: A Novel Architecture for High-Efficiency LLM Inference**|Cristobal Ortega et.al.|[2411.17309](http://arxiv.org/abs/2411.17309)|null|
 |**2024-11-26**|**Meaningless is better: hashing bias-inducing words in LLM prompts improves performance in logical reasoning and statistical learning**|Milena Chadimová et.al.|[2411.17304](http://arxiv.org/abs/2411.17304)|null|
 |**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|**[link](https://github.com/alexcapstick/llm-elicited-priors)**|
-|**2024-11-26**|**CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics**|Yikun Li et.al.|[2411.17274](http://arxiv.org/abs/2411.17274)|null|
+|**2024-11-28**|**CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics**|Yikun Li et.al.|[2411.17274](http://arxiv.org/abs/2411.17274)|null|
 |**2024-11-26**|**A Topic-level Self-Correctional Approach to Mitigate Hallucinations in MLLMs**|Lehan He et.al.|[2411.17265](http://arxiv.org/abs/2411.17265)|null|
 |**2024-11-26**|**HEIE: MLLM-Based Hierarchical Explainable AIGC Image Implausibility Evaluator**|Fan Yang et.al.|[2411.17261](http://arxiv.org/abs/2411.17261)|null|
 |**2024-11-26**|**APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents**|Jun Yu Chen et.al.|[2411.17255](http://arxiv.org/abs/2411.17255)|**[link](https://github.com/spearsheep/APT-Architectural-Planning-LLM-Agent)**|
 |**2024-11-26**|**Grounding-IQA: Multimodal Language Grounding Model for Image Quality Assessment**|Zheng Chen et.al.|[2411.17237](http://arxiv.org/abs/2411.17237)|**[link](https://github.com/zhengchen1999/grounding-iqa)**|
-|**2024-11-26**|**Strategic Prompting for Conversational Tasks: A Comparative Analysis of Large Language Models Across Diverse Conversational Tasks**|Ratnesh Kumar Joshi et.al.|[2411.17204](http://arxiv.org/abs/2411.17204)|null|
+|**2024-11-28**|**Strategic Prompting for Conversational Tasks: A Comparative Analysis of Large Language Models Across Diverse Conversational Tasks**|Ratnesh Kumar Joshi et.al.|[2411.17204](http://arxiv.org/abs/2411.17204)|null|
 |**2024-11-26**|**Exploring the Impact of Anthropomorphism in Role-Playing AI Chatbots on Media Dependency: A Case Study of Xuanhe AI**|Qiufang Yu et.al.|[2411.17157](http://arxiv.org/abs/2411.17157)|null|
 |**2024-11-26**|**LLM-Based Offline Learning for Embodied Agents via Consistency-Guided Reward Ensemble**|Yujeong Lee et.al.|[2411.17135](http://arxiv.org/abs/2411.17135)|null|
 |**2024-11-26**|**DOGE: Towards Versatile Visual Document Grounding and Referring**|Yinan Zhou et.al.|[2411.17125](http://arxiv.org/abs/2411.17125)|null|
@@ -9342,7 +9342,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20241201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -9360,7 +9360,7 @@
 |**2024-11-27**|**Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis**|Weiqin Zhao et.al.|[2411.18101](http://arxiv.org/abs/2411.18101)|**[link](https://github.com/HKU-MedAI/ConcepPath)**|
 |**2024-11-27**|**HyperGLM: HyperGraph for Video Scene Graph Generation and Anticipation**|Trong-Thuan Nguyen et.al.|[2411.18042](http://arxiv.org/abs/2411.18042)|null|
 |**2024-11-27**|**VLM-HOI: Vision Language Models for Interpretable Human-Object Interaction Analysis**|Donggoo Kang et.al.|[2411.18038](http://arxiv.org/abs/2411.18038)|null|
-|**2024-11-27**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
+|**2024-11-28**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
 |**2024-11-27**|**Revisiting Misalignment in Multispectral Pedestrian Detection: A Language-Driven Approach for Cross-modal Alignment Fusion**|Taeheon Kim et.al.|[2411.17995](http://arxiv.org/abs/2411.17995)|null|
 |**2024-11-26**|**HOPPR Medical-Grade Platform for Medical Imaging AI**|Kalina P. Slavkova et.al.|[2411.17891](http://arxiv.org/abs/2411.17891)|null|
 |**2024-11-26**|**OracleSage: Towards Unified Visual-Linguistic Understanding of Oracle Bone Scripts through Cross-Modal Knowledge Fusion**|Hanqi Jiang et.al.|[2411.17837](http://arxiv.org/abs/2411.17837)|null|
@@ -9423,7 +9423,7 @@
 |**2024-11-21**|**FoPru: Focal Pruning for Efficient Large Vision-Language Models**|Lei Jiang et.al.|[2411.14164](http://arxiv.org/abs/2411.14164)|null|
 |**2024-11-21**|**Visual Contexts Clarify Ambiguous Expressions: A Benchmark Dataset**|Heejeong Nam et.al.|[2411.14137](http://arxiv.org/abs/2411.14137)|**[link](https://github.com/hazel-heejeong-nam/vague)**|
 |**2024-11-22**|**Panther: Illuminate the Sight of Multimodal LLMs with Instruction-Guided Visual Prompts**|Honglin Li et.al.|[2411.13909](http://arxiv.org/abs/2411.13909)|null|
-|**2024-11-24**|**Improved GUI Grounding via Iterative Narrowing**|Anthony Nguyen et.al.|[2411.13591](http://arxiv.org/abs/2411.13591)|**[link](https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing)**|
+|**2024-11-28**|**Improved GUI Grounding via Iterative Narrowing**|Anthony Nguyen et.al.|[2411.13591](http://arxiv.org/abs/2411.13591)|**[link](https://github.com/ant-8/GUI-Grounding-via-Iterative-Narrowing)**|
 |**2024-11-15**|**COOD: Concept-based Zero-shot OOD Detection**|Zhendong Liu et.al.|[2411.13578](http://arxiv.org/abs/2411.13578)|null|
 |**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
 |**2024-11-20**|**Teaching VLMs to Localize Specific Objects from In-context Examples**|Sivan Doveh et.al.|[2411.13317](http://arxiv.org/abs/2411.13317)|**[link](https://github.com/sivandoveh/iploc)**|
@@ -9444,7 +9444,7 @@
 |**2024-11-18**|**TrojanRobot: Backdoor Attacks Against Robotic Manipulation in the Physical World**|Xianlong Wang et.al.|[2411.11683](http://arxiv.org/abs/2411.11683)|null|
 |**2024-11-18**|**VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation**|Bangguo Yu et.al.|[2411.11609](http://arxiv.org/abs/2411.11609)|null|
 |**2024-11-18**|**Enhancing Vision-Language Model Safety through Progressive Concept-Bottleneck-Driven Alignment**|Zhendong Liu et.al.|[2411.11543](http://arxiv.org/abs/2411.11543)|null|
-|**2024-11-19**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|**[link](https://github.com/gzcch/safety_snowball_agent)**|
+|**2024-11-28**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|**[link](https://github.com/gzcch/safety_snowball_agent)**|
 |**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
 |**2024-11-18**|**Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts**|Jingxuan Li et.al.|[2411.11479](http://arxiv.org/abs/2411.11479)|null|
 |**2024-11-18**|**Efficient Transfer Learning for Video-language Foundation Models**|Haoxing Chen et.al.|[2411.11223](http://arxiv.org/abs/2411.11223)|**[link](https://github.com/chenhaoxing/etl4video)**|
@@ -10936,7 +10936,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20241201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
 
 ## Diffusion
 
@@ -10949,10 +10949,10 @@
 |**2024-11-27**|**Frequency redistribution and step-size distribution of light scattered by atomic vapor: applications to Lévy flight random walk**|Isaac C. Nunes et.al.|[2411.18570](http://arxiv.org/abs/2411.18570)|null|
 |**2024-11-27**|**DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation**|Zhixuan Liang et.al.|[2411.18562](http://arxiv.org/abs/2411.18562)|null|
 |**2024-11-27**|**FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion**|Haosen Yang et.al.|[2411.18552](http://arxiv.org/abs/2411.18552)|null|
-|**2024-11-27**|**The Rise and Fall of Ideas' Popularity**|Piero Mazzarisi et.al.|[2411.18541](http://arxiv.org/abs/2411.18541)|null|
+|**2024-11-28**|**The Rise and Fall of Ideas' Popularity**|Piero Mazzarisi et.al.|[2411.18541](http://arxiv.org/abs/2411.18541)|null|
 |**2024-11-27**|**Chemical pressure tuning of competing orders in $\textrm{Ba}_{1-x}\textrm{Ca}_{x}\textrm{Ni}_{2}\textrm{As}_{2}$**|F. Henssler et.al.|[2411.18536](http://arxiv.org/abs/2411.18536)|null|
 |**2024-11-27**|**Spin liquid properties of the kagome material Cu $_3$(HOTP)$_2$**|F. L. Pratt et.al.|[2411.18518](http://arxiv.org/abs/2411.18518)|null|
-|**2024-11-27**|**Enhancing weed detection performance by means of GenAI-based image augmentation**|Sourav Modak et.al.|[2411.18513](http://arxiv.org/abs/2411.18513)|null|
+|**2024-11-28**|**Enhancing weed detection performance by means of GenAI-based image augmentation**|Sourav Modak et.al.|[2411.18513](http://arxiv.org/abs/2411.18513)|null|
 |**2024-11-27**|**Synthetic ECG Generation for Data Augmentation and Transfer Learning in Arrhythmia Classification**|José Fernando Núñez et.al.|[2411.18456](http://arxiv.org/abs/2411.18456)|null|
 |**2024-11-27**|**Learning the Evolution of Physical Structure of Galaxies via Diffusion Models**|Andrew Lizarraga et.al.|[2411.18440](http://arxiv.org/abs/2411.18440)|null|
 |**2024-11-27**|**Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models**|Yiming Wu et.al.|[2411.18375](http://arxiv.org/abs/2411.18375)|null|
@@ -10995,7 +10995,7 @@
 |**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687](http://arxiv.org/abs/2411.17687)|null|
 |**2024-11-26**|**Exclusion processes with non-reversible boundary: hydrodynamics and large deviations**|Claudio Landim et.al.|[2411.17653](http://arxiv.org/abs/2411.17653)|null|
 |**2024-11-26**|**A robust image encryption scheme based on new 4-D hyperchaotic system and elliptic curve**|Yehia Lalili et.al.|[2411.17643](http://arxiv.org/abs/2411.17643)|null|
-|**2024-11-26**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616](http://arxiv.org/abs/2411.17616)|**[link](https://github.com/opensparsellms/skip-dit)**|
+|**2024-11-27**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616](http://arxiv.org/abs/2411.17616)|**[link](https://github.com/opensparsellms/skip-dit)**|
 |**2024-11-26**|**Mixed-State Quantum Denoising Diffusion Probabilistic Model**|Gino Kwun et.al.|[2411.17608](http://arxiv.org/abs/2411.17608)|null|
 |**2024-11-26**|**VideoDirector: Precise Video Editing via Text-to-Video Models**|Yukun Wang et.al.|[2411.17592](http://arxiv.org/abs/2411.17592)|null|
 |**2024-11-26**|**IMPROVE: Improving Medical Plausibility without Reliance on HumanValidation -- An Enhanced Prototype-Guided Diffusion Framework**|Anurag Shandilya et.al.|[2411.17535](http://arxiv.org/abs/2411.17535)|null|
@@ -11006,7 +11006,7 @@
 |**2024-11-27**|**SuperMat: Physically Consistent PBR Material Estimation at Interactive Rates**|Yijia Hong et.al.|[2411.17515](http://arxiv.org/abs/2411.17515)|null|
 |**2024-11-25**|**Unlocking the Potential of Text-to-Image Diffusion with PAC-Bayesian Theory**|Eric Hanchen Jiang et.al.|[2411.17472](http://arxiv.org/abs/2411.17472)|null|
 |**2024-11-25**|**Towards Precise Scaling Laws for Video Diffusion Transformers**|Yuanyang Yin et.al.|[2411.17470](http://arxiv.org/abs/2411.17470)|null|
-|**2024-11-26**|**WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model**|Zongjian Li et.al.|[2411.17459](http://arxiv.org/abs/2411.17459)|**[link](https://github.com/pku-yuangroup/wf-vae)**|
+|**2024-11-27**|**WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model**|Zongjian Li et.al.|[2411.17459](http://arxiv.org/abs/2411.17459)|**[link](https://github.com/pku-yuangroup/wf-vae)**|
 |**2024-11-26**|**Identity-Preserving Text-to-Video Generation by Frequency Decomposition**|Shenghai Yuan et.al.|[2411.17440](http://arxiv.org/abs/2411.17440)|**[link](https://github.com/PKU-YuanGroup/ConsisID)**|
 |**2024-11-26**|**Rewiring Techniques to Mitigate Oversquashing and Oversmoothing in GNNs: A Survey**|Hugo Attali et.al.|[2411.17429](http://arxiv.org/abs/2411.17429)|null|
 |**2024-11-26**|**Image Generation with Multimodule Semantic Feature-Aided Selection for Semantic Communications**|Chengyang Liang et.al.|[2411.17428](http://arxiv.org/abs/2411.17428)|null|
@@ -11026,7 +11026,7 @@
 |**2024-11-26**|**cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2411.17203](http://arxiv.org/abs/2411.17203)|**[link](https://github.com/pfriedri/cwdm)**|
 |**2024-11-26**|**The Role of Urban Designers in the Era of AIGC: An Experimental Study Based on Public Participation**|Di Mo et.al.|[2411.17194](http://arxiv.org/abs/2411.17194)|null|
 |**2024-11-26**|**A Generator of Neural Network Potential for Molecular Dynamics: Constructing Robust and Accurate Potentials with Active Learning for Nanosecond-scale Simulations**|Naoki Matsumura et.al.|[2411.17191](http://arxiv.org/abs/2411.17191)|null|
-|**2024-11-26**|**PhysMotion: Physics-Grounded Dynamics From a Single Image**|Xiyang Tan et.al.|[2411.17189](http://arxiv.org/abs/2411.17189)|null|
+|**2024-11-28**|**PhysMotion: Physics-Grounded Dynamics From a Single Image**|Xiyang Tan et.al.|[2411.17189](http://arxiv.org/abs/2411.17189)|null|
 |**2024-11-26**|**LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization**|Rui Xie et.al.|[2411.17178](http://arxiv.org/abs/2411.17178)|null|
 |**2024-11-26**|**Large time behavior of exponential surface diffusion flows on $\mathbb{R}$**|Yoshikazu Giga et.al.|[2411.17175](http://arxiv.org/abs/2411.17175)|null|
 |**2024-11-26**|**OSDFace: One-Step Diffusion Model for Face Restoration**|Jingkai Wang et.al.|[2411.17163](http://arxiv.org/abs/2411.17163)|**[link](https://github.com/jkwang28/osdface)**|
@@ -17604,7 +17604,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20241201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
