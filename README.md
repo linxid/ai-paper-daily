@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -58,7 +58,7 @@
 |**2024-12-03**|**Future of Information Retrieval Research in the Age of Generative AI**|James Allan et.al.|[2412.02043](http://arxiv.org/abs/2412.02043)|null|
 |**2024-12-02**|**LLMs4Life: Large Language Models for Ontology Learning in Life Sciences**|Nadeen Fathallah et.al.|[2412.02035](http://arxiv.org/abs/2412.02035)|null|
 |**2024-12-02**|**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**|Xuewen Luo et.al.|[2412.02025](http://arxiv.org/abs/2412.02025)|null|
-|**2024-12-02**|**The use of large language models to enhance cancer clinical trial educational materials**|Mingye Gao et.al.|[2412.01955](http://arxiv.org/abs/2412.01955)|null|
+|**2024-12-04**|**The use of large language models to enhance cancer clinical trial educational materials**|Mingye Gao et.al.|[2412.01955](http://arxiv.org/abs/2412.01955)|null|
 |**2024-12-02**|**The Reality of AI and Biorisk**|Aidan Peppin et.al.|[2412.01946](http://arxiv.org/abs/2412.01946)|null|
 |**2024-12-02**|**Composition of Experts: A Modular Compound AI System Leveraging Large Language Models**|Swayambhoo Jain et.al.|[2412.01868](http://arxiv.org/abs/2412.01868)|null|
 |**2024-12-02**|**X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models**|Zeyi Sun et.al.|[2412.01824](http://arxiv.org/abs/2412.01824)|**[link](https://github.com/sunzey/x-prompt)**|
@@ -104,7 +104,7 @@
 |**2024-12-02**|**First numerical observation of the Berezinskii-Kosterlitz-Thouless transition in language models**|Yuma Toji et.al.|[2412.01212](http://arxiv.org/abs/2412.01212)|null|
 |**2024-12-02**|**MiningGPT -- A Domain-Specific Large Language Model for the Mining Industry**|Kurukulasooriya Fernando ana Gianluca Demartini et.al.|[2412.01189](http://arxiv.org/abs/2412.01189)|null|
 |**2024-12-02**|**SailCompass: Towards Reproducible and Robust Evaluation for Southeast Asian Languages**|Jia Guo et.al.|[2412.01186](http://arxiv.org/abs/2412.01186)|**[link](https://github.com/sail-sg/sailcompass)**|
-|**2024-12-02**|**Enhancing Function-Calling Capabilities in LLMs: Strategies for Prompt Formats, Data Integration, and Multilingual Translation**|Yi-Chang Chen et.al.|[2412.01130](http://arxiv.org/abs/2412.01130)|null|
+|**2024-12-04**|**Enhancing Function-Calling Capabilities in LLMs: Strategies for Prompt Formats, Data Integration, and Multilingual Translation**|Yi-Chang Chen et.al.|[2412.01130](http://arxiv.org/abs/2412.01130)|null|
 |**2024-12-02**|**RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy**|Geonho Lee et.al.|[2412.01129](http://arxiv.org/abs/2412.01129)|null|
 |**2024-12-02**|**Automated Extraction of Acronym-Expansion Pairs from Scientific Papers**|Izhar Ali et.al.|[2412.01093](http://arxiv.org/abs/2412.01093)|null|
 |**2024-12-03**|**Advancing Speech Language Models by Scaling Supervised Fine-Tuning with Over 60,000 Hours of Synthetic Speech Dialogue Data**|Shuaijiang Zhao et.al.|[2412.01078](http://arxiv.org/abs/2412.01078)|null|
@@ -9526,7 +9526,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -9555,7 +9555,7 @@
 |**2024-12-02**|**FastRM: An efficient and automatic explainability framework for multimodal generative models**|Gabriela Ben-Melech Stan et.al.|[2412.01487](http://arxiv.org/abs/2412.01487)|null|
 |**2024-12-02**|**Understanding the World's Museums through Vision-Language Reasoning**|Ada-Astrid Balauca et.al.|[2412.01370](http://arxiv.org/abs/2412.01370)|null|
 |**2024-12-02**|**LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences**|Hongyan Zhi et.al.|[2412.01292](http://arxiv.org/abs/2412.01292)|null|
-|**2024-12-02**|**Enhancing Perception Capabilities of Multimodal LLMs with Training-free Fusion**|Zhuokun Chen et.al.|[2412.01289](http://arxiv.org/abs/2412.01289)|null|
+|**2024-12-04**|**Enhancing Perception Capabilities of Multimodal LLMs with Training-Free Fusion**|Zhuokun Chen et.al.|[2412.01289](http://arxiv.org/abs/2412.01289)|null|
 |**2024-12-02**|**MFTF: Mask-free Training-free Object Level Layout Control Diffusion Model**|Shan Yang et.al.|[2412.01284](http://arxiv.org/abs/2412.01284)|null|
 |**2024-12-02**|**Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model**|Qianhan Feng et.al.|[2412.01282](http://arxiv.org/abs/2412.01282)|**[link](https://github.com/fqhank/align-kd)**|
 |**2024-12-02**|**NLPrompt: Noise-Label Prompt Learning for Vision-Language Models**|Bikang Pan et.al.|[2412.01256](http://arxiv.org/abs/2412.01256)|null|
@@ -11182,7 +11182,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 ## Diffusion
 
@@ -11190,7 +11190,7 @@
 |---|---|---|---|---|
 |**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693](http://arxiv.org/abs/2412.02693)|**[link](https://github.com/pixtella/anagram-mtl)**|
 |**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
-|**2024-12-03**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
+|**2024-12-04**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
 |**2024-12-03**|**Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**|Xuanlin Li et.al.|[2412.02676](http://arxiv.org/abs/2412.02676)|null|
 |**2024-12-03**|**Scaling limit of first passage percolation geodesics on planar maps**|Emmanuel Kammerer et.al.|[2412.02666](http://arxiv.org/abs/2412.02666)|null|
 |**2024-12-03**|**Asymptically full measure sets of almost-periodic solutions for the NLS equation**|Luca Biasco et.al.|[2412.02648](http://arxiv.org/abs/2412.02648)|null|
@@ -11214,7 +11214,7 @@
 |**2024-12-03**|**Fast LiDAR Data Generation with Rectified Flows**|Kazuto Nakashima et.al.|[2412.02241](http://arxiv.org/abs/2412.02241)|**[link](https://github.com/kazuto1011/r2flow)**|
 |**2024-12-03**|**Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models**|Jungwon Park et.al.|[2412.02237](http://arxiv.org/abs/2412.02237)|null|
 |**2024-12-03**|**How to Use Diffusion Priors under Sparse Views?**|Qisen Wang et.al.|[2412.02225](http://arxiv.org/abs/2412.02225)|**[link](https://github.com/icvteam/ipsm)**|
-|**2024-12-03**|**Generative Photography: Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis**|Yu Yuan et.al.|[2412.02168](http://arxiv.org/abs/2412.02168)|null|
+|**2024-12-04**|**Generative Photography: Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis**|Yu Yuan et.al.|[2412.02168](http://arxiv.org/abs/2412.02168)|null|
 |**2024-12-03**|**Large Deviations Principle for the Fluctuating Boltzmann Equation**|Liu Hong et.al.|[2412.02139](http://arxiv.org/abs/2412.02139)|null|
 |**2024-12-03**|**AccDiffusion v2: Towards More Accurate Higher-Resolution Diffusion Extrapolation**|Zhihang Lin et.al.|[2412.02099](http://arxiv.org/abs/2412.02099)|**[link](https://github.com/lzhxmu/accdiffusion_v2)**|
 |**2024-12-03**|**Migration of active particle in mixtures of rigid and flexible rings**|Meng-Yuan Li et.al.|[2412.02096](http://arxiv.org/abs/2412.02096)|null|
@@ -11283,7 +11283,7 @@
 |**2024-12-02**|**DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding**|Hao Wu et.al.|[2412.01115](http://arxiv.org/abs/2412.01115)|null|
 |**2024-12-02**|**One Shot, One Talk: Whole-body Talking Avatar from a Single Image**|Jun Xiang et.al.|[2412.01106](http://arxiv.org/abs/2412.01106)|null|
 |**2024-12-03**|**DuoCast: Duo-Probabilistic Meteorology-Aware Model for Extended Precipitation Nowcasting**|Penghui Wen et.al.|[2412.01091](http://arxiv.org/abs/2412.01091)|**[link](https://github.com/ph-w2000/duocast)**|
-|**2024-12-02**|**FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**|Taekyung Ki et.al.|[2412.01064](http://arxiv.org/abs/2412.01064)|null|
+|**2024-12-04**|**FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**|Taekyung Ki et.al.|[2412.01064](http://arxiv.org/abs/2412.01064)|null|
 |**2024-12-03**|**Unleashing In-context Learning of Autoregressive Models for Few-shot Image Manipulation**|Bolin Lai et.al.|[2412.01027](http://arxiv.org/abs/2412.01027)|null|
 |**2024-12-02**|**On the Feature Learning in Diffusion Models**|Andi Han et.al.|[2412.01021](http://arxiv.org/abs/2412.01021)|null|
 |**2024-12-02**|**Energy-Based Modelling for Discrete and Mixed Data via Heat Equations on Structured Spaces**|Tobias Schröder et.al.|[2412.01019](http://arxiv.org/abs/2412.01019)|null|
@@ -18022,7 +18022,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
