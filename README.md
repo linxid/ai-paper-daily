@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.05
+## Updated on 2024.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -9588,7 +9588,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -11259,7 +11259,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
 
 ## Diffusion
 
@@ -11304,7 +11304,7 @@
 |**2024-12-04**|**Generalized Diffusion Model with Adjusted Offset Noise**|Takuro Kutsuna et.al.|[2412.03134](http://arxiv.org/abs/2412.03134)|null|
 |**2024-12-04**|**MultiGO: Towards Multi-level Geometry Learning for Monocular 3D Textured Human Reconstruction**|Gangjian Zhang et.al.|[2412.03103](http://arxiv.org/abs/2412.03103)|null|
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
-|**2024-12-04**|**Align3R: Aligned Monocular Depth Estimation for Dynamic Videos**|Jiahao Lu et.al.|[2412.03079](http://arxiv.org/abs/2412.03079)|null|
+|**2024-12-05**|**Align3R: Aligned Monocular Depth Estimation for Dynamic Videos**|Jiahao Lu et.al.|[2412.03079](http://arxiv.org/abs/2412.03079)|null|
 |**2024-12-04**|**UTSD: Unified Time Series Diffusion Model**|Xiangkai Ma et.al.|[2412.03068](http://arxiv.org/abs/2412.03068)|null|
 |**2024-12-04**|**Nonequilibrium steady state of Brownian motion in an intermittent potential**|Soheli Mukherjee et.al.|[2412.03045](http://arxiv.org/abs/2412.03045)|null|
 |**2024-12-04**|**Frequency-Guided Diffusion Model with Perturbation Training for Skeleton-Based Video Anomaly Detection**|Xiaofeng Tan et.al.|[2412.03044](http://arxiv.org/abs/2412.03044)|**[link](https://github.com/xiaofeng-tan/fgdmad-code)**|
@@ -11320,7 +11320,7 @@
 |**2024-12-03**|**Mixture of Physical Priors Adapter for Parameter-Efficient Fine-Tuning**|Zhaozhi Wang et.al.|[2412.02759](http://arxiv.org/abs/2412.02759)|null|
 |**2024-12-03**|**Dark Galactic subhalos and the Gaia snail**|Daniel Gilman et.al.|[2412.02757](http://arxiv.org/abs/2412.02757)|null|
 |**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693](http://arxiv.org/abs/2412.02693)|**[link](https://github.com/pixtella/anagram-mtl)**|
-|**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
+|**2024-12-04**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
 |**2024-12-04**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
 |**2024-12-03**|**Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**|Xuanlin Li et.al.|[2412.02676](http://arxiv.org/abs/2412.02676)|null|
 |**2024-12-03**|**Scaling limit of first passage percolation geodesics on planar maps**|Emmanuel Kammerer et.al.|[2412.02666](http://arxiv.org/abs/2412.02666)|null|
@@ -18153,7 +18153,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

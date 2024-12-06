@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.05
+## Updated on 2024.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -11295,7 +11295,7 @@ layout: default
 |**2024-12-04**|**Generalized Diffusion Model with Adjusted Offset Noise**|Takuro Kutsuna et.al.|[2412.03134](http://arxiv.org/abs/2412.03134)|null|
 |**2024-12-04**|**MultiGO: Towards Multi-level Geometry Learning for Monocular 3D Textured Human Reconstruction**|Gangjian Zhang et.al.|[2412.03103](http://arxiv.org/abs/2412.03103)|null|
 |**2024-12-04**|**Mimir: Improving Video Diffusion Models for Precise Text Understanding**|Shuai Tan et.al.|[2412.03085](http://arxiv.org/abs/2412.03085)|null|
-|**2024-12-04**|**Align3R: Aligned Monocular Depth Estimation for Dynamic Videos**|Jiahao Lu et.al.|[2412.03079](http://arxiv.org/abs/2412.03079)|null|
+|**2024-12-05**|**Align3R: Aligned Monocular Depth Estimation for Dynamic Videos**|Jiahao Lu et.al.|[2412.03079](http://arxiv.org/abs/2412.03079)|null|
 |**2024-12-04**|**UTSD: Unified Time Series Diffusion Model**|Xiangkai Ma et.al.|[2412.03068](http://arxiv.org/abs/2412.03068)|null|
 |**2024-12-04**|**Nonequilibrium steady state of Brownian motion in an intermittent potential**|Soheli Mukherjee et.al.|[2412.03045](http://arxiv.org/abs/2412.03045)|null|
 |**2024-12-04**|**Frequency-Guided Diffusion Model with Perturbation Training for Skeleton-Based Video Anomaly Detection**|Xiaofeng Tan et.al.|[2412.03044](http://arxiv.org/abs/2412.03044)|**[link](https://github.com/xiaofeng-tan/fgdmad-code)**|
@@ -11311,7 +11311,7 @@ layout: default
 |**2024-12-03**|**Mixture of Physical Priors Adapter for Parameter-Efficient Fine-Tuning**|Zhaozhi Wang et.al.|[2412.02759](http://arxiv.org/abs/2412.02759)|null|
 |**2024-12-03**|**Dark Galactic subhalos and the Gaia snail**|Daniel Gilman et.al.|[2412.02757](http://arxiv.org/abs/2412.02757)|null|
 |**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693](http://arxiv.org/abs/2412.02693)|**[link](https://github.com/pixtella/anagram-mtl)**|
-|**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
+|**2024-12-04**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
 |**2024-12-04**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
 |**2024-12-03**|**Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**|Xuanlin Li et.al.|[2412.02676](http://arxiv.org/abs/2412.02676)|null|
 |**2024-12-03**|**Scaling limit of first passage percolation geodesics on planar maps**|Emmanuel Kammerer et.al.|[2412.02666](http://arxiv.org/abs/2412.02666)|null|
