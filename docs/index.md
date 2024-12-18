@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087](http://arxiv.org/abs/2412.12087)|null|
 |**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077](http://arxiv.org/abs/2412.12077)|null|
 |**2024-12-16**|**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**|Guo Chen et.al.|[2412.12075](http://arxiv.org/abs/2412.12075)|null|
@@ -9905,7 +9905,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-16**|**Does VLM Classification Benefit from LLM Description Semantics?**|Pingchuan Ma et.al.|[2412.11917](http://arxiv.org/abs/2412.11917)|null|
-|**2024-12-16**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
+|**2024-12-17**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
 |**2024-12-16**|**Multimodal LLM for Intelligent Transportation Systems**|Dexter Le et.al.|[2412.11683](http://arxiv.org/abs/2412.11683)|null|
 |**2024-12-16**|**LMM-Regularized CLIP Embeddings for Image Classification**|Maria Tzelepi et.al.|[2412.11663](http://arxiv.org/abs/2412.11663)|null|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
@@ -11707,7 +11707,7 @@ layout: default
 |**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815](http://arxiv.org/abs/2412.11815)|null|
 |**2024-12-16**|**InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**|Rick Akkerman et.al.|[2412.11785](http://arxiv.org/abs/2412.11785)|null|
 |**2024-12-16**|**Joint Reconstruction of the Activity and the Attenuation in PET by Diffusion Posterior Sampling: a Feasibility Study**|Clémentine Phung-Ngoc et.al.|[2412.11776](http://arxiv.org/abs/2412.11776)|null|
-|**2024-12-16**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
+|**2024-12-17**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
 |**2024-12-16**|**Non-local non-homogeneous phase transitions: regularity of optimal profiles and sharp-interface limit**|Elisa Davoli et.al.|[2412.11756](http://arxiv.org/abs/2412.11756)|null|
 |**2024-12-16**|**Conditional Diffusion Models Based Conditional Independence Testing**|Yanfeng Yang et.al.|[2412.11744](http://arxiv.org/abs/2412.11744)|**[link](https://github.com/yanfeng-yang-0316/cdcit)**|
 |**2024-12-16**|**Re-Attentional Controllable Video Diffusion Editing**|Yuanzhi Wang et.al.|[2412.11710](http://arxiv.org/abs/2412.11710)|**[link](https://github.com/mdswyz/reatco)**|
@@ -11717,7 +11717,7 @@ layout: default
 |**2024-12-16**|**VG-TVP: Multimodal Procedural Planning via Visually Grounded Text-Video Prompting**|Muhammet Furkan Ilaslan et.al.|[2412.11621](http://arxiv.org/abs/2412.11621)|**[link](https://github.com/mfurkanilaslan/vg-tvp)**|
 |**2024-12-16**|**3D $^2$ -Actor: Learning Pose-Conditioned 3D-Aware Denoiser for Realistic Gaussian Avatar Modeling**|Zichen Tang et.al.|[2412.11599](http://arxiv.org/abs/2412.11599)|**[link](https://github.com/silence-tang/gaussianactor)**|
 |**2024-12-16**|**Transition dynamics of electricity asset-owning firms**|Anton Pichler et.al.|[2412.11597](http://arxiv.org/abs/2412.11597)|null|
-|**2024-12-16**|**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis**|Zhipeng Chen et.al.|[2412.11594](http://arxiv.org/abs/2412.11594)|**[link](https://github.com/felixchan9527/versagen_official)**|
+|**2024-12-17**|**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis**|Zhipeng Chen et.al.|[2412.11594](http://arxiv.org/abs/2412.11594)|**[link](https://github.com/felixchan9527/versagen_official)**|
 |**2024-12-16**|**StrandHead: Text to Strand-Disentangled 3D Head Avatars Using Hair Geometric Priors**|Xiaokun Sun et.al.|[2412.11586](http://arxiv.org/abs/2412.11586)|**[link](https://github.com/XiaokunSun/StrandHead)**|
 |**2024-12-16**|**MPQ-DM: Mixed Precision Quantization for Extremely Low Bit Diffusion Models**|Weilun Feng et.al.|[2412.11549](http://arxiv.org/abs/2412.11549)|**[link](https://github.com/cantbebetter2/mpq-dm)**|
 |**2024-12-16**|**EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting**|Dong In Lee et.al.|[2412.11520](http://arxiv.org/abs/2412.11520)|null|
@@ -11738,7 +11738,7 @@ layout: default
 |**2024-12-15**|**A theoretical investigation provides an integrated understanding of the complex regulatory network controlling Arabidopsis root hair patterning**|Hayley Mills et.al.|[2412.11338](http://arxiv.org/abs/2412.11338)|null|
 |**2024-12-15**|**Segment-Level Diffusion: A Framework for Controllable Long-Form Generation with Diffusion Language Models**|Xiaochen Zhu et.al.|[2412.11333](http://arxiv.org/abs/2412.11333)|null|
 |**2024-12-15**|**Small-time asymptotics for hypoelliptic diffusions**|Juraj Földes et.al.|[2412.11323](http://arxiv.org/abs/2412.11323)|null|
-|**2024-12-15**|**Volume-surface systems with sub-quadratic intermediate sum on the surface: Global existence and boundedness**|Juan Yang et.al.|[2412.11322](http://arxiv.org/abs/2412.11322)|null|
+|**2024-12-17**|**Volume-surface systems with sub-quadratic intermediate sum on the surface: Global existence and boundedness**|Juan Yang et.al.|[2412.11322](http://arxiv.org/abs/2412.11322)|null|
 |**2024-12-15**|**A New Census of the Universe's Entropy**|Stefano Profumo et.al.|[2412.11282](http://arxiv.org/abs/2412.11282)|null|
 |**2024-12-15**|**VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping**|Hao Shao et.al.|[2412.11279](http://arxiv.org/abs/2412.11279)|null|
 |**2024-12-15**|**Wasserstein Bounds for generative diffusion models with Gaussian tail targets**|Xixian Wang et.al.|[2412.11251](http://arxiv.org/abs/2412.11251)|null|
@@ -11750,14 +11750,14 @@ layout: default
 |**2024-12-15**|**Plug-and-Play Priors as a Score-Based Method**|Chicago Y. Park et.al.|[2412.11108](http://arxiv.org/abs/2412.11108)|**[link](https://github.com/wustl-cig/score_pnp)**|
 |**2024-12-15**|**DynamicScaler: Seamless and Scalable Video Generation for Panoramic Scenes**|Jinxiu Liu et.al.|[2412.11100](http://arxiv.org/abs/2412.11100)|null|
 |**2024-12-15**|**EquiFlow: Equivariant Conditional Flow Matching with Optimal Transport for 3D Molecular Conformation Prediction**|Qingwen Tian et.al.|[2412.11082](http://arxiv.org/abs/2412.11082)|null|
-|**2024-12-15**|**CFSynthesis: Controllable and Free-view 3D Human Video Synthesis**|Cui Liyuan et.al.|[2412.11067](http://arxiv.org/abs/2412.11067)|null|
+|**2024-12-17**|**CFSynthesis: Controllable and Free-view 3D Human Video Synthesis**|Liyuan Cui et.al.|[2412.11067](http://arxiv.org/abs/2412.11067)|null|
 |**2024-12-15**|**SHMT: Self-supervised Hierarchical Makeup Transfer via Latent Diffusion Models**|Zhaoyang Sun et.al.|[2412.11058](http://arxiv.org/abs/2412.11058)|**[link](https://github.com/snowfallingplum/shmt)**|
 |**2024-12-15**|**Understanding and Mitigating Memorization in Diffusion Models for Tabular Data**|Zhengyu Fang et.al.|[2412.11044](http://arxiv.org/abs/2412.11044)|null|
-|**2024-12-15**|**Exploring Diffusion and Flow Matching Under Generator Matching**|Zeeshan Patel et.al.|[2412.11024](http://arxiv.org/abs/2412.11024)|null|
+|**2024-12-17**|**Exploring Diffusion and Flow Matching Under Generator Matching**|Zeeshan Patel et.al.|[2412.11024](http://arxiv.org/abs/2412.11024)|null|
 |**2024-12-14**|**Biological and Radiological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary version PM1.0**|Mohammad R. Salmanpour et.al.|[2412.10967](http://arxiv.org/abs/2412.10967)|null|
 |**2024-12-14**|**Generative Modeling with Diffusion**|Justin Le et.al.|[2412.10948](http://arxiv.org/abs/2412.10948)|null|
 |**2024-12-14**|**Progressive Compression with Universally Quantized Diffusion Models**|Yibo Yang et.al.|[2412.10935](http://arxiv.org/abs/2412.10935)|null|
-|**2024-12-14**|**Zigzag Diffusion Sampling: The Path to Success Is Zigzag**|Lichen Bai et.al.|[2412.10891](http://arxiv.org/abs/2412.10891)|**[link](https://github.com/xie-lab-ml/zigzag-diffusion-sampling)**|
+|**2024-12-17**|**Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection**|Lichen Bai et.al.|[2412.10891](http://arxiv.org/abs/2412.10891)|**[link](https://github.com/xie-lab-ml/zigzag-diffusion-sampling)**|
 |**2024-12-14**|**Hypocoercivity meets lifts**|Giovanni Brigati et.al.|[2412.10890](http://arxiv.org/abs/2412.10890)|null|
 |**2024-12-14**|**Predictor-corrector, BGN-based parametric finite element methods for surface diffusion**|Wei Jiang et.al.|[2412.10887](http://arxiv.org/abs/2412.10887)|null|
 |**2024-12-14**|**Fast and Robust Visuomotor Riemannian Flow Matching Policy**|Haoran Ding et.al.|[2412.10855](http://arxiv.org/abs/2412.10855)|null|
