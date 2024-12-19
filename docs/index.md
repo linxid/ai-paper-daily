@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -97,7 +97,7 @@ layout: default
 |**2024-12-16**|**A Large Language Model Approach to Identify Flakiness in C++ Projects**|Xin Sun et.al.|[2412.12340](http://arxiv.org/abs/2412.12340)|null|
 |**2024-12-16**|**Second Language (Arabic) Acquisition of LLMs via Progressive Vocabulary Expansion**|Jianqing Zhu et.al.|[2412.12310](http://arxiv.org/abs/2412.12310)|null|
 |**2024-12-16**|**Emergence of Abstractions: Concept Encoding and Decoding Mechanism for In-Context Learning in Transformers**|Seungwook Han et.al.|[2412.12276](http://arxiv.org/abs/2412.12276)|null|
-|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
+|**2024-12-17**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087](http://arxiv.org/abs/2412.12087)|null|
 |**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077](http://arxiv.org/abs/2412.12077)|null|
 |**2024-12-16**|**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**|Guo Chen et.al.|[2412.12075](http://arxiv.org/abs/2412.12075)|null|
@@ -9999,7 +9999,7 @@ layout: default
 |**2024-12-17**|**DuSSS: Dual Semantic Similarity-Supervised Vision-Language Model for Semi-Supervised Medical Image Segmentation**|Qingtao Pan et.al.|[2412.12492](http://arxiv.org/abs/2412.12492)|**[link](https://github.com/QingtaoPan/DuSSS)**|
 |**2024-12-16**|**You Only Submit One Image to Find the Most Suitable Generative Model**|Zhi Zhou et.al.|[2412.12232](http://arxiv.org/abs/2412.12232)|null|
 |**2024-12-16**|**Endangered Alert: A Field-Validated Self-Training Scheme for Detecting and Protecting Threatened Wildlife on Roads and Roadsides**|Kunming Li et.al.|[2412.12222](http://arxiv.org/abs/2412.12222)|**[link](https://github.com/acfr/cassdetect)**|
-|**2024-12-16**|**Does VLM Classification Benefit from LLM Description Semantics?**|Pingchuan Ma et.al.|[2412.11917](http://arxiv.org/abs/2412.11917)|**[link](https://github.com/compvis/disclip)**|
+|**2024-12-18**|**Does VLM Classification Benefit from LLM Description Semantics?**|Pingchuan Ma et.al.|[2412.11917](http://arxiv.org/abs/2412.11917)|**[link](https://github.com/compvis/disclip)**|
 |**2024-12-17**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
 |**2024-12-16**|**Multimodal LLM for Intelligent Transportation Systems**|Dexter Le et.al.|[2412.11683](http://arxiv.org/abs/2412.11683)|null|
 |**2024-12-16**|**LMM-Regularized CLIP Embeddings for Image Classification**|Maria Tzelepi et.al.|[2412.11663](http://arxiv.org/abs/2412.11663)|null|
@@ -10080,7 +10080,7 @@ layout: default
 |**2024-12-09**|**The Narrow Gate: Localized Image-Text Communication in Vision-Language Models**|Alessandro Serra et.al.|[2412.06646](http://arxiv.org/abs/2412.06646)|null|
 |**2024-12-09**|**From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout Decoding**|Yixiong Fang et.al.|[2412.06474](http://arxiv.org/abs/2412.06474)|**[link](https://github.com/kigb/dropoutdecoding)**|
 |**2024-12-09**|**Pruning All-Rounder: Rethinking and Improving Inference Efficiency for Large Vision Language Models**|Wei Suo et.al.|[2412.06458](http://arxiv.org/abs/2412.06458)|null|
-|**2024-12-09**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
+|**2024-12-18**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286](http://arxiv.org/abs/2412.06286)|**[link](https://github.com/patrick-john-ramos/nada)**|
 |**2024-12-09**|**iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models**|Lianyu Hu et.al.|[2412.06263](http://arxiv.org/abs/2412.06263)|**[link](https://github.com/hulianyuyy/illava)**|
 |**2024-12-09**|**DenseVLM: A Retrieval and Decoupled Alignment Framework for Open-Vocabulary Dense Prediction**|Yunheng Li et.al.|[2412.06244](http://arxiv.org/abs/2412.06244)|null|
 |**2024-12-09**|**Evaluating Model Perception of Color Illusions in Photorealistic Scenes**|Lingjun Mao et.al.|[2412.06184](http://arxiv.org/abs/2412.06184)|null|
@@ -11795,13 +11795,13 @@ layout: default
 |**2024-12-17**|**HCG 57: Evidence for shock-heated intergalactic gas from X-rays and optical emission line spectroscopy**|Ewan O'Sullivan et.al.|[2412.13055](http://arxiv.org/abs/2412.13055)|null|
 |**2024-12-17**|**Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks**|Kun Huang et.al.|[2412.13054](http://arxiv.org/abs/2412.13054)|null|
 |**2024-12-17**|**Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression**|Ruijie Chen et.al.|[2412.12982](http://arxiv.org/abs/2412.12982)|null|
-|**2024-12-17**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
+|**2024-12-18**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
 |**2024-12-17**|**ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting**|Guillaume Couairon et.al.|[2412.12971](http://arxiv.org/abs/2412.12971)|**[link](https://github.com/inria/geoarches)**|
 |**2024-12-17**|**Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**|Moritz Reuss et.al.|[2412.12953](http://arxiv.org/abs/2412.12953)|null|
 |**2024-12-17**|**Emergent short-range repulsion for attractively coupled active particles**|Ritwick Sarkar et.al.|[2412.12934](http://arxiv.org/abs/2412.12934)|null|
 |**2024-12-17**|**Generation of cosmic ray trajectories by a Diffusion Model trained on test particles in 3D magnetohydrodynamic turbulence**|Johannes Martin et.al.|[2412.12923](http://arxiv.org/abs/2412.12923)|null|
 |**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912](http://arxiv.org/abs/2412.12912)|null|
-|**2024-12-17**|**ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction**|Zhongjie Duan et.al.|[2412.12888](http://arxiv.org/abs/2412.12888)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
+|**2024-12-18**|**ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction**|Zhongjie Duan et.al.|[2412.12888](http://arxiv.org/abs/2412.12888)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
 |**2024-12-17**|**Diffusion backbone of temporal higher-order networks**|Shilun Zhang et.al.|[2412.12856](http://arxiv.org/abs/2412.12856)|null|
 |**2024-12-17**|**Rethinking Diffusion-Based Image Generators for Fundus Fluorescein Angiography Synthesis on Limited Data**|Chengzhou Yu et.al.|[2412.12778](http://arxiv.org/abs/2412.12778)|null|
 |**2024-12-17**|**Guided and Variance-Corrected Fusion with One-shot Style Alignment for Large-Content Image Generation**|Shoukun Sun et.al.|[2412.12771](http://arxiv.org/abs/2412.12771)|null|
@@ -11855,7 +11855,7 @@ layout: default
 |**2024-12-16**|**Joint Reconstruction of the Activity and the Attenuation in PET by Diffusion Posterior Sampling: a Feasibility Study**|Clémentine Phung-Ngoc et.al.|[2412.11776](http://arxiv.org/abs/2412.11776)|null|
 |**2024-12-17**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
 |**2024-12-16**|**Non-local non-homogeneous phase transitions: regularity of optimal profiles and sharp-interface limit**|Elisa Davoli et.al.|[2412.11756](http://arxiv.org/abs/2412.11756)|null|
-|**2024-12-16**|**Conditional Diffusion Models Based Conditional Independence Testing**|Yanfeng Yang et.al.|[2412.11744](http://arxiv.org/abs/2412.11744)|**[link](https://github.com/yanfeng-yang-0316/cdcit)**|
+|**2024-12-18**|**Conditional Diffusion Models Based Conditional Independence Testing**|Yanfeng Yang et.al.|[2412.11744](http://arxiv.org/abs/2412.11744)|**[link](https://github.com/yanfeng-yang-0316/cdcit)**|
 |**2024-12-16**|**Re-Attentional Controllable Video Diffusion Editing**|Yuanzhi Wang et.al.|[2412.11710](http://arxiv.org/abs/2412.11710)|**[link](https://github.com/mdswyz/reatco)**|
 |**2024-12-16**|**AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration**|Wenhao Sun et.al.|[2412.11706](http://arxiv.org/abs/2412.11706)|null|
 |**2024-12-16**|**Sodium diffusion in alkali feldspars: Towards the impact of Al/Si ordering**|Olga Kulitckaya et.al.|[2412.11635](http://arxiv.org/abs/2412.11635)|null|
