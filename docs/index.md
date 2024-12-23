@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.22
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -11989,7 +11989,7 @@ layout: default
 |**2024-12-19**|**DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**|Mang Ning et.al.|[2412.15032](http://arxiv.org/abs/2412.15032)|**[link](https://github.com/forever208/dctdiff)**|
 |**2024-12-19**|**Stable-V2A: Synthesis of Synchronized Sound Effects with Temporal and Semantic Controls**|Riccardo Fosco Gramaccioni et.al.|[2412.15023](http://arxiv.org/abs/2412.15023)|null|
 |**2024-12-19**|**Brownian motion at various length scales with hydrodynamic and direct interactions**|Jeffrey C. Everts et.al.|[2412.15017](http://arxiv.org/abs/2412.15017)|null|
-|**2024-12-19**|**Multi-frequency Radio Observations of the Dissociative Cluster Merger CIZA J0107.7+5408**|Emma Schwartzman et.al.|[2412.15015](http://arxiv.org/abs/2412.15015)|null|
+|**2024-12-20**|**Multi-frequency Radio Observations of the Dissociative Cluster Merger CIZA J0107.7+5408**|Emma Schwartzman et.al.|[2412.15015](http://arxiv.org/abs/2412.15015)|null|
 |**2024-12-19**|**Non-Markovian Effects in Quantum Rate Calculations of Hydrogen Diffusion with Electronic Friction**|George Trenins et.al.|[2412.15014](http://arxiv.org/abs/2412.15014)|null|
 |**2024-12-19**|**Projection-based preprocessing for electrical impedance tomography to reduce the effect of electrode contacts**|Altti Jääskeläinen et.al.|[2412.15009](http://arxiv.org/abs/2412.15009)|null|
 |**2024-12-19**|**Observation of liquid-solid transition of nanoconfined water at ambient temperature**|Wentian Zheng et.al.|[2412.15001](http://arxiv.org/abs/2412.15001)|null|
