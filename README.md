@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -10219,7 +10219,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -10286,7 +10286,7 @@
 |**2024-12-16**|**ACE- $M^3$ : Automatic Capability Evaluator for Multimodal Medical Models**|Xiechi Zhang et.al.|[2412.11453](http://arxiv.org/abs/2412.11453)|null|
 |**2024-12-16**|**Leveraging Retrieval-Augmented Tags for Large Vision-Language Understanding in Complex Scenes**|Antonio Carlos Rivera et.al.|[2412.11396](http://arxiv.org/abs/2412.11396)|null|
 |**2024-12-16**|**Temporal Contrastive Learning for Video Temporal Reasoning in Large Vision-Language Models**|Rafael Souza et.al.|[2412.11391](http://arxiv.org/abs/2412.11391)|null|
-|**2024-12-15**|**Combating Multimodal LLM Hallucination via Bottom-up Holistic Reasoning**|Shengqiong Wu et.al.|[2412.11124](http://arxiv.org/abs/2412.11124)|null|
+|**2024-12-21**|**Combating Multimodal LLM Hallucination via Bottom-Up Holistic Reasoning**|Shengqiong Wu et.al.|[2412.11124](http://arxiv.org/abs/2412.11124)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
 |**2024-12-15**|**RAC3: Retrieval-Augmented Corner Case Comprehension for Autonomous Driving with Vision-Language Models**|Yujin Wang et.al.|[2412.11050](http://arxiv.org/abs/2412.11050)|null|
 |**2024-12-17**|**Do large language vision models understand 3D shapes?**|Sagi Eppel et.al.|[2412.10908](http://arxiv.org/abs/2412.10908)|null|
@@ -12055,7 +12055,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Diffusion
 
@@ -12080,7 +12080,7 @@
 |**2024-12-20**|**Grim Raindrop: A Translating Solution to Curve Diffusion Flow**|W. Jacob Ogden et.al.|[2412.15934](http://arxiv.org/abs/2412.15934)|null|
 |**2024-12-20**|**First Constraint on the Diffuse Supernova Neutrino Background through the CE $ν$ NS process from the LZ experiment**|Qing Xia et.al.|[2412.15886](http://arxiv.org/abs/2412.15886)|null|
 |**2024-12-20**|**Semi-Supervised Adaptation of Diffusion Models for Handwritten Text Generation**|Kai Brandenbusch et.al.|[2412.15853](http://arxiv.org/abs/2412.15853)|null|
-|**2024-12-20**|**A non-recursive Schur-Decomposition Algorithm for $N$ -Dimensional Matrix Equations**|Carlota M. Cuesta Romero et.al.|[2412.15840](http://arxiv.org/abs/2412.15840)|null|
+|**2024-12-20**|**A non-recursive Schur-Decomposition Algorithm for $N$ -Dimensional Matrix Equations**|Carlota M. Cuesta et.al.|[2412.15840](http://arxiv.org/abs/2412.15840)|null|
 |**2024-12-20**|**3D non-linear non-adiabatic MHD simulations of core density collapse event in LHD plasma**|A. Civit et.al.|[2412.15823](http://arxiv.org/abs/2412.15823)|null|
 |**2024-12-20**|**Imaging the transition from diffusive to Landauer resistivity dipoles**|David Kämpfer et.al.|[2412.15817](http://arxiv.org/abs/2412.15817)|null|
 |**2024-12-20**|**Sampling inverse subordinators and subdiffusions**|Ivan Biočić et.al.|[2412.15815](http://arxiv.org/abs/2412.15815)|null|
@@ -19463,7 +19463,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
