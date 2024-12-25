@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -10367,7 +10367,7 @@ layout: default
 |**2024-12-18**|**Mobilizing Waldo: Evaluating Multimodal AI for Public Mobilization**|Manuel Cebrian et.al.|[2412.14210](http://arxiv.org/abs/2412.14210)|null|
 |**2024-12-18**|**Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation**|Jianyu Zhang et.al.|[2412.14145](http://arxiv.org/abs/2412.14145)|null|
 |**2024-12-18**|**Performance Gap in Entity Knowledge Extraction Across Modalities in Vision Language Models**|Ido Cohen et.al.|[2412.14133](http://arxiv.org/abs/2412.14133)|**[link](https://github.com/ido-co/vlm-modality-gap)**|
-|**2024-12-23**|**Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models**|Xinghang Li et.al.|[2412.14058](http://arxiv.org/abs/2412.14058)|null|
+|**2024-12-24**|**Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models**|Xinghang Li et.al.|[2412.14058](http://arxiv.org/abs/2412.14058)|null|
 |**2024-12-18**|**Cracking the Code of Hallucination in LVLMs with Vision-aware Head Divergence**|Jinghan He et.al.|[2412.13949](http://arxiv.org/abs/2412.13949)|null|
 |**2024-12-18**|**Real Classification by Description: Extending CLIP's Limits of Part Attributes Recognition**|Ethan Baron et.al.|[2412.13947](http://arxiv.org/abs/2412.13947)|null|
 |**2024-12-18**|**Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection**|Le Yang et.al.|[2412.13817](http://arxiv.org/abs/2412.13817)|**[link](https://github.com/ziwei-zheng/nullu)**|
@@ -10396,7 +10396,7 @@ layout: default
 |**2024-12-16**|**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**|Shihan Wu et.al.|[2412.11509](http://arxiv.org/abs/2412.11509)|**[link](https://github.com/koorye/skiptuning)**|
 |**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
 |**2024-12-16**|**OmniVLM: A Token-Compressed, Sub-Billion-Parameter Vision-Language Model for Efficient On-Device Inference**|Wei Chen et.al.|[2412.11475](http://arxiv.org/abs/2412.11475)|null|
-|**2024-12-16**|**MaskCLIP++: A Mask-Based CLIP Fine-tuning Framework for Open-Vocabulary Image Segmentation**|Quan-Sheng Zeng et.al.|[2412.11464](http://arxiv.org/abs/2412.11464)|null|
+|**2024-12-24**|**MaskCLIP++: A Mask-Based CLIP Fine-tuning Framework for Open-Vocabulary Image Segmentation**|Quan-Sheng Zeng et.al.|[2412.11464](http://arxiv.org/abs/2412.11464)|null|
 |**2024-12-16**|**ACE- $M^3$ : Automatic Capability Evaluator for Multimodal Medical Models**|Xiechi Zhang et.al.|[2412.11453](http://arxiv.org/abs/2412.11453)|null|
 |**2024-12-16**|**Leveraging Retrieval-Augmented Tags for Large Vision-Language Understanding in Complex Scenes**|Antonio Carlos Rivera et.al.|[2412.11396](http://arxiv.org/abs/2412.11396)|null|
 |**2024-12-16**|**Temporal Contrastive Learning for Video Temporal Reasoning in Large Vision-Language Models**|Rafael Souza et.al.|[2412.11391](http://arxiv.org/abs/2412.11391)|null|
@@ -12174,7 +12174,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812](http://arxiv.org/abs/2412.17812)|null|
-|**2024-12-23**|**Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**|Rui Chen et.al.|[2412.17808](http://arxiv.org/abs/2412.17808)|null|
+|**2024-12-24**|**Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**|Rui Chen et.al.|[2412.17808](http://arxiv.org/abs/2412.17808)|null|
 |**2024-12-23**|**Encoding off-shell effects in top pair production in Direct Diffusion networks**|Mathias Kuschick et.al.|[2412.17783](http://arxiv.org/abs/2412.17783)|null|
 |**2024-12-23**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
 |**2024-12-23**|**Thermal Quench Dynamics of Visons in Gapless Kitaev Spin Liquid**|Yang Yang et.al.|[2412.17774](http://arxiv.org/abs/2412.17774)|null|
@@ -12194,7 +12194,7 @@ layout: default
 |**2024-12-23**|**Traveling Waves in Bistable Reaction-Diffusion Cellular Automata**|Daniel Špale et.al.|[2412.17441](http://arxiv.org/abs/2412.17441)|null|
 |**2024-12-23**|**Effective transport by 2D turbulence: Vortex-gas intermittency vs. Kraichnan-Leith-Batchelor theory**|Julie Meunier et.al.|[2412.17431](http://arxiv.org/abs/2412.17431)|null|
 |**2024-12-23**|**AeroDiT: Diffusion Transformers for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows**|Hui Xiang et.al.|[2412.17394](http://arxiv.org/abs/2412.17394)|null|
-|**2024-12-23**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|null|
+|**2024-12-24**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|null|
 |**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346](http://arxiv.org/abs/2412.17346)|null|
 |**2024-12-23**|**Broadband Ground Motion Synthesis by Diffusion Model with Minimal Condition**|Jaeheun Jung et.al.|[2412.17333](http://arxiv.org/abs/2412.17333)|null|
 |**2024-12-23**|**Free-viewpoint Human Animation with Pose-correlated Reference Selection**|Fa-Ting Hong et.al.|[2412.17290](http://arxiv.org/abs/2412.17290)|null|
@@ -12262,7 +12262,7 @@ layout: default
 |**2024-12-20**|**CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up**|Songhua Liu et.al.|[2412.16112](http://arxiv.org/abs/2412.16112)|**[link](https://github.com/huage001/clear)**|
 |**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083](http://arxiv.org/abs/2412.16083)|null|
 |**2024-12-20**|**Functional Renormalization Group meets Computational Fluid Dynamics: RG flows in a multi-dimensional field space**|Niklas Zorbach et.al.|[2412.16053](http://arxiv.org/abs/2412.16053)|null|
-|**2024-12-20**|**Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**|Shaoyan Pan et.al.|[2412.16050](http://arxiv.org/abs/2412.16050)|null|
+|**2024-12-23**|**Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**|Shaoyan Pan et.al.|[2412.16050](http://arxiv.org/abs/2412.16050)|null|
 |**2024-12-20**|**SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe Generation**|Jiadong Pan et.al.|[2412.16039](http://arxiv.org/abs/2412.16039)|null|
 |**2024-12-20**|**Probing lactate exchange and compartmentation in Gray Matter via time-dependent diffusion-weighted MRS**|Eloise Mougel et.al.|[2412.16014](http://arxiv.org/abs/2412.16014)|null|
 |**2024-12-20**|**Convergence of nonhomogeneous Hawkes processes and Feller random measures**|Tristan Pace et.al.|[2412.15999](http://arxiv.org/abs/2412.15999)|null|
