@@ -33,7 +33,7 @@ layout: default
 |**2024-12-24**|**Multilingual Mathematical Reasoning: Advancing Open-Source LLMs in Hindi and English**|Avinash Anand et.al.|[2412.18415](http://arxiv.org/abs/2412.18415)|**[link](https://github.com/midas-research/Multilingual-Mathematical-Reasoning)**|
 |**2024-12-24**|**A Statistical Framework for Ranking LLM-Based Chatbots**|Siavash Ameli et.al.|[2412.18407](http://arxiv.org/abs/2412.18407)|null|
 |**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
-|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|null|
+|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|**[link](https://github.com/KevinHeiwa/Agentable)**|
 |**2024-12-24**|**Multi-Agents Based on Large Language Models for Knowledge-based Visual Question Answering**|Zhongjian Hu et.al.|[2412.18351](http://arxiv.org/abs/2412.18351)|null|
 |**2024-12-24**|**M-Ped: Multi-Prompt Ensemble Decoding for Large Language Models**|Jiaxin Guo et.al.|[2412.18299](http://arxiv.org/abs/2412.18299)|null|
 |**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298](http://arxiv.org/abs/2412.18298)|**[link](https://github.com/Darcyddx/Video-LLM)**|
@@ -72,7 +72,7 @@ layout: default
 |**2024-12-24**|**Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner**|Aizierjiang Aiersilan et.al.|[2412.18086](http://arxiv.org/abs/2412.18086)|**[link](https://github.com/Ezharjan/AutoSceneGen)**|
 |**2024-12-24**|**Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models**|Xuan Lin et.al.|[2412.18084](http://arxiv.org/abs/2412.18084)|**[link](https://github.com/chenlong164/peit)**|
 |**2024-12-24**|**Improving Factuality with Explicit Working Memory**|Mingda Chen et.al.|[2412.18069](http://arxiv.org/abs/2412.18069)|null|
-|**2024-12-24**|**LMRPA: Large Language Model-Driven Efficient Robotic Process Automation for OCR**|Osama Hosam Abdellaif et.al.|[2412.18063](http://arxiv.org/abs/2412.18063)|null|
+|**2024-12-24**|**LMRPA: Large Language Model-Driven Efficient Robotic Process Automation for OCR**|Osama Hosam Abdellaif et.al.|[2412.18063](http://arxiv.org/abs/2412.18063)|**[link](https://github.com/mad-sam22/erpa-ocr)**|
 |**2024-12-24**|**Lla-VAP: LSTM Ensemble of Llama and VAP for Turn-Taking Prediction**|Hyunbae Jeon et.al.|[2412.18061](http://arxiv.org/abs/2412.18061)|null|
 |**2024-12-24**|**An Ensemble Approach to Short-form Video Quality Assessment Using Multimodal LLM**|Wen Wen et.al.|[2412.18060](http://arxiv.org/abs/2412.18060)|null|
 |**2024-12-23**|**Factuality or Fiction? Benchmarking Modern LLMs on Ambiguous QA with Citations**|Maya Patel et.al.|[2412.18051](http://arxiv.org/abs/2412.18051)|null|
@@ -10399,7 +10399,7 @@ layout: default
 |**2024-12-24**|**Weak Scaling Capability in Token Space: An Observation from Large Vision Language Model**|Tenghui Li et.al.|[2412.18387](http://arxiv.org/abs/2412.18387)|null|
 |**2024-12-24**|**Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model**|Yushu Li et.al.|[2412.18303](http://arxiv.org/abs/2412.18303)|null|
 |**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298](http://arxiv.org/abs/2412.18298)|**[link](https://github.com/Darcyddx/Video-LLM)**|
-|**2024-12-24**|**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**|Zhixuan Shen et.al.|[2412.18292](http://arxiv.org/abs/2412.18292)|null|
+|**2024-12-24**|**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**|Zhixuan Shen et.al.|[2412.18292](http://arxiv.org/abs/2412.18292)|**[link](https://github.com/frankzxshen/mcoconav)**|
 |**2024-12-24**|**Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation**|Yucong Luo et.al.|[2412.18176](http://arxiv.org/abs/2412.18176)|null|
 |**2024-12-24**|**EvalMuse-40K: A Reliable and Fine-Grained Benchmark with Comprehensive Human Annotations for Text-to-Image Generation Model Evaluation**|Shuhao Han et.al.|[2412.18150](http://arxiv.org/abs/2412.18150)|null|
 |**2024-12-24**|**MMFactory: A Universal Solution Search Engine for Vision-Language Tasks**|Wan-Cyuan Fan et.al.|[2412.18072](http://arxiv.org/abs/2412.18072)|null|
@@ -12313,7 +12313,7 @@ layout: default
 |**2024-12-23**|**Traveling Waves in Bistable Reaction-Diffusion Cellular Automata**|Daniel Špale et.al.|[2412.17441](http://arxiv.org/abs/2412.17441)|null|
 |**2024-12-23**|**Effective transport by 2D turbulence: Vortex-gas intermittency vs. Kraichnan-Leith-Batchelor theory**|Julie Meunier et.al.|[2412.17431](http://arxiv.org/abs/2412.17431)|null|
 |**2024-12-23**|**AeroDiT: Diffusion Transformers for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows**|Hui Xiang et.al.|[2412.17394](http://arxiv.org/abs/2412.17394)|null|
-|**2024-12-24**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|null|
+|**2024-12-24**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|**[link](https://github.com/lait-cvlab/singular-value-scaling)**|
 |**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346](http://arxiv.org/abs/2412.17346)|null|
 |**2024-12-23**|**Broadband Ground Motion Synthesis by Diffusion Model with Minimal Condition**|Jaeheun Jung et.al.|[2412.17333](http://arxiv.org/abs/2412.17333)|null|
 |**2024-12-23**|**Free-viewpoint Human Animation with Pose-correlated Reference Selection**|Fa-Ting Hong et.al.|[2412.17290](http://arxiv.org/abs/2412.17290)|null|
@@ -12354,7 +12354,7 @@ layout: default
 |**2024-12-21**|**Space-time divergence lemmas and optimal non-reversible lifts of diffusions on Riemannian manifolds with boundary**|Andreas Eberle et.al.|[2412.16710](http://arxiv.org/abs/2412.16710)|null|
 |**2024-12-21**|**Development of grid-based and PINN solvers for electron kinetics in collisional non-thermal plasmas**|Vladimir Kolobov et.al.|[2412.16706](http://arxiv.org/abs/2412.16706)|null|
 |**2024-12-21**|**TCAQ-DM: Timestep-Channel Adaptive Quantization for Diffusion Models**|Haocheng Huang et.al.|[2412.16700](http://arxiv.org/abs/2412.16700)|null|
-|**2024-12-21**|**FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation**|Jinlin Li et.al.|[2412.16699](http://arxiv.org/abs/2412.16699)|null|
+|**2024-12-21**|**FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation**|Jinlin Li et.al.|[2412.16699](http://arxiv.org/abs/2412.16699)|**[link](https://github.com/jinlin2021/fap_cd)**|
 |**2024-12-21**|**A class of forward-backward diffusion equations for multiplicative noise removal**|Yihui Tong et.al.|[2412.16676](http://arxiv.org/abs/2412.16676)|null|
 |**2024-12-21**|**Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer**|Boyuan Li et.al.|[2412.16670](http://arxiv.org/abs/2412.16670)|null|
 |**2024-12-21**|**On uniform null controllability of transport-diffusion equations with vanishing viscosity limit**|Fouad Et-Tahri et.al.|[2412.16660](http://arxiv.org/abs/2412.16660)|null|
