@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.02
+## Updated on 2025.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -22,7 +22,7 @@ layout: default
 |**2024-12-30**|**TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization**|Chia-Yu Hung et.al.|[2412.21037](http://arxiv.org/abs/2412.21037)|**[link](https://github.com/declare-lab/TangoFlux)**|
 |**2024-12-30**|**GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models**|Shangyu Xing et.al.|[2412.21036](http://arxiv.org/abs/2412.21036)|null|
 |**2024-12-30**|**MapQaTor: A System for Efficient Annotation of Map Query Datasets**|Mahir Labib Dihan et.al.|[2412.21015](http://arxiv.org/abs/2412.21015)|**[link](https://github.com/MapQaTor/.github/tree/main/profile)**|
-|**2024-12-30**|**Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**|Joonwon Jang et.al.|[2412.21006](http://arxiv.org/abs/2412.21006)|null|
+|**2024-12-31**|**Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria**|Joonwon Jang et.al.|[2412.21006](http://arxiv.org/abs/2412.21006)|null|
 |**2024-12-30**|**Plug-and-Play Training Framework for Preference Optimization**|Jingyuan Ma et.al.|[2412.20996](http://arxiv.org/abs/2412.20996)|null|
 |**2024-12-30**|**KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation**|Siyuan Fang et.al.|[2412.20995](http://arxiv.org/abs/2412.20995)|null|
 |**2024-12-30**|**Efficiently Serving LLM Reasoning Programs with Certaindex**|Yichao Fu et.al.|[2412.20993](http://arxiv.org/abs/2412.20993)|null|
@@ -81,7 +81,7 @@ layout: default
 |**2024-12-28**|**M-MAD: Multidimensional Multi-Agent Debate Framework for Fine-grained Machine Translation Evaluation**|Zhaopeng Feng et.al.|[2412.20127](http://arxiv.org/abs/2412.20127)|**[link](https://github.com/su-jiayuan/m-mad)**|
 |**2024-12-28**|**ST $^3$ : Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming**|Jiedong Zhuang et.al.|[2412.20105](http://arxiv.org/abs/2412.20105)|null|
 |**2024-12-28**|**On the Validity of Traditional Vulnerability Scoring Systems for Adversarial Attacks against LLMs**|Atmane Ayoub Mansour Bahar et.al.|[2412.20087](http://arxiv.org/abs/2412.20087)|null|
-|**2024-12-28**|**Extract Information from Hybrid Long Documents Leveraging LLMs: A Framework and Dataset**|Chongjian Yue et.al.|[2412.20072](http://arxiv.org/abs/2412.20072)|null|
+|**2024-12-31**|**Extract Information from Hybrid Long Documents Leveraging LLMs: A Framework and Dataset**|Chongjian Yue et.al.|[2412.20072](http://arxiv.org/abs/2412.20072)|null|
 |**2024-12-28**|**On the Compositional Generalization of Multimodal LLMs for Medical Imaging**|Zhenyang Cai et.al.|[2412.20070](http://arxiv.org/abs/2412.20070)|**[link](https://github.com/freedomintelligence/med-mat)**|
 |**2024-12-28**|**MADiff: Text-Guided Fashion Image Editing with Mask Prediction and Attention-Enhanced Diffusion**|Zechao Zhan et.al.|[2412.20062](http://arxiv.org/abs/2412.20062)|null|
 |**2024-12-28**|**Comparative Analysis of Listwise Reranking with Large Language Models in Limited-Resource Language Contexts**|Yanxin Shen et.al.|[2412.20061](http://arxiv.org/abs/2412.20061)|null|
@@ -10592,7 +10592,7 @@ layout: default
 |**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298](http://arxiv.org/abs/2412.18298)|**[link](https://github.com/Darcyddx/Video-LLM)**|
 |**2024-12-24**|**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**|Zhixuan Shen et.al.|[2412.18292](http://arxiv.org/abs/2412.18292)|**[link](https://github.com/frankzxshen/mcoconav)**|
 |**2024-12-30**|**Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation**|Yucong Luo et.al.|[2412.18176](http://arxiv.org/abs/2412.18176)|null|
-|**2024-12-25**|**EvalMuse-40K: A Reliable and Fine-Grained Benchmark with Comprehensive Human Annotations for Text-to-Image Generation Model Evaluation**|Shuhao Han et.al.|[2412.18150](http://arxiv.org/abs/2412.18150)|null|
+|**2024-12-25**|**EvalMuse-40K: A Reliable and Fine-Grained Benchmark with Comprehensive Human Annotations for Text-to-Image Generation Model Evaluation**|Shuhao Han et.al.|[2412.18150](http://arxiv.org/abs/2412.18150)|**[link](https://github.com/DYEvaLab/EvalMuse)**|
 |**2024-12-24**|**MMFactory: A Universal Solution Search Engine for Vision-Language Tasks**|Wan-Cyuan Fan et.al.|[2412.18072](http://arxiv.org/abs/2412.18072)|null|
 |**2024-12-24**|**An Ensemble Approach to Short-form Video Quality Assessment Using Multimodal LLM**|Wen Wen et.al.|[2412.18060](http://arxiv.org/abs/2412.18060)|null|
 |**2024-12-28**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811](http://arxiv.org/abs/2412.17811)|null|
