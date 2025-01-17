@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.16
+## Updated on 2025.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -12824,7 +12824,7 @@ layout: default
 |**2025-01-15**|**MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2501.08837](http://arxiv.org/abs/2501.08837)|null|
 |**2025-01-15**|**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution**|Shao-Hao Lu et.al.|[2501.08819](http://arxiv.org/abs/2501.08819)|**[link](https://github.com/ryanlu2240/boosting-diffusion-guidance-via-learning-degradation-aware-models-for-blind-super-resolution)**|
 |**2025-01-15**|**Growth of Diffuse Intragroup Light in Simulated Galaxy Groups**|B. Bilata-Woldeyes et.al.|[2501.08811](http://arxiv.org/abs/2501.08811)|null|
-|**2025-01-15**|**Transient Instability and Patterns of Reactivity in Diffusive-Chemotaxis Soil Carbon Dynamics**|Fasma Diele et.al.|[2501.08757](http://arxiv.org/abs/2501.08757)|null|
+|**2025-01-16**|**Transient Instability and Patterns of Reactivity in Diffusive-Chemotaxis Soil Carbon Dynamics**|Fasma Diele et.al.|[2501.08757](http://arxiv.org/abs/2501.08757)|null|
 |**2025-01-15**|**Beyond the band edge: Unveiling high-mobility hot carriers in a two-dimensional conjugated coordination polymer**|Shuai Fu et.al.|[2501.08742](http://arxiv.org/abs/2501.08742)|null|
 |**2025-01-15**|**Transformed Low-rank Adaptation via Tensor Decomposition and Its Applications to Text-to-image Models**|Zerui Tao et.al.|[2501.08727](http://arxiv.org/abs/2501.08727)|null|
 |**2025-01-15**|**The voter model on random regular graphs with random rewiring**|Luca Avena et.al.|[2501.08703](http://arxiv.org/abs/2501.08703)|null|
@@ -12851,7 +12851,7 @@ layout: default
 |**2025-01-14**|**Superdiffusive transport in chaotic quantum systems with nodal interactions**|Yu-Peng Wang et.al.|[2501.08381](http://arxiv.org/abs/2501.08381)|null|
 |**2025-01-14**|**DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models**|Hyeonwoo Kim et.al.|[2501.08333](http://arxiv.org/abs/2501.08333)|null|
 |**2025-01-14**|**MangaNinja: Line Art Colorization with Precise Reference Following**|Zhiheng Liu et.al.|[2501.08332](http://arxiv.org/abs/2501.08332)|null|
-|**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331](http://arxiv.org/abs/2501.08331)|**[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**|
+|**2025-01-16**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331](http://arxiv.org/abs/2501.08331)|**[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**|
 |**2025-01-14**|**Two-Peak Heat Capacity Accounts for $R\ln(2)$ Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce$_2$Hf$_2$O$_7$**|E. M. Smith et.al.|[2501.08327](http://arxiv.org/abs/2501.08327)|null|
 |**2025-01-14**|**GameFactory: Creating New Games with Generative Interactive Videos**|Jiwen Yu et.al.|[2501.08325](http://arxiv.org/abs/2501.08325)|null|
 |**2025-01-14**|**Diffusion Adversarial Post-Training for One-Step Video Generation**|Shanchuan Lin et.al.|[2501.08316](http://arxiv.org/abs/2501.08316)|null|
