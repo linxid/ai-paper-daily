@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.19
+## Updated on 2025.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -12898,7 +12898,7 @@ layout: default
 |**2025-01-16**|**CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation**|Hwan Heo et.al.|[2501.09433](http://arxiv.org/abs/2501.09433)|null|
 |**2025-01-16**|**Uncertainty in Elastic Turbulence**|Jack R. C. King et.al.|[2501.09421](http://arxiv.org/abs/2501.09421)|null|
 |**2025-01-16**|**Contract-Inspired Contest Theory for Controllable Image Generation in Mobile Edge Metaverse**|Guangyuan Liu et.al.|[2501.09391](http://arxiv.org/abs/2501.09391)|null|
-|**2025-01-16**|**Structure formation in O-type stars and Wolf-Rayet stars**|Cassandra Van der Sijpt et.al.|[2501.09378](http://arxiv.org/abs/2501.09378)|null|
+|**2025-01-17**|**Structure formation in O-type stars and Wolf-Rayet stars**|Cassandra Van der Sijpt et.al.|[2501.09378](http://arxiv.org/abs/2501.09378)|null|
 |**2025-01-16**|**The sleeping bacterium: shedding light on the resuscitation mechanism**|Eleonora Alfinito et.al.|[2501.09366](http://arxiv.org/abs/2501.09366)|null|
 |**2025-01-16**|**UVRM: A Scalable 3D Reconstruction Model from Unposed Videos**|Shiu-hong Kao et.al.|[2501.09347](http://arxiv.org/abs/2501.09347)|null|
 |**2025-01-16**|**A Novel Simulation Approach for Evaporation Processes in Small Gaps of Industrial Applications**|Phil Namesnik et.al.|[2501.09337](http://arxiv.org/abs/2501.09337)|null|
@@ -12916,7 +12916,7 @@ layout: default
 |**2025-01-15**|**Assessing the dark matter content of two quasar host galaxies at z~6 through gas kinematics**|Qinyue Fei et.al.|[2501.09077](http://arxiv.org/abs/2501.09077)|null|
 |**2025-01-15**|**Generative diffusion model with inverse renormalization group flows**|Kanta Masuki et.al.|[2501.09064](http://arxiv.org/abs/2501.09064)|**[link](https://github.com/kantamasuki/rgdm)**|
 |**2025-01-15**|**SHYI: Action Support for Contrastive Learning in High-Fidelity Text-to-Image Generation**|Tianxiang Xia et.al.|[2501.09055](http://arxiv.org/abs/2501.09055)|null|
-|**2025-01-15**|**NeurOp-Diff:Continuous Remote Sensing Image Super-Resolution via Neural Operator Diffusion**|Zihao Xu et.al.|[2501.09054](http://arxiv.org/abs/2501.09054)|null|
+|**2025-01-17**|**NeurOp-Diff:Continuous Remote Sensing Image Super-Resolution via Neural Operator Diffusion**|Zihao Xu et.al.|[2501.09054](http://arxiv.org/abs/2501.09054)|null|
 |**2025-01-15**|**CookingDiffusion: Cooking Procedural Image Generation with Stable Diffusion**|Yuan Wang et.al.|[2501.09042](http://arxiv.org/abs/2501.09042)|null|
 |**2025-01-14**|**Do generative video models learn physical principles from watching videos?**|Saman Motamed et.al.|[2501.09038](http://arxiv.org/abs/2501.09038)|null|
 |**2025-01-15**|**Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion**|Jingyuan Chen et.al.|[2501.09019](http://arxiv.org/abs/2501.09019)|null|
@@ -12965,7 +12965,7 @@ layout: default
 |**2025-01-14**|**Two-Peak Heat Capacity Accounts for $R\ln(2)$ Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce$_2$Hf$_2$O$_7$**|E. M. Smith et.al.|[2501.08327](http://arxiv.org/abs/2501.08327)|null|
 |**2025-01-14**|**GameFactory: Creating New Games with Generative Interactive Videos**|Jiwen Yu et.al.|[2501.08325](http://arxiv.org/abs/2501.08325)|null|
 |**2025-01-14**|**Diffusion Adversarial Post-Training for One-Step Video Generation**|Shanchuan Lin et.al.|[2501.08316](http://arxiv.org/abs/2501.08316)|null|
-|**2025-01-14**|**LayerAnimate: Layer-specific Control for Animation**|Yuxue Yang et.al.|[2501.08295](http://arxiv.org/abs/2501.08295)|null|
+|**2025-01-17**|**LayerAnimate: Layer-specific Control for Animation**|Yuxue Yang et.al.|[2501.08295](http://arxiv.org/abs/2501.08295)|null|
 |**2025-01-14**|**FDPP: Fine-tune Diffusion Policy with Human Preference**|Yuxin Chen et.al.|[2501.08259](http://arxiv.org/abs/2501.08259)|null|
 |**2025-01-14**|**A New Fick-Jacobs Derivation with Applications to Computational Branched Diffusion Networks**|Zachary M. Miksis et.al.|[2501.08247](http://arxiv.org/abs/2501.08247)|null|
 |**2025-01-14**|**Text-Diffusion Red-Teaming of Large Language Models: Unveiling Harmful Behaviors with Proximity Constraints**|Jonathan Nöther et.al.|[2501.08246](http://arxiv.org/abs/2501.08246)|null|
