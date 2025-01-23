@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -13047,7 +13047,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
-|**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
+|**2025-01-22**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
 |**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
 |**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
 |**2025-01-21**|**Diffusion-aware Censored Gaussian Processes for Demand Modelling**|Filipe Rodrigues et.al.|[2501.12354](http://arxiv.org/abs/2501.12354)|**[link](https://github.com/fmpr/diffusion-aware-censored-gp)**|
@@ -13059,7 +13059,7 @@ layout: default
 |**2025-01-21**|**Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**|Antoine De Paepe et.al.|[2501.12249](http://arxiv.org/abs/2501.12249)|null|
 |**2025-01-21**|**Theory of quantum-geometric charge and spin Josephson diode effects in strongly spin-polarized hybrid structures with noncoplanar spin textures**|Niklas L. Schulz et.al.|[2501.12232](http://arxiv.org/abs/2501.12232)|null|
 |**2025-01-21**|**TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space**|Daniel Garibi et.al.|[2501.12224](http://arxiv.org/abs/2501.12224)|null|
-|**2025-01-21**|**Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**|Zibo Zhao et.al.|[2501.12202](http://arxiv.org/abs/2501.12202)|**[link](https://github.com/tencent/hunyuan3d-2)**|
+|**2025-01-22**|**Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**|Zibo Zhao et.al.|[2501.12202](http://arxiv.org/abs/2501.12202)|**[link](https://github.com/tencent/hunyuan3d-2)**|
 |**2025-01-21**|**ComposeAnyone: Controllable Layout-to-Human Generation with Decoupled Multimodal Conditions**|Shiyue Zhang et.al.|[2501.12173](http://arxiv.org/abs/2501.12173)|**[link](https://github.com/zhangshy1019/composeanyone)**|
 |**2025-01-21**|**Gradually Declining Immunity Retains the Exponential Duration of Immunity-Free Diffusion**|Andreas Göbel et.al.|[2501.12170](http://arxiv.org/abs/2501.12170)|null|
 |**2025-01-21**|**Exact solution to the hydrodynamic equation of quantum lattice gases with dephasing noise via classical run-and-tumble processes**|Michele Coppola et.al.|[2501.12155](http://arxiv.org/abs/2501.12155)|null|
@@ -13086,7 +13086,7 @@ layout: default
 |**2025-01-20**|**Graph Defense Diffusion Model**|Xin He et.al.|[2501.11568](http://arxiv.org/abs/2501.11568)|null|
 |**2025-01-20**|**Influence of the pretreatment anneal on Co germanide Schottky contacts**|L. Lajaunie et.al.|[2501.11492](http://arxiv.org/abs/2501.11492)|null|
 |**2025-01-20**|**Regularity and Uniqueness for a Model of Active Particles with Angle-Averaged Diffusions**|Luca Alasio et.al.|[2501.11488](http://arxiv.org/abs/2501.11488)|null|
-|**2025-01-20**|**A Survey on Diffusion Models for Anomaly Detection**|Jing Liu et.al.|[2501.11430](http://arxiv.org/abs/2501.11430)|null|
+|**2025-01-22**|**A Survey on Diffusion Models for Anomaly Detection**|Jing Liu et.al.|[2501.11430](http://arxiv.org/abs/2501.11430)|null|
 |**2025-01-20**|**Large deviations for sticky-reflecting Brownian motion with boundary diffusion**|Jean-Baptiste Casteras et.al.|[2501.11394](http://arxiv.org/abs/2501.11394)|null|
 |**2025-01-20**|**CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation**|Zheng Chong et.al.|[2501.11325](http://arxiv.org/abs/2501.11325)|null|
 |**2025-01-20**|**StyleSSP: Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer**|Ruojun Xu et.al.|[2501.11319](http://arxiv.org/abs/2501.11319)|null|
