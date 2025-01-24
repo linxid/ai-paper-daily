@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.23
+## Updated on 2025.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -76,7 +76,7 @@
 |**2025-01-21**|**CDW-CoT: Clustered Distance-Weighted Chain-of-Thoughts Reasoning**|Yuanheng Fang et.al.|[2501.12226](http://arxiv.org/abs/2501.12226)|null|
 |**2025-01-21**|**Leveraging Large Language Models for Realizing Truly Intelligent User Interfaces**|Allard Oelen et.al.|[2501.12221](http://arxiv.org/abs/2501.12221)|null|
 |**2025-01-21**|**You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense**|Wuyuao Mai et.al.|[2501.12210](http://arxiv.org/abs/2501.12210)|null|
-|**2025-01-21**|**BiMarker: Enhancing Text Watermark Detection for Large Language Models with Bipolar Watermarks**|Zhuang Li et.al.|[2501.12174](http://arxiv.org/abs/2501.12174)|null|
+|**2025-01-23**|**BiMarker: Enhancing Text Watermark Detection for Large Language Models with Bipolar Watermarks**|Zhuang Li et.al.|[2501.12174](http://arxiv.org/abs/2501.12174)|null|
 |**2025-01-21**|**Contextualizing Recommendation Explanations with LLMs: A User Study**|Yuanjun Feng et.al.|[2501.12152](http://arxiv.org/abs/2501.12152)|null|
 |**2025-01-21**|**Improving Influence-based Instruction Tuning Data Selection for Balanced Learning of Diverse Capabilities**|Qirun Dai et.al.|[2501.12147](http://arxiv.org/abs/2501.12147)|null|
 |**2025-01-21**|**Do LLMs Provide Links to Code Similar to what they Generate? A Study with Gemini and Bing CoPilot**|Daniele Bifolco et.al.|[2501.12134](http://arxiv.org/abs/2501.12134)|null|
@@ -11064,7 +11064,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -11091,7 +11091,7 @@
 |**2025-01-18**|**Can Multimodal LLMs do Visual Temporal Understanding and Reasoning? The answer is No!**|Mohamed Fazli Imam et.al.|[2501.10674](http://arxiv.org/abs/2501.10674)|null|
 |**2025-01-17**|**FaceXBench: Evaluating Multimodal LLMs on Face Understanding**|Kartik Narayan et.al.|[2501.10360](http://arxiv.org/abs/2501.10360)|**[link](https://github.com/kartik-3004/facexbench)**|
 |**2025-01-17**|**HiMix: Reducing Computational Complexity in Large Vision-Language Models**|Xuange Zhang et.al.|[2501.10318](http://arxiv.org/abs/2501.10318)|null|
-|**2025-01-22**|**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**|Yuecheng Liu et.al.|[2501.10074](http://arxiv.org/abs/2501.10074)|null|
+|**2025-01-23**|**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**|Yuecheng Liu et.al.|[2501.10074](http://arxiv.org/abs/2501.10074)|null|
 |**2025-01-17**|**CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment**|Yating Liu et.al.|[2501.10071](http://arxiv.org/abs/2501.10071)|null|
 |**2025-01-17**|**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**|Paul Röttger et.al.|[2501.10057](http://arxiv.org/abs/2501.10057)|**[link](https://github.com/paul-rottger/msts-multimodal-safety)**|
 |**2025-01-17**|**Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions**|Zhijie Tan et.al.|[2501.10011](http://arxiv.org/abs/2501.10011)|null|
@@ -13098,7 +13098,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 
 ## Diffusion
 
@@ -13158,7 +13158,7 @@
 |**2025-01-21**|**Exact solution to the hydrodynamic equation of quantum lattice gases with dephasing noise via classical run-and-tumble processes**|Michele Coppola et.al.|[2501.12155](http://arxiv.org/abs/2501.12155)|null|
 |**2025-01-21**|**Quantum trajectories and Page-curve entanglement dynamics**|Katha Ganguly et.al.|[2501.12110](http://arxiv.org/abs/2501.12110)|null|
 |**2025-01-21**|**Proxies for Distortion and Consistency with Applications for Real-World Image Restoration**|Sean Man et.al.|[2501.12102](http://arxiv.org/abs/2501.12102)|null|
-|**2025-01-21**|**Numerical Modeling of Oxygen Diffusion in Tissue Spheroids Undergoing Fusion Using Functional Representation and Finite Volumes**|Katherine Vilinski-Mazur et.al.|[2501.12095](http://arxiv.org/abs/2501.12095)|null|
+|**2025-01-22**|**Numerical Modeling of Oxygen Diffusion in Tissue Spheroids Undergoing Fusion Using Functional Representation and Finite Volumes**|Katherine Vilinski-Mazur et.al.|[2501.12095](http://arxiv.org/abs/2501.12095)|null|
 |**2025-01-21**|**Directional Diffusion-Style Code Editing Pre-training**|Qingyuan Liang et.al.|[2501.12079](http://arxiv.org/abs/2501.12079)|null|
 |**2025-01-21**|**Time-resolved spectral diffusion of a multimode mechanical memory**|Niccolò Fiaschi et.al.|[2501.12056](http://arxiv.org/abs/2501.12056)|null|
 |**2025-01-21**|**Generating with Fairness: A Modality-Diffused Counterfactual Framework for Incomplete Multimodal Recommendations**|Jin Li et.al.|[2501.11916](http://arxiv.org/abs/2501.11916)|null|
@@ -21143,7 +21143,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
