@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.26
+## Updated on 2025.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -11119,7 +11119,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -11136,7 +11136,7 @@
 |**2025-01-23**|**Text-driven Online Action Detection**|Manuel Benavent-Lledo et.al.|[2501.13518](http://arxiv.org/abs/2501.13518)|**[link](https://github.com/3dperceptionlab/toad)**|
 |**2025-01-23**|**Iterative Shaping of Multi-Particle Aggregates based on Action Trees and VLM**|Hoi-Yin Lee et.al.|[2501.13507](http://arxiv.org/abs/2501.13507)|null|
 |**2025-01-23**|**CuriousBot: Interactive Mobile Exploration via Actionable 3D Relational Object Graph**|Yixuan Wang et.al.|[2501.13338](http://arxiv.org/abs/2501.13338)|null|
-|**2025-01-22**|**Scaling for Fairness? Analyzing Model Size, Data Composition, and Multilinguality in Vision-Language Bias**|Zahraa Al Sahili et.al.|[2501.13223](http://arxiv.org/abs/2501.13223)|null|
+|**2025-01-24**|**Scaling for Fairness? Analyzing Model Size, Data Composition, and Multilinguality in Vision-Language Bias**|Zahraa Al Sahili et.al.|[2501.13223](http://arxiv.org/abs/2501.13223)|null|
 |**2025-01-22**|**Patent Figure Classification using Large Vision-language Models**|Sushil Awale et.al.|[2501.12751](http://arxiv.org/abs/2501.12751)|**[link](https://github.com/tibhannover/patent-figure-classification)**|
 |**2025-01-22**|**TeD-Loc: Text Distillation for Weakly Supervised Object Localization**|Shakeeb Murtaza et.al.|[2501.12632](http://arxiv.org/abs/2501.12632)|**[link](https://github.com/shakeebmurtaza/tedloc)**|
 |**2025-01-22**|**ViDDAR: Vision Language Model-Based Task-Detrimental Content Detection for Augmented Reality**|Yanming Xiu et.al.|[2501.12553](http://arxiv.org/abs/2501.12553)|**[link](https://github.com/ym-xiu/viddar-dataset)**|
@@ -11180,7 +11180,7 @@
 |**2025-01-15**|**Dynamic Knowledge Integration for Enhanced Vision-Language Reasoning**|Julian Perry et.al.|[2501.08597](http://arxiv.org/abs/2501.08597)|null|
 |**2025-01-12**|**SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval**|Bhavin Jawade et.al.|[2501.08347](http://arxiv.org/abs/2501.08347)|null|
 |**2025-01-14**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**|MiniMax et.al.|[2501.08313](http://arxiv.org/abs/2501.08313)|null|
-|**2025-01-17**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|null|
+|**2025-01-24**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|null|
 |**2025-01-14**|**Visual Language Models as Operator Agents in the Space Domain**|Alejandro Carrasco et.al.|[2501.07802](http://arxiv.org/abs/2501.07802)|null|
 |**2025-01-14**|**BMIP: Bi-directional Modality Interaction Prompt Learning for VLM**|Song-Lin Lv et.al.|[2501.07769](http://arxiv.org/abs/2501.07769)|null|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
@@ -13166,7 +13166,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 ## Diffusion
 
@@ -13191,7 +13191,7 @@
 |**2025-01-23**|**Exploring the interplay between small and large scales movements in a neotropical small mammal**|E. Brigatti et.al.|[2501.13688](http://arxiv.org/abs/2501.13688)|null|
 |**2025-01-23**|**Linearization of ergodic McKean SDEs and applications**|Grigorios A. Pavliotis et.al.|[2501.13655](http://arxiv.org/abs/2501.13655)|null|
 |**2025-01-23**|**Transfer matrix approach to quantum systems subject to certain Lindblad evolution**|Junaid Majeed Bhat et.al.|[2501.13560](http://arxiv.org/abs/2501.13560)|null|
-|**2025-01-23**|**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**|Tao Liu et.al.|[2501.13554](http://arxiv.org/abs/2501.13554)|**[link](https://github.com/byliutao/1prompt1story)**|
+|**2025-01-24**|**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**|Tao Liu et.al.|[2501.13554](http://arxiv.org/abs/2501.13554)|**[link](https://github.com/byliutao/1prompt1story)**|
 |**2025-01-23**|**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse**|Wenzhuo Ma et.al.|[2501.13528](http://arxiv.org/abs/2501.13528)|null|
 |**2025-01-23**|**Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement**|Chenxu Wu et.al.|[2501.13514](http://arxiv.org/abs/2501.13514)|null|
 |**2025-01-23**|**Brownian approximation of dynamical systems by Stein's method**|Juho Leppänen et.al.|[2501.13498](http://arxiv.org/abs/2501.13498)|null|
@@ -21253,7 +21253,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20250126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
