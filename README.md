@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.27
+## Updated on 2025.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -95,7 +95,7 @@
 |**2025-01-23**|**UGMathBench: A Diverse and Dynamic Benchmark for Undergraduate-Level Mathematical Reasoning with Large Language Models**|Xin Xu et.al.|[2501.13766](http://arxiv.org/abs/2501.13766)|null|
 |**2025-01-23**|**EICopilot: Search and Explore Enterprise Information over Large-scale Knowledge Graphs with LLM-driven Agents**|Yuhui Yun et.al.|[2501.13746](http://arxiv.org/abs/2501.13746)|null|
 |**2025-01-23**|**GPT-HTree: A Decision Tree Framework Integrating Hierarchical Clustering and Large Language Models for Explainable Classification**|Te Pei et.al.|[2501.13743](http://arxiv.org/abs/2501.13743)|null|
-|**2025-01-23**|**An Empirical Study of Retrieval-Augmented Code Generation: Challenges and Opportunities**|Zezhou Yang et.al.|[2501.13742](http://arxiv.org/abs/2501.13742)|null|
+|**2025-01-23**|**An Empirical Study of Retrieval-Augmented Code Generation: Challenges and Opportunities**|Zezhou Yang et.al.|[2501.13742](http://arxiv.org/abs/2501.13742)|**[link](https://github.com/watreyoung/racg)**|
 |**2025-01-23**|**Pseudocode-Injection Magic: Enabling LLMs to Tackle Graph Computational Tasks**|Chang Gong et.al.|[2501.13731](http://arxiv.org/abs/2501.13731)|null|
 |**2025-01-23**|**RPO: Retrieval Preference Optimization for Robust Retrieval-Augmented Generation**|Shi-Qi Yan et.al.|[2501.13726](http://arxiv.org/abs/2501.13726)|null|
 |**2025-01-22**|**Intelligent Exercise and Feedback System for Social Healthcare using LLMOps**|Yeongrak Choi et.al.|[2501.13723](http://arxiv.org/abs/2501.13723)|null|
@@ -116,8 +116,8 @@
 |**2025-01-23**|**Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge**|Haomiao Xiong et.al.|[2501.13468](http://arxiv.org/abs/2501.13468)|**[link](https://github.com/hmxiong/streamchat)**|
 |**2025-01-23**|**Spurious Forgetting in Continual Learning of Language Models**|Junhao Zheng et.al.|[2501.13453](http://arxiv.org/abs/2501.13453)|**[link](https://github.com/zzz47zzz/spurious-forgetting)**|
 |**2025-01-23**|**Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models**|Bo Gao et.al.|[2501.13428](http://arxiv.org/abs/2501.13428)|null|
-|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|null|
-|**2025-01-23**|**Can Large Language Models Understand Preferences in Personalized Recommendation?**|Zhaoxuan Tan et.al.|[2501.13391](http://arxiv.org/abs/2501.13391)|null|
+|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|**[link](https://github.com/khenryaegis/vulnbot)**|
+|**2025-01-23**|**Can Large Language Models Understand Preferences in Personalized Recommendation?**|Zhaoxuan Tan et.al.|[2501.13391](http://arxiv.org/abs/2501.13391)|**[link](https://github.com/tamsiuhin/perrecbench)**|
 |**2025-01-23**|**Do as We Do, Not as You Think: the Conformity of Large Language Models**|Zhiyuan Weng et.al.|[2501.13381](http://arxiv.org/abs/2501.13381)|**[link](https://github.com/zhiyuan-weng/benchform)**|
 |**2025-01-23**|**50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications**|Zewei Shi et.al.|[2501.13351](http://arxiv.org/abs/2501.13351)|null|
 |**2025-01-23**|**Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**|Rong Shan et.al.|[2501.13344](http://arxiv.org/abs/2501.13344)|null|
@@ -11177,7 +11177,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -13231,7 +13231,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
 
 ## Diffusion
 
@@ -13293,10 +13293,10 @@
 |**2025-01-23**|**One Fits All: General Mobility Trajectory Modeling via Masked Conditional Diffusion**|Qingyue Long et.al.|[2501.13347](http://arxiv.org/abs/2501.13347)|null|
 |**2025-01-23**|**Retrievals Can Be Detrimental: A Contrastive Backdoor Attack Paradigm on Retrieval-Augmented Diffusion Models**|Hao Fang et.al.|[2501.13340](http://arxiv.org/abs/2501.13340)|null|
 |**2025-01-23**|**Gradient-Free Adversarial Purification with Diffusion Models**|Xuelong Dai et.al.|[2501.13336](http://arxiv.org/abs/2501.13336)|null|
-|**2025-01-23**|**Simulations of the accreted stellar halos of low-mass field galaxies**|Andrew P. Cooper et.al.|[2501.13317](http://arxiv.org/abs/2501.13317)|null|
+|**2025-01-23**|**Simulations of the accreted stellar halos of low-mass field galaxies**|Andrew P. Cooper et.al.|[2501.13317](http://arxiv.org/abs/2501.13317)|**[link](https://github.com/nthu-ga/stings-data)**|
 |**2025-01-22**|**State Combinatorial Generalization In Decision Making With Conditional Diffusion Models**|Xintong Duan et.al.|[2501.13241](http://arxiv.org/abs/2501.13241)|null|
 |**2025-01-22**|**Boundedness in a nonlinear chemotaxis-consumption model with gradient terms**|Daniel Acosta Soba et.al.|[2501.13224](http://arxiv.org/abs/2501.13224)|null|
-|**2025-01-22**|**On a linear DG approximation of chemotaxis models with damping gradient nonlinearities**|Daniel Acosta-Soba et.al.|[2501.13216](http://arxiv.org/abs/2501.13216)|null|
+|**2025-01-22**|**On a linear DG approximation of chemotaxis models with damping gradient nonlinearities**|Daniel Acosta-Soba et.al.|[2501.13216](http://arxiv.org/abs/2501.13216)|**[link](https://github.com/danielacos/papers-src)**|
 |**2025-01-22**|**Map Prediction and Generative Entropy for Multi-Agent Exploration**|Alexander Spinos et.al.|[2501.13189](http://arxiv.org/abs/2501.13189)|null|
 |**2025-01-22**|**Time-Dependent Radiation Transport Simulations of Infrared Echoes from Dust-Shrouded Luminous Transients**|Semih Tuna et.al.|[2501.13157](http://arxiv.org/abs/2501.13157)|null|
 |**2025-01-22**|**Imaging Topological Defect Dynamics Mediating 2D Skyrmion Lattice Melting**|Raphael Gruber et.al.|[2501.13151](http://arxiv.org/abs/2501.13151)|null|
@@ -13326,7 +13326,7 @@
 |**2025-01-22**|**Nonlinear reduction strategies for data compression: a comprehensive comparison from diffusion to advection problems**|Isabella Carla Gonnella et.al.|[2501.12816](http://arxiv.org/abs/2501.12816)|null|
 |**2025-01-22**|**Certified Guidance for Planning with Deep Generative Models**|Francesco Giacomarra et.al.|[2501.12815](http://arxiv.org/abs/2501.12815)|null|
 |**2025-01-22**|**Impact of saturation on evaporation-driven density instabilities in porous media: mathematical and numerical analysis**|C. Bringedal et.al.|[2501.12784](http://arxiv.org/abs/2501.12784)|null|
-|**2025-01-22**|**Recognizing and generating knotted molecular structures by machine learning**|Zhiyu Zhang et.al.|[2501.12780](http://arxiv.org/abs/2501.12780)|null|
+|**2025-01-22**|**Recognizing and generating knotted molecular structures by machine learning**|Zhiyu Zhang et.al.|[2501.12780](http://arxiv.org/abs/2501.12780)|**[link](https://github.com/kizzhang/knottransformer)**|
 |**2025-01-23**|**Marketron games: Self-propelling stocks vs dumb money and metastable dynamics of the Good, Bad and Ugly markets**|I. Halperin et.al.|[2501.12676](http://arxiv.org/abs/2501.12676)|null|
 |**2025-01-22**|**Structure-preserving parametric finite element methods for anisotropic surface diffusion flow with minimal deformation formulation**|Yihang Guo et.al.|[2501.12638](http://arxiv.org/abs/2501.12638)|null|
 |**2025-01-22**|**T2ISafety: Benchmark for Assessing Fairness, Toxicity, and Privacy in Image Generation**|Lijun Li et.al.|[2501.12612](http://arxiv.org/abs/2501.12612)|null|
@@ -21341,7 +21341,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
