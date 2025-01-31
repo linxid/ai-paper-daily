@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.30
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -54,7 +54,7 @@
 |**2025-01-28**|**"Ownership, Not Just Happy Talk": Co-Designing a Participatory Large Language Model for Journalism**|Emily Tseng et.al.|[2501.17299](http://arxiv.org/abs/2501.17299)|null|
 |**2025-01-28**|**Mitigating Hallucinated Translations in Large Language Models with Hallucination-focused Preference Optimization**|Zilu Tang et.al.|[2501.17295](http://arxiv.org/abs/2501.17295)|null|
 |**2025-01-28**|**Fine-Tuning Open-Source Large Language Models to Improve Their Performance on Radiation Oncology Tasks: A Feasibility Study to Investigate Their Potential Clinical Applications in Radiation Oncology**|Peilong Wang et.al.|[2501.17286](http://arxiv.org/abs/2501.17286)|null|
-|**2025-01-28**|**From Natural Language to Extensive-Form Game Representations**|Shilong Deng et.al.|[2501.17282](http://arxiv.org/abs/2501.17282)|**[link](https://github.com/zczlsde/gameinterpreter)**|
+|**2025-01-30**|**From Natural Language to Extensive-Form Game Representations**|Shilong Deng et.al.|[2501.17282](http://arxiv.org/abs/2501.17282)|**[link](https://github.com/zczlsde/gameinterpreter)**|
 |**2025-01-28**|**Engineering Point Defects in MoS2 for Tailored Material Properties using Large Language Models**|Abdalaziz Al-Maeeni et.al.|[2501.17279](http://arxiv.org/abs/2501.17279)|null|
 |**2025-01-28**|**Tailored Truths: Optimizing LLM Persuasion with Personalization and Fabricated Statistics**|Jasper Timm et.al.|[2501.17273](http://arxiv.org/abs/2501.17273)|null|
 |**2025-01-28**|**Integrating Reinforcement Learning and AI Agents for Adaptive Robotic Interaction and Assistance in Dementia Care**|Fengpei Yuan et.al.|[2501.17206](http://arxiv.org/abs/2501.17206)|null|
@@ -98,7 +98,7 @@
 |**2025-01-28**|**DOCS: Quantifying Weight Similarity for Deeper Insights into Large Language Models**|Zeping Min et.al.|[2501.16650](http://arxiv.org/abs/2501.16650)|null|
 |**2025-01-28**|**An LLM Benchmark for Addressee Recognition in Multi-modal Multi-party Dialogue**|Koji Inoue et.al.|[2501.16643](http://arxiv.org/abs/2501.16643)|null|
 |**2025-01-28**|**CHiP: Cross-modal Hierarchical Direct Preference Optimization for Multimodal LLMs**|Jinlan Fu et.al.|[2501.16629](http://arxiv.org/abs/2501.16629)|**[link](https://github.com/lvugai/chip)**|
-|**2025-01-28**|**Sparse Autoencoders Trained on the Same Data Learn Different Features**|Gonçalo Paulo et.al.|[2501.16615](http://arxiv.org/abs/2501.16615)|null|
+|**2025-01-29**|**Sparse Autoencoders Trained on the Same Data Learn Different Features**|Gonçalo Paulo et.al.|[2501.16615](http://arxiv.org/abs/2501.16615)|null|
 |**2025-01-28**|**Fine-Tuned Language Models as Space Systems Controllers**|Enrico M. Zucchelli et.al.|[2501.16588](http://arxiv.org/abs/2501.16588)|null|
 |**2025-01-27**|**AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models**|Zheng Lian et.al.|[2501.16566](http://arxiv.org/abs/2501.16566)|null|
 |**2025-01-27**|**Distributional Information Embedding: A Framework for Multi-bit Watermarking**|Haiyun He et.al.|[2501.16558](http://arxiv.org/abs/2501.16558)|null|
@@ -11374,19 +11374,19 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 ## Multimodal LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799](http://arxiv.org/abs/2501.17799)|**[link](https://github.com/spark-damian/s-ui)**|
+|**2025-01-30**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799](http://arxiv.org/abs/2501.17799)|**[link](https://github.com/spark-damian/s-ui)**|
 |**2025-01-29**|**Planning with Vision-Language Models and a Use Case in Robot-Assisted Teaching**|Xuzhe Dang et.al.|[2501.17665](http://arxiv.org/abs/2501.17665)|null|
 |**2025-01-29**|**Exploring Vision Language Models for Multimodal and Multilingual Stance Detection**|Jake Vasilakes et.al.|[2501.17654](http://arxiv.org/abs/2501.17654)|null|
 |**2025-01-29**|**Efficient Redundancy Reduction for Open-Vocabulary Semantic Segmentation**|Lin Chen et.al.|[2501.17642](http://arxiv.org/abs/2501.17642)|null|
 |**2025-01-29**|**Boosting Weak Positives for Text Based Person Search**|Akshay Modi et.al.|[2501.17586](http://arxiv.org/abs/2501.17586)|null|
 |**2025-01-29**|**Learning Free Token Reduction for Multi-Modal LLM**|Zihui Zhao et.al.|[2501.17391](http://arxiv.org/abs/2501.17391)|null|
-|**2025-01-28**|**Probing LLM World Models: Enhancing Guesstimation with Wisdom of Crowds Decoding**|Yun-Shiuan Chuang et.al.|[2501.17310](http://arxiv.org/abs/2501.17310)|null|
+|**2025-01-30**|**Probing LLM World Models: Enhancing Guesstimation with Wisdom of Crowds Decoding**|Yun-Shiuan Chuang et.al.|[2501.17310](http://arxiv.org/abs/2501.17310)|null|
 |**2025-01-22**|**Separated Inter/Intra-Modal Fusion Prompts for Compositional Zero-Shot Learning**|Sua Jung et.al.|[2501.17171](http://arxiv.org/abs/2501.17171)|null|
 |**2025-01-28**|**Modulating CNN Features with Pre-Trained ViT Representations for Open-Vocabulary Object Detection**|Xiangyu Gao et.al.|[2501.16981](http://arxiv.org/abs/2501.16981)|null|
 |**2025-01-28**|**Image-based Geo-localization for Robotics: Are Black-box Vision-Language Models there yet?**|Sania Waheed et.al.|[2501.16947](http://arxiv.org/abs/2501.16947)|null|
@@ -13464,7 +13464,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 ## Diffusion
 
@@ -13560,7 +13560,7 @@
 |**2025-01-28**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|
 |**2025-01-27**|**Transient Finite Element Simulation of Accelerator Magnets Using Thermal Thin Shell Approximation**|Erik Schnaubelt et.al.|[2501.15871](http://arxiv.org/abs/2501.15871)|null|
 |**2025-01-27**|**Hydrodynamic limit for an active-passive exclusion process**|Deyue Li et.al.|[2501.15862](http://arxiv.org/abs/2501.15862)|null|
-|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
+|**2025-01-30**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847](http://arxiv.org/abs/2501.15847)|null|
 |**2025-01-27**|**Self-Adapted Josephson Oscillation of Dark-Bright Solitons under Constant Forces**|Ling-Zheng Meng et.al.|[2501.15841](http://arxiv.org/abs/2501.15841)|null|
 |**2025-01-27**|**Controllable Hand Grasp Generation for HOI and Efficient Evaluation Methods**|Ishant et.al.|[2501.15839](http://arxiv.org/abs/2501.15839)|null|
 |**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785](http://arxiv.org/abs/2501.15785)|**[link](https://github.com/baptistar/DiffusionModelDynamics)**|
@@ -21706,7 +21706,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
