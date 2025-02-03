@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -11440,7 +11440,7 @@ layout: default
 |**2025-01-27**|**AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants**|Pascal J. Sager et.al.|[2501.16150](http://arxiv.org/abs/2501.16150)|null|
 |**2025-01-27**|**CILP-FGDI: Exploiting Vision-Language Model for Generalizable Person Re-Identification**|Huazhong Zhao et.al.|[2501.16065](http://arxiv.org/abs/2501.16065)|**[link](https://github.com/Qi5Lei/CLIP-FGDI)**|
 |**2025-01-27**|**Addressing Out-of-Label Hazard Detection in Dashcam Videos: Insights from the COOOL Challenge**|Anh-Kiet Duong et.al.|[2501.16037](http://arxiv.org/abs/2501.16037)|**[link](https://github.com/ffyyytt/coool_2025)**|
-|**2025-01-28**|**SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model**|Delin Qu et.al.|[2501.15830](http://arxiv.org/abs/2501.15830)|null|
+|**2025-01-31**|**SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model**|Delin Qu et.al.|[2501.15830](http://arxiv.org/abs/2501.15830)|null|
 |**2025-01-26**|**Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts**|Haodi Ma et.al.|[2501.15688](http://arxiv.org/abs/2501.15688)|null|
 |**2025-01-26**|**Ocean-OCR: Towards General OCR Application via a Vision-Language Model**|Song Chen et.al.|[2501.15558](http://arxiv.org/abs/2501.15558)|null|
 |**2025-01-26**|**Domain Adaptation from Generated Multi-Weather Images for Unsupervised Maritime Object Classification**|Dan Song et.al.|[2501.15503](http://arxiv.org/abs/2501.15503)|null|
@@ -13525,7 +13525,7 @@ layout: default
 |**2025-01-29**|**SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders**|Bartosz Cywiński et.al.|[2501.18052](http://arxiv.org/abs/2501.18052)|null|
 |**2025-01-29**|**Generative AI for Vision: A Comprehensive Study of Frameworks and Applications**|Fouad Bousetouane et.al.|[2501.18033](http://arxiv.org/abs/2501.18033)|null|
 |**2025-01-29**|**Convergence rates for an Adaptive Biasing Potential scheme from a Wasserstein optimization perspective**|Tony Lelièvre et.al.|[2501.17979](http://arxiv.org/abs/2501.17979)|null|
-|**2025-01-29**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Nowak Mateusz et.al.|[2501.17978](http://arxiv.org/abs/2501.17978)|null|
+|**2025-01-31**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Mateusz Nowak et.al.|[2501.17978](http://arxiv.org/abs/2501.17978)|null|
 |**2025-01-29**|**The origin of vorticity in viscous incompressible flows**|Tianrui Xiang et.al.|[2501.17958](http://arxiv.org/abs/2501.17958)|null|
 |**2025-01-29**|**NEATH IV: an early onset of complex organic chemistry in molecular clouds**|F. D. Priestley et.al.|[2501.17955](http://arxiv.org/abs/2501.17955)|null|
 |**2025-01-29**|**CIBER 4th flight fluctuation analysis: Measurements of near-IR auto- and cross-power spectra on arcminute to sub-degree scales**|Richard M. Feder et.al.|[2501.17933](http://arxiv.org/abs/2501.17933)|null|
@@ -13534,7 +13534,7 @@ layout: default
 |**2025-01-29**|**Planetesimal formation in a pressure bump induced by infall**|Haichen Zhao et.al.|[2501.17857](http://arxiv.org/abs/2501.17857)|null|
 |**2025-01-29**|**Langevin Soft Actor-Critic: Efficient Exploration through Uncertainty-Driven Critic Learning**|Haque Ishfaq et.al.|[2501.17827](http://arxiv.org/abs/2501.17827)|null|
 |**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
-|**2025-01-29**|**Enhanced dissipation by advection and applications to PDEs**|Anna L. Mazzucato et.al.|[2501.17695](http://arxiv.org/abs/2501.17695)|null|
+|**2025-01-30**|**Enhanced dissipation by advection and applications to PDEs**|Anna L. Mazzucato et.al.|[2501.17695](http://arxiv.org/abs/2501.17695)|null|
 |**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
 |**2025-01-29**|**Spinal study of a population model for colonial species with interactions and environmental noise**|Sylvain Billiard et.al.|[2501.17608](http://arxiv.org/abs/2501.17608)|null|
 |**2025-01-29**|**Intermittent molecular motion and first passage statistics for the NMR relaxation of confined water**|Simon Gravelle et.al.|[2501.17596](http://arxiv.org/abs/2501.17596)|null|
@@ -13552,7 +13552,7 @@ layout: default
 |**2025-01-28**|**On the first positive position of a random walker**|Claude Godrèche et.al.|[2501.17268](http://arxiv.org/abs/2501.17268)|null|
 |**2025-01-27**|**Reaction-diffusion systems from kinetic models for bacterial communities on a leaf surface**|Marzia Bisi et.al.|[2501.17192](http://arxiv.org/abs/2501.17192)|null|
 |**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162](http://arxiv.org/abs/2501.17162)|null|
-|**2025-01-28**|**IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait**|Han Yang et.al.|[2501.17159](http://arxiv.org/abs/2501.17159)|null|
+|**2025-01-31**|**IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait**|Han Yang et.al.|[2501.17159](http://arxiv.org/abs/2501.17159)|null|
 |**2025-01-28**|**Three-Dimensional Diffusion-Weighted Multi-Slab MRI With Slice Profile Compensation Using Deep Energy Model**|Reza Ghorbani et.al.|[2501.17152](http://arxiv.org/abs/2501.17152)|null|
 |**2025-01-28**|**Text-to-Image Generation for Vocabulary Learning Using the Keyword Method**|Nuwan T. Attygalle et.al.|[2501.17099](http://arxiv.org/abs/2501.17099)|null|
 |**2025-01-28**|**Generative diffusion models from a PDE perspective**|Fei Cao et.al.|[2501.17054](http://arxiv.org/abs/2501.17054)|null|
@@ -13568,7 +13568,7 @@ layout: default
 |**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764](http://arxiv.org/abs/2501.16764)|null|
 |**2025-01-28**|**ITVTON:Virtual Try-On Diffusion Transformer Model Based on Integrated Image and Text**|Haifeng Ni et.al.|[2501.16757](http://arxiv.org/abs/2501.16757)|null|
 |**2025-01-28**|**On the subcritical self-catalytic branching Brownian motions**|Haojie Hou et.al.|[2501.16739](http://arxiv.org/abs/2501.16739)|null|
-|**2025-01-28**|**Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors**|Chenru Jiang et.al.|[2501.16737](http://arxiv.org/abs/2501.16737)|null|
+|**2025-01-31**|**Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors**|Chenru Jiang et.al.|[2501.16737](http://arxiv.org/abs/2501.16737)|null|
 |**2025-01-28**|**Hypergraph Diffusion for High-Order Recommender Systems**|Darnbi Sakong et.al.|[2501.16722](http://arxiv.org/abs/2501.16722)|null|
 |**2025-01-28**|**Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models**|Huijie Liu et.al.|[2501.16714](http://arxiv.org/abs/2501.16714)|null|
 |**2025-01-28**|**Convection-modulated topological edge mode and extended-localized criticality in thermal metamaterials**|Zhoufei Liu et.al.|[2501.16705](http://arxiv.org/abs/2501.16705)|null|
@@ -13606,7 +13606,7 @@ layout: default
 |**2025-01-27**|**Efficient Portrait Matte Creation With Layer Diffusion and Connectivity Priors**|Zhiyuan Lu et.al.|[2501.16147](http://arxiv.org/abs/2501.16147)|null|
 |**2025-01-27**|**Using Generative Models to Produce Realistic Populations of UK Windstorms**|Yee Chun Tsoi et.al.|[2501.16110](http://arxiv.org/abs/2501.16110)|null|
 |**2025-01-27**|**Log-Sobolev Inequality for Decoupled and McKean-Vlasov SDEs and Application on Exponential Ergodicity**|Xing Huang et.al.|[2501.16092](http://arxiv.org/abs/2501.16092)|null|
-|**2025-01-27**|**Sharp low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains**|Noé Blassel et.al.|[2501.16082](http://arxiv.org/abs/2501.16082)|null|
+|**2025-01-31**|**Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains**|Noé Blassel et.al.|[2501.16082](http://arxiv.org/abs/2501.16082)|null|
 |**2025-01-27**|**Grain Alignment and Dust Evolution Physics with Polarisation (GRADE-POL). I. Dust Polarisation Modelling for Isolated Starless Cores**|Le Ngoc Tram et.al.|[2501.16079](http://arxiv.org/abs/2501.16079)|null|
 |**2025-01-27**|**Poisson kernels on the half-plane are bell-shaped**|Mateusz Kwaśnicki et.al.|[2501.16068](http://arxiv.org/abs/2501.16068)|null|
 |**2025-01-27**|**The prototype double-faced white dwarf has a thin hydrogen layer across its entire surface**|Antoine Bédard et.al.|[2501.16021](http://arxiv.org/abs/2501.16021)|null|
