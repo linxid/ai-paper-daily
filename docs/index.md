@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.06
+## Updated on 2025.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -111,7 +111,7 @@ layout: default
 |**2025-02-04**|**CoAT: Chain-of-Associated-Thoughts Framework for Enhancing Large Language Models Reasoning**|Jianfeng Pan et.al.|[2502.02390](http://arxiv.org/abs/2502.02390)|null|
 |**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/abs/2502.02384)|null|
 |**2025-02-04**|**Evaluating the Effectiveness of LLMs in Fixing Maintainability Issues in Real-World Projects**|Henrique Nunes et.al.|[2502.02368](http://arxiv.org/abs/2502.02368)|null|
-|**2025-02-04**|**Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**|Sagnik Mukherjee et.al.|[2502.02362](http://arxiv.org/abs/2502.02362)|null|
+|**2025-02-06**|**Premise-Augmented Reasoning Chains Improve Error Identification in Math reasoning with LLMs**|Sagnik Mukherjee et.al.|[2502.02362](http://arxiv.org/abs/2502.02362)|null|
 |**2025-02-04**|**SHIELD: APT Detection and Intelligent Explanation Using LLM**|Parth Atulbhai Gandhi et.al.|[2502.02342](http://arxiv.org/abs/2502.02342)|null|
 |**2025-02-04**|**Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking**|Jinyang Wu et.al.|[2502.02339](http://arxiv.org/abs/2502.02339)|null|
 |**2025-02-04**|**ReSpark: Leveraging Previous Data Reports as References to Generate New Reports with LLMs**|Yuan Tian et.al.|[2502.02329](http://arxiv.org/abs/2502.02329)|null|
