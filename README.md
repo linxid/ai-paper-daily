@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.16
+## Updated on 2025.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -11832,7 +11832,7 @@
 |**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
 |**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
 
-<p align=right>(<a href=#updated-on-20250216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -11849,7 +11849,7 @@
 |**2025-02-12**|**SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation**|Ellie Arar et.al.|[2502.08642](http://arxiv.org/abs/2502.08642)|null|
 |**2025-02-12**|**ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification**|Jiangbo Shi et.al.|[2502.08391](http://arxiv.org/abs/2502.08391)|null|
 |**2025-02-12**|**Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting**|Jiarui Wu et.al.|[2502.08317](http://arxiv.org/abs/2502.08317)|null|
-|**2025-02-12**|**TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents**|Kunal Singh et.al.|[2502.08226](http://arxiv.org/abs/2502.08226)|null|
+|**2025-02-14**|**TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents**|Kunal Singh et.al.|[2502.08226](http://arxiv.org/abs/2502.08226)|null|
 |**2025-02-12**|**Typographic Attacks in a Multi-Image Setting**|Xiaomeng Wang et.al.|[2502.08193](http://arxiv.org/abs/2502.08193)|null|
 |**2025-02-13**|**SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation**|Zhiming Ma et.al.|[2502.08168](http://arxiv.org/abs/2502.08168)|null|
 |**2025-02-13**|**Universal Adversarial Attack on Aligned Multimodal LLMs**|Temurbek Rahmatullaev et.al.|[2502.07987](http://arxiv.org/abs/2502.07987)|null|
@@ -11866,7 +11866,7 @@
 |**2025-02-08**|**Learning Conformal Abstention Policies for Adaptive Risk Management in Large Language and Vision-Language Models**|Sina Tayebati et.al.|[2502.06884](http://arxiv.org/abs/2502.06884)|**[link](https://github.com/sinatayebati/vlm-uncertainty)**|
 |**2025-02-08**|**Beyond Vision: How Large Language Models Interpret Facial Expressions from Valence-Arousal Values**|Vaibhav Mehra et.al.|[2502.06875](http://arxiv.org/abs/2502.06875)|null|
 |**2025-02-08**|**Multimodal Cognitive Reframing Therapy via Multi-hop Psychotherapeutic Reasoning**|Subin Kim et.al.|[2502.06873](http://arxiv.org/abs/2502.06873)|null|
-|**2025-02-07**|**AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion**|Hsiao-Yuan Chin et.al.|[2502.06860](http://arxiv.org/abs/2502.06860)|null|
+|**2025-02-13**|**AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion**|Hsiao-Yuan Chin et.al.|[2502.06860](http://arxiv.org/abs/2502.06860)|null|
 |**2025-02-04**|**Diffusion Instruction Tuning**|Chen Jin et.al.|[2502.06814](http://arxiv.org/abs/2502.06814)|null|
 |**2025-02-10**|**EVEv2: Improved Baselines for Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2502.06788](http://arxiv.org/abs/2502.06788)|**[link](https://github.com/baaivision/eve)**|
 |**2025-02-10**|**Conformal Predictions for Human Action Recognition with Vision-Language Models**|Bary Tim et.al.|[2502.06631](http://arxiv.org/abs/2502.06631)|null|
@@ -11931,7 +11931,7 @@
 |**2025-02-03**|**Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization**|Tao Zhang et.al.|[2502.01051](http://arxiv.org/abs/2502.01051)|null|
 |**2025-02-03**|**PlotGen: Multi-Agent LLM-based Scientific Data Visualization via Multimodal Feedback**|Kanika Goswami et.al.|[2502.00988](http://arxiv.org/abs/2502.00988)|null|
 |**2025-02-02**|**VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**|Yuxin Lin et.al.|[2502.00843](http://arxiv.org/abs/2502.00843)|null|
-|**2025-02-02**|**From Compliance to Exploitation: Jailbreak Prompt Attacks on Multimodal LLMs**|Chun Wai Chiu et.al.|[2502.00735](http://arxiv.org/abs/2502.00735)|null|
+|**2025-02-13**|**`Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs**|Chun Wai Chiu et.al.|[2502.00735](http://arxiv.org/abs/2502.00735)|null|
 |**2025-02-02**|**Vision and Language Reference Prompt into SAM for Few-shot Segmentation**|Kosuke Sakurai et.al.|[2502.00719](http://arxiv.org/abs/2502.00719)|**[link](https://github.com/kosukesakurai1/vlp-sam)**|
 |**2025-02-02**|**MINT: Mitigating Hallucinations in Large Vision-Language Models via Token Reduction**|Chao Wang et.al.|[2502.00717](http://arxiv.org/abs/2502.00717)|null|
 |**2025-02-02**|**VIKSER: Visual Knowledge-Driven Self-Reinforcing Reasoning Framework**|Chunbai Zhang et.al.|[2502.00711](http://arxiv.org/abs/2502.00711)|null|
@@ -14044,7 +14044,7 @@
 |**2024-03-14**|**Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models**|Yu-Chu Yu et.al.|[2403.09296](http://arxiv.org/abs/2403.09296)|null|
 |**2024-03-14**|**Are Vision Language Models Texture or Shape Biased and Can We Steer Them?**|Paul Gavrikov et.al.|[2403.09193](http://arxiv.org/abs/2403.09193)|null|
 
-<p align=right>(<a href=#updated-on-20250216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
 
 ## Diffusion
 
@@ -14052,7 +14052,7 @@
 |---|---|---|---|---|
 |**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622](http://arxiv.org/abs/2502.09622)|null|
 |**2025-02-13**|**RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets**|Isabella Liu et.al.|[2502.09615](http://arxiv.org/abs/2502.09615)|null|
-|**2025-02-13**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple**|Tejas Jayashankar et.al.|[2502.09609](http://arxiv.org/abs/2502.09609)|null|
+|**2025-02-14**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple via Score Estimation of Mixture Distributions**|Tejas Jayashankar et.al.|[2502.09609](http://arxiv.org/abs/2502.09609)|null|
 |**2025-02-13**|**Rolling Ahead Diffusion for Traffic Scene Simulation**|Yunpeng Liu et.al.|[2502.09587](http://arxiv.org/abs/2502.09587)|null|
 |**2025-02-13**|**Memorization and Generalization in Generative Diffusion under the Manifold Hypothesis**|Beatrice Achilli et.al.|[2502.09578](http://arxiv.org/abs/2502.09578)|null|
 |**2025-02-13**|**DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra**|Montgomery Bohde et.al.|[2502.09571](http://arxiv.org/abs/2502.09571)|null|
@@ -22646,7 +22646,7 @@
 |**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
 |**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 
-<p align=right>(<a href=#updated-on-20250216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
