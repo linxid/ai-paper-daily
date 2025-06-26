@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -28,7 +28,7 @@ layout: default
 |**2025-06-24**|**LLM-Driven Medical Document Analysis: Enhancing Trustworthy Pathology and Differential Diagnosis**|Lei Kang et.al.|[2506.19702](http://arxiv.org/abs/2506.19702)|null|
 |**2025-06-24**|**Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models**|Jungwoo Park et.al.|[2506.19697](http://arxiv.org/abs/2506.19697)|null|
 |**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
-|**2025-06-24**|**Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees**|Shi Chang et.al.|[2506.19677](http://arxiv.org/abs/2506.19677)|null|
+|**2025-06-25**|**Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees**|Shi Chang et.al.|[2506.19677](http://arxiv.org/abs/2506.19677)|null|
 |**2025-06-24**|**A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures**|Dezhang Kong et.al.|[2506.19676](http://arxiv.org/abs/2506.19676)|null|
 |**2025-06-24**|**Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation**|Yuanhe Tian et.al.|[2506.19665](http://arxiv.org/abs/2506.19665)|null|
 |**2025-06-24**|**Multimodal large language models and physics visual tasks: comparative analysis of performance and costs**|Giulia Polverini et.al.|[2506.19662](http://arxiv.org/abs/2506.19662)|null|
@@ -62,7 +62,7 @@ layout: default
 |**2025-06-24**|**Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding**|Runwei Guan et.al.|[2506.19288](http://arxiv.org/abs/2506.19288)|null|
 |**2025-06-24**|**Generating and Understanding Tests via Path-Aware Symbolic Execution with LLMs**|Yaoxuan Wu et.al.|[2506.19287](http://arxiv.org/abs/2506.19287)|null|
 |**2025-06-24**|**EmoStage: A Framework for Accurate Empathetic Response Generation via Perspective-Taking and Phase Recognition**|Zhiyang Qi et.al.|[2506.19279](http://arxiv.org/abs/2506.19279)|null|
-|**2025-06-24**|**What Matters in LLM-generated Data: Diversity and Its Effect on Model Fine-Tuning**|Yuchang Zhu et.al.|[2506.19262](http://arxiv.org/abs/2506.19262)|null|
+|**2025-06-25**|**What Matters in LLM-generated Data: Diversity and Its Effect on Model Fine-Tuning**|Yuchang Zhu et.al.|[2506.19262](http://arxiv.org/abs/2506.19262)|null|
 |**2025-06-24**|**Automated Image Recognition Framework**|Quang-Binh Nguyen et.al.|[2506.19261](http://arxiv.org/abs/2506.19261)|null|
 |**2025-06-24**|**Inference-Time Reward Hacking in Large Language Models**|Hadi Khalaf et.al.|[2506.19248](http://arxiv.org/abs/2506.19248)|null|
 |**2025-06-24**|**RecLLM-R1: A Two-Stage Training Paradigm with Reinforcement Learning and Chain-of-Thought v1**|Yu Xie et.al.|[2506.19235](http://arxiv.org/abs/2506.19235)|null|
@@ -73,7 +73,7 @@ layout: default
 |**2025-06-23**|**Distilling Tool Knowledge into Language Models via Back-Translated Traces**|Xingyue Huang et.al.|[2506.19171](http://arxiv.org/abs/2506.19171)|null|
 |**2025-06-23**|**GradualDiff-Fed: A Federated Learning Specialized Framework for Large Language Model**|Amir Faiyaz et.al.|[2506.19164](http://arxiv.org/abs/2506.19164)|null|
 |**2025-06-23**|**AgenticControl: An Automated Control Design Framework Using Large Language Models**|Mohammad Narimani et.al.|[2506.19160](http://arxiv.org/abs/2506.19160)|null|
-|**2025-06-23**|**Thought Anchors: Which LLM Reasoning Steps Matter?**|Paul C. Bogdan et.al.|[2506.19143](http://arxiv.org/abs/2506.19143)|null|
+|**2025-06-25**|**Thought Anchors: Which LLM Reasoning Steps Matter?**|Paul C. Bogdan et.al.|[2506.19143](http://arxiv.org/abs/2506.19143)|null|
 |**2025-06-23**|**Command-V: Pasting LLM Behaviors via Activation Profiles**|Barry Wang et.al.|[2506.19140](http://arxiv.org/abs/2506.19140)|null|
 |**2025-06-23**|**Improving Student-AI Interaction Through Pedagogical Prompting: An Example in Computer Science Education**|Ruiwei Xiao et.al.|[2506.19107](http://arxiv.org/abs/2506.19107)|null|
 |**2025-06-23**|**Baba is LLM: Reasoning in a Game with Dynamic Rules**|Fien van Wetten et.al.|[2506.19095](http://arxiv.org/abs/2506.19095)|null|
@@ -82,7 +82,7 @@ layout: default
 |**2025-06-23**|**MFTCXplain: A Multilingual Benchmark Dataset for Evaluating the Moral Reasoning of LLMs through Hate Speech Multi-hop Explanation**|Jackson Trager et.al.|[2506.19073](http://arxiv.org/abs/2506.19073)|null|
 |**2025-06-23**|**NIC-RobustBench: A Comprehensive Open-Source Toolkit for Neural Image Compression and Robustness Analysis**|Georgii Bychkov et.al.|[2506.19051](http://arxiv.org/abs/2506.19051)|null|
 |**2025-06-23**|**Black-Box Test Code Fault Localization Driven by Large Language Models and Execution Estimation**|Ahmadreza Saboor Yaraghi et.al.|[2506.19045](http://arxiv.org/abs/2506.19045)|null|
-|**2025-06-23**|**Quantifying Fairness in LLMs Beyond Tokens: A Semantic and Statistical Perspective**|Weijie Xu et.al.|[2506.19028](http://arxiv.org/abs/2506.19028)|null|
+|**2025-06-25**|**Quantifying Fairness in LLMs Beyond Tokens: A Semantic and Statistical Perspective**|Weijie Xu et.al.|[2506.19028](http://arxiv.org/abs/2506.19028)|null|
 |**2025-06-23**|**UniMind: Unleashing the Power of LLMs for Unified Multi-Task Brain Decoding**|Weiheng Lu et.al.|[2506.18962](http://arxiv.org/abs/2506.18962)|null|
 |**2025-06-23**|**From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents**|Weizhi Zhang et.al.|[2506.18959](http://arxiv.org/abs/2506.18959)|null|
 |**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
@@ -19044,7 +19044,7 @@ layout: default
 |**2025-06-20**|**From Drawings to Decisions: A Hybrid Vision-Language Framework for Parsing 2D Engineering Drawings into Structured Manufacturing Knowledge**|Muhammad Tayyab Khan et.al.|[2506.17374](http://arxiv.org/abs/2506.17374)|null|
 |**2025-06-19**|**Can Common VLMs Rival Medical VLMs? Evaluation and Strategic Insights**|Yuan Zhong et.al.|[2506.17337](http://arxiv.org/abs/2506.17337)|null|
 |**2025-06-19**|**Reflective VLM Planning for Dual-Arm Desktop Cleaning: Bridging Open-Vocabulary Perception and Precise Manipulation**|Yufan Liu et.al.|[2506.17328](http://arxiv.org/abs/2506.17328)|null|
-|**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
+|**2025-06-25**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|**[link](https://github.com/umass-embodied-agi/mirage)**|
 |**2025-06-20**|**Do We Need Large VLMs for Spotting Soccer Actions?**|Ritabrata Chakraborty et.al.|[2506.17144](http://arxiv.org/abs/2506.17144)|null|
 |**2025-06-20**|**Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments**|Yasir Ali Farrukh et.al.|[2506.16994](http://arxiv.org/abs/2506.16994)|null|
@@ -22983,12 +22983,12 @@ layout: default
 |**2025-06-24**|**Duality and Policy Evaluation in Distributionally Robust Bayesian Diffusion Control**|Jose Blanchet et.al.|[2506.19294](http://arxiv.org/abs/2506.19294)|null|
 |**2025-06-24**|**Style Transfer: A Decade Survey**|Tianshan Zhang et.al.|[2506.19278](http://arxiv.org/abs/2506.19278)|null|
 |**2025-06-24**|**Continuous-variable Quantum Diffusion Model for State Generation and Restoration**|Haitao Huang et.al.|[2506.19270](http://arxiv.org/abs/2506.19270)|null|
-|**2025-06-24**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
+|**2025-06-25**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
 |**2025-06-24**|**Convergent and divergent connectivity patterns of the arcuate fasciculus in macaques and humans**|Jiahao Huang et.al.|[2506.19266](http://arxiv.org/abs/2506.19266)|null|
 |**2025-06-24**|**Statistical Geometry and Information Dynamics on Hyperspherical Surfaces**|Masoud Ataei et.al.|[2506.19251](http://arxiv.org/abs/2506.19251)|null|
 |**2025-06-23**|**Observed Latitudinal, Longitudinal and Temporal Variability of Io's Atmosphere Simulated by a Purely Sublimation Driven Atmosphere**|A. -C. Dott et.al.|[2506.19152](http://arxiv.org/abs/2506.19152)|null|
 |**2025-06-23**|**Inferring Diffusion Structures of Heterogeneous Network Cascade**|Yubai Yuan et.al.|[2506.19142](http://arxiv.org/abs/2506.19142)|null|
-|**2025-06-23**|**A primer of optimal ergodic average control for an insurance company diffusion model**|Elizaveta Iashchenko et.al.|[2506.19134](http://arxiv.org/abs/2506.19134)|null|
+|**2025-06-25**|**A primer of optimal ergodic average control for an insurance company diffusion model**|Elizaveta Iashchenko et.al.|[2506.19134](http://arxiv.org/abs/2506.19134)|null|
 |**2025-06-23**|**Riemannian generative decoder**|Andreas Bjerregaard et.al.|[2506.19133](http://arxiv.org/abs/2506.19133)|null|
 |**2025-06-23**|**CUPID: Curating Data your Robot Loves with Influence Functions**|Christopher Agia et.al.|[2506.19121](http://arxiv.org/abs/2506.19121)|null|
 |**2025-06-23**|**PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Scenes**|Christina Ourania Tze et.al.|[2506.19117](http://arxiv.org/abs/2506.19117)|null|
@@ -23013,7 +23013,7 @@ layout: default
 |**2025-06-23**|**DPG loss functions for learning parameter-to-solution maps by neural networks**|Pablo Cortés Castillo et.al.|[2506.18773](http://arxiv.org/abs/2506.18773)|null|
 |**2025-06-24**|**MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners**|Fang-Duo Tsai et.al.|[2506.18729](http://arxiv.org/abs/2506.18729)|null|
 |**2025-06-23**|**Steady-State Heating of Diffuse Coronal Plasma in a Solar Active Region**|Gregory D. Fleishman et.al.|[2506.18723](http://arxiv.org/abs/2506.18723)|null|
-|**2025-06-23**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671](http://arxiv.org/abs/2506.18671)|null|
+|**2025-06-25**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671](http://arxiv.org/abs/2506.18671)|null|
 |**2025-06-23**|**Stabilization of Quasilinear Parabolic Equations by Cubic Feedback at Boundary with Estimated Region of Attraction**|Mohamed Camil Belhadjoudja et.al.|[2506.18634](http://arxiv.org/abs/2506.18634)|null|
 |**2025-06-23**|**Emergent deterministic entanglement dynamics in monitored infinite-range bosonic systems**|Zejian Li et.al.|[2506.18624](http://arxiv.org/abs/2506.18624)|null|
 |**2025-06-23**|**Simulation-Free Differential Dynamics through Neural Conservation Laws**|Mengjian Hua et.al.|[2506.18604](http://arxiv.org/abs/2506.18604)|null|
@@ -23026,7 +23026,7 @@ layout: default
 |**2025-06-23**|**GANs vs. Diffusion Models for virtual staining with the HER2match dataset**|Pascal Klöckner et.al.|[2506.18484](http://arxiv.org/abs/2506.18484)|null|
 |**2025-06-24**|**Numerically studying Pesticide diffusion in air using Langevin formalism**|Utkarsh Patel et.al.|[2506.18483](http://arxiv.org/abs/2506.18483)|null|
 |**2025-06-23**|**DIP: Unsupervised Dense In-Context Post-training of Visual Representations**|Sophia Sirko-Galouchenko et.al.|[2506.18463](http://arxiv.org/abs/2506.18463)|null|
-|**2025-06-23**|**X-ray emission in IllustrisTNG circum-cluster environments. II -- Possible origins of the soft X-ray excess emission**|Celine Gouin et.al.|[2506.18459](http://arxiv.org/abs/2506.18459)|null|
+|**2025-06-25**|**X-ray emission in IllustrisTNG circum-cluster environments. II -- Possible origins of the soft X-ray excess emission**|Celine Gouin et.al.|[2506.18459](http://arxiv.org/abs/2506.18459)|null|
 |**2025-06-23**|**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**|Dinh-Khoi Vo et.al.|[2506.18438](http://arxiv.org/abs/2506.18438)|null|
 |**2025-06-23**|**Elliptic islands and zero measure escaping orbits in a class of outer billiards**|Zaicun Li et.al.|[2506.18433](http://arxiv.org/abs/2506.18433)|null|
 |**2025-06-23**|**How Robust is Model Editing after Fine-Tuning? An Empirical Study on Text-to-Image Diffusion Models**|Feng He et.al.|[2506.18428](http://arxiv.org/abs/2506.18428)|null|
@@ -23038,13 +23038,13 @@ layout: default
 |**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
 |**2025-06-23**|**Instability in Diffusion ODEs: An Explanation for Inaccurate Image Reconstruction**|Han Zhang et.al.|[2506.18290](http://arxiv.org/abs/2506.18290)|null|
 |**2025-06-23**|**Adaptive Mask-guided K-space Diffusion for Accelerated MRI Reconstruction**|Qinrong Cai et.al.|[2506.18270](http://arxiv.org/abs/2506.18270)|null|
-|**2025-06-23**|**Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models**|Chao Li et.al.|[2506.18251](http://arxiv.org/abs/2506.18251)|null|
-|**2025-06-23**|**The role of dendritic spines in water exchange measurements with diffusion MRI: Time-Dependent Single Diffusion Encoding MRI**|Kadir Şimşek et.al.|[2506.18229](http://arxiv.org/abs/2506.18229)|null|
+|**2025-06-25**|**Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models**|Chao Li et.al.|[2506.18251](http://arxiv.org/abs/2506.18251)|null|
+|**2025-06-24**|**The role of dendritic spines in water exchange measurements with diffusion MRI: Time-Dependent Single Diffusion Encoding MRI**|Kadir Şimşek et.al.|[2506.18229](http://arxiv.org/abs/2506.18229)|null|
 |**2025-06-23**|**Exact Conditional Score-Guided Generative Modeling for Amortized Inference in Uncertainty Quantification**|Zezhong Zhang et.al.|[2506.18227](http://arxiv.org/abs/2506.18227)|null|
 |**2025-06-23**|**Ultrafast scintillating metal-organic frameworks films**|Lorena Dhamo et.al.|[2506.18214](http://arxiv.org/abs/2506.18214)|null|
-|**2025-06-23**|**American options valuation in time-dependent jump-diffusion models via integral equations and characteristic functions**|Andrey Itkin et.al.|[2506.18210](http://arxiv.org/abs/2506.18210)|null|
+|**2025-06-24**|**American options valuation in time-dependent jump-diffusion models via integral equations and characteristic functions**|Andrey Itkin et.al.|[2506.18210](http://arxiv.org/abs/2506.18210)|null|
 |**2025-06-22**|**Conservative data-driven finite element formulation**|Adriana Kuliková et.al.|[2506.18206](http://arxiv.org/abs/2506.18206)|null|
-|**2025-06-22**|**Non-equilibrium Annealed Adjoint Sampler**|Jaemoo Choi et.al.|[2506.18165](http://arxiv.org/abs/2506.18165)|null|
+|**2025-06-25**|**Non-equilibrium Annealed Adjoint Sampler**|Jaemoo Choi et.al.|[2506.18165](http://arxiv.org/abs/2506.18165)|null|
 |**2025-06-22**|**CDG-MAE: Learning Correspondences from Diffusion Generated Views**|Varun Belagali et.al.|[2506.18164](http://arxiv.org/abs/2506.18164)|null|
 |**2025-06-22**|**Discovery of diffuse $γ$ -ray emission in the vicinity of G213.0-0.6: Supernova remnant versus massive star-forming region**|Yuan Li et.al.|[2506.18146](http://arxiv.org/abs/2506.18146)|null|
 |**2025-06-22**|**Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection**|Quan Zhou et.al.|[2506.18134](http://arxiv.org/abs/2506.18134)|null|
