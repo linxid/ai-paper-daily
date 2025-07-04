@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -17,8 +17,8 @@ layout: default
 |**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
 |**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|
 |**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
-|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
-|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-03**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
+|**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
 |**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
 |**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903](http://arxiv.org/abs/2507.01903)|null|
@@ -48,8 +48,8 @@ layout: default
 |**2025-07-02**|**Chart Question Answering from Real-World Analytical Narratives**|Maeve Hutchinson et.al.|[2507.01627](http://arxiv.org/abs/2507.01627)|null|
 |**2025-07-02**|**Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems**|Zhaoyan Sun et.al.|[2507.01599](http://arxiv.org/abs/2507.01599)|null|
 |**2025-07-02**|**Emotionally Intelligent Task-oriented Dialogue Systems: Architecture, Representation, and Optimisation**|Shutong Feng et.al.|[2507.01594](http://arxiv.org/abs/2507.01594)|null|
-|**2025-07-02**|**Self-Guided Process Reward Optimization with Masked Step Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551](http://arxiv.org/abs/2507.01551)|null|
-|**2025-07-02**|**Crafting Hanzi as Narrative Bridges: An AI Co-Creation Workshop for Elderly Migrants**|Wen Zhan et.al.|[2507.01548](http://arxiv.org/abs/2507.01548)|null|
+|**2025-07-03**|**Self-Guided Process Reward Optimization with Redefined Step-wise Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551](http://arxiv.org/abs/2507.01551)|null|
+|**2025-07-03**|**Crafting Hanzi as Narrative Bridges: An AI Co-Creation Workshop for Elderly Migrants**|Wen Zhan et.al.|[2507.01548](http://arxiv.org/abs/2507.01548)|null|
 |**2025-07-02**|**Is External Information Useful for Stance Detection with LLMs?**|Quang Minh Nguyen et.al.|[2507.01543](http://arxiv.org/abs/2507.01543)|null|
 |**2025-07-02**|**Efficient Out-of-Scope Detection in Dialogue Systems via Uncertainty-Driven LLM Routing**|Álvaro Zaera et.al.|[2507.01541](http://arxiv.org/abs/2507.01541)|null|
 |**2025-07-02**|**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism**|Beitao Chen et.al.|[2507.01513](http://arxiv.org/abs/2507.01513)|null|
@@ -66,9 +66,9 @@ layout: default
 |**2025-07-02**|**RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms**|Ziyao Wang et.al.|[2507.01378](http://arxiv.org/abs/2507.01378)|null|
 |**2025-07-02**|**AI Agents and Agentic AI-Navigating a Plethora of Concepts for Future Manufacturing**|Yinwang Ren et.al.|[2507.01376](http://arxiv.org/abs/2507.01376)|null|
 |**2025-07-02**|**Activation Reward Models for Few-Shot Model Alignment**|Tianning Chai et.al.|[2507.01368](http://arxiv.org/abs/2507.01368)|null|
-|**2025-07-02**|**Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy**|Chris Yuhao Liu et.al.|[2507.01352](http://arxiv.org/abs/2507.01352)|null|
+|**2025-07-03**|**Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy**|Chris Yuhao Liu et.al.|[2507.01352](http://arxiv.org/abs/2507.01352)|null|
 |**2025-07-02**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Cheng Zhuangfei et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
-|**2025-07-02**|**Symbolic or Numerical? Understanding Physics Problem Solving in Reasoning LLMs**|Nifu Dan et.al.|[2507.01334](http://arxiv.org/abs/2507.01334)|null|
+|**2025-07-03**|**Symbolic or Numerical? Understanding Physics Problem Solving in Reasoning LLMs**|Nifu Dan et.al.|[2507.01334](http://arxiv.org/abs/2507.01334)|null|
 |**2025-07-02**|**Reasoner for Real-World Event Detection: Scaling Reinforcement Learning via Adaptive Perplexity-Aware Sampling Strategy**|Xiaoyun Zhang et.al.|[2507.01327](http://arxiv.org/abs/2507.01327)|null|
 |**2025-07-02**|**ICLShield: Exploring and Mitigating In-Context Learning Backdoor Attacks**|Zhiyao Ren et.al.|[2507.01321](http://arxiv.org/abs/2507.01321)|null|
 |**2025-07-02**|**La RoSA: Enhancing LLM Efficiency via Layerwise Rotated Sparse Activation**|Kai Liu et.al.|[2507.01299](http://arxiv.org/abs/2507.01299)|null|
@@ -90,7 +90,7 @@ layout: default
 |**2025-07-01**|**La Leaderboard: A Large Language Model Leaderboard for Spanish Varieties and Languages of Spain and Latin America**|María Grandury et.al.|[2507.00999](http://arxiv.org/abs/2507.00999)|null|
 |**2025-07-01**|**Discourse Heuristics For Paradoxically Moral Self-Correction**|Guangliang Liu et.al.|[2507.00985](http://arxiv.org/abs/2507.00985)|null|
 |**2025-07-01**|**Enhancing LLM Agent Safety via Causal Influence Prompting**|Dongyoon Hahm et.al.|[2507.00979](http://arxiv.org/abs/2507.00979)|null|
-|**2025-07-01**|**From Sentences to Sequences: Rethinking Languages in Biological System**|Ke Liu et.al.|[2507.00953](http://arxiv.org/abs/2507.00953)|null|
+|**2025-07-03**|**From Sentences to Sequences: Rethinking Languages in Biological System**|Ke Liu et.al.|[2507.00953](http://arxiv.org/abs/2507.00953)|null|
 |**2025-07-01**|**WebArXiv: Evaluating Multimodal Agents on Time-Invariant arXiv Tasks**|Zihao Sun et.al.|[2507.00938](http://arxiv.org/abs/2507.00938)|null|
 |**2025-07-01**|**Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications**|Jindong Han et.al.|[2507.00914](http://arxiv.org/abs/2507.00914)|null|
 |**2025-07-01**|**Mathematics Isn't Culture-Free: Probing Cultural Gaps via Entity and Scenario Perturbations**|Aditya Tomar et.al.|[2507.00883](http://arxiv.org/abs/2507.00883)|null|
@@ -19398,7 +19398,7 @@ layout: default
 |**2025-07-02**|**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism**|Beitao Chen et.al.|[2507.01513](http://arxiv.org/abs/2507.01513)|null|
 |**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Robert Aufschläger et.al.|[2507.01504](http://arxiv.org/abs/2507.01504)|null|
 |**2025-07-02**|**BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments**|Yibo Qiu et.al.|[2507.01485](http://arxiv.org/abs/2507.01485)|null|
-|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-03**|**TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
 |**2025-07-02**|**CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning**|Kuniaki Saito et.al.|[2507.01409](http://arxiv.org/abs/2507.01409)|null|
 |**2025-07-02**|**Long-Tailed Distribution-Aware Router For Mixture-of-Experts in Large Vision-Language Model**|Chaoxiang Cai et.al.|[2507.01351](http://arxiv.org/abs/2507.01351)|null|
 |**2025-07-02**|**AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**|Xiao Liu et.al.|[2507.01255](http://arxiv.org/abs/2507.01255)|null|
@@ -23451,7 +23451,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
+|**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
 |**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
 |**2025-07-02**|**Morphology and stellar populations of a candidate ultra-diffuse galaxy in early Euclid and Rubin imaging**|Aaron J. Romanowsky et.al.|[2507.01942](http://arxiv.org/abs/2507.01942)|null|
 |**2025-07-02**|**Extrinsic Orbital Hall Effect and Orbital Relaxation in Mesoscopic Devices**|Anderson L. R. Barbosa et.al.|[2507.01941](http://arxiv.org/abs/2507.01941)|null|
@@ -23460,7 +23460,7 @@ layout: default
 |**2025-07-02**|**Schauder-type estimates and applications**|Satyanad Kichenassamy et.al.|[2507.01818](http://arxiv.org/abs/2507.01818)|null|
 |**2025-07-02**|**Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions**|Bo Yang et.al.|[2507.01773](http://arxiv.org/abs/2507.01773)|null|
 |**2025-07-02**|**Mind the jumps: when 2BSDEs meet semi-martingales**|Dylan Possamaï et.al.|[2507.01767](http://arxiv.org/abs/2507.01767)|null|
-|**2025-07-02**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737](http://arxiv.org/abs/2507.01737)|null|
+|**2025-07-03**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737](http://arxiv.org/abs/2507.01737)|null|
 |**2025-07-02**|**SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space**|Xupeng Zhu et.al.|[2507.01723](http://arxiv.org/abs/2507.01723)|null|
 |**2025-07-02**|**Entropic optimal transport beyond product reference couplings: the Gaussian case on Euclidean space**|Paul Freulon et.al.|[2507.01709](http://arxiv.org/abs/2507.01709)|null|
 |**2025-07-02**|**RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather**|Yuran Wang et.al.|[2507.01653](http://arxiv.org/abs/2507.01653)|null|
@@ -23485,7 +23485,7 @@ layout: default
 |**2025-07-02**|**Primordial Black Holes as Coma Cluster Dark Matter and the Unresolved γ-Ray Background**|Jeremy Mould et.al.|[2507.01421](http://arxiv.org/abs/2507.01421)|null|
 |**2025-07-02**|**Asymptotic Preserving and Accurate scheme for Multiscale Poisson-Nernst-Planck (MPNP) system**|Clarissa Astuto et.al.|[2507.01402](http://arxiv.org/abs/2507.01402)|null|
 |**2025-07-02**|**Spectral Learning of Magnetized Plasma Dynamics: A Neural Operator Application**|Roberta Duarte et.al.|[2507.01388](http://arxiv.org/abs/2507.01388)|null|
-|**2025-07-02**|**Distributional Soft Actor-Critic with Diffusion Policy**|Tong Liu et.al.|[2507.01381](http://arxiv.org/abs/2507.01381)|null|
+|**2025-07-03**|**Distributional Soft Actor-Critic with Diffusion Policy**|Tong Liu et.al.|[2507.01381](http://arxiv.org/abs/2507.01381)|null|
 |**2025-07-02**|**Radial velocities and stellar populations for a sample of MATLAS survey dwarfs**|Kate Southon et.al.|[2507.01362](http://arxiv.org/abs/2507.01362)|null|
 |**2025-07-02**|**Efficient Kilometer-Scale Precipitation Downscaling with Conditional Wavelet Diffusion**|Chugang Yi et.al.|[2507.01354](http://arxiv.org/abs/2507.01354)|null|
 |**2025-07-02**|**User-guided Generative Source Separation**|Yutong Wen et.al.|[2507.01339](http://arxiv.org/abs/2507.01339)|null|
