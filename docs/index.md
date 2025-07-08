@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -27,7 +27,7 @@ layout: default
 |**2025-07-03**|**From Long Videos to Engaging Clips: A Human-Inspired Video Editing Framework with Multimodal Narrative Understanding**|Xiangfeng Wang et.al.|[2507.02790](http://arxiv.org/abs/2507.02790)|null|
 |**2025-07-03**|**Moral Responsibility or Obedience: What Do We Want from AI?**|Joseph Boland et.al.|[2507.02788](http://arxiv.org/abs/2507.02788)|null|
 |**2025-07-03**|**Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs**|Ken Tsui et.al.|[2507.02778](http://arxiv.org/abs/2507.02778)|null|
-|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
+|**2025-07-06**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
 |**2025-07-03**|**DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment**|Ke-Han Lu et.al.|[2507.02768](http://arxiv.org/abs/2507.02768)|null|
 |**2025-07-03**|**Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work**|Guangwei Zhang et.al.|[2507.02760](http://arxiv.org/abs/2507.02760)|null|
 |**2025-07-03**|**Fast and Simplex: 2-Simplicial Attention in Triton**|Aurko Roy et.al.|[2507.02754](http://arxiv.org/abs/2507.02754)|null|
@@ -52,7 +52,7 @@ layout: default
 |**2025-07-03**|**Open-Source System for Multilingual Translation and Cloned Speech Synthesis**|Mateo Cámara et.al.|[2507.02530](http://arxiv.org/abs/2507.02530)|null|
 |**2025-07-03**|**Continual Gradient Low-Rank Projection Fine-Tuning for LLMs**|Chenxu Wang et.al.|[2507.02503](http://arxiv.org/abs/2507.02503)|null|
 |**2025-07-03**|**System-performance and cost modeling of Large Language Model training and inference**|Wenzhe Guo et.al.|[2507.02456](http://arxiv.org/abs/2507.02456)|null|
-|**2025-07-03**|**Introducing a New Brexit-Related Uncertainty Index: Its Evolution and Economic Consequences**|Ismet Gocer et.al.|[2507.02439](http://arxiv.org/abs/2507.02439)|null|
+|**2025-07-04**|**Introducing a New Brexit-Related Uncertainty Index: Its Evolution and Economic Consequences**|Ismet Gocer et.al.|[2507.02439](http://arxiv.org/abs/2507.02439)|null|
 |**2025-07-03**|**Toward a Robust and Generalizable Metamaterial Foundation Model**|Namjung Kim et.al.|[2507.02436](http://arxiv.org/abs/2507.02436)|null|
 |**2025-07-03**|**Improving Consistency in Vehicle Trajectory Prediction Through Preference Optimization**|Caio Azevedo et.al.|[2507.02406](http://arxiv.org/abs/2507.02406)|null|
 |**2025-07-03**|**Evaluating Language Models For Threat Detection in IoT Security Logs**|Jorge J. Tejero-Fernández et.al.|[2507.02390](http://arxiv.org/abs/2507.02390)|null|
@@ -106,7 +106,7 @@ layout: default
 |**2025-07-02**|**DIY-MKG: An LLM-Based Polyglot Language Learning System**|Kenan Tang et.al.|[2507.01872](http://arxiv.org/abs/2507.01872)|null|
 |**2025-07-02**|**Bridging UI Design and chatbot Interactions: Applying Form-Based Principles to Conversational Agents**|Sanjay Krishna Anbalagan et.al.|[2507.01862](http://arxiv.org/abs/2507.01862)|null|
 |**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
-|**2025-07-02**|**Eka-Eval : A Comprehensive Evaluation Framework for Large Language Models in Indian Languages**|Samridhi Raj Sinha et.al.|[2507.01853](http://arxiv.org/abs/2507.01853)|null|
+|**2025-07-07**|**Eka-Eval : A Comprehensive Evaluation Framework for Large Language Models in Indian Languages**|Samridhi Raj Sinha et.al.|[2507.01853](http://arxiv.org/abs/2507.01853)|null|
 |**2025-07-02**|**Low-Perplexity LLM-Generated Sequences and Where To Find Them**|Arthur Wuhrmann et.al.|[2507.01844](http://arxiv.org/abs/2507.01844)|null|
 |**2025-07-02**|**APRMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search**|Haichuan Hu et.al.|[2507.01827](http://arxiv.org/abs/2507.01827)|null|
 |**2025-07-02**|**LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs**|Reza Arabpour et.al.|[2507.01806](http://arxiv.org/abs/2507.01806)|null|
@@ -19489,7 +19489,7 @@ layout: default
 |**2025-07-02**|**Long-Tailed Distribution-Aware Router For Mixture-of-Experts in Large Vision-Language Model**|Chaoxiang Cai et.al.|[2507.01351](http://arxiv.org/abs/2507.01351)|null|
 |**2025-07-02**|**AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**|Xiao Liu et.al.|[2507.01255](http://arxiv.org/abs/2507.01255)|null|
 |**2025-07-02**|**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning**|GLM-V Team et.al.|[2507.01006](http://arxiv.org/abs/2507.01006)|null|
-|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
+|**2025-07-04**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
 |**2025-07-01**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
 |**2025-07-01**|**The Age of Sensorial Zero Trust: Why We Can No Longer Trust Our Senses**|Fabio Correa Xavier et.al.|[2507.00907](http://arxiv.org/abs/2507.00907)|null|
 |**2025-07-01**|**ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models**|Zifu Wan et.al.|[2507.00898](http://arxiv.org/abs/2507.00898)|null|
@@ -19565,7 +19565,7 @@ layout: default
 |**2025-06-26**|**DrishtiKon: Multi-Granular Visual Grounding for Text-Rich Document Images**|Badri Vishal Kasuba et.al.|[2506.21316](http://arxiv.org/abs/2506.21316)|null|
 |**2025-07-02**|**World-aware Planning Narratives Enhance Large Vision-Language Model Planner**|Junhao Shi et.al.|[2506.21230](http://arxiv.org/abs/2506.21230)|null|
 |**2025-06-26**|**Personalized Federated Learning via Dual-Prompt Optimization and Cross Fusion**|Yuguang Zhang et.al.|[2506.21144](http://arxiv.org/abs/2506.21144)|null|
-|**2025-06-26**|**V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling**|Junwei You et.al.|[2506.21041](http://arxiv.org/abs/2506.21041)|null|
+|**2025-07-04**|**SEAL: Vision-Language Model-Based Safe End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling**|Junwei You et.al.|[2506.21041](http://arxiv.org/abs/2506.21041)|null|
 |**2025-06-26**|**Multimodal Prompt Alignment for Facial Expression Recognition**|Fuyan Ma et.al.|[2506.21017](http://arxiv.org/abs/2506.21017)|null|
 |**2025-06-26**|**Style-Aligned Image Composition for Robust Detection of Abnormal Cells in Cytopathology**|Qiuyi Qi et.al.|[2506.21001](http://arxiv.org/abs/2506.21001)|null|
 |**2025-06-26**|**TSDASeg: A Two-Stage Model with Direct Alignment for Interactive Point Cloud Segmentation**|Chade Li et.al.|[2506.20991](http://arxiv.org/abs/2506.20991)|null|
@@ -23548,7 +23548,7 @@ layout: default
 |**2025-07-03**|**Diffusive charge transport in the gapped 1D Hubbard model at all finite temperatures**|J. M. P. Carmelo et.al.|[2507.02753](http://arxiv.org/abs/2507.02753)|null|
 |**2025-07-03**|**On the origin of the X-ray emission surrounding PSR B0656+14 in the eROSITA Cal-PV data**|Alena Khokhriakova et.al.|[2507.02750](http://arxiv.org/abs/2507.02750)|null|
 |**2025-07-03**|**FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**|Yuxuan Wang et.al.|[2507.02714](http://arxiv.org/abs/2507.02714)|null|
-|**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
+|**2025-07-04**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
 |**2025-07-03**|**APT: Adaptive Personalized Training for Diffusion Models with Limited Data**|JungWoo Chae et.al.|[2507.02687](http://arxiv.org/abs/2507.02687)|null|
 |**2025-07-03**|**Learning few-step posterior samplers by unfolding and distillation of diffusion models**|Charlesquin Kemajou Mbakam et.al.|[2507.02686](http://arxiv.org/abs/2507.02686)|null|
 |**2025-07-03**|**Guided Generation for Developable Antibodies**|Siqi Zhao et.al.|[2507.02670](http://arxiv.org/abs/2507.02670)|null|
@@ -23558,7 +23558,7 @@ layout: default
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565](http://arxiv.org/abs/2507.02565)|null|
 |**2025-07-03**|**Optimisation of amplification and gas mixture for directional Dark Matter searches with the CYGNO/INITIUM project**|Giorgio Dho et.al.|[2507.02474](http://arxiv.org/abs/2507.02474)|null|
 |**2025-07-03**|**Random dynamical systems for McKean--Vlasov SDEs via rough path theory**|Benjamin Gess et.al.|[2507.02449](http://arxiv.org/abs/2507.02449)|null|
-|**2025-07-03**|**AvatarMakeup: Realistic Makeup Transfer for 3D Animatable Head Avatars**|Yiming Zhong et.al.|[2507.02419](http://arxiv.org/abs/2507.02419)|null|
+|**2025-07-07**|**AvatarMakeup: Realistic Makeup Transfer for 3D Animatable Head Avatars**|Yiming Zhong et.al.|[2507.02419](http://arxiv.org/abs/2507.02419)|null|
 |**2025-07-03**|**PosDiffAE: Position-aware Diffusion Auto-encoder For High-Resolution Brain Tissue Classification Incorporating Artifact Restoration**|Ayantika Das et.al.|[2507.02405](http://arxiv.org/abs/2507.02405)|null|
 |**2025-07-03**|**An efficient asymptotic preserving Monte Carlo method for frequency-dependent radiative transfer equations**|Yiyang Hong et.al.|[2507.02392](http://arxiv.org/abs/2507.02392)|null|
 |**2025-07-03**|**Posterior Transition Modeling for Unsupervised Diffusion-Based Speech Enhancement**|Mostafa Sadeghi et.al.|[2507.02391](http://arxiv.org/abs/2507.02391)|null|
@@ -23566,25 +23566,25 @@ layout: default
 |**2025-07-03**|**Hadronic origin of the very high-energy gamma-ray emission from the low-luminosity AGN in NGC 4278**|Asahi Shoji et.al.|[2507.02326](http://arxiv.org/abs/2507.02326)|null|
 |**2025-07-03**|**Heeding the Inner Voice: Aligning ControlNet Training via Intermediate Features Feedback**|Nina Konovalova et.al.|[2507.02321](http://arxiv.org/abs/2507.02321)|null|
 |**2025-07-03**|**Transformer-based EEG Decoding: A Survey**|Haodong Zhang et.al.|[2507.02320](http://arxiv.org/abs/2507.02320)|null|
-|**2025-07-03**|**MAGIC: Mask-Guided Diffusion Inpainting with Multi-Level Perturbations and Context-Aware Alignment for Few-Shot Anomaly Generation**|JaeHyuck Choi et.al.|[2507.02314](http://arxiv.org/abs/2507.02314)|null|
+|**2025-07-04**|**MAGIC: Mask-Guided Diffusion Inpainting with Multi-Level Perturbations and Context-Aware Alignment for Few-Shot Anomaly Generation**|JaeHyuck Choi et.al.|[2507.02314](http://arxiv.org/abs/2507.02314)|null|
 |**2025-07-03**|**DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation**|Yunhan Yang et.al.|[2507.02299](http://arxiv.org/abs/2507.02299)|null|
 |**2025-07-03**|**Prospects for PBR detection of KM3-230213A-like events**|Angela V. Olinto et.al.|[2507.02246](http://arxiv.org/abs/2507.02246)|null|
 |**2025-07-03**|**Understanding Trade offs When Conditioning Synthetic Data**|Brandon Trabucco et.al.|[2507.02217](http://arxiv.org/abs/2507.02217)|null|
-|**2025-07-03**|**Dilution, Diffusion and Symbiosis in Spatial Prisoner's Dilemma with Reinforcement Learning**|Gustavo C. Mangold et.al.|[2507.02211](http://arxiv.org/abs/2507.02211)|null|
+|**2025-07-04**|**Dilution, Diffusion and Symbiosis in Spatial Prisoner's Dilemma with Reinforcement Learning**|Gustavo C. Mangold et.al.|[2507.02211](http://arxiv.org/abs/2507.02211)|null|
 |**2025-07-02**|**Investigating Magnetic Field Fluctuations in Jovian Auroral Electron Beams**|A. Salveter et.al.|[2507.02174](http://arxiv.org/abs/2507.02174)|null|
 |**2025-07-02**|**Generating Large Semi-Synthetic Graphs of Any Size**|Rodrigo Tuna et.al.|[2507.02166](http://arxiv.org/abs/2507.02166)|null|
 |**2025-07-02**|**Non-exchangeable Conformal Prediction for Temporal Graph Neural Networks**|Tuo Wang et.al.|[2507.02151](http://arxiv.org/abs/2507.02151)|null|
 |**2025-07-02**|**Generative Latent Diffusion for Efficient Spatiotemporal Data Reduction**|Xiao Li et.al.|[2507.02129](http://arxiv.org/abs/2507.02129)|null|
 |**2025-07-02**|**An alternative approach to the phonon theory of liquids: Evolution of the energy of diffusion**|M. Y. Esmer et.al.|[2507.02121](http://arxiv.org/abs/2507.02121)|null|
-|**2025-07-02**|**Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams**|Zirui Li et.al.|[2507.02115](http://arxiv.org/abs/2507.02115)|null|
+|**2025-07-04**|**Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams**|Zirui Li et.al.|[2507.02115](http://arxiv.org/abs/2507.02115)|null|
 |**2025-07-02**|**How the Solar Dynamics Observatory Revolutionized our Physical Understanding of the Sun**|Markus J. Aschwanden et.al.|[2507.02111](http://arxiv.org/abs/2507.02111)|null|
 |**2025-07-02**|**Resolving Turbulent Magnetohydrodynamics: A Hybrid Operator-Diffusion Framework**|Semih Kacmaz et.al.|[2507.02106](http://arxiv.org/abs/2507.02106)|null|
 |**2025-07-02**|**Tools for stability analysis of fractional reaction diffusion systems**|Sofwah Ahmad et.al.|[2507.02094](http://arxiv.org/abs/2507.02094)|null|
 |**2025-07-02**|**Energy-Based Transformers are Scalable Learners and Thinkers**|Alexi Gladstone et.al.|[2507.02092](http://arxiv.org/abs/2507.02092)|null|
 |**2025-07-02**|**GeoAda: Efficiently Finetune Geometric Diffusion Models with Equivariant Adapters**|Wanjia Zhao et.al.|[2507.02085](http://arxiv.org/abs/2507.02085)|null|
 |**2025-07-02**|**AI-Empowered Channel Generation for IoV Semantic Communications in Dynamic Conditions**|Hao Liu et.al.|[2507.02013](http://arxiv.org/abs/2507.02013)|null|
-|**2025-07-01**|**Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model**|Swakshar Deb et.al.|[2507.02003](http://arxiv.org/abs/2507.02003)|null|
-|**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
+|**2025-07-05**|**Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model**|Swakshar Deb et.al.|[2507.02003](http://arxiv.org/abs/2507.02003)|null|
+|**2025-07-05**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
 |**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
 |**2025-07-02**|**Morphology and stellar populations of a candidate ultra-diffuse galaxy in early Euclid and Rubin imaging**|Aaron J. Romanowsky et.al.|[2507.01942](http://arxiv.org/abs/2507.01942)|null|
 |**2025-07-02**|**Extrinsic Orbital Hall Effect and Orbital Relaxation in Mesoscopic Devices**|Anderson L. R. Barbosa et.al.|[2507.01941](http://arxiv.org/abs/2507.01941)|null|
@@ -23629,7 +23629,7 @@ layout: default
 |**2025-07-02**|**Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing**|Chengxu Liu et.al.|[2507.01275](http://arxiv.org/abs/2507.01275)|null|
 |**2025-07-01**|**A fourth-order exponential time differencing scheme with real and distinct poles rational approximation for solving non-linear reaction-diffusion systems**|Wisdom Kwame Attipoe et.al.|[2507.01245](http://arxiv.org/abs/2507.01245)|null|
 |**2025-07-01**|**Harnessing coherent-wave control for sensing applications**|Pablo Jara et.al.|[2507.01210](http://arxiv.org/abs/2507.01210)|null|
-|**2025-07-01**|**Diffusion Explorer: Interactive Exploration of Diffusion Models**|Alec Helbling et.al.|[2507.01178](http://arxiv.org/abs/2507.01178)|null|
+|**2025-07-06**|**Diffusion Explorer: Interactive Exploration of Diffusion Models**|Alec Helbling et.al.|[2507.01178](http://arxiv.org/abs/2507.01178)|null|
 |**2025-07-01**|**Bayesian Regression Analysis with the Drift-Diffusion Model**|Zekai Jin et.al.|[2507.01177](http://arxiv.org/abs/2507.01177)|null|
 |**2025-07-01**|**Weak solutions for coupled reaction-diffusion systems with pattern formation by a stochastic fixed point theorem**|Erika Hausenblas et.al.|[2507.01159](http://arxiv.org/abs/2507.01159)|null|
 |**2025-07-01**|**Star formation drivers across the M33 disk**|Edvige Corbelli et.al.|[2507.01158](http://arxiv.org/abs/2507.01158)|null|
