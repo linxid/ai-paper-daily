@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -20,13 +20,13 @@ layout: default
 |**2025-07-08**|**SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads**|Jiale Lao et.al.|[2507.06192](http://arxiv.org/abs/2507.06192)|null|
 |**2025-07-08**|**Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review**|Zhicheng Lin et.al.|[2507.06185](http://arxiv.org/abs/2507.06185)|null|
 |**2025-07-08**|**Data-Semantics-Aware Recommendation of Diverse Pivot Tables**|Whanhee Cho et.al.|[2507.06171](http://arxiv.org/abs/2507.06171)|null|
-|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-09**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-08**|**Evaluation of Habitat Robotics using Large Language Models**|William Li et.al.|[2507.06157](http://arxiv.org/abs/2507.06157)|null|
 |**2025-07-08**|**Large Language Models Predict Human Well-being -- But Not Equally Everywhere**|Pat Pataranutaporn et.al.|[2507.06141](http://arxiv.org/abs/2507.06141)|null|
 |**2025-07-08**|**Coding Triangle: How Does Large Language Model Understand Code?**|Taolin Zhang et.al.|[2507.06138](http://arxiv.org/abs/2507.06138)|null|
 |**2025-07-08**|**PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization**|Dongsheng Zuo et.al.|[2507.06127](http://arxiv.org/abs/2507.06127)|null|
-|**2025-07-08**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
-|**2025-07-08**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057](http://arxiv.org/abs/2507.06057)|null|
+|**2025-07-09**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
+|**2025-07-09**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057](http://arxiv.org/abs/2507.06057)|null|
 |**2025-07-08**|**Entropy-Memorization Law: Evaluating Memorization Difficulty of Data in LLMs**|Yizhan Huang et.al.|[2507.06056](http://arxiv.org/abs/2507.06056)|null|
 |**2025-07-08**|**Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**|Yibin Liu et.al.|[2507.06044](http://arxiv.org/abs/2507.06044)|null|
 |**2025-07-08**|**CAVGAN: Unifying Jailbreak and Defense of LLMs via Generative Adversarial Attacks on their Internal Representations**|Xiaohu Li et.al.|[2507.06043](http://arxiv.org/abs/2507.06043)|null|
@@ -19650,13 +19650,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
-|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-09**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
 |**2025-07-08**|**GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing**|Xianzhi Ma et.al.|[2507.05887](http://arxiv.org/abs/2507.05887)|null|
 |**2025-07-08**|**Bridging Perception and Language: A Systematic Benchmark for LVLMs' Understanding of Amodal Completion Reports**|Amane Watahiki et.al.|[2507.05799](http://arxiv.org/abs/2507.05799)|null|
 |**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Xin Hu et.al.|[2507.05798](http://arxiv.org/abs/2507.05798)|null|
 |**2025-07-08**|**A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation**|Yuxin Zhang et.al.|[2507.05731](http://arxiv.org/abs/2507.05731)|null|
-|**2025-07-08**|**Integrated Structural Prompt Learning for Vision-Language Models**|Jiahui Wang et.al.|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
+|**2025-07-09**|**Integrated Structural Prompt Learning for Vision-Language Models**|Jiahui Wang et.al.|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
 |**2025-07-08**|**R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding**|Joonhyung Park et.al.|[2507.05673](http://arxiv.org/abs/2507.05673)|null|
 |**2025-07-08**|**Dynamic Rank Adaptation for Vision-Language Models**|Jiahui Wang et.al.|[2507.05668](http://arxiv.org/abs/2507.05668)|null|
 |**2025-07-08**|**Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube**|Chongshan Fan et.al.|[2507.05607](http://arxiv.org/abs/2507.05607)|null|
@@ -19692,11 +19692,11 @@ layout: default
 |**2025-07-05**|**Unlocking Compositional Control: Self-Supervision for LVLM-Based Image Generation**|Fernando Gabriela Garcia et.al.|[2507.04151](http://arxiv.org/abs/2507.04151)|null|
 |**2025-07-05**|**PresentAgent: Multimodal Agent for Presentation Video Generation**|Jingwei Shi et.al.|[2507.04036](http://arxiv.org/abs/2507.04036)|null|
 |**2025-07-05**|**A Comparative Study of Specialized LLMs as Dense Retrievers**|Hengran Zhang et.al.|[2507.03958](http://arxiv.org/abs/2507.03958)|null|
-|**2025-07-05**|**Animation Needs Attention: A Holistic Approach to Slides Animation Comprehension with Visual-Language Models**|Yifan Jiang et.al.|[2507.03916](http://arxiv.org/abs/2507.03916)|null|
+|**2025-07-09**|**Animation Needs Attention: A Holistic Approach to Slides Animation Comprehension with Visual-Language Models**|Yifan Jiang et.al.|[2507.03916](http://arxiv.org/abs/2507.03916)|null|
 |**2025-07-05**|**Demystifying ChatGPT: How It Masters Genre Recognition**|Subham Raj et.al.|[2507.03875](http://arxiv.org/abs/2507.03875)|null|
 |**2025-07-04**|**Dynamic Multimodal Prototype Learning in Vision-Language Models**|Xingyu Zhu et.al.|[2507.03657](http://arxiv.org/abs/2507.03657)|null|
 |**2025-07-04**|**Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation**|Tao Tang et.al.|[2507.03585](http://arxiv.org/abs/2507.03585)|null|
-|**2025-07-04**|**Beyond Accuracy: Metrics that Uncover What Makes a `Good' Visual Descriptor**|Ethan Lin et.al.|[2507.03542](http://arxiv.org/abs/2507.03542)|null|
+|**2025-07-09**|**Beyond Accuracy: Metrics that Uncover What Makes a 'Good' Visual Descriptor**|Ethan Lin et.al.|[2507.03542](http://arxiv.org/abs/2507.03542)|null|
 |**2025-07-04**|**Helping CLIP See Both the Forest and the Trees: A Decomposition and Description Approach**|Leyan Xue et.al.|[2507.03458](http://arxiv.org/abs/2507.03458)|null|
 |**2025-07-04**|**Unlearning the Noisy Correspondence Makes CLIP More Robust**|Haochen Han et.al.|[2507.03434](http://arxiv.org/abs/2507.03434)|null|
 |**2025-07-04**|**Exploring Object Status Recognition for Recipe Progress Tracking in Non-Visual Cooking**|Franklin Mingzhe Li et.al.|[2507.03330](http://arxiv.org/abs/2507.03330)|null|
@@ -23776,7 +23776,7 @@ layout: default
 |**2025-07-08**|**Modern Methods in Associative Memory**|Dmitry Krotov et.al.|[2507.06211](http://arxiv.org/abs/2507.06211)|null|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
-|**2025-07-08**|**A kinetic model to simulate charge flow through an electrochemical half cell**|Diego Veloza-Diaz et.al.|[2507.06197](http://arxiv.org/abs/2507.06197)|null|
+|**2025-07-09**|**A kinetic model to simulate charge flow through an electrochemical half cell**|Diego Veloza-Diaz et.al.|[2507.06197](http://arxiv.org/abs/2507.06197)|null|
 |**2025-07-08**|**Normalizing Diffusion Kernels with Optimal Transport**|Nathan Kessler et.al.|[2507.06161](http://arxiv.org/abs/2507.06161)|null|
 |**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146](http://arxiv.org/abs/2507.06146)|null|
 |**2025-07-08**|**A Linear Generative Framework for Structure-Function Coupling in the Human Brain**|Sam Frank Kelemen et.al.|[2507.06136](http://arxiv.org/abs/2507.06136)|null|
@@ -23784,7 +23784,7 @@ layout: default
 |**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
 |**2025-07-08**|**The HI-to-H2 transition in the Draco cloud**|Nicola Schneider et.al.|[2507.06131](http://arxiv.org/abs/2507.06131)|null|
 |**2025-07-08**|**Unconditional Diffusion for Generative Sequential Recommendation**|Yimeng Bai et.al.|[2507.06121](http://arxiv.org/abs/2507.06121)|null|
-|**2025-07-08**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
+|**2025-07-09**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
 |**2025-07-08**|**Constraining the contribution of Seyfert galaxies to the diffuse neutrino flux in light of point source observations**|Lena Saurenhaus et.al.|[2507.06110](http://arxiv.org/abs/2507.06110)|null|
 |**2025-07-08**|**Combining IceCube Muon Tracks and Cascades to measure the Galactic Diffuse Neutrino Flux**|Jonas Hellrung et.al.|[2507.06089](http://arxiv.org/abs/2507.06089)|null|
 |**2025-07-08**|**Dynamical and structural properties of an absorbing phase transition: a case study from granular systems**|Raphael Maire et.al.|[2507.06083](http://arxiv.org/abs/2507.06083)|null|
@@ -23793,9 +23793,9 @@ layout: default
 |**2025-07-08**|**TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision**|Syeda Anshrah Gillani et.al.|[2507.06033](http://arxiv.org/abs/2507.06033)|null|
 |**2025-07-08**|**Traveling waves for highly degenerate and singular reaction-diffusion-advection equations with discontinuous coefficients**|Umberto Guarnotta et.al.|[2507.06027](http://arxiv.org/abs/2507.06027)|null|
 |**2025-07-08**|**Measurement of the Diffuse Astrophysical Neutrino Spectrum above a TeV with All Flavor Starting Events in IceCube**|Vedant Basu et.al.|[2507.06002](http://arxiv.org/abs/2507.06002)|null|
-|**2025-07-08**|**Fractional Brownian Motion with Negative Hurst Exponent**|Baruch Meerson et.al.|[2507.05977](http://arxiv.org/abs/2507.05977)|null|
+|**2025-07-09**|**Fractional Brownian Motion with Negative Hurst Exponent**|Baruch Meerson et.al.|[2507.05977](http://arxiv.org/abs/2507.05977)|null|
 |**2025-07-08**|**T-LoRA: Single Image Diffusion Model Customization Without Overfitting**|Vera Soboleva et.al.|[2507.05964](http://arxiv.org/abs/2507.05964)|null|
-|**2025-07-08**|**Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation**|Zhenghao Zhang et.al.|[2507.05963](http://arxiv.org/abs/2507.05963)|null|
+|**2025-07-09**|**Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation**|Zhenghao Zhang et.al.|[2507.05963](http://arxiv.org/abs/2507.05963)|null|
 |**2025-07-08**|**Influence of interphase boundary coherency in high-entropy alloys on their hydrogen storage performance**|Shivam Dangwal et.al.|[2507.05941](http://arxiv.org/abs/2507.05941)|null|
 |**2025-07-08**|**Rough SDEs and Robust Filtering for Jump-Diffusions**|Andrew L. Allan et.al.|[2507.05930](http://arxiv.org/abs/2507.05930)|null|
 |**2025-07-08**|**Diffusion Dataset Condensation: Training Your Diffusion Model Faster with Less Data**|Rui Huang et.al.|[2507.05914](http://arxiv.org/abs/2507.05914)|null|
