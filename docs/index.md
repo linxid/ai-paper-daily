@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -19858,7 +19858,7 @@ layout: default
 |**2025-07-11**|**Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data**|Parag Dutta et.al.|[2507.08610](http://arxiv.org/abs/2507.08610)|null|
 |**2025-07-11**|**BayesTTA: Continual-Temporal Test-Time Adaptation for Vision-Language Models via Gaussian Discriminant Analysis**|Shuang Cui et.al.|[2507.08607](http://arxiv.org/abs/2507.08607)|null|
 |**2025-07-11**|**Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation**|Liu He et.al.|[2507.08513](http://arxiv.org/abs/2507.08513)|null|
-|**2025-07-11**|**Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R**|Pablo Robin Guerrero et.al.|[2507.08505](http://arxiv.org/abs/2507.08505)|null|
+|**2025-07-14**|**Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R**|Pablo Robin Guerrero et.al.|[2507.08505](http://arxiv.org/abs/2507.08505)|null|
 |**2025-07-11**|**LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning**|Shibo Sun et.al.|[2507.08496](http://arxiv.org/abs/2507.08496)|null|
 |**2025-07-11**|**Multi-modal Mutual-Guidance Conditional Prompt Learning for Vision-Language Models**|Shijun Yang et.al.|[2507.08410](http://arxiv.org/abs/2507.08410)|null|
 |**2025-07-11**|**Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning**|Chan Young Park et.al.|[2507.08224](http://arxiv.org/abs/2507.08224)|null|
@@ -24047,7 +24047,7 @@ layout: default
 |**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380](http://arxiv.org/abs/2507.08380)|null|
 |**2025-07-11**|**Enhanced dispersion of active microswimmers in confined flows**|Marc Lagoin et.al.|[2507.08369](http://arxiv.org/abs/2507.08369)|null|
 |**2025-07-11**|**CoCo-Bot: Energy-based Composable Concept Bottlenecks for Interpretable Generative Models**|Sangwon Kim et.al.|[2507.08334](http://arxiv.org/abs/2507.08334)|null|
-|**2025-07-11**|**Audio Inpanting using Discrete Diffusion Model**|Tali Dror et.al.|[2507.08333](http://arxiv.org/abs/2507.08333)|null|
+|**2025-07-14**|**Token-based Audio Inpainting via Discrete Diffusion**|Tali Dror et.al.|[2507.08333](http://arxiv.org/abs/2507.08333)|null|
 |**2025-07-11**|**Anomalous diffusion in coupled viscoelastic media: A fractional Langevin equation approach**|Chan Lim et.al.|[2507.08291](http://arxiv.org/abs/2507.08291)|null|
 |**2025-07-11**|**Sensitive infrared surface photovoltage in quasi-equilibrium in a layered semiconductor at low-intensity low-temperature condition**|Qiang Wan et.al.|[2507.08279](http://arxiv.org/abs/2507.08279)|null|
 |**2025-07-11**|**Addressing overlapping communities in multiple-source detection: An edge clustering approach for complex networks**|Haomin Li et.al.|[2507.08265](http://arxiv.org/abs/2507.08265)|null|
@@ -24062,7 +24062,7 @@ layout: default
 |**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
 |**2025-07-10**|**A Semi-Analytic model for Effects of Fuzzy Dark Matter Granule Perturbations on Orbital Motion**|Yu Zhao et.al.|[2507.07963](http://arxiv.org/abs/2507.07963)|null|
-|**2025-07-10**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947](http://arxiv.org/abs/2507.07947)|null|
+|**2025-07-14**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947](http://arxiv.org/abs/2507.07947)|null|
 |**2025-07-10**|**The Potential of Olfactory Stimuli in Stress Reduction through Virtual Reality**|Yasmin Elsaddik Valdivieso et.al.|[2507.07911](http://arxiv.org/abs/2507.07911)|null|
 |**2025-07-11**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
 |**2025-07-10**|**Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders**|Dimitrios Bralios et.al.|[2507.07867](http://arxiv.org/abs/2507.07867)|null|
@@ -24072,7 +24072,7 @@ layout: default
 |**2025-07-10**|**Probing ultra-high-energy neutrinos with the IceCube-Gen2 in-ice radio array**|Christian Glaser et.al.|[2507.07813](http://arxiv.org/abs/2507.07813)|null|
 |**2025-07-10**|**Fundamental of CO2 Adsorption and Diffusion in Sub-nanoporous Materials: Application to CALF-20**|André de Freitas Gonçalves et.al.|[2507.07791](http://arxiv.org/abs/2507.07791)|null|
 |**2025-07-10**|**Temporal and spatial separations between spin glass and short-range order**|Margarita G. Dronova et.al.|[2507.07783](http://arxiv.org/abs/2507.07783)|null|
-|**2025-07-10**|**SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2507.07776](http://arxiv.org/abs/2507.07776)|null|
+|**2025-07-14**|**SCOOTER: A Human Evaluation Framework for Unrestricted Adversarial Examples**|Dren Fazlija et.al.|[2507.07776](http://arxiv.org/abs/2507.07776)|null|
 |**2025-07-10**|**Phase-Space Synchronization Driven by Moon-Magnetosphere Coupling in Gas Giants**|Adnane Osmane et.al.|[2507.07739](http://arxiv.org/abs/2507.07739)|null|
 |**2025-07-10**|**Muonium as a probe of point defects in type-Ib diamond**|K. Yokoyama et.al.|[2507.07726](http://arxiv.org/abs/2507.07726)|null|
 |**2025-07-10**|**Magnetic fields and cosmic rays in M31. II. Strength and distribution of the magnetic field components**|Rainer Beck et.al.|[2507.07719](http://arxiv.org/abs/2507.07719)|null|
@@ -24081,7 +24081,7 @@ layout: default
 |**2025-07-11**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633](http://arxiv.org/abs/2507.07633)|null|
 |**2025-07-10**|**Capture Stage Environments: A Guide to Better Matting**|Hannah Dröge et.al.|[2507.07623](http://arxiv.org/abs/2507.07623)|null|
 |**2025-07-10**|**Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model**|Kuiyuan Sun et.al.|[2507.07591](http://arxiv.org/abs/2507.07591)|null|
-|**2025-07-10**|**Bayesian Discrete Diffusion Beats Autoregressive Perplexity**|Cooper Doyle et.al.|[2507.07586](http://arxiv.org/abs/2507.07586)|null|
+|**2025-07-13**|**Your Absorbing Discrete Diffusion Secretly Models the Bayesian Posterior**|Cooper Doyle et.al.|[2507.07586](http://arxiv.org/abs/2507.07586)|null|
 |**2025-07-10**|**Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**|Chunyan Wang et.al.|[2507.07578](http://arxiv.org/abs/2507.07578)|null|
 |**2025-07-10**|**The Peculiar Mini-Halo in the Shapley Supercluster Member Abell 3558**|K. S. Trehaeven et.al.|[2507.07549](http://arxiv.org/abs/2507.07549)|null|
 |**2025-07-10**|**Divergence Minimization Preference Optimization for Diffusion Model Alignment**|Binxu Li et.al.|[2507.07510](http://arxiv.org/abs/2507.07510)|null|
@@ -24095,7 +24095,7 @@ layout: default
 |**2025-07-09**|**20 GeV halo-like excess of the Galactic diffuse emission and implications for dark matter annihilation**|Tomonori Totani et.al.|[2507.07209](http://arxiv.org/abs/2507.07209)|null|
 |**2025-07-09**|**B-fields And dust in interstelLar fiLAments using Dust POLarization (BALLAD-POL): IV. Grain alignment mechanisms in Cocoon Nebula (IC 5146) using polarization observations from JCMT/POL-2**|Saikhom Pravash et.al.|[2507.07205](http://arxiv.org/abs/2507.07205)|null|
 |**2025-07-09**|**MODA: A Unified 3D Diffusion Framework for Multi-Task Target-Aware Molecular Generation**|Dong Xu et.al.|[2507.07201](http://arxiv.org/abs/2507.07201)|null|
-|**2025-07-09**|**Bridging the Last Mile of Prediction: Enhancing Time Series Forecasting with Conditional Guided Flow Matching**|Huibo Xu et.al.|[2507.07192](http://arxiv.org/abs/2507.07192)|null|
+|**2025-07-14**|**Bridging the Last Mile of Prediction: Enhancing Time Series Forecasting with Conditional Guided Flow Matching**|Huibo Xu et.al.|[2507.07192](http://arxiv.org/abs/2507.07192)|null|
 |**2025-07-09**|**Correlations between Dust Extinction Features across All Wavelength Scales: From Diffuse Interstellar Bands to R(V)**|Andrew K. Saydjari et.al.|[2507.07162](http://arxiv.org/abs/2507.07162)|null|
 |**2025-07-09**|**Interpretable EEG-to-Image Generation with Semantic Prompts**|Arshak Rezvani et.al.|[2507.07157](http://arxiv.org/abs/2507.07157)|null|
 |**2025-07-09**|**Image Can Bring Your Memory Back: A Novel Multi-Modal Guided Attack against Image Generation Model Unlearning**|Renyang Liu et.al.|[2507.07139](http://arxiv.org/abs/2507.07139)|null|
@@ -24112,7 +24112,7 @@ layout: default
 |**2025-07-09**|**DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models**|Liang Wang et.al.|[2507.06853](http://arxiv.org/abs/2507.06853)|null|
 |**2025-07-09**|**Measuring cosmic baryon density with FRB and GW data**|Ji-Guo Zhang et.al.|[2507.06841](http://arxiv.org/abs/2507.06841)|null|
 |**2025-07-09**|**Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation**|Tao Feng et.al.|[2507.06830](http://arxiv.org/abs/2507.06830)|null|
-|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
+|**2025-07-14**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
 |**2025-07-09**|**Does an intermittent dynamical system remain (weakly) chaotic after drilling in a hole?**|Samuel Brevitt et.al.|[2507.06811](http://arxiv.org/abs/2507.06811)|null|
 |**2025-07-09**|**A Search for Astrophysical Neutrinos from Flaring X-ray Binaries with IceCube**|Alina Kochocki et.al.|[2507.06807](http://arxiv.org/abs/2507.06807)|null|
 |**2025-07-09**|**Guided filtering and smoothing for infinite-dimensional diffusions**|Thorben Pieper-Sethmacher et.al.|[2507.06786](http://arxiv.org/abs/2507.06786)|null|
@@ -24122,7 +24122,7 @@ layout: default
 |**2025-07-09**|**DIFFUMA: High-Fidelity Spatio-Temporal Video Prediction via Dual-Path Mamba and Diffusion Enhancement**|Xinyu Xie et.al.|[2507.06738](http://arxiv.org/abs/2507.06738)|null|
 |**2025-07-09**|**Fast Forward and Inverse Thermal Modeling for Parameter Estimation of Multi-Layer composites -- Part I: Forward Modeling**|Gan Fu et.al.|[2507.06727](http://arxiv.org/abs/2507.06727)|null|
 |**2025-07-09**|**Qualitative properties of solutions to parabolic anisotropic equations: Part I -- Expansion of positivity**|Simone Ciani et.al.|[2507.06714](http://arxiv.org/abs/2507.06714)|null|
-|**2025-07-09**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Zhenyang Liu et.al.|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
+|**2025-07-13**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Zhenyang Liu et.al.|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
 |**2025-07-09**|**Heat Transport and Dissipation in 2.5D Rotating Internally Heated and Cooled Convection**|Tom Joshi-Hartley et.al.|[2507.06673](http://arxiv.org/abs/2507.06673)|null|
 |**2025-07-09**|**Using End-to-End Optimized Summary Statistics to Improve IceCube's Diffuse Galactic Fits**|Oliver Janik et.al.|[2507.06666](http://arxiv.org/abs/2507.06666)|null|
 |**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
