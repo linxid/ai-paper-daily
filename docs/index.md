@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
@@ -26,7 +26,7 @@ layout: default
 |**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308](http://arxiv.org/abs/2507.12308)|null|
 |**2025-07-16**|**Humans are more gullible than LLMs in believing common psychological myths**|Bevan Koopman et.al.|[2507.12296](http://arxiv.org/abs/2507.12296)|null|
 |**2025-07-16**|**Text-ADBench: Text Anomaly Detection Benchmark based on LLMs Embedding**|Feng Xiao et.al.|[2507.12295](http://arxiv.org/abs/2507.12295)|null|
-|**2025-07-16**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
+|**2025-07-17**|**Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction with an Agentic Robot**|Luca Garello et.al.|[2507.12273](http://arxiv.org/abs/2507.12273)|null|
 |**2025-07-16**|**Improving Contextual ASR via Multi-grained Fusion with Large Language Models**|Shilin Zhou et.al.|[2507.12252](http://arxiv.org/abs/2507.12252)|null|
 |**2025-07-16**|**MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM**|Tao Chen et.al.|[2507.12232](http://arxiv.org/abs/2507.12232)|null|
 |**2025-07-16**|**Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning**|Yuhao Chen et.al.|[2507.12215](http://arxiv.org/abs/2507.12215)|null|
@@ -40,11 +40,11 @@ layout: default
 |**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084](http://arxiv.org/abs/2507.12084)|null|
 |**2025-07-16**|**Findings of MEGA: Maths Explanation with LLMs using the Socratic Method for Active Learning**|Tosin Adewumi et.al.|[2507.12079](http://arxiv.org/abs/2507.12079)|null|
 |**2025-07-16**|**Evaluating the Ability of Large Language Models to Reason about Cardinal Directions, Revisited**|Anthony G Cohn et.al.|[2507.12059](http://arxiv.org/abs/2507.12059)|null|
-|**2025-07-16**|**A Comparative Approach to Assessing Linguistic Creativity of Large Language Models and Humans**|Anca Dinu et.al.|[2507.12039](http://arxiv.org/abs/2507.12039)|null|
+|**2025-07-17**|**A Comparative Approach to Assessing Linguistic Creativity of Large Language Models and Humans**|Anca Dinu et.al.|[2507.12039](http://arxiv.org/abs/2507.12039)|null|
 |**2025-07-16**|**EME-TTS: Unlocking the Emphasis and Emotion Link in Speech Synthesis**|Haoxun Li et.al.|[2507.12015](http://arxiv.org/abs/2507.12015)|null|
-|**2025-07-16**|**DSSD: Efficient Edge-Device Deployment and Collaborative Inference via Distributed Split Speculative Decoding**|Jiahong Ning et.al.|[2507.12000](http://arxiv.org/abs/2507.12000)|null|
+|**2025-07-17**|**DSSD: Efficient Edge-Device LLM Deployment and Collaborative Inference via Distributed Split Speculative Decoding**|Jiahong Ning et.al.|[2507.12000](http://arxiv.org/abs/2507.12000)|null|
 |**2025-07-16**|**Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**|Tairan Huang et.al.|[2507.11997](http://arxiv.org/abs/2507.11997)|null|
-|**2025-07-16**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
+|**2025-07-17**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
 |**2025-07-16**|**Simplifications are Absolutists: How Simplified Language Reduces Word Sense Awareness in LLM-Generated Definitions**|Lukas Ellinger et.al.|[2507.11981](http://arxiv.org/abs/2507.11981)|null|
 |**2025-07-16**|**Value-Based Large Language Model Agent Simulation for Mutual Evaluation of Trust and Interpersonal Closeness**|Yuki Sakamoto et.al.|[2507.11979](http://arxiv.org/abs/2507.11979)|null|
 |**2025-07-16**|**Graph Representations for Reading Comprehension Analysis using Large Language Model and Eye-Tracking Biomarker**|Yuhong Zhang et.al.|[2507.11972](http://arxiv.org/abs/2507.11972)|null|
@@ -108,7 +108,7 @@ layout: default
 |**2025-07-15**|**Function-to-Style Guidance of LLMs for Code Translation**|Longhui Zhang et.al.|[2507.11083](http://arxiv.org/abs/2507.11083)|null|
 |**2025-07-15**|**Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander**|Li Wang et.al.|[2507.11079](http://arxiv.org/abs/2507.11079)|null|
 |**2025-07-15**|**LogTinyLLM: Tiny Large Language Models Based Contextual Log Anomaly Detection**|Isaiah Thompson Ocansey et.al.|[2507.11071](http://arxiv.org/abs/2507.11071)|null|
-|**2025-07-15**|**SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks**|Pavel Adamenko et.al.|[2507.11059](http://arxiv.org/abs/2507.11059)|null|
+|**2025-07-17**|**SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks**|Pavel Adamenko et.al.|[2507.11059](http://arxiv.org/abs/2507.11059)|null|
 |**2025-07-15**|**LLM-Augmented Symptom Analysis for Cardiovascular Disease Risk Prediction: A Clinical NLP**|Haowei Yang et.al.|[2507.11052](http://arxiv.org/abs/2507.11052)|null|
 |**2025-07-15**|**Aligned Query Expansion: Efficient Query Expansion for Information Retrieval through LLM Alignment**|Adam Yang et.al.|[2507.11042](http://arxiv.org/abs/2507.11042)|null|
 |**2025-07-15**|**First-Order Error Matters: Accurate Compensation for Quantized Large Language Models**|Xingyu Zheng et.al.|[2507.11017](http://arxiv.org/abs/2507.11017)|null|
@@ -20079,7 +20079,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
 |**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
 |**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
 |**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
@@ -24297,7 +24297,7 @@ layout: default
 |**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336](http://arxiv.org/abs/2507.12336)|null|
 |**2025-07-16**|**The impact of the transport of chemicals and electronic screening on helioseismic and neutrino observations in solar models**|Morgan Deal et.al.|[2507.12335](http://arxiv.org/abs/2507.12335)|null|
 |**2025-07-16**|**Global Synchronization in Matrix-Weighted Networks**|Anna Gallo et.al.|[2507.12322](http://arxiv.org/abs/2507.12322)|null|
-|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
+|**2025-07-17**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
 |**2025-07-16**|**Velocity Distribution and Diffusion of an Athermal Inertial Run-and-Tumble Particle in a Shear-Thickening Medium**|Subhanker Howlader et.al.|[2507.12313](http://arxiv.org/abs/2507.12313)|null|
 |**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
 |**2025-07-16**|**Boosted dark matter versus dark matter-induced neutrinos from single and stacked blazars**|Andrea Giovanni De Marchi et.al.|[2507.12278](http://arxiv.org/abs/2507.12278)|null|
